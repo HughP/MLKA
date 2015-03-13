@@ -63,7 +63,7 @@ Six ergonomic criteria:
 * _p_ = prediction algorithem
 * _l*_ = load distribution represented as an N-dimensional vector
 * _l<sub>kp</sub>(π)_ = is load distribution 
-
+![equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B1%7D%28k%29%20%3D%20%20%20%5Cparallel%20l_%7Bkp%7D%28%CF%80%29%20-%20l%5E%7B%2A%7D%20%5Cparallel%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 ##Assertions
 
