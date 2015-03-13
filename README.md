@@ -58,9 +58,9 @@ Six ergonomic criteria:
 
 ##Variables used
 
-k  = Keyboard Arrangement
-π = a text
-p = prediction algorithem
-l* = load distrobution represented as an N-dimensional vector
-l<sub>kp</sub>(π) = is load distrobution 
+* _k_  = Keyboard Arrangement
+* _π_ = a text
+* _p_ = prediction algorithem
+* _l*_ = load distrobution represented as an N-dimensional vector
+* _l<sub>kp</sub>(π)_ = is load distrobution 
 
