@@ -49,7 +49,7 @@ The Non-english stated keyboard layout (like those with deadkeys) sometimes assu
 
 Six ergonomic criteria:
 
-1. tapping load distrobution
+1. tapping load distribution
 2. number of keystrokes
 3. hand alternation
 4. finger alternation
@@ -61,6 +61,6 @@ Six ergonomic criteria:
 * _k_  = Keyboard Arrangement
 * _π_ = a text
 * _p_ = prediction algorithem
-* _l*_ = load distrobution represented as an N-dimensional vector
-* _l<sub>kp</sub>(π)_ = is load distrobution 
+* _l*_ = load distribution represented as an N-dimensional vector
+* _l<sub>kp</sub>(π)_ = is load distribution 
 
