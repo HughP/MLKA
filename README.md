@@ -36,14 +36,16 @@ The second class of keyboard layouts is assumed to be that every character reciv
 >1. People who use the hunt and peck method on (SCK) layouts. This is common by some learners.
 >2. Where the the non-English keyboard requires the use of deadkeys or modifier keys.
 
-M = Characters
-N = Keys
+The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK = M < N arrangment typology. But the operation of the keyboard is much closer to (MFK).
 
-SCK == M = N
-MCK == M > N
-MCK == M < N
+* M = Characters
+* N = Keys
 
-The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK M < N arrangment typology.
+* SCK == M = N
+* MCK == M > N
+* MCK == M < N
+
+##Ergonomics
 
 Six ergonomic criteria:
 
