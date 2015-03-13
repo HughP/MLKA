@@ -58,6 +58,8 @@ Six ergonomic criteria:
 
 ##Variables used
 
+Section 2.1.1 _Key Accessibility_
+
 * _k_  = Keyboard Arrangement
 * _π_ = a text
 * _p_ = prediction algorithem
@@ -66,9 +68,10 @@ Six ergonomic criteria:
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B1%7D%28k%29%20%3D%20%20%20%5Cparallel%20l_%7Bkp%7D%28%CF%80%29%20-%20l%5E%7B%2A%7D%20%5Cparallel%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
+section 2.1.2 _posture comfort_
 In the following table 'd' is the distance between two keys
 
-d = distance between two keys
+* d = distance between two keys
 
 Penalty for matrix for consecutive hitting fingers considering four ergonmic criteria from Eggers et al. 2003.
 
@@ -93,11 +96,9 @@ Assumptions:
 > 2. Chorded keystrokes eg. Shift+K
 > 3. Deadkey useage
 
-N x N =??
-
-τ<sub>kp</sub>(u,v) = N x N key-pair penalty coefficient matrix
-
-D(π) = the set contaiing any two consecutive keys that are hit to produce π [the text].
+* N x N =??
+* τ<sub>kp</sub>(u,v) = N x N key-pair penalty coefficient matrix
+* D(π) = the set contaiing any two consecutive keys that are hit to produce π [the text].
 
 Min O<sub>2</sub>(k) = 
 
