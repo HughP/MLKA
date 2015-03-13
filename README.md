@@ -90,10 +90,12 @@ Assumptions:
 > Situations not covered:
 >
 > 1. Press and hold situations
-> 2. Choreded keystrokes eg. Shift+K
+> 2. Chorded keystrokes eg. Shift+K
 > 3. Deadkey useage
 
+τ<sub>kp</sub>(u,v) 
 
+Min O<sub>2</sub>(k) = 
 
 
 ##Assertions
