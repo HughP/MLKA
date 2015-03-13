@@ -67,4 +67,5 @@ Six ergonomic criteria:
 
 ##Assertions
 
-1. A preditction algorithem is more better, the more distance it saves a typists; the greater the distance saved in typing the better the preditction algorithem is.
+1. ideal load distribution occurs when 43.5% of the key storkes of done on the home row.
+2. A preditction algorithem is more better, the more distance it saves a typists; the greater the distance saved in typing the better the preditction algorithem is.
