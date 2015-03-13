@@ -72,10 +72,10 @@ d = distance between two keys
 
 Penalty for matrix for consecutive hitting fingers considering four ergonmic criteria from Eggers et al. 2003.
 
- |  **2nd finger**  ||||
-----|------|------|------|------|------|------
-*1st finger* |  Thumb  |  Forefinger |  Middle finger |  Ring finger |  Little Finger 
-*Thumb* | d +1 | 2 | 2 | 2 | 2 |
+ |  **2nd finger**  |||||
+----|------|------|------|------|------
+*1st finger* |  Thumb  |  Forefinger |  Middle finger |  Ring finger | Little Finger 
+*Thumb* | d +1 | 2 | 2 | 2 | 2 
 *Forefinger* | 1 | d +1 | 7 | 10 | 8 
 *Middle finger* | 1 | 6 | d +1 | 11 | 9 
 *Ring finger* | 1 | 9 | 10 | d +1 | 12 
@@ -93,7 +93,11 @@ Assumptions:
 > 2. Chorded keystrokes eg. Shift+K
 > 3. Deadkey useage
 
-τ<sub>kp</sub>(u,v) 
+N x N =??
+
+τ<sub>kp</sub>(u,v) = N x N key-pair penalty coefficient matrix
+
+D(π) = the set contaiing any two consecutive keys that are hit to produce π [the text].
 
 Min O<sub>2</sub>(k) = 
 
