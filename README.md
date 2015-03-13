@@ -64,7 +64,7 @@ Six ergonomic criteria:
 * _l*_ = load distribution represented as an N-dimensional vector whose _i_-th component indicates the ideal taping load on the _i_-th key
 * _l<sub>kp</sub>(π)_ = is load distribution 
 
-![equation](http://bit.ly/1BC6JE8)
+![equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B1%7D%28k%29%20%3D%20%20%20%5Cparallel%20l_%7Bkp%7D%28%CF%80%29%20-%20l%5E%7B%2A%7D%20%5Cparallel%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 In the following table 'd' is the distance between two keys
 
