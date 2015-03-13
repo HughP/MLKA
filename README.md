@@ -58,7 +58,7 @@ Six ergonomic criteria:
 
 ##Variables used
 
-Section 2.1.1 _Key Accessibility_
+###Section 2.1.1 _Key Accessibility_
 
 * _k_  = Keyboard Arrangement
 * _π_ = a text
@@ -67,9 +67,10 @@ Section 2.1.1 _Key Accessibility_
 * _l<sub>kp</sub>(π)_ = is load distribution 
 
 Min O<sub>1</sub>(k) = || l<sub>kp</sub>(π) - l<sup>*</sup> ||
+
 ![equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B1%7D%28k%29%20%3D%20%20%20%5Cparallel%20l_%7Bkp%7D%28%CF%80%29%20-%20l%5E%7B%2A%7D%20%5Cparallel%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-section 2.1.2 _posture comfort_
+###Section 2.1.2 _posture comfort_
 In the following table 'd' is the distance between two keys
 
 * d = distance between two keys
