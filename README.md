@@ -1,7 +1,6 @@
 # MLKA
 Multi-Lingual Keyboard Assessment
-
-This repo contains some code in the assesment and comparison of keyboards in multible languages.
+_This repo contains some code in the assesment and comparison of keyboards in multible languages. I find that very little in the literature exists about keyboard effiencdnetcy measurements across languages. More generally the problem of what characters go where are arranged discussed as the **Keyboard Arangment Problem** (KAP) or **General Keyboard Arangment Problem** (GKAP)._
 
 Notes from:
 * **Yin, Peng-Yeng & En-Ping Su. 2011. Cyber Swarm optimization for general keyboard arrangement problem. International Journal of Industrial Ergonomics 41.1: 43-52.**
@@ -14,11 +13,37 @@ Notes from:
 * Wagner, Marc Oliver, Bernard Yannou, Steffen Kehl, Dominique Feillet & Jan Eggers. 2003. Ergonomic Modelling and Optimization of the Keyboard Arrangement with an Ant Colony Optimization Algorithm. Journal of Engineering Design 14.2: 187-208.
 	
 
+##Typology of Keyboard layouts
 
 Single |  Multi 
 ----|------
 Keyboards with single finger keys (SFK) |  Keyboards with Multi-finger keys (MFK)  
 Keyboards with single-character key (SCK) |  Keyboards with Multi-character keys (MCK)
+
+While the above table is aranged by Multible and Single dynamics, the simularity is more often the following:
+
+Mobile |  Computer 
+----|------
+Keyboards with Multi-character keys (MCK) | Keyboards with single-character key (SCK)
+Keyboards with single finger keys (SFK) | Keyboards with Multi-finger keys (MFK)
+
+Looking at the problem like this previous authors have described the problem space as button arangments which prevent there from being as many buttons as needed characters. _ As is the case with mobile phones (MCK)_ and then some of those users choose to use a single finger to do text input (SFK).
+
+The second class of keyboard layouts is assumed to be that every character recives a unique key (SCK). And then that users use an ISO, JIS, or ANSI keyboard layout to do text input in a (MFK) enviroment.
+
+```However, this typology is a bit problematic for two use cases:
+
+1. People who use the hunt and peck method on (SCK) layouts. This is common by some learners.
+2. Where the the non-English keyboard requires the use of deadkeys or modifier keys. ```
+
+M = Characters
+N = Keys
+
+SCK == M = N
+MCK == M > N
+MCK == M < N
+
+The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK M < N arrangment typology.
 
 Six ergonomic criteria:
 
@@ -28,3 +53,6 @@ Six ergonomic criteria:
 4. finger alternation
 5. finger posture
 6. hit direction
+
+
+
