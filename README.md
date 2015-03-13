@@ -56,5 +56,11 @@ Six ergonomic criteria:
 5. finger posture
 6. hit direction
 
+##Variables used
 
+k  = Keyboard Arrangement
+π = a text
+p = prediction algorithem
+l* = load distrobution represented as an N-dimensional vector
+l<sub>kp</sub>(π) = is load distrobution 
 
