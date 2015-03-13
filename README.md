@@ -70,7 +70,7 @@ In the following table 'd' is the distance between two keys
 
 d = distance between two keys
 
-Penalty for matrix for consecutie hitting fingers considering four ergonmic criteria.
+Penalty for matrix for consecutive hitting fingers considering four ergonmic criteria from Eggers et al. 2003.
 
  |  **2nd finger**  ||||
 ----|------|------|------|------|------|------
@@ -81,9 +81,19 @@ Penalty for matrix for consecutie hitting fingers considering four ergonmic crit
 *Ring finger* | 1 | 9 | 10 | d +1 | 12 
 *Little finger* | 1 | 7 | 8 | 11 | d +1 
 
+Assumptions: 
+
+1. No penelty for two consecutive keys durring the typing if they are hit with different hands.
+2. The table only applies to the same hand.
+3. This table is sutable fro MFK but not SFK
+
+> Situations not covered:
+> 1. Press and hold situations
+> 2. Choreded keystrokes eg. Shift+K
+> 3. Deadkey useage
 
 
-Keyboards with single finger keys (SFK) | Keyboards with Multi-finger keys (MFK)
+
 
 ##Assertions
 
