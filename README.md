@@ -72,11 +72,16 @@ d = distance between two keys
 
 Penalty for matrix for consecutie hitting fingers considering four ergonmic criteria.
 
-1st finger |  Thumb  |  Forefinger |  Middle finger |  Ring finger |  Little Finger 
+ |  **2nd finger**  ||||
 ----|------|------|------|------|------|------
-1st finger |  2nd finger  ||||
-Thumb | d +1 | 2 | 2 | 2 | 2 |
-Forefinger | 1 | d +1 | 7 | 10 | 8 
+*1st finger* |  Thumb  |  Forefinger |  Middle finger |  Ring finger |  Little Finger 
+*Thumb* | d +1 | 2 | 2 | 2 | 2 |
+*Forefinger* | 1 | d +1 | 7 | 10 | 8 
+*Middle finger* | 1 | 6 | d +1 | 11 | 9 
+*Ring finger* | 1 | 9 | 10 | d +1 | 12 
+*Little finger* | 1 | 7 | 8 | 11 | d +1 
+
+
 
 Keyboards with single finger keys (SFK) | Keyboards with Multi-finger keys (MFK)
 
