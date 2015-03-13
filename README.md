@@ -85,9 +85,10 @@ Assumptions:
 
 1. No penelty for two consecutive keys durring the typing if they are hit with different hands.
 2. The table only applies to the same hand.
-3. This table is sutable fro MFK but not SFK
+3. This table is sutable for MFK but not SFK
 
 > Situations not covered:
+>
 > 1. Press and hold situations
 > 2. Choreded keystrokes eg. Shift+K
 > 3. Deadkey useage
