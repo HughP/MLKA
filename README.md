@@ -64,3 +64,7 @@ Six ergonomic criteria:
 * _l*_ = load distribution represented as an N-dimensional vector
 * _l<sub>kp</sub>(π)_ = is load distribution 
 
+
+##Assertions
+
+1. A preditction algorithem is more better, the more distance it saves a typists; the greater the distance saved in typing the better the preditction algorithem is.
