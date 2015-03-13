@@ -31,19 +31,16 @@ Looking at the problem like this previous authors have described the problem spa
 
 The second class of keyboard layouts is assumed to be that every character recives a unique key (SCK). And then that users use an ISO, JIS, or ANSI keyboard layout to do text input in a (MFK) enviroment.
 
-`However, this typology is a bit problematic for two use cases:
-
-1. People who use the hunt and peck method on (SCK) layouts. This is common by some learners.
-2. Where the the non-English keyboard requires the use of deadkeys or modifier keys. `
+>However, this typology is a bit problematic for two use cases:
+>
+>1. People who use the hunt and peck method on (SCK) layouts. This is common by some learners.
+>2. Where the the non-English keyboard requires the use of deadkeys or modifier keys.
 
 M = Characters
-
 N = Keys
 
 SCK == M = N
-
 MCK == M > N
-
 MCK == M < N
 
 The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK M < N arrangment typology.
