@@ -20,7 +20,8 @@ Single |  Multi
 Keyboards with single finger keys (SFK) |  Keyboards with Multi-finger keys (MFK)  
 Keyboards with single-character key (SCK) |  Keyboards with Multi-character keys (MCK)
 
-Six ergonomic criteria
+Six ergonomic criteria:
+
 1. tapping load distrobution
 2. number of keystrokes
 3. hand alternation
