@@ -7,17 +7,14 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 
 ###Software Resources
-
-###JS
-
-Convert Keycodes to keymaps: https://github.com/timoxley/keycode
-**[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event. 
-
+ 
 ###Android
-**[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
+**[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
 
 ###UNIX
-**[Typing](https://github.com/michaeldickens/Typing)**This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
+**[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
+
+**[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
 
 ##OS X
 
@@ -34,3 +31,8 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 **[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
 
 **[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
+
+####JS
+
+Convert Keycodes to keymaps: https://github.com/timoxley/keycode
+**[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
