@@ -46,6 +46,7 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide
 * 
 **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
+
 ####Keyboard Layouts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
 * **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
