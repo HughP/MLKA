@@ -48,7 +48,7 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
 * **[Karabiner](https://pqrs.org/osx/karabiner/)**
 * **[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
-* **[LayoutTracker](https://github.com/andrimarjonsson/LayoutTracker)
+* **[LayoutTracker](https://github.com/andrimarjonsson/LayoutTracker)**
 * **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide - iOS maybe?
 * https://github.com/lailsonbm/ABNT2-Layout
  
@@ -72,18 +72,17 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[osx-keyboard-layout-german-no-deadkeys](https://github.com/sebroeder/osx-keyboard-layout-german-no-deadkeys)**: A German OS X keyboard layout that eliminates deadkeys
 
 ###Chrome
-* [Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger) - A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
+* **[Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger)**: A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
 
 ###Windows
 * **AutoHotKey** http://www.autohotkey.com/
 * **[MacKeyboard](https://github.com/andmos/MacKeyboard)** This AutoHotkey configuration file makes usual keyboard shortcuts work with an Apple keyboard on Windows with norwegian layout. 
-* [Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes) - A dll and a consumer to record and log keystrokes in xml format.
+* **[Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes)**: A dll and a consumer to record and log keystrokes in xml format. Win32 
 * **[AwesomeKeys](https://github.com/pacojain/AwesomeKeys)**: Optimized keyboard-based windowing and modal editing with AutoHotkey
 * **[keyboard-tweaks](https://github.com/stevepugh99/keyboard-tweaks)**: This project contains AutoHotkey scripts and Microsoft Keyboard Layout Creator (KLC) files for making your typing experience more comfortable and efficient.
 * **[Programmer-keyboard-layout](https://github.com/bga/Programmer-keyboard-layout)**: Keyboard layout, optimized for programming Idea is make type much easy.
 * **[Ghost Keyboard](https://github.com/psosera/ghost-keyboard)** - Quick and dirty program that displays keystrokes via low-level hooks to a WinForms GUI. Useful for accessibility or screencasts where you want to show keystrokes in real-time.
 * **[keystrokeanalyzer](https://github.com/AlphaGit/keystrokeanalyzer)** keystroke analyzer 
-* **[Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes): A dll and a consumer to record and log keystrokes in xml format. Win32 
 
 * **[keyboardLayoutOptimizer](https://github.com/keyboardDrummer/keyboardlayoutoptimizer)**: This application can search for optimal keyboard layouts. It combines two pieces of information to evaluate a given keyboard layout:
  * The first is a 'corpus', a body of text. This is the text that you want the keyboard layout to be optimal for.
