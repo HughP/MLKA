@@ -22,6 +22,7 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
 * **[Keycounter](https://github.com/programble/keycounter)** A keystroke counter for X11.
 * **[KeyStrokeApp](https://github.com/MikeShins/KeyStrokeApp)**: Written in Java 
+* **[keyboard](https://github.com/kopoli/keyboard) Tool for setting up a custom keyboard layout in X
 
 ###OS X
 
@@ -41,6 +42,7 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 
 **[Karabiner](https://pqrs.org/osx/karabiner/)**
 
+**[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 ####Keyboard Layouts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
 * **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
@@ -52,6 +54,11 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Romanian & Swedish keyboard layouts for Mac OSX](https://github.com/andreineculau/OSX-PC-keyboard-layouts)**
 * **[Mac Keyboard Layouts](https://github.com/SamirTalwar/Mac-Keyboard-Layouts)**
 * **[Math Keyboard](https://github.com/drostron/osx-keyboard-layouts)** documentation and MathUnicode original files at: http://tex.stackexchange.com/a/110043
+* **[Cyrillic keyboard](https://github.com/muromec/bandera-layout)**: For particular reason I don't like to look at that flag anymore. So I hacked my keyboard layout, changed it's name, flag and added missing Ukrainian-Cyrillic letters to it.
+* **[]()**: 
+* **[]()**: 
+* **[]()**: 
+* **[]()**: 
 
 ###Chrome
 * [Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger) - A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
