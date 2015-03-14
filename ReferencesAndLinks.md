@@ -14,15 +14,22 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 ###Android
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
 
+###iOS
+**[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
+**[KeyboardLayouts for JACKeyboard](https://github.com/JaredCrawford/KeyboardLayouts)** Keyboard configuration JSON files for use with JACKeyboard.
+
 ###UNIX
 * **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
 * **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
 * **[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
 * **[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
+* **[KeyStrokeApp](https://github.com/MikeShins/KeyStrokeApp)**: Written in Java
+####Linux-ish
+* **[keyboard](https://github.com/kopoli/keyboard)**: Tool for setting up a custom keyboard layout in X
 * **[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
-* **[Keycounter](https://github.com/programble/keycounter)** A keystroke counter for X11.
-* **[KeyStrokeApp](https://github.com/MikeShins/KeyStrokeApp)**: Written in Java 
-* **[keyboard](https://github.com/kopoli/keyboard) Tool for setting up a custom keyboard layout in X
+* **[Keycounter](https://github.com/programble/keycounter)**: A keystroke counter for X11.
+* **[ibus-xkb-layouts](https://github.com/suzhe/ibus-xkb-layouts)**: Wrap XKB keyboard layouts into ibus input method engines.
+*  **[Colegrammer](https://github.com/repolho/xkb)**: Colegrammer - Colemak for the (shell) programmer Keyboard layout
 
 ###OS X
 
@@ -55,9 +62,9 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Mac Keyboard Layouts](https://github.com/SamirTalwar/Mac-Keyboard-Layouts)**
 * **[Math Keyboard](https://github.com/drostron/osx-keyboard-layouts)** documentation and MathUnicode original files at: http://tex.stackexchange.com/a/110043
 * **[Cyrillic keyboard](https://github.com/muromec/bandera-layout)**: For particular reason I don't like to look at that flag anymore. So I hacked my keyboard layout, changed it's name, flag and added missing Ukrainian-Cyrillic letters to it.
-* **[]()**: 
-* **[]()**: 
-* **[]()**: 
+* **[Custom US Keyboard Layout](https://github.com/lnikkila/keyboard)**: OS X’s US keyboard layout modified to suit my tastes.
+* **[Keyboard Layout for German Accents on US Keyboards](https://github.com/janv/usgerman)**: OS X Keyboard Layout for German Accents on US Keyboards
+* **[Armenian Phonetic Keyboard Layout](https://github.com/vahe-evoyan/armenian-phonetic)**: Armenian phonetic keyboard layout for Mac OSX
 * **[]()**: 
 
 ###Chrome
