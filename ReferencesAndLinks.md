@@ -3,7 +3,6 @@
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 
-
 ##Resources for OSes
 
 ###Android
@@ -50,7 +49,7 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 **[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
 
-**[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin
+**[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
 
 
 ##Games and other stuff
@@ -63,5 +62,5 @@ BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/ne
 ###Digtal content on the web
 * [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide.
 
-Actual Keyboards
+##Actual Keyboards
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
