@@ -15,14 +15,13 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
 
 ###UNIX
-**[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
-
-**[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
-
-**[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
-**[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
-**[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
-**[Keycounter](https://github.com/programble/keycounter)** A keystroke counter for X11.
+* **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
+* **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
+* **[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
+* **[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
+* **[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
+* **[Keycounter](https://github.com/programble/keycounter)** A keystroke counter for X11.
+* **[KeyStrokeApp](https://github.com/MikeShins/KeyStrokeApp)**: Written in Java 
 
 ###OS X
 
@@ -55,7 +54,7 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Math Keyboard](https://github.com/drostron/osx-keyboard-layouts)** documentation and MathUnicode original files at: http://tex.stackexchange.com/a/110043
 
 ###Chrome
-* Keyloger https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger
+* [Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger) - A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
 
 ###Windows
 * **AutoHotKey** http://www.autohotkey.com/
@@ -66,6 +65,8 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Programmer-keyboard-layout](https://github.com/bga/Programmer-keyboard-layout)**: Keyboard layout, optimized for programming Idea is make type much easy.
 * **[Ghost Keyboard](https://github.com/psosera/ghost-keyboard)** - Quick and dirty program that displays keystrokes via low-level hooks to a WinForms GUI. Useful for accessibility or screencasts where you want to show keystrokes in real-time.
 * **[keystrokeanalyzer](https://github.com/AlphaGit/keystrokeanalyzer)** keystroke analyzer 
+* **[Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes): A dll and a consumer to record and log keystrokes in xml format. Win32 
+
 
 
 ###Web Platform
