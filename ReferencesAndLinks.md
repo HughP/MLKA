@@ -28,12 +28,12 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
 ####Keyboard Layouts
-**[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
-**[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
-**[LatinAmerican Keyboard Layout](https://github.com/edmz/latam_keyboard)** MacOSX LatinAmerican Keyboard Layout
-**[Polish Dvorak](https://github.com/taw/osx-keyboard-layouts)**
-**[Georgian Keyboard](https://github.com/Gozala/georgian-keyboard-layouts)** Installable Georgian Keyboard Layouts for OSX
-**[US ISO](https://github.com/mitsuhiko/osx-keyboard-layouts)** US ISO
+* **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
+* **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
+* **[LatinAmerican Keyboard Layout](https://github.com/edmz/latam_keyboard)** MacOSX LatinAmerican Keyboard Layout
+* **[Polish Dvorak](https://github.com/taw/osx-keyboard-layouts)**
+* **[Georgian Keyboard](https://github.com/Gozala/georgian-keyboard-layouts)** Installable Georgian Keyboard Layouts for OSX
+* **[US ISO](https://github.com/mitsuhiko/osx-keyboard-layouts)** US ISO
 
 ###Windows
 **AutoHotKey** http://www.autohotkey.com/
