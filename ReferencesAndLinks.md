@@ -10,6 +10,11 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 
 ##Software Resources
+
+###Mixed
+* https://github.com/ojbucao/Workman
+* https://github.com/deekayen/norman The Norman keyboard layout by David Norman is licensed under CC0 1.0 Universal, no copyright, public domain. http://normanlayout.info
+* https://github.com/district10/neo_keyboard_layout
  
 ###Android
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
@@ -43,8 +48,10 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
 * **[Karabiner](https://pqrs.org/osx/karabiner/)**
 * **[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
-* **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide
-* 
+* **[LayoutTracker](https://github.com/andrimarjonsson/LayoutTracker)
+* **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide - iOS maybe?
+* https://github.com/lailsonbm/ABNT2-Layout
+ 
 **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 
 ####Keyboard Layouts
@@ -90,10 +97,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 * **[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
 * **[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
-
-**[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
-
-**[ug_vk](https://github.com/finalfantasia/ug_vk)**: A virtual keyboard for the Uyghur language written in vanilla JavaScript. This is an optimized and modernized fork of the original work written by Mr. Muhemmed Abdullah.
+* **[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
+* **[ug_vk](https://github.com/finalfantasia/ug_vk)**: A virtual keyboard for the Uyghur language written in vanilla JavaScript. This is an optimized and modernized fork of the original work written by Mr. Muhemmed Abdullah.
 
 ##Games and other stuff
 * Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
