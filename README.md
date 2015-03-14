@@ -14,7 +14,7 @@ Notes and formulas from:
 
 Formulas dynamically created by: http://www.sciweavers.org/free-online-latex-equation-editor
 
- 1.
+ 1. _Min O_1 (k) =  \| l_{kp} (\pi) - l^*\|_
  2. *Min O_{2}(k) =   \sum_{(u,v)\in D(\pi)}  \tau_kp (u,v)*
  3. 
 
