@@ -28,6 +28,11 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 **[Human Factors](https://github.com/Javier-varez/HumanFactors)** An utility application to compare different keyboard layouts, developed for my Human Factors class (IE 355) at NJIT
 
 This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
+
+**[KeyCastr](https://github.com/keycastr/keycastr)**: an open-source keystroke visualizer - for seeing the keys you hit on screen.
+
+**[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
+
 ####Keyboard Layouts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
 * **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
