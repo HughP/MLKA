@@ -21,6 +21,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 **[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
 **[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
+**[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
+**[Keycounter](https://github.com/programble/keycounter)** A keystroke counter for X11.
 
 ###OS X
 
@@ -62,6 +64,9 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[AwesomeKeys](https://github.com/pacojain/AwesomeKeys)**: Optimized keyboard-based windowing and modal editing with AutoHotkey
 * **[keyboard-tweaks](https://github.com/stevepugh99/keyboard-tweaks)**: This project contains AutoHotkey scripts and Microsoft Keyboard Layout Creator (KLC) files for making your typing experience more comfortable and efficient.
 * **[Programmer-keyboard-layout](https://github.com/bga/Programmer-keyboard-layout)**: Keyboard layout, optimized for programming Idea is make type much easy.
+* **[Ghost Keyboard](https://github.com/psosera/ghost-keyboard)** - Quick and dirty program that displays keystrokes via low-level hooks to a WinForms GUI. Useful for accessibility or screencasts where you want to show keystrokes in real-time.
+* **[keystrokeanalyzer](https://github.com/AlphaGit/keystrokeanalyzer)** keystroke analyzer 
+
 
 ###Web Platform
 
@@ -86,6 +91,7 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 ##Sociology
 * Washington Post: [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/?wprss=rss_homepage)
 * BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/news/world-africa-25141849)
+* The Language Documentation Crowd: [Digital Technology and Endangered Languages](http://www.thelanguagedocumentationcrowd.org/blog/2013/12/9/digital-technology-and-endangered-languages)
 
 ###Digtal content on the web
 * [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide.
