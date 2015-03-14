@@ -19,6 +19,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
 
+[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo) - Seems to be exactly what I am looking for
+
 ###OS X
 
 **[LipikaIME](https://github.com/ratreya/Lipika_IME)** a user-configurable, phonetic, Input Method Engine for Mac OS X with built-in support for Bengali, Devanagari, Gujarati, Gurmukhi, Hindi, Kannada, Malayalam, Oriya, Tamil and Telugu using ITRANS, Baraha, Harvard Kyoto, Barahavat and Ksharanam transliteration schemes.
@@ -33,10 +35,18 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Polish Dvorak](https://github.com/taw/osx-keyboard-layouts)**
 * **[Georgian Keyboard](https://github.com/Gozala/georgian-keyboard-layouts)** Installable Georgian Keyboard Layouts for OSX
 * **[US ISO](https://github.com/mitsuhiko/osx-keyboard-layouts)** US ISO
+* https://github.com/burningTyger/keyboard_layouts based on the regular OS X German keyboard layout but with slight modifications to accommodate transliteration of Arabic/Persian/Turkish etc.
+* **[Romanian & Swedish keyboard layouts for Mac OSX](https://github.com/andreineculau/OSX-PC-keyboard-layouts)**
+* **[Mac Keyboard Layouts](https://github.com/SamirTalwar/Mac-Keyboard-Layouts)**
+* **[Math Keyboard](https://github.com/drostron/osx-keyboard-layouts)** documentation and MathUnicode original files at: http://tex.stackexchange.com/a/110043
+
+###Chrome
+* Keyloger https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger
 
 ###Windows
-**AutoHotKey** http://www.autohotkey.com/
-**[MacKeyboard](https://github.com/andmos/MacKeyboard)** This AutoHotkey configuration file makes usual keyboard shortcuts work with an Apple keyboard on Windows with norwegian layout. 
+* **AutoHotKey** http://www.autohotkey.com/
+* **[MacKeyboard](https://github.com/andmos/MacKeyboard)** This AutoHotkey configuration file makes usual keyboard shortcuts work with an Apple keyboard on Windows with norwegian layout. 
+* [Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes) - A dll and a consumer to record and log keystrokes in xml format.
 
 ###Web Platform
 
@@ -50,6 +60,8 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 **[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
 
 **[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
+
+**[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
 
 
 ##Games and other stuff
