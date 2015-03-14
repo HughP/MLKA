@@ -23,8 +23,17 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 **[Human Factors](https://github.com/Javier-varez/HumanFactors)** An utility application to compare different keyboard layouts, developed for my Human Factors class (IE 355) at NJIT
 
 This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
-
+####Keyboard Layouts
 **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
+**[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
+**[LatinAmerican Keyboard Layout](https://github.com/edmz/latam_keyboard)** MacOSX LatinAmerican Keyboard Layout
+**[Polish Dvorak](https://github.com/taw/osx-keyboard-layouts)**
+**[Georgian Keyboard](https://github.com/Gozala/georgian-keyboard-layouts)** Installable Georgian Keyboard Layouts for OSX
+**[US ISO](https://github.com/mitsuhiko/osx-keyboard-layouts)** US ISO
+
+###Windows
+**AutoHotKey** http://www.autohotkey.com/
+**[MacKeyboard](https://github.com/andmos/MacKeyboard)** This AutoHotkey configuration file makes usual keyboard shortcuts work with an Apple keyboard on Windows with norwegian layout. 
 
 ###Web Platform
 
