@@ -104,7 +104,7 @@ Assumptions:
 
 Min O<sub>2</sub>(k) = 
 
-! [equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B2%7D%28k%29%20%3D%20%20%20%5Csum_%7B%28u%2Cv%29%5Cin%20D%28%5Cpi%29%7D%20%20%5Ctau_kp%20%28u%2Cv%29%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=Min%20O_%7B2%7D%28k%29%20%3D%20%20%20%5Csum_%7B%28u%2Cv%29%5Cin%20D%28%5Cpi%29%7D%20%20%5Ctau_kp%20%28u%2Cv%29%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 ##Assertions
 
