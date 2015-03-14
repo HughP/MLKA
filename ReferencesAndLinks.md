@@ -68,8 +68,8 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 * Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
 
 ##Sociology
-Washington Post: [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/?wprss=rss_homepage)
-BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/news/world-africa-25141849)
+* Washington Post: [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/?wprss=rss_homepage)
+* BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/news/world-africa-25141849)
 
 ###Digtal content on the web
 * [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide.
