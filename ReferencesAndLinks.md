@@ -8,6 +8,8 @@
 ###Android
 Key Character Map Files: https://source.android.com/devices/input/key-character-map-files.html
 
+###Linux
+Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
 
 ##Software Resources
 
@@ -109,6 +111,7 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 * Washington Post: [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/?wprss=rss_homepage)
 * BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/news/world-africa-25141849)
 * The Language Documentation Crowd: [Digital Technology and Endangered Languages](http://www.thelanguagedocumentationcrowd.org/blog/2013/12/9/digital-technology-and-endangered-languages)
+* The Wall Street Journal: [Smartphones Are Reinventing—And Ditching—the Keyboard](http://www.wsj.com/articles/SB10001424127887324392804578358551800617098)
 
 ###Digtal content on the web
 * [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide._
