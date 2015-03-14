@@ -85,6 +85,9 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[keystrokeanalyzer](https://github.com/AlphaGit/keystrokeanalyzer)** keystroke analyzer 
 * **[Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes): A dll and a consumer to record and log keystrokes in xml format. Win32 
 
+* **[keyboardLayoutOptimizer](https://github.com/keyboardDrummer/keyboardlayoutoptimizer)**: This application can search for optimal keyboard layouts. It combines two pieces of information to evaluate a given keyboard layout:
+ * The first is a 'corpus', a body of text. This is the text that you want the keyboard layout to be optimal for.
+ * The second input of the algorithm is your 'typing style', which is the time it takes you to press two particular keyboard positions in sequence.
 
 
 ###Web Platform
