@@ -15,8 +15,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
 
 ###iOS
-**[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
-**[KeyboardLayouts for JACKeyboard](https://github.com/JaredCrawford/KeyboardLayouts)** Keyboard configuration JSON files for use with JACKeyboard.
+* **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
+* **[KeyboardLayouts for JACKeyboard](https://github.com/JaredCrawford/KeyboardLayouts)** Keyboard configuration JSON files for use with JACKeyboard.
 
 ###UNIX
 * **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
@@ -38,17 +38,13 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[Human Factors](https://github.com/Javier-varez/HumanFactors)** An utility application to compare different keyboard layouts, developed for my Human Factors class (IE 355) at NJIT
 * This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
 * **[KeyCastr](https://github.com/keycastr/keycastr)**: an open-source keystroke visualizer - for seeing the keys you hit on screen.
-
-**[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
-
-**[dual-keyboards](https://github.com/pnc/dual-keyboards)** An OS X utility to allow the use of modifier keys across multiple external keyboards http://dotdotcomorg.net/Mac/
-
-**[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
-
-**[Karabiner](https://pqrs.org/osx/karabiner/)**
-
-**[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
-
+* **[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
+* **[dual-keyboards](https://github.com/pnc/dual-keyboards)** An OS X utility to allow the use of modifier keys across multiple external keyboards http://dotdotcomorg.net/Mac/
+* **[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
+* **[Karabiner](https://pqrs.org/osx/karabiner/)**
+* **[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
+* **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide
+* 
 **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 ####Keyboard Layouts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
@@ -85,16 +81,14 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 ###Web Platform
 
-**[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
-
-**[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
+* **[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
+* **[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
 
 ####JS
 
 Convert Keycodes to keymaps: https://github.com/timoxley/keycode
-**[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
-
-**[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
+* **[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
+* **[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
 
 **[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
 
