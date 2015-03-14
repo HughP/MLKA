@@ -30,16 +30,14 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 * **[Keycounter](https://github.com/programble/keycounter)**: A keystroke counter for X11.
 * **[ibus-xkb-layouts](https://github.com/suzhe/ibus-xkb-layouts)**: Wrap XKB keyboard layouts into ibus input method engines.
 *  **[Colegrammer](https://github.com/repolho/xkb)**: Colegrammer - Colemak for the (shell) programmer Keyboard layout
+*  **[Keyboard Layout Viewer for Neo 2.](https://github.com/YggdrasiI/NeoLayoutViewer)**: Allows viewing of the keyboad on the screen.
 
 ###OS X
 
-**[LipikaIME](https://github.com/ratreya/Lipika_IME)** a user-configurable, phonetic, Input Method Engine for Mac OS X with built-in support for Bengali, Devanagari, Gujarati, Gurmukhi, Hindi, Kannada, Malayalam, Oriya, Tamil and Telugu using ITRANS, Baraha, Harvard Kyoto, Barahavat and Ksharanam transliteration schemes.
-
-**[Human Factors](https://github.com/Javier-varez/HumanFactors)** An utility application to compare different keyboard layouts, developed for my Human Factors class (IE 355) at NJIT
-
-This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
-
-**[KeyCastr](https://github.com/keycastr/keycastr)**: an open-source keystroke visualizer - for seeing the keys you hit on screen.
+* **[LipikaIME](https://github.com/ratreya/Lipika_IME)** a user-configurable, phonetic, Input Method Engine for Mac OS X with built-in support for Bengali, Devanagari, Gujarati, Gurmukhi, Hindi, Kannada, Malayalam, Oriya, Tamil and Telugu using ITRANS, Baraha, Harvard Kyoto, Barahavat and Ksharanam transliteration schemes.
+* **[Human Factors](https://github.com/Javier-varez/HumanFactors)** An utility application to compare different keyboard layouts, developed for my Human Factors class (IE 355) at NJIT
+* This Python script is intended for converting Mac keyboard layouts to Windows .klc files, the input format for “Microsoft Keyboard Layout Creator” (MSKLC). https://github.com/adobe-type-tools/keyboard-layouts
+* **[KeyCastr](https://github.com/keycastr/keycastr)**: an open-source keystroke visualizer - for seeing the keys you hit on screen.
 
 **[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
 
@@ -48,6 +46,8 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 **[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
 
 **[Karabiner](https://pqrs.org/osx/karabiner/)**
+
+**[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
 
 **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 ####Keyboard Layouts
@@ -65,7 +65,7 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **[Custom US Keyboard Layout](https://github.com/lnikkila/keyboard)**: OS X’s US keyboard layout modified to suit my tastes.
 * **[Keyboard Layout for German Accents on US Keyboards](https://github.com/janv/usgerman)**: OS X Keyboard Layout for German Accents on US Keyboards
 * **[Armenian Phonetic Keyboard Layout](https://github.com/vahe-evoyan/armenian-phonetic)**: Armenian phonetic keyboard layout for Mac OSX
-* **[]()**: 
+* **[osx-keyboard-layout-german-no-deadkeys](https://github.com/sebroeder/osx-keyboard-layout-german-no-deadkeys)**: A German OS X keyboard layout that eliminates deadkeys
 
 ###Chrome
 * [Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger) - A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
