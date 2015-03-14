@@ -19,7 +19,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
 
-[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo) - Seems to be exactly what I am looking for
+**[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
+**[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
 
 ###OS X
 
@@ -32,6 +33,12 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 **[KeyCastr](https://github.com/keycastr/keycastr)**: an open-source keystroke visualizer - for seeing the keys you hit on screen.
 
 **[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
+
+**[dual-keyboards](https://github.com/pnc/dual-keyboards)** An OS X utility to allow the use of modifier keys across multiple external keyboards http://dotdotcomorg.net/Mac/
+
+**[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
+
+**[Karabiner](https://pqrs.org/osx/karabiner/)**
 
 ####Keyboard Layouts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
@@ -52,6 +59,9 @@ This Python script is intended for converting Mac keyboard layouts to Windows .k
 * **AutoHotKey** http://www.autohotkey.com/
 * **[MacKeyboard](https://github.com/andmos/MacKeyboard)** This AutoHotkey configuration file makes usual keyboard shortcuts work with an Apple keyboard on Windows with norwegian layout. 
 * [Keystrokes Logger](https://github.com/sushantkhurana/Win32-KeyStrokes) - A dll and a consumer to record and log keystrokes in xml format.
+* **[AwesomeKeys](https://github.com/pacojain/AwesomeKeys)**: Optimized keyboard-based windowing and modal editing with AutoHotkey
+* **[keyboard-tweaks](https://github.com/stevepugh99/keyboard-tweaks)**: This project contains AutoHotkey scripts and Microsoft Keyboard Layout Creator (KLC) files for making your typing experience more comfortable and efficient.
+* **[Programmer-keyboard-layout](https://github.com/bga/Programmer-keyboard-layout)**: Keyboard layout, optimized for programming Idea is make type much easy.
 
 ###Web Platform
 
@@ -68,6 +78,7 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 
 **[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
 
+**[ug_vk](https://github.com/finalfantasia/ug_vk)**: A virtual keyboard for the Uyghur language written in vanilla JavaScript. This is an optimized and modernized fork of the original work written by Mr. Muhemmed Abdullah.
 
 ##Games and other stuff
 * Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
