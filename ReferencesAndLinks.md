@@ -17,6 +17,9 @@ Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-
 ###Twitter
 https://dev.twitter.com/overview/api/counting-characters
 
+###OS X
+Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
+
 ##Software Resources
 
 ###Mixed
