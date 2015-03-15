@@ -24,6 +24,7 @@ https://dev.twitter.com/overview/api/counting-characters
 * https://github.com/deekayen/norman The Norman keyboard layout by David Norman is licensed under CC0 1.0 Universal, no copyright, public domain. http://normanlayout.info
 * https://github.com/district10/neo_keyboard_layout
 * https://github.com/kwhat/jnativehook Keyboard and Mouse listeners in Java
+* Philippines Keybard https://bitbucket.org/paninap/pnkl/
  
 ###Android
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
