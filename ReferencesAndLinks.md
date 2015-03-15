@@ -2,6 +2,9 @@
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
+* https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
+* http://mkweb.bcgsc.ca/carpalx/
+
 
 ##Resources for OSes
 
