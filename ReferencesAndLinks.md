@@ -2,6 +2,7 @@
 _These are refences and links about text input methods and digital writing. Included are links to technical discussions, technical specification, computer utilites for monitoring and evaluating text input, and descriptions about text input methods._
 
 ##Idology
+_This section is for links to resources which discuss the reasons that a keyboard layout is aranged the way it is._
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
@@ -9,7 +10,7 @@ _These are refences and links about text input methods and digital writing. Incl
 * http://mkweb.bcgsc.ca/carpalx/
 
 ##Character and Word Counting
-_When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds)._ 
+_When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpra._ 
 ###Word Counts
 * Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
 * http://www.javascriptkit.com/script/script2/countwords.shtml
@@ -19,7 +20,7 @@ _When counting characters it is important to count words, punctuation, and "lett
 Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
 
 ##Resources for OSes
-
+_These links are to discussions and technical descriptions about text handling and text input methods as they are handeled in different operating systems._
 ###Android
 Key Character Map Files: https://source.android.com/devices/input/key-character-map-files.html
 
@@ -35,7 +36,7 @@ https://dev.twitter.com/overview/api/counting-characters
 Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
 
 ##Software Resources
-
+_These resources are a wide range of resources about a wide range of topics. Mostly they are about keyboards and text input evaluations._
 ###Mixed
 * https://github.com/ojbucao/Workman
 * https://github.com/deekayen/norman The Norman keyboard layout by David Norman is licensed under CC0 1.0 Universal, no copyright, public domain. http://normanlayout.info
