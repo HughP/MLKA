@@ -142,6 +142,11 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 * [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide._
 
 ##Actual Keyboards
+###10 Finger keyboards
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
 * [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
 * [Maltron Keyboards](http://mindprod.com/bgloss/maltron.html)
+
+###Keypads
+* Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods
+* Left handed keypad: http://commons.wikimedia.org/wiki/File:Left_handed_keypad.png
