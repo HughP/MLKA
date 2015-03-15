@@ -11,6 +11,9 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 ###Linux
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
 
+###Twitter
+https://dev.twitter.com/overview/api/counting-characters
+
 ##Software Resources
 
 ###Mixed
