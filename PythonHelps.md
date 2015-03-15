@@ -1,5 +1,5 @@
 #Challenges and Helps
-_Some issues and links I need to investigate._
+_Some issues and links I need to investigate. Also consider notes I have kept in my Learning-Python repo about key events and text encoding: https://github.com/HughP/Learning-Python/blob/master/README.md._
 
 Read in Unicode File
 
