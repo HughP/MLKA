@@ -9,11 +9,14 @@ _These are refences and linkss about text input and digital writing. Included ar
 * http://mkweb.bcgsc.ca/carpalx/
 
 ##Character and Word Counting
-http://www.javascriptkit.com/script/script2/countwords.shtml
-When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Link to a list of Unicode classified characters listed as puntuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
+_When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds)._ 
+###Word Counts
+* Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
+* http://www.javascriptkit.com/script/script2/countwords.shtml
+
+###Character Counts
+* Link to a list of Unicode classified characters listed as Other puntuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
 Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
-
-
 
 ##Resources for OSes
 
@@ -141,3 +144,4 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 ##Actual Keyboards
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
 * [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
+* [Maltron Keyboards](http://mindprod.com/bgloss/maltron.html)
