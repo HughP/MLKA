@@ -1,5 +1,5 @@
 #Refernces and Links
-_These are refences and linkss about text input and digital writing. Included are links to technical discussions._
+_These are refences and links about text input methods and digital writing. Included are links to technical discussions, technical specification, computer utilites for monitoring and evaluating text input, and descriptions about text input methods._
 
 ##Idology
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
