@@ -1,9 +1,16 @@
+#Refernces and Links
+_These are refences and linkss about text input and digital writing. Included are links to technical discussions._
+
 ##Idology
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
 * http://mkweb.bcgsc.ca/carpalx/
+
+##Character and Word Counting
+http://www.javascriptkit.com/script/script2/countwords.shtml
+
 
 
 ##Resources for OSes
@@ -13,6 +20,8 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 
 ###Linux
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
+Keycodes, Keypress events, and Keyboard encoding: http://tronche.com/gui/x/xlib/input/keyboard-encoding.html
+Keyboard and mouse events: http://tronche.com/gui/x/xlib/events/keyboard-pointer/keyboard-pointer.html
 
 ###Twitter
 https://dev.twitter.com/overview/api/counting-characters
@@ -129,3 +138,4 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 
 ##Actual Keyboards
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
+* [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
