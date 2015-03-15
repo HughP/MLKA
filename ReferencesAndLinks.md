@@ -10,6 +10,8 @@ _These are refences and linkss about text input and digital writing. Included ar
 
 ##Character and Word Counting
 http://www.javascriptkit.com/script/script2/countwords.shtml
+When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Link to a list of Unicode classified characters listed as puntuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
+Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
 
 
 
