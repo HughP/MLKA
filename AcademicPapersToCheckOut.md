@@ -1,4 +1,4 @@
-#Handwriting and diacritic use or lack of use
+##Handwriting and diacritic use or lack of use
 * Recognizing Vietnamese Online Handwritten Separated Characters [10.1109/ALPIT.2008.58](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4584380&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4584380) Vietnamese alphabet is based on the Latin alphabet with the addition of nine accent marks or diacritics - four of them to create additional sounds, and the other five to indicate the tone of each word. Because Vietnamese is a tonal language that uses tone to distinguish words, recognizing diacritics is an important part in recognizing Vietnamese word. However, in written form, diacritics are much smaller then the characters, which make very them hard to recognize. Previous works on Vietnamese characters recognition often pre-process input with a graph-based approach by trying to separate the main characters with their diacritics by determining connected regions at pixel level. This approach, however, only works well where the input contains only characters with separable diacritics, for example, scanned image of printed documents. We propose in this paper a robust method to recognize online Vietnamese characters with diacritics. Using cosine transformation with appropriated sampling algorithms, we represent multiple strokes of a character together in a single set of features. This set of features is then used as the input for a well designed machine learning based system. We have tested our system on the combination of Vietnamese characters with diacritics and Section 1c (isolated characters) of the Unipen data set, and have obtained very competitive results. **Ordered ILL & Record in Endnote, PDF not**
 
 * The Use of Electronic Mail in Foreign Language Classes http://www.daedalus.com/downloads_public/llo/llo_standard.pdf#page=145 Look for it in a PDF of the volume.
@@ -9,6 +9,8 @@
 * The Significance of Written Accent Marks for L2 Spanish Learners. http://eric.ed.gov/?id=ED329108 **Downloaded**
  * The Significance of Written Accent Marks for L2 Learners of Spanish. Wieczorek, Joseph A. Georgetown Journal of Languages and Linguistics, v2 n2 p176-90 1991http://eric.ed.gov/?id=EJ437832
 * New, Elizabeth. 1999. Computer-Aided Writing in French as a Foreign Language: A Qualitative and Quantitative Look at the Process of Revision. The Modern Language Journal 83.1: 80-97.
+
+* [What can reduce letter migrations in letter position dyslexia?](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9817.2011.01525.x/abstract) - Looking at the role of diacritics in dyslexia. **Ordered via ILL.**
 
 ##Hand Gestures and typing
 ###Finding the optimal keyboard layout
