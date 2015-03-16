@@ -28,7 +28,7 @@ _When counting characters it is important to count words, punctuation, and "lett
 
 ###Character Counts
 * Link to a list of Unicode classified characters listed as Other puntuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
-Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
+* Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
 
 ##Resources for OSes
 _These links are to discussions and technical descriptions about text handling and text input methods as they are handeled in different operating systems._
