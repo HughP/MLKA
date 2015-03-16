@@ -3,7 +3,7 @@ _These are refences and links about text input methods and digital writing. Incl
 
 ##Idology
 _This section is for links to resources which discuss the reasons that a keyboard layout is aranged the way it is._
-As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and David Norman. There are some other names too like: Ted Lilley, David Piepgrass.
+As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and David Norman. There are some other names too like: Ted Lilley, David Piepgrass. The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
