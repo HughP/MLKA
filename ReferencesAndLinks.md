@@ -46,6 +46,7 @@ _These resources are a wide range of resources about a wide range of topics. Mos
  
 ###Android
 **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
+**[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard. 
 
 ###iOS
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
@@ -64,6 +65,7 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * **[ibus-xkb-layouts](https://github.com/suzhe/ibus-xkb-layouts)**: Wrap XKB keyboard layouts into ibus input method engines.
 *  **[Colegrammer](https://github.com/repolho/xkb)**: Colegrammer - Colemak for the (shell) programmer Keyboard layout
 *  **[Keyboard Layout Viewer for Neo 2.](https://github.com/YggdrasiI/NeoLayoutViewer)**: Allows viewing of the keyboad on the screen.
+* **[IPA symbols with xkb](http://www.ajmakkas.com/pages/c_xkbipa.html)** IPA symbols with xkb layout on Slackware
 
 ###OS X
 
