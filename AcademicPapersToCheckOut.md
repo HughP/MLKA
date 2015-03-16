@@ -11,7 +11,7 @@
 * New, Elizabeth. 1999. Computer-Aided Writing in French as a Foreign Language: A Qualitative and Quantitative Look at the Process of Revision. The Modern Language Journal 83.1: 80-97.
 
 ##Hand Gestures and typing
-
+###Finding the optimal keyboard layout
 * Optimal Consensus Intuitive Hand Gesture Vocabulary Design http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4597179
 * Evaluation and Improvement of Dvorak Keyboard Layout Using CADWORK http://www.scientific.net/AMR.62-64.585
 * Ergonomic Design of an Optimal Hindi Keyboard for Convenient Use http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1688577
