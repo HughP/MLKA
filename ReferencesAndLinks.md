@@ -154,7 +154,12 @@ Convert Keycodes to keymaps: https://github.com/timoxley/keycode
 * **[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
 * **[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
 * **[ug_vk](https://github.com/finalfantasia/ug_vk)**: A virtual keyboard for the Uyghur language written in vanilla JavaScript. This is an optimized and modernized fork of the original work written by Mr. Muhemmed Abdullah.
-
+* **[JavaScript Madness: Keyboard Events](http://unixpapa.com/js/key.html)**
+* **[Shift Key Attribute](http://www.w3schools.com/jsref/event_shiftkey.asp)**
+* **[Alt Key](http://www.w3schools.com/jsref/event_altkey.asp)**
+* **[Meta Key Event](http://www.w3schools.com/jsref/event_metakey.asp)**
+* **[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)**
+* **[Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 ##Games and other stuff
 * Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
 
