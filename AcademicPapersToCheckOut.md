@@ -8,7 +8,7 @@
 
 * The Significance of Written Accent Marks for L2 Spanish Learners. http://eric.ed.gov/?id=ED329108 **Downloaded**
  * The Significance of Written Accent Marks for L2 Learners of Spanish. Wieczorek, Joseph A. Georgetown Journal of Languages and Linguistics, v2 n2 p176-90 1991http://eric.ed.gov/?id=EJ437832
- * New, Elizabeth. 1999. Computer-Aided Writing in French as a Foreign Language: A Qualitative and Quantitative Look at the Process of Revision. The Modern Language Journal 83.1: 80-97.
+* New, Elizabeth. 1999. Computer-Aided Writing in French as a Foreign Language: A Qualitative and Quantitative Look at the Process of Revision. The Modern Language Journal 83.1: 80-97.
 
 ##Hand Gestures and typing
 
