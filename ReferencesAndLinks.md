@@ -3,12 +3,22 @@ _These are refences and links about text input methods and digital writing. Incl
 
 ##Idology
 _This section is for links to resources which discuss the reasons that a keyboard layout is aranged the way it is._
+As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and ____. 
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
 * http://mkweb.bcgsc.ca/carpalx/
+* Michael Dickens - Introducing the Thumb Keys https://mathematicalmulticore.wordpress.com/category/keyboards/
+* This forum talks about the comparison of keyboards. https://geekhack.org/index.php?topic=48292.msg1309062#msg1309062
+* Discussion of the historical nature of the return key: http://deskthority.net/wiki/Return_key.
+* Capewell improvement of the Dvorak keyboard: http://www.michaelcapewell.com/projects/keyboard/layout_capewell-dvorak.htm
+* Discussion of the colemak keyboard: http://colemak.com/
+ * Colemak keyboard layout comparison: http://colemak.com/Compare
+* Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 
+##Buy a custom text input solution
+* a discussion about a custom input solution: http://boards.openpandora.org/topic/15403-pyra-keyboard-layout-requirement-analysis/page-2
 ##Character and Word Counting
 _When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpra._ 
 ###Word Counts
@@ -28,6 +38,7 @@ Key Character Map Files: https://source.android.com/devices/input/key-character-
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
 Keycodes, Keypress events, and Keyboard encoding: http://tronche.com/gui/x/xlib/input/keyboard-encoding.html
 Keyboard and mouse events: http://tronche.com/gui/x/xlib/events/keyboard-pointer/keyboard-pointer.html
+Keycodes in kernal: https://wiki.archlinux.org/index.php/Extra_keyboard_keys#Keycodes
 
 ###Twitter
 https://dev.twitter.com/overview/api/counting-characters
@@ -52,12 +63,18 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
 * **[KeyboardLayouts for JACKeyboard](https://github.com/JaredCrawford/KeyboardLayouts)** Keyboard configuration JSON files for use with JACKeyboard.
 
-###UNIX
-* **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout.
+###UNIX (Meaning Linux or commandline Unix, inclusive of OS X)
+####Progressive Evolution of typing layouts
+_This series of software mathmatically looks for the best fit keyboard layout based on a text set._
+* **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout. This work is by Michael Dickens.
 * **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
+* **[KeyboardEvolve](http://sourceforge.net/projects/keyboardevolve/)**: A framework for evolving better keyboard layouts. This work is by Michael Capewell. **C++**
+
+_The applications below may not be as refined as the ones above._
 * **[Keylog analysis in Python](https://github.com/bhushanRamnani/KeystrokeDynamicsDataAnaysisRepo)** - Seems to be exactly what I am looking for
 * **[Keyboard Layout](https://github.com/wenderen/keyboard-layout)**: Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of LISP.
 * **[KeyStrokeApp](https://github.com/MikeShins/KeyStrokeApp)**: Written in Java
+
 ####Linux-ish
 * **[keyboard](https://github.com/kopoli/keyboard)**: Tool for setting up a custom keyboard layout in X
 * **[Keystroke](https://github.com/sammeroo/keystroke)**: Keystroke Pattern recognition using Neural Networks - Written in gtk+
@@ -66,6 +83,7 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 *  **[Colegrammer](https://github.com/repolho/xkb)**: Colegrammer - Colemak for the (shell) programmer Keyboard layout
 *  **[Keyboard Layout Viewer for Neo 2.](https://github.com/YggdrasiI/NeoLayoutViewer)**: Allows viewing of the keyboad on the screen.
 * **[IPA symbols with xkb](http://www.ajmakkas.com/pages/c_xkbipa.html)** IPA symbols with xkb layout on Slackware
+* **[Create a new keyboard layout for OLPC](http://wiki.laptop.org/go/Creating_A_New_Keyboard_Layout)** One Laptop per child layout design instructions.
 
 ###OS X
 
