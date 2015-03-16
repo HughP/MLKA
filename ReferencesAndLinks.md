@@ -45,8 +45,8 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * Philippines Keybard https://bitbucket.org/paninap/pnkl/
  
 ###Android
-**[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
-**[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard. 
+* **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
+* **[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard. 
 
 ###iOS
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
