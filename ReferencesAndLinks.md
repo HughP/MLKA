@@ -19,6 +19,7 @@ As a rundown, there are three names which seem to come up in the computer develo
 
 ##Buy a custom text input solution
 * a discussion about a custom input solution: http://boards.openpandora.org/topic/15403-pyra-keyboard-layout-requirement-analysis/page-2
+
 ##Character and Word Counting
 _When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpra._ 
 ###Word Counts
