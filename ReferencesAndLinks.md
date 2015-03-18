@@ -155,7 +155,8 @@ _The applications below may not be as refined as the ones above._
 
 ####JS
 
-Convert Keycodes to keymaps: https://github.com/timoxley/keycode
+* Convert Keycodes to keymaps: https://github.com/timoxley/keycode
+* Test out key codes: http://www.w3.org/2002/09/tests/keys.html
 * **[Android Keyboard Detect](https://github.com/mongoltolbo/Android_Keyboard_Detect)** An imperfect javascript hack to detect when the Android soft keyboard is shown on screen from an input 'focus' event.
 * **[Keystrokes for jQuery](http://boedesign.com/blog/2009/12/30/keystrokes-for-jquery/)** Jquery plugin [on github](https://github.com/jboesch/Keystrokes)
 * **[Keyboard Heatmap](https://github.com/pa7/Keyboard-Heatmap)** Realtime Keyboard Heatmap showing the character distribution of texts - made with heatmap.js http://www.patrick-wied.at/projects/heatmap-keyboard/
