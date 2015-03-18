@@ -51,6 +51,9 @@ https://dev.twitter.com/overview/api/counting-characters
 ###OS X
 Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
 
+###Windows
+https://msdn.microsoft.com/en-us/library/windows/desktop/ff468857(v=vs.85).aspx
+
 ##Software Resources
 _These resources are a wide range of resources about a wide range of topics. Mostly they are about keyboards and text input evaluations._
 ###Mixed
