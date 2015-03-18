@@ -1,0 +1,110 @@
+﻿c Nigeria Unicode Underline Keyboard
+c Verified January 2012 - All characters are composed except some toned nasals and the toned underlined vowels
+c modified January 2012 - alphabetic turned comma replaced with saltillo
+c Edited October 2009 - Switched second apostrophe choice to saltillo, removed literacy a and g because they are available in the literacy fonts.
+c Edited December 2005 (standardized for uploading to Tavultesoft and name changed from NBTT Unicode Underline Keyboard)
+c Literacy alpha now underlined and alphabetic turned comma added
+c edited May 2005 (Original keyboard split into three to handle different vowel treatments)
+c created by Heidi Rosendall, March 2004
+
+c This keyboard is provided along with two other keyboards to cover the expected needs
+c of Nigeria languages. The three keyboards are identical except except vowels appear differently and the Literacy
+c "alpha" is added to the letter q on the Dot and Underlined keyboards
+c This is the keyboard for underlined vowels.
+
+store(&VERSION) '8.0'
+NAME "Nigeria Unicode Underline Keyboard"
+BITMAP NigeriaUND.bmp
+HOTKEY "%+N"
+
+store(&Copyright) "Copyright©2009 Wycliffe International"
+store(&ETHNOLOGUECODE) 'ank asg bys dbd dud etx gel kad kcg kdl tiv tsw yer'
+
+begin Unicode		>	use(Main)
+store(Let2BMod)		"bcdhkmnyzBCDGKLMNXY$?*"      
+store(ModLet)		"ɓçɗɦƙɲŋƴʒƁÇƊɣƘ£ƝŊƎƳ₦ʔ°"      
+store(vowel)		"aeiouAEIOU"                       
+store(vAcute)		"áéíóúÁÉÍÓÚ"                      
+store(vMid)			"āēīōūĀĒĪŌŪ"                      
+store(vGrave)		"àèìòùÀÈÌÒÙ"                       
+store(vCircum)		"âêîôûÂÊÎÔÛ"                      
+store(vCaron)		"ǎěǐǒǔǍĚǏǑǓ"         
+c This would be store(vUNDL) if Unicode provided composed characters. U+0331 is used instead
+store(nasal)		"mnMN"                   
+store(nAcute)		"ḿńḾŃ"                      
+store(LetN)			"nN"                         
+store(nGrave)		"ǹǸ"                            
+store(nCaron)		"ňŇ"                          
+
+group(main) using keys      
+
+c DEADKEYS
+c single deadkeys
++ ";"		>  deadkey(modlet)     c applies to underlined vowels and letters to be modified, applies with a second deadkey to make a combo deadkey
++ "'"		>  deadkey(acute)
++ "-"		>  deadkey(mid)
++ "`" 		>  deadkey(grave) 
++ "^"		>  deadkey(circum)
++ "&"		>  deadkey(caron) 
++ "!"		>  deadkey(downstep) 
+
+c most single deadkeys are cleared when typed twice
+U+A78C			+ "'" 	> "'"   c just an acute accent when typed three times see line 77
+dk(modlet) 		+ ";" 	> ";"   c just a semi-colon when typed twice
+dk(mid)		   	+ "-" 	> "-"   c and etc.
+dk(grave)	   	+ "`" 	> "`" 
+dk(circum)	   	+ "^" 	> "^" 
+dk(caron)	   	+ "&"	> "&"     
+dk(downstep) 	+ "!" 	> "!"
+         
+c combo deadkeys -(;) -  for tones on undlined vowels (typing order does not matter)
+dk(modlet)	 + "'" 	>  deadkey(undlAcute)
+dk(acute)	 + ";"	>  deadkey(undlAcute)            
+dk(modlet)	 + "-"	>  deadkey(undlMid)
+dk(mid)		 + ";"	>  deadkey(undlMid)
+dk(modlet)	 + "`" 	>  deadkey(undlGrave)
+dk(grave)	 + ";"	>  deadkey(undlGrave)
+dk(modlet)	 + "^"	>  deadkey(undlCircum)
+dk(circum)	 + ";"	>  deadkey(undlCircum)
+dk(modlet)	 + "&"	>  deadkey(undlCaron)
+dk(caron)	 + ";"	>  deadkey(undlCaron)     
+dk(modlet)	 + "!" 	>  deadkey(undlDownstep)
+dk(downstep) + ";" 	>  deadkey(undlDownstep)
+
+c ASSIGNMENTS
+c plain letters are modified, vowels are underlined
+dk(modlet) 	+ any(Let2BMod)	>  index(ModLet,2)     
+dk(modlet) 	+ any(vowel)	>  index(vowel,2)U+0331  
+c dk(acute)		+ "'"				>  U+02BB c Replaced with saltillo below alphabetic turned comma is two acute accents
+dk(acute)  	+ "'" 			>  U+A78C c typed twice gives lower case saltillo (U+A78C)ꞌ
+
+c plain vowels & nasals are tone marked
+c (Unicode does not provide a complet set of single character toned nasals so they are dealt with in different ways)
+dk(acute)	 + any(vowel)	>  index(vAcute,2)    
+dk(acute)	 + any(nasal)	>  index(nAcute,2)          
+dk(mid)		 + any(vowel)	>  index(vMid,2)      
+dk(mid)		 + any(nasal)	>  index(nasal,2)U+0304 
+dk(grave)	 + any(vowel)	>  index(vGrave,2)      
+dk(grave)	 + any(LetN)	>  index(nGrave,2)  
+dk(grave)	 + "m"			>  "m" U+0300
+dk(grave)	 + "M"			>  "M" U+0300   
+dk(circum)	 + any(vowel)	>  index(vCircum,2)    
+dk(circum)	 + any(nasal)	>  index(nasal,2)U+0302 
+dk(caron)	 + any(vowel)	>  index(vCaron,2) 
+dk(caron)	 + any(LetN)	>  index(nCaron,2)                               
+dk(caron)	 + "m"			>  "m" U+030C   
+dk(caron)	 + "M"			>  "M" U+030C  
+dk(downstep) + any(vowel)	>  index(vowel,2)U+030B 
+dk(downstep) + any(nasal)	>  index(nasal,2)U+030B  
+dk(downstep) + "m"			>  "m" U+030B
+dk(downstep) + "N"			>  "N" U+030B             
+dk(downstep) + "n"			>  "n" U+030B
+dk(downstep) + "M"			>  "M" U+030B
+
+c toned vowels are underlined
+dk(undlAcute)		+ any(vowel)	>  index(vAcute,2)U+0331
+dk(undlMid)			+ any(vowel)	>  index(vMid,2)U+0331
+dk(undlGrave)		+ any(vowel)	>  index(vGrave,2)U+0331
+dk(undlCircum)		+ any(vowel)	>  index(vCircum,2)U+0331
+dk(undlCaron)		+ any(vowel)	>  index(vCaron,2)U+0331       
+dk(undlDownstep)	+ any(vowel)	>  index(vowel,2)U+0331 U+030B    

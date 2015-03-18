@@ -1,0 +1,125 @@
+﻿c Nigeria Unicode Dot Keyboard    
+c modified Sept 2006 script a and g removed. No longer needed because of the Literacy fonts
+c Edited December 2005 (standardized for uploading to Tavultesoft and name changed from NBTT Unicode Dots Keyboard)
+c Literacy alpha now underlined and alphabetic turned comma added
+c Edited May 2005 (Original keyboard split into three to handle different vowel treatments)
+c created by Heidi Rosendall, March 2004                                                              
+
+c This keyboard is provided along with two other keyboards to cover the expected needs
+c of Nigeria languages. The three keyboards are identical except vowels appear differently and the Literacy
+c "alpha" is added to the letter q on the Dot and Underlined keyboards
+c This is the keyboard for dotted vowels.
+
+NAME "Nigeria Unicode Dot Keyboard"
+BITMAP NigeriaDOT
+HOTKEY "%+N"
+VERSION 6.0
+
+store(&Copyright) "Copyright©2005 SIL International"
+
+begin Unicode	>	use(Main)
+store(Let2BMod)"bcdhkmnyzBCDGKLMNXY$?*"      
+store(ModLet)	"ɓçɗɦƙɲŋƴʒƁÇƊɣƘ£ƝŊƎƳ₦ʔ°"      
+store(vowel)	"aeiouAEIOU"                       
+store(vAcute)	"áéíóúÁÉÍÓÚ"                      
+store(vMid)	"āēīōūĀĒĪŌŪ"                      
+store(vGrave)	"àèìòùÀÈÌÒÙ"                       
+store(vCircum)	"âêîôûÂÊÎÔÛ"                      
+store(vCaron)	"ǎěǐǒǔǍĚǏǑǓ"   
+store(vDot)	"ạẹịọụẠẸỊỌỤ"          
+store(nasal)	"mnMN"                   
+store(nAcute)	"ḿńḾŃ"                      
+store(LetN)	"nN"                         
+store(nGrave)	"ǹǸ"                            
+store(nCaron)	"ňŇ"                          
+
+
+group(main) using keys      
+
+c DEADKEYS
+c 	single deadkeys
++ ";"	>  deadkey(modlet)     c applies to dotted vowels and letters to be modified, applies with a second deadkey to make a combo deadkey
++ "'"	>  deadkey(acute)
++ "-"	>  deadkey(mid)
++ "`" 	>  deadkey(grave) 
++ "^"	>  deadkey(circum)
++ "&"	>  deadkey(caron) 
++ "!"	>  deadkey(downstep) 
+
+c 		most single deadkeys are cleared when typed twice
+
+U+02BB	+ "'" 	> "'"       c just an acute accent  when typed three times see line 77
+dk(modlet)	+ ";"	> ";"
+dk(mid)	+ "-"	>  "-" 
+dk(grave)	+ "`"	>  "`" 
+dk(circum)	+ "^" 	>  "^" 
+dk(caron)	+ "&" 	>  "&"     
+dk(downstep) + "!" 	>  "!"
+         
+c 	combo deadkeys - (;) - for tones on dotted vowels (typing order does not matter)
+dk(modlet)	+ "'"	>  deadkey(dotAcute)
+dk(acute)	+ ";"	>  deadkey(dotAcute)            
+dk(modlet)	+ "-"	>  deadkey(dotMid)
+dk(mid)	+ ";"	>  deadkey(dotMid)
+dk(modlet)	+ "`"	>  deadkey(dotGrave)
+dk(grave)	+ ";"	>  deadkey(dotGrave)
+dk(modlet)	+ "^"	>  deadkey(dotCircum)
+dk(circum)	+ ";"	>  deadkey(dotCircum)
+dk(modlet)	+ "&"	>  deadkey(dotCaron)
+dk(caron)	+ ";"	>  deadkey(dotCaron)     
+dk(modlet)	+ "!"	>  deadkey(dotDownstep)
+dk(downstep) + ";"	>  deadkey(dotDownstep)
+
+c ASSIGNMENTS
+c 	plain letters are modified, vowels are dotted
+dk(modlet)	+ any(Let2BMod)	>  index(ModLet,2)     
+dk(modlet)	+ any(vowel)	>  index(vDot,2)
+dk(acute)	+ "'"		> U+02BB c alphabetic turned comma is two acute accents
+
+c 	plain vowels & nasals are tone marked
+c      	(Unicode does not provide a complet set of single character toned nasals so they are dealt with in different ways)
+dk(acute)	+ any(vowel)	>  index(vAcute,2)    
+dk(acute)	+ any(nasal)	>  index(nAcute,2)          
+dk(mid)	+ any(vowel)	>  index(vMid,2)      
+dk(mid)	+ any(nasal)	>  index(nasal,2)U+0304 
+dk(grave)	+ any(vowel)	>  index(vGrave,2)      
+dk(grave)	+ any(LetN)	>  index(nGrave,2)  
+dk(grave)	+ "m"		>  "m" U+0300
+dk(grave)	+ "M"		>  "M" U+0300   
+dk(circum)	+ any(vowel)	>  index(vCircum,2)    
+dk(circum)	+ any(nasal)	>  index(nasal,2)U+0302 
+dk(caron)	+ any(vowel)	>  index(vCaron,2) 
+dk(caron)	+ any(LetN)	>  index(nCaron,2)                               
+dk(caron)	+ "m"		> "m" U+030C   
+dk(caron)	+ "M"		> "M" U+030C  
+dk(downstep) + any(vowel)	>  index(vowel,2)U+030B 
+dk(downstep) + any(nasal)	>  index(nasal,2) U+030B  
+dk(downstep) + "m"		>  "m" U+030B
+dk(downstep) + "N"		>  "N" U+030B             
+dk(downstep) + "n"		>  "n" U+030B
+dk(downstep) + "M"		>  "M" U+030B
+
+c  	toned vowels are dotted
+dk(dotAcute)	+ any(vowel)	>  index(vAcute,2)U+0323
+dk(dotMid)		+ any(vowel)	>  index(vMid,2)U+0323
+dk(dotGrave)	+ any(vowel)	>  index(vGrave,2)U+0323
+dk(dotCircum)	+ any(vowel)	>  index(vCircum,2)U+0323
+dk(dotCaron)	+ any(vowel)	>  index(vCaron,2)U+0323       
+dk(dotDownstep) 	+ any(vowel)	>  index(vowel,2)U+0323 U+030B    
+
+c  	alpha receives tone 
+c 	(This letter is provided for literacy work. A complete set of odd vowels is found in a different keyboard)
+dk(acute) 	+ 'q'	> 'ɑ' U+0301
+dk(mid) 	+ 'q'	> 'ɑ' U+0304 
+dk(grave)	+ 'q'	> 'ɑ' U+0300 
+dk(circum)	+ 'q'	> 'ɑ' U+0302
+dk(caron)	+ 'q'	> 'ɑ' U+030C 
+dk(downstep) + 'q'	> 'ɑ' U+030B 
+                            
+ c 	alpha is dotted and receives tone
+dk(dotAcute)	+ 'q'	> 'ɑ' U+0301 U+0323
+dk(dotMid)		+ 'q' 	> 'ɑ' U+0304 U+0323
+dk(dotGrave)	+ 'q' 	> 'ɑ' U+0300 U+0323
+dk(dotCircum)	+ 'q'	> 'ɑ' U+0302 U+0323
+dk(dotCaron)	+ 'q'	> 'ɑ' U+030C U+0323
+dk(dotDownstep) 	+ 'q'	> 'ɑ' U+030B U+0323
