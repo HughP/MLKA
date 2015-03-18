@@ -1,7 +1,7 @@
 # Apple Keyboard Model: A1314  Wireless bluetooth keyboard
 ##ANSI Keyboard Layout
 _These are x,y coordinates for the centers of the keys. Coordinates are on a millimeter grid with 0,0, starting at the left bottom key (fn key). The bottom row of keys following ISO 9995 would be labeled “A”. Visual diagram in repo. In this keyboard all spaces between key edges are 3mm. Measurements are not laser exact for the purposes of milling but are close enough for the purposes of computing finger travel distance._
-![Keyboard layout](https://cdn.rawgit.com/HughP/MLKA/tree/master/Physical-Keyboard-Measurements/Keyboard%2520models.svg)
+![Keyboard layout](/Physical-Keyboard-Measurements/Keyboard-models.jpg)
 
 99e = 
 99d = 
