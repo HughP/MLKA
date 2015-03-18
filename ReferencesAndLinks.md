@@ -62,7 +62,10 @@ _These resources are a wide range of resources about a wide range of topics. Mos
  
 ###Android
 * **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
-* **[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard. 
+* **[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard.
+* [kasahorow-Keyboard-For-Android](https://github.com/eyedol/kasahorow-Keyboard-For-Android)
+* [AnySoftKeyboard](http://anysoftkeyboard.github.io/):  All kinds of keyboards:
+ * supporting lots of languages via external packages. E.g., English (QWERTY, DVORAK, AZERTY and Colemak), Hebrew, Russian, Arabic, Lao, Bulgarian, Swiss, German, Swedish, Spanish, Catalan, Belorussian, Portuguese, Ukrainian and many more
 
 ###iOS
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
