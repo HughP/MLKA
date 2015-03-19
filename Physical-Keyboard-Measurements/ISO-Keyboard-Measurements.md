@@ -6,8 +6,8 @@ _These are x,y coordinates for the centers of the keys. Coordinates are on a mil
 99e = 
 99d = 
 99c = 
-99b = 10.0, 25.5
-99a = 7.5, 7.5
+99b = 10.0, 25.5, 1
+99a = 7.5, 7.5, 1
 
 00e = 7.5, 79.5
 00d = 12.5, 61.5
