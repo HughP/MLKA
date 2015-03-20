@@ -38,6 +38,7 @@ _When counting characters it is important to count words, punctuation, and "lett
 _These links are to discussions and technical descriptions about text handling and text input methods as they are handeled in different operating systems._
 ###Android
 Key Character Map Files: https://source.android.com/devices/input/key-character-map-files.html
+http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html
 
 ###Linux
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
@@ -50,6 +51,7 @@ https://dev.twitter.com/overview/api/counting-characters
 
 ###OS X
 Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
+.keylayout files: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
 
 ###Windows
 https://msdn.microsoft.com/en-us/library/windows/desktop/ff468857(v=vs.85).aspx
