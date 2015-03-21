@@ -20,3 +20,4 @@ This repo is divided up into several sections. It is hard to say content is sole
 ##Measurements of keyboards
 
 ##Project code
+[Issues in Programming](/PythonHelps.md)
