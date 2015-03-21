@@ -1,6 +1,6 @@
 # MLKA
 Multi-Lingual Keyboard Assessment
-_This repo contains some code in the assesment and comparison of keyboards in multible languages. I find that very little in the literature exists about keyboard effiencdnetcy measurements across languages. More generally the problem of what characters go where are arranged discussed as the **Keyboard Arangment Problem** (KAP) or **General Keyboard Arangment Problem** (GKAP)._
+_This repo contains some code in the assessment and comparison of keyboards in multiple languages. I find that very little in the literature exists about keyboard effiencnetcy measurements across languages. More generally the problem of what characters go where are arranged discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
 
 Notes and formulas from:
 * **Yin, Peng-Yeng & En-Ping Su. 2011. Cyber Swarm optimization for general keyboard arrangement problem. International Journal of Industrial Ergonomics 41.1: 43-52.**
@@ -25,16 +25,16 @@ Single |  Multi
 Keyboards with single finger keys (SFK) |  Keyboards with Multi-finger keys (MFK)  
 Keyboards with single-character key (SCK) |  Keyboards with Multi-character keys (MCK)
 
-While the above table is aranged by Multible and Single dynamics, the simularity is more often the following:
+While the above table is arranged by Multiple and Single dynamics, the similarity is more often the following:
 
 Mobile |  Computer 
 ----|------
 Keyboards with Multi-character keys (MCK) | Keyboards with single-character key (SCK)
 Keyboards with single finger keys (SFK) | Keyboards with Multi-finger keys (MFK)
 
-Looking at the problem like this previous authors have described the problem space as button arangments which prevent there from being as many buttons as needed characters. _ As is the case with mobile phones (MCK)_ and then some of those users choose to use a single finger to do text input (SFK).
+Looking at the problem like this previous authors have described the problem space as button arrangements which prevent there from being as many buttons as needed characters. _ As is the case with mobile phones (MCK)_ and then some of those users choose to use a single finger to do text input (SFK).
 
-The second class of keyboard layouts is assumed to be that every character recives a unique key (SCK). And then that users use an ISO, JIS, or ANSI keyboard layout to do text input in a (MFK) enviroment.
+The second class of keyboard layouts is assumed to be that every character receives a unique key (SCK). And then that users use an ISO, JIS, or ANSI keyboard layout to do text input in a (MFK) environment.
 
 >However, this typology is a bit problematic for two use cases:
 >
@@ -67,7 +67,7 @@ Six ergonomic criteria:
 
 * _k_  = Keyboard Arrangement
 * _π_ = a text
-* _p_ = prediction algorithem
+* _p_ = prediction algorithm
 * _l*_ = load distribution represented as an N-dimensional vector whose _i_-th component indicates the ideal taping load on the _i_-th key
 * _l<sub>kp</sub>(π)_ = is load distribution 
 
@@ -80,7 +80,7 @@ In the following table 'd' is the distance between two keys
 
 * d = distance between two keys
 
-Penalty for matrix for consecutive hitting fingers considering four ergonmic criteria from Eggers et al. 2003.
+Penalty for matrix for consecutive hitting fingers considering four ergonomic criteria from Eggers et al. 2003.
 
  |  **2nd finger**  |||||
 ----|------|------|------|------|------
@@ -93,9 +93,9 @@ Penalty for matrix for consecutive hitting fingers considering four ergonmic cri
 
 Assumptions: 
 
-1. No penelty for two consecutive keys durring the typing if they are hit with different hands.
+1. No penalty for two consecutive keys during the typing if they are hit with different hands.
 2. The table only applies to the same hand.
-3. This table is sutable for MFK but not SFK
+3. This table is suitable for MFK but not SFK
 
 > Situations not covered:
 >
@@ -105,7 +105,7 @@ Assumptions:
 
 * N x N =??
 * τ<sub>kp</sub>(u,v) = N x N key-pair penalty coefficient matrix
-* D(π) = the set contaiing any two consecutive keys that are hit to produce π [the text].
+* D(π) = the set containing any two consecutive keys that are hit to produce π [the text].
 
 Min O<sub>2</sub>(k) = 
 
@@ -113,5 +113,5 @@ Min O<sub>2</sub>(k) =
 
 ##Assertions
 
-1. ideal load distribution occurs when 43.5% of the key storkes of done on the home row.
-2. A preditction algorithem is more better, the more distance it saves a typists; the greater the distance saved in typing the better the preditction algorithem is.
+1. ideal load distribution occurs when 43.5% of the key strokes of done on the home row.
+2. A prediction algorithm is more better, the more distance it saves a typists; the greater the distance saved in typing the better the prediction algorithm is.
