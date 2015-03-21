@@ -26,3 +26,15 @@ This repo is divided up into several sections. It is hard to say content is sole
 
 ##Project code
 [Issues in Programming](/PythonHelps.md)
+
+##Keyboard composition
+* Hardware controler codes
+* keycodes
+* character codes
+* encoded characters
+* Keyboard key press pressure
+* Key size
+* key spacing
+* keyboard tilt
+* visual characters on the key
+* Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
