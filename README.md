@@ -12,7 +12,7 @@ Also in contrast to the norms of open source licenses and collaboration practice
 
 ##Paterson papers and presentations
 _The following papers and presentations can be found in this repo as well._
-* Paterson, Hugh J., III. 2015. Assessing the difficulty of the text input task for minority languages. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i.
+* Paterson, Hugh J., III. 2015. Assessing the difficulty of the text input task for minority languages. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i. http://scholarspace.manoa.hawaii.edu/handle/10125/25318
 * Paterson, Hugh J., III. 2014. Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs. In Mari C. Jones (ed.), Endangered Languages and New Technologies, 49-66. Cambridge, UK: Cambridge University Press.
 * Paterson, Hugh J., III. 2012. Keyboard layout as part of language documentation: the case of the Meꞌphaa and Chinantec keyboards. Paper presented at CRASSH Conference Language Endangerment: Methodologies and New Challenges, Cambridge, UK.
  [Blog post](http://hugh.thejourneyler.org/2012/keyboard-design-for-minority-languages/) [Youtube video of presentation](http://youtu.be/_Z5n77NPZC0)
