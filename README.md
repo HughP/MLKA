@@ -30,7 +30,14 @@ _A review of the websites discussing the problems encountered by the compute pro
 ##Applications related keyboard analysis
 [As a subsection here](/ReferencesAndLinks.md)
 
-##Academic Papers
+##Academic fit
+The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been apporached from the perspective of applied mathmatics, computer science, design, economics, egronomics, language development, language documentation, linguistics, literacy, user expereince design. In this project I take three academic perspectives: 
+ 1. linguistics
+ 2. language development
+ 3. text input
+
+---- insert diagram ----
+
 [Academic Papers](/AcademicPapersToCheckOut.md)
 
 ##Measurements of keyboards
