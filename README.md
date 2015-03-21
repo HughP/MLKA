@@ -37,4 +37,5 @@ This repo is divided up into several sections. It is hard to say content is sole
 * key spacing
 * keyboard tilt
 * visual characters on the key
+* Keyboard layout (arangement of characters on the keyobard)
 * Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
