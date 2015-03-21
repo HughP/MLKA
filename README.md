@@ -31,7 +31,7 @@ _A review of the websites discussing the problems encountered by the compute pro
 [As a subsection here](/ReferencesAndLinks.md)
 
 ##Academic fit
-The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been apporached from the perspective of _applied mathmatics, computer science, design, economics, egronomics, language development, language documentation, linguistics, literacy, user expereince design_. In this project I take three academic perspectives: 
+The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been apporached from the perspective of _anthropology of objects, applied mathmatics, computer science, design, economics, egronomics, language development, language documentation, linguistics, literacy, user expereince design_. In this project I take three academic perspectives: 
  1. linguistics
  2. language development
  3. text input
