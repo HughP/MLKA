@@ -1,7 +1,15 @@
 # MLKA
 ##Multi-Lingual Keyboard Assessment
-_This gihub repository contains scripts, discussion and overview of keyboards and keyboard layout solutions, formulas and data used in papers, presentations (papers presented), authored or co-authored by Hugh Paterson III on the topic of User Experience in text input form minority languages. In one sense this is "not traditional open source" in that I am licensing the repo under the GPL or CC. However, I am trying to work more openly and this is the best venue I have found for that. So, Collaboration is possible, forking is also possible, and comments are always welcome (pull requests will be reviewed). The purpose of this work is to present research and rasise questions about the keyboard layout desing presented to minorty language users of text input solutions. It is my hope to make the text input process easier for languages which are discriminated against by technological norms._
 _This repo contains some code and some theory for the assessment and comparison of keyboards in multiple languages. The multi lingual nature of the perspective in this repo sets it apart from many other projects._
+
+####About
+This gihub repository contains scripts, discussion and overview of keyboards and keyboard layout solutions, formulas and data used in papers, presentations (papers presented), authored or co-authored by Hugh Paterson III on the topic of User Experience in text input form minority languages. This is part of an investigation which is a copmponent of Hugh's Masters in Linguistics.
+The purpose of this work is to present research and rasise questions about the keyboard layout desing presented to minorty language users of text input solutions. It is my hope to make the text input process easier for languages which are discriminated against by technological norms.
+
+####License and contributions
+In one sense this is "not traditional open source" in that I (Hugh) am not licensing the repo under the GPL or CC or other such . However, I am trying to work more openly and github is the best venue I have found for working openly. So, Collaboration is possible, forking is also possible, and comments and corrections are always welcome. However, until after the masters thesis is presented pull requests will be reviewed with caution because (but not necessarily outright rejected), in the academic humanities it is important (at least for my institution) to have work independent of others.
+Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will allways, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing rather than the open source tradition of nameless collaboration.
+
 
 _This repo is divided up into several sections. It is hard to say content is soley belonging to one section or anther (so cross references may exist)._
 
