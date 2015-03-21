@@ -1,5 +1,6 @@
 # MLKA
 Multi-Lingual Keyboard Assessment
+This gihub repository contains scripts, formulas and data used in papers, presentations (papers presented), authored or co-autorhed by Hugh Paterson III on the topic of User Experince in text input form minority languages. The purpose of these papers and presentations is to present research and rasise questions about the keyboard layout desing presented to minorty language users of text input solutions.
 
 _This repo contains some code and some theory for the assessment and comparison of keyboards in multiple languages. The multi lingual nature of the perspective in this repo sets it apart from many other projects. There are two major social locations where keyboard layouts are discussed:_
   1. The computer programing industry
