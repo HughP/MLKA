@@ -10,6 +10,7 @@ _A review of the websites discussing the problems encountered by the compute pro
 This repo is divided up into several sections. It is hard to say content is soley belonging to one section or anther (so cross references may exist).
 
 ##Keyboard layout theory and progression
+[Theory](/Theory.md)
 
 ##Notes and formulas from academic papers on text input
 [Notes](/notes.md)
