@@ -11,8 +11,10 @@ This repo is divided up into several sections. It is hard to say content is sole
 
 ##Keyboard layout theory and progression
 
-##Notes and formulas from Academic papers
+##Notes and formulas from academic papers on text input
 [Notes](/notes.md)
+
+##Notes and formulas from academic papers on information theory
 
 ##Applications related keyboard analysis
 
