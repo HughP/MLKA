@@ -10,14 +10,17 @@ _A review of the websites discussing the problems encountered by the compute pro
 This repo is divided up into several sections. It is hard to say content is soley belonging to one section or anther (so cross references may exist).
 
 ##Keyboard layout theory and progression
-[Theory](/Theory.md)
+_This section discusses the histroy of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the contraversy over QWERTY and Dvoak. Howerver there are more than these two layouts to be discussed._
+[Keyboard layout theory](/KeyboardLayoutTheory.md)
 
 ##Notes and formulas from academic papers on text input
 [Notes](/notes.md)
 
 ##Notes and formulas from academic papers on information theory
+[Information Theory](/InformationTheory.md)
 
 ##Applications related keyboard analysis
+[As a subsection here](/ReferencesAndLinks.md)
 
 ##Academic Papers
 [Academic Papers](/AcademicPapersToCheckOut.md)
