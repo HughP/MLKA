@@ -25,6 +25,9 @@ _These links are to discussions and technical descriptions about text handling a
 Key Character Map Files: https://source.android.com/devices/input/key-character-map-files.html
 http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html
 
+###iOS
+Keyboard Managment: https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
+
 ###Linux
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
 Keycodes, Keypress events, and Keyboard encoding: http://tronche.com/gui/x/xlib/input/keyboard-encoding.html
@@ -37,6 +40,8 @@ https://dev.twitter.com/overview/api/counting-characters
 ###OS X
 Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
 .keylayout files: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
+Text Input Source Services Reference: https://developer.apple.com/library/mac/documentation/TextFonts/Reference/TextInputSourcesReference/
+
 
 ###Windows
 https://msdn.microsoft.com/en-us/library/windows/desktop/ff468857(v=vs.85).aspx
@@ -171,6 +176,7 @@ _The applications below may not be as refined as the ones above._
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
 * [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
 * [Maltron Keyboards](http://mindprod.com/bgloss/maltron.html)
+* http://www.daskeyboard.com/
 
 ###Keypads
 * Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods
