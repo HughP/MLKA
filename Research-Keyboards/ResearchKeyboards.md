@@ -9,10 +9,10 @@ Each in a folder. Each folder contains a keyboard in one or more of the followin
     * AutoHotKey
     * MSKLC file
  * OS X
-  * OS X ```.keylayout```
-  * OS X ```.bundle```
+    * OS X ```.keylayout```
+    * OS X ```.bundle```
  * Linux
-  * XKB
+    * XKB
  * iOS
  * Android
 * A series of photos (.jpg, .png, or .svg) of each state of the keyboard layout
