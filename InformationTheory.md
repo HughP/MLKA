@@ -28,7 +28,7 @@ Fundamentally there are two measurements, _distance_ and _speed_. These measurem
 
 ##Lag and anticipated lag
 * MacKenzie, I. Scott & Colin Ware. 1993. Lag as a Determinant of Human Performance in Interactive Systems. In Stacey Ashlund et al. (eds.), Proceedings of the ACM Conference on Human Factors in Computing Systems - INTERCHI '93, 488-93. New York: ACM.
-* 
+
 ##Functional load
 * King, Robert D. 1967. A Measure For Functional Load. Studia Linguistica 21.1: 1-14.
 * Hockett, Charles F. 1969. The Quantification of Functional Load. Word 23.1: 300-20.
