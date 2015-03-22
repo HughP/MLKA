@@ -16,4 +16,8 @@ As a rundown, there are three names which seem to come up in the computer develo
 * Discussion of the colemak keyboard: http://colemak.com/
  * Colemak keyboard layout comparison: http://colemak.com/Compare
 * Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
+* http://www.makeuseof.com/tag/a-history-of-keyboard-layouts-is-qwerty-lagging-behind/
+* http://history-computer.com/ModernComputer/Basis/keyboard.html
+* http://www.xpertkeyboard.com/history.htm
+* http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
 
