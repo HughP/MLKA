@@ -4,7 +4,7 @@
 ###Fitts' law
 * Fitts, Paul M. 1954. The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology 47.6: 381-91.
 * Fitts, Paul  M. 1992. The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement. Journal of Experimental Psychology: General 121.3: 262-9.
-* 
+
 ###Shannon's Theorem 17
 
 ##General
