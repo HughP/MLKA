@@ -1,8 +1,9 @@
 #Academic Fit
-_As previously indicated, the activity of typing is incountered by a variety of academic diciplines. I divide these into two discusssions segments_: _Language Use_ and _Human-Computer Interaction._
+_As previously indicated, the activity of typing is incountered by a variety of academic disciplines. I divide these into two discusssions segments_: _Language Use_ and _Human-Computer Interaction._
 ##Langauge Use
-Under the auspices of the term _langauge use_, I classify studies in lingusitics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics.
+Under the auspices of the term _langauge use_, I classify studies in lingusitics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics. The answer to the question: _which discipline deals most closely with the task of language use in the text input task of typing_, is _Yes_. That is, they can and all do have interactions in journals which deal with the text input task.  Various disciplines also have other kinds of relevant discussions like: orthography development, font development, calligraphy, or graphemics.
 
+###Terms
 We distinguish _language documentation_ as a separate activity from _language description_ following ideas presented here:
 * Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics. Linguistics 36.1: 161-95.
 * Woodbury, Anthony C. 2003. Defining Documentary Linguistics In Peter K. Austin (ed.), Language Documentation and Description, vol. 1, 35-51. London: SOAS.
