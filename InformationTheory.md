@@ -1,11 +1,12 @@
 #Information theory
 
 ##Fitts' law and Shannon's theorem 17 with regard to typing
-Fitts' law
+###Fitts' law
 * Fitts, Paul M. 1954. The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology 47.6: 381-91.
 * Fitts, Paul  M. 1992. The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement. Journal of Experimental Psychology: General 121.3: 262-9.
-Shannon's Theorem 17
+###Shannon's Theorem 17
 
+##General
 * MacKenzie, I. Scott. 1989. A note on the information-theoretic basis for Fitts' law. Journal of Motor Behavior 21.3: 323-30
 * MacKenzie, I. Scott. 2013. A note on the validity of the Shannon formulation for Fitts’ index of difficulty. Open Journal of Applied Sciences 3.6: 360-8.
 * Soukoreff, R. William & I. Scott MacKenzie. 2009. An Informatic Rationale for the Speed-Accuracy Trade-Off. Proceedings of the 2009 IEEE International Conference on Systems, Man, and Cybernetics (San Antonio, TX, USA - October 2009), 2890-6. Piscataway, NJ, USA: IEEE Press.
@@ -17,7 +18,7 @@ Shannon's Theorem 17
 * Soukoreff, R. William & I. Scott MacKenzie. 2002. Using Fitts' Law to Model Key Repeat Time in Text Entry Models. Paper presented at Graphics Interface 2002, Calgary, Alberta, Canada.
 * Zhai, Shumin. 2002. On the Validity of Throughput as a Characteristic of Computer Input. In IBM Research Report, pp. 1-13: IBM Research Division. 21 August 2002.
 * Zhai, Shumin. 2004. Characterizing computer input with Fitts’ law parameters — The information and non-information aspects of pointing. International Journal of Human-Computer Studies 61.6: 791-809.
-* 
+
 ##Zipf's Law
 * Zipf, George. 1949. Human Behavior and the Principle of Least Effort. Cambridge, Mass: Addison-Wesley Press, Inc.
 
