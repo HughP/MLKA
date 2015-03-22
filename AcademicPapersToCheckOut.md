@@ -84,93 +84,93 @@ Six sections of this document:
 ---------------------------------------------------------------
 ORTHOGRAPHY DESIGN CITATIONS
 ---------------------------------------------------------------
-Bauernschmidt, Amy. 1980. The Ideal Orthography. Notes on Literacy 32. 12–21.
-Benton, Joseph P. 1999. How the Summer Institute of Linguistics has developed orthographies for indigenous languages of Mexico. Instituto Lingüístico de Verano.
-Easton, Catherine. 2003. Alphabet Design Workshops in Papua New Guinea: A Community-Based Approach to Orthography Development. Paper presented at Language Development, Language Revitalization and Multilingual Education in Minority Communities in Asia, Bangkok, Thailand, (6-8 November 2003). <Accessed: 03. May 2014>. http://www-01.sil.org/asia/ldc/parallel_papers/catherine_easton.pdf
-Easton, Catherine & Diane Wroge. 2012. Manual for Alphabet Design through Community Interaction for Papua New Guinea Elementary Teacher Trainers, 2nd edn (Manual for Alphabet Design through Community Interaction for Papua New Guinea Elementary Teacher Trainers). Papua New Guinea: SIL - Ukarumpa.
-Frantz, Donald G. 1978. Abstractness of phonology and Blackfoot orthography design. In William C. McCormack & Stephen A. Wurm (eds.), In Approaches to language, anthropological issues: Papers written for the IXth International Congress of Anthropological and Ethnological Sciences, Chicago, 1973 (World Anthropology Series), 307-25. The Hague: Mouton.
-Frost, Ram & Leonard Katz. 1992. Orthography, phonology, morphology, and meaning (Advances in psychology 94). Amsterdam ; New York: North-Holland.
-Hennessey, Neville W. & Kim Kirsner. 1999. The role of sub-lexical orthography in naming: a performance and acoustic analysis. Acta Psychologica 103.1–2: 125-48. http://www.sciencedirect.com/science/article/pii/S0001691899000335
-Katz, Leonard & Ram Frost. 1992. Chapter 4 The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis. In Frost Ram & Katz Leonard (eds.), Advances in Psychology, vol. 94, 67-84. North-Holland.
-Pike, Kenneth L. 1947. Phonemics, a technique for reducing languages to writing. Ann Arbor: Univ. of Michigan Press.
-Robinson, Clinton & Karl Gadelii. 2003. Choosing a script. Writing unwritten languages: a guide to the Process. UNESCO.
-Robinson, Clinton & Karl Gadelii. 2003. Writing and technology. Writing unwritten languages: a guide to the Process. UNESCO.
-Robinson, Clinton & Karl Gadelii. 2003. Writing unwritten languages: a guide to the Process. UNESCO.
-Sallabank, Julia. 2002. Writing in an unwritten language: the case of Guernsey French. Reading Working Papers in Linguistics 6. 217-44.  <Accessed: 28. April 2014>. http://www.reading.ac.uk/internal/appling/wp6/sallabank.pdf
-Snider, Keith L. 2011. Orthography and Phonological Depth. Paper presented at Linguistic Society of America Annual Meeting, Pittsburgh, Jan. 6-9, 2011, Symposium on Developing Orthographies for Unwritten Languages. <Accessed: 30 June 2012>. http://www-01.sil.org/linguistics/2011LSASymposium/downloads/Snider_LSA_2011_Orthography_Symposium.pdf
-Weber, David J. 2008. Writing an Unwritten Language. Paper presented at The National Museum of Language, (12 July 2008). <Accessed: 28. April 2014>. http://languagemuseum.org/menu/WritingAnUnwrittenLanguage.pdf
-Wedekind, Klaus & Charlotte Wedekind (eds.). 1997. The Development of Writing Systems: A Guide. Curriculum Department - The Ministry of Education - Asmara.
-Werner, Oswald. 2000. How to Reduce an Unwritten Language to Writing: II. Consonants. Field Methods 12.3: 239-50. http://fmx.sagepub.com/content/12/3/239.abstract
-Werner, Oswald. 2000. How to Reduce an Unwritten Language to Writing: I. Field Methods 12.1: 61-71. http://fmx.sagepub.com/content/12/1/61.abstract
-Werner, Oswald. 2001. How to Reduce an Unwritten Language to Writing: III. Phonetic Similarity, Suspicious Pairs, and Minimal Pairs. Field Methods 13.1: 97-102. http://fmx.sagepub.com/content/13/1/97.abstract
-Werner, Oswald. 2002. How to Reduce an Unwritten Language to Writing: IV. Complementary Distribution. Field Methods 14.2: 217-27. http://fmx.sagepub.com/content/14/2/217.abstract
-Werner, Oswald. 2002. How to Reduce an Unwritten Language to Writing: V. Problems with Phonemes. Field Methods 14.3: 337-42. http://fmx.sagepub.com/content/14/3/337.abstract
- 
+* Bauernschmidt, Amy. 1980. The Ideal Orthography. Notes on Literacy 32. 12–21.
+* Benton, Joseph P. 1999. How the Summer Institute of Linguistics has developed orthographies for indigenous languages of Mexico. Instituto Lingüístico de Verano.
+* Easton, Catherine. 2003. Alphabet Design Workshops in Papua New Guinea: A Community-Based Approach to Orthography Development. Paper presented at Language Development, Language Revitalization and Multilingual Education in Minority Communities in Asia, Bangkok, Thailand, (6-8 November 2003). <Accessed: 03. May 2014>. http://www-01.sil.org/asia/ldc/parallel_papers/catherine_easton.pdf
+* Easton, Catherine & Diane Wroge. 2012. Manual for Alphabet Design through Community Interaction for Papua New Guinea Elementary Teacher Trainers, 2nd edn (Manual for Alphabet Design through Community Interaction for Papua New Guinea Elementary Teacher Trainers). Papua New Guinea: SIL - Ukarumpa.
+* Frantz, Donald G. 1978. Abstractness of phonology and Blackfoot orthography design. In William C. McCormack & Stephen A. Wurm (eds.), In Approaches to language, anthropological issues: Papers written for the IXth International Congress of Anthropological and Ethnological Sciences, Chicago, 1973 (World Anthropology Series), 307-25. The Hague: Mouton.
+* Frost, Ram & Leonard Katz. 1992. Orthography, phonology, morphology, and meaning (Advances in psychology 94). Amsterdam ; New York: North-Holland.
+* Hennessey, Neville W. & Kim Kirsner. 1999. The role of sub-lexical orthography in naming: a performance and acoustic analysis. Acta Psychologica 103.1–2: 125-48. http://www.sciencedirect.com/science/article/pii/S0001691899000335
+* Katz, Leonard & Ram Frost. 1992. Chapter 4 The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis. In Frost Ram & Katz Leonard (eds.), Advances in Psychology, vol. 94, 67-84. North-Holland.
+* Pike, Kenneth L. 1947. Phonemics, a technique for reducing languages to writing. Ann Arbor: Univ. of Michigan Press.
+* Robinson, Clinton & Karl Gadelii. 2003. Choosing a script. Writing unwritten languages: a guide to the Process. UNESCO.
+* Robinson, Clinton & Karl Gadelii. 2003. Writing and technology. Writing unwritten languages: a guide to the Process. UNESCO.
+* Robinson, Clinton & Karl Gadelii. 2003. Writing unwritten languages: a guide to the Process. UNESCO.
+* Sallabank, Julia. 2002. Writing in an unwritten language: the case of Guernsey French. Reading Working Papers in Linguistics 6. 217-44.  <Accessed: 28. April 2014>. http://www.reading.ac.uk/internal/appling/wp6/sallabank.pdf
+* Snider, Keith L. 2011. Orthography and Phonological Depth. Paper presented at Linguistic Society of America Annual Meeting, Pittsburgh, Jan. 6-9, 2011, Symposium on Developing Orthographies for Unwritten Languages. <Accessed: 30 June 2012>. http://www-01.sil.org/linguistics/2011LSASymposium/downloads/Snider_LSA_2011_Orthography_Symposium.pdf
+* Weber, David J. 2008. Writing an Unwritten Language. Paper presented at The National Museum of Language, (12 July 2008). <Accessed: 28. April 2014>. http://languagemuseum.org/menu/WritingAnUnwrittenLanguage.pdf
+* Wedekind, Klaus & Charlotte Wedekind (eds.). 1997. The Development of Writing Systems: A Guide. Curriculum Department - The Ministry of Education - Asmara.
+* Werner, Oswald. 2000. How to Reduce an Unwritten Language to Writing: II. Consonants. Field Methods 12.3: 239-50. http://fmx.sagepub.com/content/12/3/239.abstract
+* Werner, Oswald. 2000. How to Reduce an Unwritten Language to Writing: I. Field Methods 12.1: 61-71. http://fmx.sagepub.com/content/12/1/61.abstract
+* Werner, Oswald. 2001. How to Reduce an Unwritten Language to Writing: III. Phonetic Similarity, Suspicious Pairs, and Minimal Pairs. Field Methods 13.1: 97-102. http://fmx.sagepub.com/content/13/1/97.abstract
+* Werner, Oswald. 2002. How to Reduce an Unwritten Language to Writing: IV. Complementary Distribution. Field Methods 14.2: 217-27. http://fmx.sagepub.com/content/14/2/217.abstract
+* Werner, Oswald. 2002. How to Reduce an Unwritten Language to Writing: V. Problems with Phonemes. Field Methods 14.3: 337-42. http://fmx.sagepub.com/content/14/3/337.abstract
+
 ---------------------------------------------------------------
 ORTHOGRAPHIC DEPTH
 ---------------------------------------------------------------
-Abdelhadi, Souad, Raphiq Ibrahim & Zohar Eviatar. 2011. Perceptual load in the reading of Arabic: Effects of orthographic visual complexity on detection. Writing Systems Research 3.2: 117-27.  <Accessed: 2014/05/02>. http://dx.doi.org/10.1093/wsr/wsr014
-Bigelow, Charles. 1999. The elements of typographic style. Written Language & Literacy 2.1: 156-61. http://dx.doi.org/10.1075/wll.2.1.12big
-Bird, Steven. 1998. Strategies for Representing Tone in African Writing Systems. Ms.
-Bird, Steven. 1999. Strategies for Representing Tone in African Writing Systems. Written Language & Literacy 2.1: 1-44. http://dx.doi.org/10.1075/wll.2.1.02bir
-Bolger, Patrick, Susanne R. Borgwaldt & Emőke Jakab. 2009. Letter and grapheme perception in English and Dutch. Written Language & Literacy 12.1: 116-39. http://dx.doi.org/10.1075/wll.12.1.06bol
-Das, T., P. Padakannaya, K. R. Pugh & N. C. Singh. 2011. Neuroimaging reveals dual routes to reading in simultaneous proficient readers of two orthographies. NeuroImage 54.2: 1476-87. http://www.sciencedirect.com/science/article/pii/S1053811910012036
-Frost, Ram & Leonard Katz. 1992. Orthography, phonology, morphology, and meaning (Advances in psychology 94). Amsterdam ; New York: North-Holland.
-Hennessey, Neville W. & Kim Kirsner. 1999. The role of sub-lexical orthography in naming: a performance and acoustic analysis. Acta Psychologica 103.1–2: 125-48. http://www.sciencedirect.com/science/article/pii/S0001691899000335
-Karan, Elke. 2006. Writing System Development and Reform: A Process. M.A. dissertation, University of North Dakota, Grand Forks, North Dakota.
-Katz, Leonard & Ram Frost. 1992. Chapter 4 The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis. In Frost Ram & Katz Leonard (eds.), Advances in Psychology, vol. Volume 94, 67-84. North-Holland.
-Reinking, David, Michael C. McKenna, Linda D. Labbo & Ronald D. Kieffer (eds.). 1998. Handbook of literacy and technology: transformations in a post-typographic world. Mahwah, N.J.; London: Lawrence Erlbaum Associates.
-Semali, Ladislaus & Ann Watts Pailliotet (eds.). 1999. Intermediality: the teachers' handbook of critical media literacy (The Edge: Critical Studies In Educational Theory). Boulder, Colorado: Westview Press.
+* Abdelhadi, Souad, Raphiq Ibrahim & Zohar Eviatar. 2011. Perceptual load in the reading of Arabic: Effects of orthographic visual complexity on detection. Writing Systems Research 3.2: 117-27.  <Accessed: 2014/05/02>. http://dx.doi.org/10.1093/wsr/wsr014
+* Bigelow, Charles. 1999. The elements of typographic style. Written Language & Literacy 2.1: 156-61. http://dx.doi.org/10.1075/wll.2.1.12big
+* Bird, Steven. 1998. Strategies for Representing Tone in African Writing Systems. Ms.
+* Bird, Steven. 1999. Strategies for Representing Tone in African Writing Systems. Written Language & Literacy 2.1: 1-44. http://dx.doi.org/10.1075/wll.2.1.02bir
+* Bolger, Patrick, Susanne R. Borgwaldt & Emőke Jakab. 2009. Letter and grapheme perception in English and Dutch. Written Language & Literacy 12.1: 116-39. http://dx.doi.org/10.1075/wll.12.1.06bol
+* Das, T., P. Padakannaya, K. R. Pugh & N. C. Singh. 2011. Neuroimaging reveals dual routes to reading in simultaneous proficient readers of two orthographies. NeuroImage 54.2: 1476-87. http://www.sciencedirect.com/science/article/pii/S1053811910012036
+* Frost, Ram & Leonard Katz. 1992. Orthography, phonology, morphology, and meaning (Advances in psychology 94). Amsterdam ; New York: North-Holland.
+* Hennessey, Neville W. & Kim Kirsner. 1999. The role of sub-lexical orthography in naming: a performance and acoustic analysis. Acta Psychologica 103.1–2: 125-48. http://www.sciencedirect.com/science/article/pii/S0001691899000335
+* Karan, Elke. 2006. Writing System Development and Reform: A Process. M.A. dissertation, University of North Dakota, Grand Forks, North Dakota.
+* Katz, Leonard & Ram Frost. 1992. Chapter 4 The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis. In Frost Ram & Katz Leonard (eds.), Advances in Psychology, vol. Volume 94, 67-84. North-Holland.
+* Reinking, David, Michael C. McKenna, Linda D. Labbo & Ronald D. Kieffer (eds.). 1998. Handbook of literacy and technology: transformations in a post-typographic world. Mahwah, N.J.; London: Lawrence Erlbaum Associates.
+* Semali, Ladislaus & Ann Watts Pailliotet (eds.). 1999. Intermediality: the teachers' handbook of critical media literacy (The Edge: Critical Studies In Educational Theory). Boulder, Colorado: Westview Press.
  
 ---------------------------------------------------------------
 ANTHROPOLOGY & SCRIPTS, TECHNOLOGY, AND VISUALITY,  ANTHROPOLOGY & OBJECT CULTURE
 ---------------------------------------------------------------
-Berlin, Elois Ann & Brent Berlin. 2005. Some Field Methods in Medical Ethnobiology. Field Methods 17.3: 235-68. http://fmx.sagepub.com/content/17/3/235.abstract
-Blanchon, G. 2009. Family, work, and migration: Transborder networking among Tlapanecs from "La Montana". M.A. dissertation, University of Kansas, Kansas, United States.
-Borgerson, Janet. 2005. Materiality, Agency, and the Constitution of Consuming Subjects: Insights For Consumer Research. In Geeta Menon & Akshay R. Rao (eds.), NA - Advances in Consumer Research, vol. 32, 439-43. Duluth, MN: Association for Consumer Research.
-Clarke, Alison J. (ed.) 2011. Design anthropology: object culture in the 21st century, Angewandte edn (Book Series of the University of Applied Arts Vienna). Wien; New York: Springer.
-Cook, Susan E. 2004. New Technologies and Language Change: Toward an Anthropology of Linguistic Frontiers. Annual Review of Anthropology 33. 103-15. http://www.jstor.org/stable/25064847
-Crabtree, Andrew Rouncefield Mark Tolmie Peter. 2012. Doing design ethnography. London: Springer.
-Ehrenreich, Jeffrey David. 1998. Seeing Anthropology: Cultural Anthropology through Film. American Anthropologist 100.3: 779-81. http://dx.doi.org/10.1525/aa.1998.100.3.779
-Etkin, Nina L. 1993. Anthropological methods in ethnopharmacology. Journal of Ethnopharmacology 38.2–3: 91. http://www.sciencedirect.com/science/article/pii/037887419390003N
-Grimshaw, Anna & Amanda Ravetz. 2005. Visualizing anthropology. Bristol, UK; Portland, OR: Intellect.
-Gunn, Wendy & Jared Donovan (eds.). 2012. Design and anthropology (Anthropological studies of creativity and perception). Ashgate.
-Hårsmar, Mats. 2011. Induced, Diffused or Systemic Innovation? Technical Change in sub-Saharan Smallholder Agriculture. Paper presented at Economists of Tomorrow: 13th Conference of the Association for Heterodox Economics, Nottingham Trent University, UK, (6-9 July, 2011). <Accessed: 27. April 2014>. http://www.hetecon.net/documents/ConferencePapers/2011Refereed/Harsmar_AHE2011050R.pdf
-Hayami, Yujiro  & Vernon W. Ruttan. 1971. Induced Innovation in Agricultural Development (Center for Economics Research, Department of Economics Discussion Papers
- No.3). Minneapolis, Minnesota: University of Minnesota.
-Heider, Karl G. Blakely Pamela A. Reese Blakely Thomas D. 2007. Seeing anthropology: cultural anthropology through film. Boston: Pearson/Allyn and Bacon.
-Higgins, Patricia J. 1998. Seeing Anthropology: Cultural Anthropology through Film. Anthropology & Education Quarterly 29.3: 385-7. http://dx.doi.org/10.1525/aeq.1998.29.3.385
-Macintyre, Martha. 1984. The problem of the semi-alienable pig. Canberra Anthropology 7.1: 109-22. http://www.informaworld.com/10.1080/03149098409508563
-Pearson, Sarina. 2000. Review: Seeing Anthropology: Cultural Anthropology Through Film by Karl G HEIDER. The Journal of the Polynesian Society 109.3: 320-2. http://www.jstor.org/stable/20706939
-Pike, Kenneth L., Thomas N. Headland & Marvin Harris (eds.). 1990. Emics and Etics: The Insider/Outsider Debate (Frontiers of Anthropology 7). SAGE Publications, Inc.
-Price, David H. 2008. Anthropological intelligence: the deployment and neglect of American anthropology in the Second World War. Durham: Duke University Press.
-Price, David H. 2011. Weaponizing anthropology: social science in service of the militarized state. Petrolia, Calif.; Oakland, Calif.: CounterPunch ; AK Press.
-Rabinow, Paul , George E. Marcus, James D. Faubion & Tobias Rees. 2008. Designs for an anthropology of the contemporary. Durham; London: Duke University Press.
-Worth, Sol Adair John. 1972. Through Navajo eyes; an exploration in film communication and anthropology. Bloomington: Indiana University Press.
+* Berlin, Elois Ann & Brent Berlin. 2005. Some Field Methods in Medical Ethnobiology. Field Methods 17.3: 235-68. http://fmx.sagepub.com/content/17/3/235.abstract
+* Blanchon, G. 2009. Family, work, and migration: Transborder networking among Tlapanecs from "La Montana". M.A. dissertation, University of Kansas, Kansas, United States.
+* Borgerson, Janet. 2005. Materiality, Agency, and the Constitution of Consuming Subjects: Insights For Consumer Research. In Geeta Menon & Akshay R. Rao (eds.), NA - Advances in Consumer Research, vol. 32, 439-43. Duluth, MN: Association for Consumer Research.
+* Clarke, Alison J. (ed.) 2011. Design anthropology: object culture in the 21st century, Angewandte edn (Book Series of the University of Applied Arts Vienna). Wien; New York: Springer.
+* Cook, Susan E. 2004. New Technologies and Language Change: Toward an Anthropology of Linguistic Frontiers. Annual Review of Anthropology 33. 103-15. http://www.jstor.org/stable/25064847
+* Crabtree, Andrew Rouncefield Mark Tolmie Peter. 2012. Doing design ethnography. London: Springer.
+* Ehrenreich, Jeffrey David. 1998. Seeing Anthropology: Cultural Anthropology through Film. American Anthropologist 100.3: 779-81. http://dx.doi.org/10.1525/aa.1998.100.3.779
+* Etkin, Nina L. 1993. Anthropological methods in ethnopharmacology. Journal of Ethnopharmacology 38.2–3: 91. http://www.sciencedirect.com/science/article/pii/037887419390003N
+* Grimshaw, Anna & Amanda Ravetz. 2005. Visualizing anthropology. Bristol, UK; Portland, OR: Intellect.
+* Gunn, Wendy & Jared Donovan (eds.). 2012. Design and anthropology (Anthropological studies of creativity and perception). Ashgate.
+* Hårsmar, Mats. 2011. Induced, Diffused or Systemic Innovation? Technical Change in sub-Saharan Smallholder Agriculture. Paper presented at Economists of Tomorrow: 13th Conference of the Association for Heterodox Economics, Nottingham Trent University, UK, (6-9 July, 2011). <Accessed: 27. April 2014>. http://www.hetecon.net/documents/ConferencePapers/2011Refereed/Harsmar_AHE2011050R.pdf
+* Hayami, Yujiro  & Vernon W. Ruttan. 1971. Induced Innovation in Agricultural Development (Center for Economics Research, Department of Economics Discussion Papers
+*  No.3). Minneapolis, Minnesota: University of Minnesota.
+* Heider, Karl G. Blakely Pamela A. Reese Blakely Thomas D. 2007. Seeing anthropology: cultural anthropology through film. Boston: Pearson/Allyn and Bacon.
+* Higgins, Patricia J. 1998. Seeing Anthropology: Cultural Anthropology through Film. Anthropology & Education Quarterly 29.3: 385-7. http://dx.doi.org/10.1525/aeq.1998.29.3.385
+* Macintyre, Martha. 1984. The problem of the semi-alienable pig. Canberra Anthropology 7.1: 109-22. http://www.informaworld.com/10.1080/03149098409508563
+* Pearson, Sarina. 2000. Review: Seeing Anthropology: Cultural Anthropology Through Film by Karl G HEIDER. The Journal of the Polynesian Society 109.3: 320-2. http://www.jstor.org/stable/20706939
+* Pike, Kenneth L., Thomas N. Headland & Marvin Harris (eds.). 1990. Emics and Etics: The Insider/Outsider Debate (Frontiers of Anthropology 7). SAGE Publications, Inc.
+* Price, David H. 2008. Anthropological intelligence: the deployment and neglect of American anthropology in the Second World War. Durham: Duke University Press.
+* Price, David H. 2011. Weaponizing anthropology: social science in service of the militarized state. Petrolia, Calif.; Oakland, Calif.: CounterPunch ; AK Press.
+* Rabinow, Paul , George E. Marcus, James D. Faubion & Tobias Rees. 2008. Designs for an anthropology of the contemporary. Durham; London: Duke University Press.
+* Worth, Sol Adair John. 1972. Through Navajo eyes; an exploration in film communication and anthropology. Bloomington: Indiana University Press.
  
 ---------------------------------------------------------------
 TYPING ERRORS AND SLIPS OF ACTION
 ---------------------------------------------------------------
-Al‐Ajmi, Hashan. 2002. Which Microstructural Features of Bilingual Dictionaries Affect Users' Look‐Up Performance? International Journal of Lexicography 15.2: 119-31. http://ijl.oxfordjournals.org/content/15/2/119.abstract
-Arif, A. S. & W. Stuerzlinger. 2009. Analysis of text entry performance metrics. Science and Technology for Humanity (TIC-STH), 2009 IEEE Toronto International Conference, 100-5.
-Back, Michele & Miguel Zepeda. 2013. Performing and Positioning Orthography in Peruvian CMC. Journal of Computer-Mediated Communication 18.2: 119-35. http://dx.doi.org/10.1111/jcc4.12004
-Botvinick, Matthew M. & Lauren M. Bylsma. 2005. Distraction and action slips in an everyday task: Evidence for a dynamic representation of task context. Psychonomic Bulletin & Review 12.6: 1011-7. http://dx.doi.org/10.3758/BF03206436
-Chen, Tianyi, Yeliz Yesilada & Simon Harper. 2010. What input errors do you experience? Typing and pointing errors of mobile Web users. International Journal of Human-Computer Studies 68.3: 138-57. http://www.sciencedirect.com/science/article/pii/S1071581909001578
-Dealey, William L. & August Dvorak. 1933. Why and Wherefore of Typewriting Errors. The Journal of Business Education 9.3: 19-20.  <Accessed: 2013/01/05>. http://dx.doi.org/10.1080/08832323.1933.9959010
-Kano, Akiyo. 2008. MECE Method For Categorising Typing Errors. In David England (ed.), Proceedings of the 22nd British HCI Group Annual Conference on People and Computers: Culture, Creativity, Interaction, vol. 2, 249-50.
-Kano, Akiyo. 2011. Adding Context to Automated Text Input Error Analysis with Reference to Understanding How Children Make Typing Errors. Ph.D. dissertation, University of Central Lancashire, Preston, UK.
-Kano, Akiyo & Janet C. Read. 2009. Text input error categorisation: solving character level insertion ambiguities using Zero Time analysis. People and Computers XXIII Celebrating People and Technology: Proceedings of the 2009 British Computer Society Conference on Human-Computer Interaction, BCS-HCI 2009, Cambridge, United Kingdom, 1-5 September 2009, 293-302. ACM Press.
-Kano, Akiyo & Janet C. Read. 2009. Causes of Simultaneous Keystrokes in Children and Adults. In Tom Gross et al. (eds.), Human-Computer Interaction – INTERACT 2009 (Lecture Notes in Computer Science 5726), 137-40. Heidelberg: Springer Berlin.
-Kano, Akiyo, Janet C. Read, Alan Dix & I. Scott MacKenzie. 2007. ExpECT: An Expanded Error Categorisation Method for Text Input. In Linden J. Ball et al. (eds.), People and Computers XXI – HCI… but not as we know it: Proceedings of HCI 2007, vol. 1, 147-56. ACM Press.
-Li, Jun, Karim Ouazzane, Hassan Kazemian, Yanguo Jing & Richard Boyd. 2011. A neural network based solution for automatic typing errors correction. Neural Computing and Applications 20.6: 889-96. http://dx.doi.org/10.1007/s00521-010-0492-3
-MacNeilage, Peter F. 1964. Typing Errors as Clues to Serial Ordering Mechanisms in Language Behaviour. Language and Speech 7.3: 144-59. http://las.sagepub.com/cgi/content/abstract/7/3/144
-Major, Roy C. 2008. Transfer in Second Language Phonology: A Review. In Jette G. Hansen Edwards & Mary L. Zampini (eds.), Phonology and second language acquisition (Studies in Bilingualism (SiBil) 36), 63-93. Amsterdam; Philadelphia: John Benjamins Publishing.
-Naoya, Hirose. 2001. Intention and Slips of Action. 京都大学大学院教育学研究科紀要 47. 261-73.  <Accessed: 26. April 2014>. http://hdl.handle.net/2433/57407
-Norman, Donald A. 1981. Categorization of action slips. Psychological Review 88.1: 1-15. http://psycnet.apa.org/journals/rev/88/1/1/
-Peterson, James L. 1986. A note on undetected typing errors. Commun. ACM 29.7: 633-7.
-Rodríguez, Néstor J. and Diaz, Maria I. . 2007. Word Processing in Spanish Using an English Keyboard: A Study of Spelling Errors. . In Nuray M. Aykin (ed.), UI-HCII 2007 - Usability and Internationalization. Global and Local User Interfaces - Part II July 22-27, 2007, Beijing, China (Lecture Notes in Computer Science 4560), 219-27. Berlin and Heidelberg: Springer.
-Sagonas, Konstantinos, Josep Silva & Salvador Tamarit. 2013. Precise explanation of success typing errors. Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and program manipulation, 2426897, 33-42. New York, NY, USA: ACM.
-Sagonas, Konstantinos, Josep Silva & Salvador Tamarit. 2013. Precise explanation of success typing errors. Paper presented at Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and program manipulation, Rome, Italy. <Accessed:
+* Al‐Ajmi, Hashan. 2002. Which Microstructural Features of Bilingual Dictionaries Affect Users' Look‐Up Performance? International Journal of Lexicography 15.2: 119-31. http://ijl.oxfordjournals.org/content/15/2/119.abstract
+* Arif, A. S. & W. Stuerzlinger. 2009. Analysis of text entry performance metrics. Science and Technology for Humanity (TIC-STH), 2009 IEEE Toronto International Conference, 100-5.
+* Back, Michele & Miguel Zepeda. 2013. Performing and Positioning Orthography in Peruvian CMC. Journal of Computer-Mediated Communication 18.2: 119-35. http://dx.doi.org/10.1111/jcc4.12004
+* Botvinick, Matthew M. & Lauren M. Bylsma. 2005. Distraction and action slips in an everyday task: Evidence for a dynamic representation of task context. Psychonomic Bulletin & Review 12.6: 1011-7. http://dx.doi.org/10.3758/BF03206436
+* Chen, Tianyi, Yeliz Yesilada & Simon Harper. 2010. What input errors do you experience? Typing and pointing errors of mobile Web users. International Journal of Human-Computer Studies 68.3: 138-57. http://www.sciencedirect.com/science/article/pii/S1071581909001578
+* Dealey, William L. & August Dvorak. 1933. Why and Wherefore of Typewriting Errors. The Journal of Business Education 9.3: 19-20.  <Accessed: 2013/01/05>. http://dx.doi.org/10.1080/08832323.1933.9959010
+* Kano, Akiyo. 2008. MECE Method For Categorising Typing Errors. In David England (ed.), Proceedings of the 22nd British HCI Group Annual Conference on People and Computers: Culture, Creativity, Interaction, vol. 2, 249-50.
+* Kano, Akiyo. 2011. Adding Context to Automated Text Input Error Analysis with Reference to Understanding How Children Make Typing Errors. Ph.D. dissertation, University of Central Lancashire, Preston, UK.
+* Kano, Akiyo & Janet C. Read. 2009. Text input error categorisation: solving character level insertion ambiguities using Zero Time analysis. People and Computers XXIII Celebrating People and Technology: Proceedings of the 2009 British Computer Society Conference on Human-Computer Interaction, BCS-HCI 2009, Cambridge, United Kingdom, 1-5 September 2009, 293-302. ACM Press.
+* Kano, Akiyo & Janet C. Read. 2009. Causes of Simultaneous Keystrokes in Children and Adults. In Tom Gross et al. (eds.), Human-Computer Interaction – INTERACT 2009 (Lecture Notes in Computer Science 5726), 137-40. Heidelberg: Springer Berlin.
+* Kano, Akiyo, Janet C. Read, Alan Dix & I. Scott MacKenzie. 2007. ExpECT: An Expanded Error Categorisation Method for Text Input. In Linden J. Ball et al. (eds.), People and Computers XXI – HCI… but not as we know it: Proceedings of HCI 2007, vol. 1, 147-56. ACM Press.
+* Li, Jun, Karim Ouazzane, Hassan Kazemian, Yanguo Jing & Richard Boyd. 2011. A neural network based solution for automatic typing errors correction. Neural Computing and Applications 20.6: 889-96. http://dx.doi.org/10.1007/s00521-010-0492-3
+* MacNeilage, Peter F. 1964. Typing Errors as Clues to Serial Ordering Mechanisms in Language Behaviour. Language and Speech 7.3: 144-59. http://las.sagepub.com/cgi/content/abstract/7/3/144
+* Major, Roy C. 2008. Transfer in Second Language Phonology: A Review. In Jette G. Hansen Edwards & Mary L. Zampini (eds.), Phonology and second language acquisition (Studies in Bilingualism (SiBil) 36), 63-93. Amsterdam; Philadelphia: John Benjamins Publishing.
+* Naoya, Hirose. 2001. Intention and Slips of Action. 京都大学大学院教育学研究科紀要 47. 261-73.  <Accessed: 26. April 2014>. http://hdl.handle.net/2433/57407
+* Norman, Donald A. 1981. Categorization of action slips. Psychological Review 88.1: 1-15. http://psycnet.apa.org/journals/rev/88/1/1/
+* Peterson, James L. 1986. A note on undetected typing errors. Commun. ACM 29.7: 633-7.
+* Rodríguez, Néstor J. and Diaz, Maria I. . 2007. Word Processing in Spanish Using an English Keyboard: A Study of Spelling Errors. . In Nuray M. Aykin (ed.), UI-HCII 2007 - Usability and Internationalization. Global and Local User Interfaces - Part II July 22-27, 2007, Beijing, China (Lecture Notes in Computer Science 4560), 219-27. Berlin and Heidelberg: Springer.
+* Sagonas, Konstantinos, Josep Silva & Salvador Tamarit. 2013. Precise explanation of success typing errors. Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and program manipulation, 2426897, 33-42. New York, NY, USA: ACM.
+* Sagonas, Konstantinos, Josep Silva & Salvador Tamarit. 2013. Precise explanation of success typing errors. Paper presented at Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and program manipulation, Rome, Italy.
  
 ---------------------------------------------------------------
 GENERAL CITATIONS ON: LANGUAGE DOCUMENTATION, OR ORTHOGRAPHY, OR KEYBOARD TEXT INPUT
