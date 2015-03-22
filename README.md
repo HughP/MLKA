@@ -23,23 +23,13 @@ _The following papers and presentations can be found in this repo as well._
 _This repo is divided up into several sections. It is hard to say content is solely belonging to one section or anther (so cross references may exist)._
 
 ##Keyboard layout theory and progression
-_This section discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak. However there are more than these two layouts to be discussed._
+_This section discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
 _There are two major social locations where keyboard layouts are discussed:_
   1. The computer programing industry
   2. The professional academic literature
 
 _A review of the websites discussing the problems encountered by the compute programing industry reveal very little about multi-lingual or non-English/Roman Script discussions. A review of the professional literature including technical journals, and journals focused on ergonomics find that very little in the literature exists about keyboard efficiency measurements across languages. More generally in the academic literature the problem of what characters go where on a keyboard layout, that is how they are arranged, is discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
 [Keyboard layout theory](/KeyboardLayoutTheory.md)
-
-##Notes and formulas from academic papers on text input
-[Notes](/notes.md)
-
-##Notes and formulas from academic papers on information theory
-[Information Theory](/InformationTheory.md)
-
-##Applications related keyboard analysis
-_This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/ReferencesAndLinks.md)
 
 ##Academic fit
 The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics, human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
@@ -52,7 +42,18 @@ While it is simple to narrow down the choice of academic disciplines to two, it 
 
 [Academic Papers](/AcademicPapersToCheckOut.md)
 
+##Notes and formulas from academic papers on text input
+[Notes](/notes.md)
+
+##Notes and formulas from academic papers on information theory
+[Information Theory](/InformationTheory.md)
+
+##Applications related keyboard analysis
+_This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
+[As a subsection here](/ReferencesAndLinks.md)
+
 ##Measurements of keyboards
+_This section considers the physical measurement of keyboards._
 
 ##Project code
 [Issues in Programming](/PythonHelps.md)
