@@ -5,6 +5,7 @@ _These are refences and links about text input methods and digital writing. Incl
 
 ###Physical keyboards
 * a discussion about a custom input solution: http://boards.openpandora.org/topic/15403-pyra-keyboard-layout-requirement-analysis/page-2
+* http://www.wasdkeyboards.com/index.php/wasd-v2-105-key-iso-custom-mechanical-keyboard.html
 
 ###Overlays and stikers
 
