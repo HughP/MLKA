@@ -38,3 +38,12 @@ Fundamentally there are two measurements, _distance_ and _speed_. These measurem
 * Seeber, Kilian G. 2013. Cognitive load in simultaneous interpreting: Measures and methods. Target: International Journal on Translation Studies 25.1: 18-32.
 * Christensen, Carol A. 2004. Relationship between orthographic-motor integration and computer use for the production of creative and well-structured written text. British Journal of Educational Psychology 74.4: 551-64.
 * Haapalainen, Eija, Seung Jun Kim, Jodi F. Forlizzi & Anind K. Dey. 2010. Psycho-Physiological Measures for Assessing Cognitive Load. 12th ACM International Conference on Ubiquitous computing in Copenhagen, Denmark (26-29 September 2010) 301-10. New York: ACM.
+
+##Entropy
+* Schiffer, Marcelo. 1991. Shannon's information is not entropy. Physics Letters A 154.7–8: 361-5.
+* Genzel, Dmitriy & Eugene Charniak. 2002. Entropy rate constancy in text. Paper presented at Proceedings of the 40th Annual Meeting on Association for Computational Linguistics, Philadelphia, Pennsylvania.
+* Yang, Yangrui, Lei Guo, Hongzhi Yu & Ning Ma. 2010. The Measurement of Functional Load and Application in Tibetan. Paper presented at Fifth International Conference on Frontier of Computer Science and Technology (FCST), 2010, Changchun, Jilin Province, China.
+* Behr, F., V. Fossum, M. Mitzenmacher & D. Xiao. 2003. Estimating and comparing entropies across written natural languages using PPM compression. Paper presented at Data Compression Conference, 2003. Proceedings. DCC 2003.
+* Levitin, Lev B. & Zeev Reingold. 1994. Entropy of natural languages: Theory and experiment. Chaos, Solitons & Fractals 4.5: 709-43.
+* Zhang, Le. Maximum Entropy Modeling. 29. December 2014>. http://homepages.inf.ed.ac.uk/lzhang10/maxent.html
+* Guerrero, Fabio G. 2012. On the Entropy of Written Spanish. Revista Colombiana de Estadística 35.3: 425-42.
