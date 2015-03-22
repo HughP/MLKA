@@ -37,13 +37,15 @@ _A review of the websites discussing the problems encountered by the compute pro
 [Information Theory](/InformationTheory.md)
 
 ##Applications related keyboard analysis
+_This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 [As a subsection here](/ReferencesAndLinks.md)
 
 ##Academic fit
-The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been apporached from the perspective of _anthropology of objects, applied mathmatics, computer science, design, economics, egronomics, language development, language documentation, linguistics, literacy, user expereince design_. In this project I take three academic perspectives: 
- 1. linguistics
- 2. language development
- 3. text input
+The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been apporached from the perspective of _anthropology of objects, applied mathmatics, computer science, design, economics, egronomics, human-computer inertaction, language development, language documentation, linguistics, literacy, user expereince design_. In this project I take two academic perspectives: 
+ 1. language use
+ 2. human-computer interaction
+
+While it is simple to narrow down the choice of academic disciplines to two, it is difficult and some description of how the keyboarding task fits within these two academic disciplines is shown in the following diagram.
 
 ---- insert diagram ----
 
