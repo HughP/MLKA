@@ -1,3 +1,23 @@
+#Academic Fit
+_As previously indicated, the activity of typing is incountered by a variety of academic diciplines. I divide these into two discusssions segments_: _Language Use_ and _Human-Computer Interaction._
+##Langauge Use
+Under the auspices of the term _langauge use_, I classify studies in lingusitics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics.
+
+We distinguish _language documentation_ as a separate activity from _language description_ following ideas presented here:
+* Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics. Linguistics 36.1: 161-95.
+* Woodbury, Anthony C. 2003. Defining Documentary Linguistics In Peter K. Austin (ed.), Language Documentation and Description, vol. 1, 35-51. London: SOAS.
+* Woodbury, Anthony C. 2011. Language documentation. In Julia Sallabank Peter K. Austin (ed.), The Cambridge Handbook of Endangered Languages (Cambridge Handbooks in Language and Linguistics), 159-86. Cambridge: Cambridge University Press.
+
+We distinguish _language development_ as a separate activity from _language documentation_ following ideas presented here:
+* Ferguson, Charles Albert. 1968. Language development. In Joshua A. Fishman, Charles Albert Ferguson & Jyotirindra Das Gupta (eds.), Language problems of developing nations, 27-35. New York: John Wiley & Sons, Inc.
+* Simons, Gary F. 2011. On defining language development. Poster presented at 2nd International Conference on Language Documentation and Conservation, University of Hawaii, 11–13 February 2011.
+
+We distinguish _language revitalization/conservation_ as a separate activity from _language documentation_, and/or _language description_ following ideas presented here:
+* Boerger, Brenda. 2011. To BOLDly Go Where No One Has Gone Before. Language Documentation & Conservation. 5: 208-233. http://hdl.handle.net/10125/4499
+
+##Human-Computer Interaction
+
+
 ##Handwriting and diacritic use or lack of use
 * Recognizing Vietnamese Online Handwritten Separated Characters [10.1109/ALPIT.2008.58](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4584380&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4584380) 
 
