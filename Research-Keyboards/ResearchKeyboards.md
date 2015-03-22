@@ -3,8 +3,8 @@ _This folder contains research keyboards._
 ##Composition of folders
 Each in a folder. Each folder contains a keyboard in one or more of the following:
 * A keyboard definition file such as:
- * Multi platform
-  * Keyman ```.kmn```
+ *Multi platform
+   * Keyman ```.kmn```
  * Windows
   * AutoHotKey
   * MSKLC file
