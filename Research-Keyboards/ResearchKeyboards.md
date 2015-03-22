@@ -17,6 +17,7 @@ Each in a folder. Each folder contains a keyboard in one or more of the followin
  * Android
 * A series of photos (.jpg, .png, or .svg) of each state of the keyboard layout
 * A training text designed to be used with that keyboard
-The folders are to be labled as follows: ISO 639-3 code, Language name following the ISO 639-3 designated name, then the script name following ISO 15924
+The folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html).
+
 ##List of folders
 * 
