@@ -10,7 +10,7 @@ The purpose of this work is to present research and raises questions about the k
 In one sense this is "not traditional open source" in that I (Hugh) am not licensing the repo under the GPL or CC or other such license. However, I am attempting to work more openly and github is the best venue I have found for working openly. So, collaboration is possible, forking the repo is also possible, and comments and corrections are always welcome. However, until after the masters thesis is presented, pull requests will be reviewed with caution (but not necessarily outright rejected). this is simply because in the academic humanities it is important (at least for my institution) to have work independent of others, as such independence is the basis of "originality".
 Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing rather than the open source tradition of nameless collaboration.
 
-##Paterson papers and presentations
+##Papers and presentations
 _The following papers and presentations can be found in this repo as well._
 * Paterson, Hugh J., III. 2015. _Assessing the difficulty of the text input task for minority languages_. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i. http://scholarspace.manoa.hawaii.edu/handle/10125/25318
  * [[In Repo Content](2015%20-%20ICLDC%20-%20Assessing%20the%20difficulty%20Presentation)] [[Archived Audio and Slides at UH Moana](http://scholarspace.manoa.hawaii.edu/handle/10125/25318)]
@@ -19,6 +19,7 @@ _The following papers and presentations can be found in this repo as well._
 * Paterson, Hugh J., III. 2012. _Keyboard layout as part of language documentation: the case of the Meꞌphaa and Chinantec keyboards_. Paper presented at CRASSH Conference Language Endangerment: Methodologies and New Challenges, Cambridge, UK.
  * [[In Repo Content](/2012%20-%20Paper%20presented%20at%20CRASSH)] [[Blog post](http://hugh.thejourneyler.org/2012/keyboard-design-for-minority-languages/)] [[Youtube video of presentation](http://youtu.be/_Z5n77NPZC0)]
 
+#Organization
 _This repo is divided up into several sections. It is hard to say content is solely belonging to one section or anther (so cross references may exist)._
 
 ##Keyboard layout theory and progression
