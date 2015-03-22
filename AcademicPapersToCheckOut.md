@@ -1,7 +1,7 @@
 #Academic Fit
-_As previously indicated, the activity of typing is incountered by a variety of academic disciplines. I divide these into two discusssions segments_: _Language Use_ and _Human-Computer Interaction._
+_As previously indicated, the activity of typing is encountered by a variety of academic disciplines. I divide these into two discussions segments_: _Language Use_ and _Human-Computer Interaction._
 ##Langauge Use
-Under the auspices of the term _langauge use_, I classify studies in lingusitics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics. The answer to the question: _which discipline deals most closely with the task of language use in the text input task of typing_, is _Yes_. That is, they can and all do have interactions in journals which deal with the text input task.  Various disciplines also have other kinds of relevant discussions like: orthography development, font development, calligraphy, or graphemics.
+Under the auspices of the term _language use_, I classify studies in linguistics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics. The answer to the question: _which discipline deals most closely with the task of language use in the text input task of typing_, is _Yes_. That is, they can and all do have interactions in journals which deal with the text input task.  Various disciplines also have other kinds of relevant discussions like: orthography development, font development, calligraphy, or graphemics.
 
 ###Terms
 We distinguish _language documentation_ as a separate activity from _language description_ following ideas presented here:
@@ -17,7 +17,7 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 * Boerger, Brenda. 2011. To BOLDly Go Where No One Has Gone Before. Language Documentation & Conservation. 5: 208-233. http://hdl.handle.net/10125/4499
 
 ##Human-Computer Interaction
-
+Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction --> Text Input --> Typing --> Keyboard Typing.
 
 ##Handwriting and diacritic use or lack of use
 * Recognizing Vietnamese Online Handwritten Separated Characters [10.1109/ALPIT.2008.58](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4584380&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4584380) 
@@ -64,16 +64,9 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 
 ----
 #Academic citations
-_From the biblography listed on [pastbin.com](http://pastebin.com/bcCP70Nb)_
-This Document is a collection of citations on issues around language documentation, and text entry, and social use of text based devices for speakers/users of minority languages.
- 
-It has been put together by Hugh Paterson III on 03. May 2014
-It is shared Creative Commons, By Attribution, Non-Commercial  -- CC-BY-NC 4.0
- 
-If you find it useful or want to share a resource back please contact Hugh. hugh at thejourneyler dot org.
-Contact Hugh if you want this list in  BibTeX, .ris, or EndnoteXML
- 
-Six sections of this document:
+_From the bibliography listed on [pastbin.com](http://pastebin.com/bcCP70Nb) which is a collection of citations on issues around language documentation, and text entry, and the social use of text based devices for speakers/users of minority languages._ These citations may end up being integrated into other parts of this repo.
+  
+Six sections of the bibliography:
 -- ORTHOGRAPHY DESIGN CITATIONS
 -- ORTHOGRAPHIC DEPTH
 -- ANTHROPOLOGY & SCRIPTS, TECHNOLOGY, AND VISUALITY;  ANTHROPOLOGY & OBJECT CULTURE
