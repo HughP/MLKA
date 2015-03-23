@@ -54,6 +54,9 @@ _This section includes mostly a description of software used in various keyboard
 
 ##Measurements of keyboards
 _This section considers the physical measurement of keyboards._
+###Keyboard key centers
+###Keyboard angle
+* Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 
 ##Project code
 [Issues in Programming](/PythonHelps.md)
