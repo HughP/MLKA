@@ -45,3 +45,4 @@ _Several resources about character frequency._
 * Steno: http://plover.stenoknight.com/
 * http://www.michaelcapewell.com/projects/keyboard/index.htm#The_Coming_Capewell_Layout_
 * http://web.archive.org/web/20091027065630/http://geocities.com/smozoma/projects/keyboard/layout_capewell.htm
+* http://shenafu.com/layout.php
