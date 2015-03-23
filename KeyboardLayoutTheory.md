@@ -21,3 +21,27 @@ As a rundown, there are three names which seem to come up in the computer develo
 * http://www.xpertkeyboard.com/history.htm
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
 
+##Character Frequency
+_Several resources about character frequency._
+* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.394.1855&rep=rep1&type=pdf
+* http://www.letterfrequency.org/
+* http://mdickens.me/typing/theory-of-letter-frequency.html
+* http://norvig.com/mayzner.html
+* 
+
+
+##Website based apps for teaching typing
+* http://www.ratatype.com/
+* http://play.typeracer.com/
+* 
+
+##Lists of Keyboard Layouts
+* http://mdickens.me/typing/alternative_layouts.html
+* http://www.minimak.org/download/
+* http://web.archive.org/web/20050306181446/http://www.pvv.org/~hakonhal/keyboard/
+* http://web.archive.org/web/20100125112901/http://www.pvv.org/~hakonhal/main.cgi/keyboard/arensito_devel
+* http://web.archive.org/web/20091027065630/http://geocities.com/smozoma/projects/keyboard/layout_capewell.htm
+* http://mtgap.bilfo.com/completed_keyboard.html
+* Steno: http://plover.stenoknight.com/
+* http://www.michaelcapewell.com/projects/keyboard/index.htm#The_Coming_Capewell_Layout_
+* http://web.archive.org/web/20091027065630/http://geocities.com/smozoma/projects/keyboard/layout_capewell.htm
