@@ -3,14 +3,14 @@
 _This repo contains some code and some theory for the assessment and comparison of keyboards in multiple languages. The multi lingual nature of the perspective in this repo sets it apart from many other projects._
 
 ####Project goals
-The goal of this project is to bring 'natural', intuitive, and easy to use typing experiences in the form of keyboard layout desings to minority language users. These language users often to not type in their own languages. This is in part because of the perception that their langauge is complext or not easy to type.
+The goal of this project is to bring 'natural', intuitive, and easy to use typing experiences in the form of keyboard layout desings to minority language users. These language users often do not type in their own languages. This is in part because of the perception that their langauge is complext or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
 The objectives of this project are threefold:
 
-1. To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include deadkeys and `alt` states.
+1. To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include `deadkeys` and `alt` states.
  * This needs to account for monolingual situations
  * This needs to account for multi-lingual situations where each language has its own keyboard
  * This needs to account for multi-lingual situations where only a single keyboard is used
-2. Based on a corpus of text in UTF-16/UTF-8 in any language and a given physical keyboard layout of ANSI, ISO, or JIS, an application needs to be able to suggest a better layout, inclusive of `alt` states and deadkey options.
+2. Based on a corpus of text in UTF-16/UTF-8 in any language and a given physical keyboard layout of ANSI, ISO, or JIS, an application needs to be able to suggest a better layout, inclusive of `alt` states and `deadkey` options.
 3. Measure the impacts of keyboards on users. (Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.
 
 ####About
@@ -18,8 +18,8 @@ This gihub repository contains scripts, discussion and overview of keyboards and
 The purpose of this work is to present research and raises questions about the keyboard layout design presented to minority language users of text input solutions. It is my hope to make the text input process easier for languages which are discriminated against by technological norms.
 
 ####License and contributions
-In one sense this is "not traditional open source" in that I (Hugh) am not licensing the repo under the GPL or CC or other such license. However, I am attempting to work more openly and github is the best venue I have found for working openly. So, collaboration is possible, forking the repo is also possible, and comments and corrections are always welcome. However, until after the masters thesis is presented, pull requests will be reviewed with caution (but not necessarily outright rejected). This is simply because in the academic humanities it is important (at least for my institution) to have work independent of others, as such independence is the basis of "originality". However, my contention with this institutional premise is that with the academic nature of publication citations, I don't see the plethora of individual work, outside of collaboration or the foundation of thought influenced by others.
-Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing rather than the open source tradition of nameless collaboration.
+In one sense this is "not traditional open source" in that I (Hugh) am not licensing the repo under the GPL or CC or other such license. However, I am attempting to work more openly and github is the best venue I have found for working openly. So, collaboration is possible, forking the repo is also technically possible, and comments and corrections are always welcome. However, until after the masters thesis is presented, pull requests will be reviewed with caution (but not necessarily outright rejected). This is simply because in the academic humanities it is important (at least for my institution) to have work independent of others, as such independence is the basis of "originality". However, my contention with this institutional premise is that with the academic nature of publication citations, I don't see the plethora of individual work, independent of collaboration or the formation of thought influenced by others. That is, [what is original anyway](https://youtu.be/c7g_oViD00I?t=8s)?
+Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing (and fair use) rather than the open source tradition of nameless collaboration. Which means, in short I may not have the legal right to license everything in this repo under a single license.
 
 ##Papers and presentations
 _The following papers and presentations can be found in this repo as well._
@@ -43,11 +43,11 @@ _A review of the websites discussing the problems encountered by the compute pro
 [Keyboard layout theory](/KeyboardLayoutTheory.md)
 
 ##Academic fit
-The Academic fit for keyboard layout assessment is difficult to pin to a single academic discipline. It has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics, human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
+The Academic fit for keyboard layout design and assessment (especiall across languages) is difficult to pin to a single academic discipline. In general the keyboard layout challenge has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics (physiology), human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
  1. language use
  2. human-computer interaction
 
-While it is simple to narrow down the choice of academic disciplines to two, it is difficult and some description of how the keyboarding task fits within these two academic disciplines is shown in the following diagram.
+While it appears simple to narrow down the choice of academic disciplines to two, deciding which two is not easy. Some description of how the keyboarding task fits within these two academic disciplines is shown in the following diagram.
 
 ---- insert diagram ----
 
