@@ -2,6 +2,17 @@
 ##Multi-Lingual Keyboard Assessment
 _This repo contains some code and some theory for the assessment and comparison of keyboards in multiple languages. The multi lingual nature of the perspective in this repo sets it apart from many other projects._
 
+####Project goals
+The goal of this project is to bring 'natural', intuitive, and easy to use typing experiences in the form of keyboard layout desings to minority language users. These language users often to not type in their own languages. This is in part because of the perception that their langauge is complext or not easy to type.
+The objectives of this project are threefold:
+
+1. To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include deadkeys and `alt` states.
+ * This needs to account for monolingual situations
+ * This needs to account for multi-lingual situations where each language has its own keyboard
+ * This needs to account for multi-lingual situations where only a single keyboard is used
+2. Based on a corpus of text in UTF-16/UTF-8 in any language and a given physical keyboard layout of ANSI, ISO, or JIS, an application needs to be able to suggest a better layout, inclusive of `alt` states and deadkey options.
+3. Measure the impacts of keyboards on users. (Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.
+
 ####About
 This gihub repository contains scripts, discussion and overview of keyboards and keyboard layout solutions, formulas and data used in papers, presentations (papers presented), authored or co-authored by Hugh Paterson III on the topic of User Experience in text input form minority languages. This is part of an investigation which is a component of Hugh's Masters in Linguistics.
 The purpose of this work is to present research and raises questions about the keyboard layout design presented to minority language users of text input solutions. It is my hope to make the text input process easier for languages which are discriminated against by technological norms.
@@ -52,8 +63,8 @@ While it is simple to narrow down the choice of academic disciplines to two, it 
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 [As a subsection here](/ReferencesAndLinks.md)
 
-##Measurements of keyboards
-_This section considers the physical measurement of keyboards._
+##Metrics of keyboard analysis
+_This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
 ###Keyboard key centers
 ###Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
