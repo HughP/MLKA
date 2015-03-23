@@ -10,8 +10,11 @@ The objectives of this project are threefold:
  * This needs to account for monolingual situations
  * This needs to account for multi-lingual situations where each language has its own keyboard
  * This needs to account for multi-lingual situations where only a single keyboard is used
-2. Based on a corpus of text in UTF-16/UTF-8 in any language and a given physical keyboard layout of ANSI, ISO, or JIS, an application needs to be able to suggest a better layout, inclusive of `alt` states and `deadkey` options.
-3. Measure the impacts of keyboards on users. (Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.
+2. Provide a best fit solution recomdnetation when provided the following:
+ * A corpus of text encoded in UTF-16 or UTF-8 in any language
+ * A user slected choice between a physical keyboard layout of ANSI, ISO, or JIS
+The application providing the best fit solution needs to be able to suggest a better layout, inclusive of `alt` states and `deadkey` options.
+3. Assess and analyse real user feedback. That is measure the impacts of keyboards on users. (Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.
 
 ####About
 This gihub repository contains scripts, discussion and overview of keyboards and keyboard layout solutions, formulas and data used in papers, presentations (papers presented), authored or co-authored by Hugh Paterson III on the topic of User Experience in text input form minority languages. This is part of an investigation which is a component of Hugh's Masters in Linguistics.
