@@ -34,3 +34,4 @@ Dead Key 1 and 2 | next key
 
 There are other keyboards available for underlined and odd vowels. You may contact Heidi Rosendall at 08035853427 or
 Patrick_Rosendall@wycliffe.org for technical assistance.
+Keyboard file can be found here: http://keymankeyboards.com/?id=379
