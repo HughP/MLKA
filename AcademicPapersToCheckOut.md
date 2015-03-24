@@ -19,6 +19,59 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 ##Human-Computer Interaction
 Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction --> Text Input --> Typing --> Keyboard Typing.
 
+
+#Some papers to read and some reasons to do it.
+
+###What is the relationship between reading text messages and regular text as measured by EEG? Is this similar to Mis-typed words and correctly typed words?
+
+* Berger, Natalie I. & Donna Coch. 2010. Do u txt? Event-related potentials to semantic anomalies in standard and texted English. Brain and Language 113.3: 135-48. http://www.sciencedirect.com/science/article/pii/S0093934X10000465
+
+###What is the effect of SMS messages?
+
+* Ganushchak, Lesya Y., Andrea Krott & Antje S. Meyer. 2010. Electroencephalographic responses to SMS shortcuts. Brain Research 1348.0: 120-7. http://www.sciencedirect.com/science/article/pii/S0006899310013612
+
+###What is the effect of unexpected information under the scope of EEG?
+
+* Michelon, Pascale, Abraham Z. Snyder, Randy L. Buckner, Mark McAvoy & Jeffrey M. Zacks. 2003. Neural correlates of incongruous visual information: An event-related fMRI study. NeuroImage 19.4: 1612-26. http://www.sciencedirect.com/science/article/pii/S1053811903001113
+
+###Uses the Key words for Typing and Keyboarding and Stress.
+
+* _Henderson, J. M., Luke, S. G., Schmidt, J., & Richards, J. E. (2013). Co-registration of 
+eye movements and event-related potentials in connected-text paragraph 
+reading. Front Syst Neurosci, 7, 28. doi: 10.3389/fnsys.2013.00028_
+
+* Kim, Y. J., & Verghese, P. (2012). The selectivity of task-dependent attention varies with
+surrounding context. J Neurosci, 32(35), 12180-12191. doi: 10.1523/JNEUROSCI.5992-11.2012
+* Sereno, S, Brewer, Camerom C, & O'Donnell, Patrick J. (2003). Context effects in word 
+recognition. Psychological Science, 14(4), 328-333. doi: 10.1111/1467-9280.14471 
+* Wieser, M. J., Gerdes, A. B., Bungel, I., Schwarz, K. A., Muhlberger, A., & Pauli, P. 
+(2014). Not so harmless anymore: How context impacts the perception and 
+electrocortical processing of neutral faces. NeuroImage, 92C, 74-82. doi: 10.1016/j.neuroimage.2014.01.022
+* Yang, Chin Lun, Perfetti, Charles A, & Schmalhofer, Franz. (2007). Event-relatedotential indicators of text integration across sentence boundaries. Learning, 
+33(1), 55-89. doi: 10.1037/0278-7393.33.1.55 
+* Baretta, L, Tomitch, L, MacNair, Nicolas, Lim, Vanessa Kwan, & Waldie, Karen 
+Elizabeth. (2009). Inference making while reading narrative and expository texts: 
+an ERP study. Psychology & Neuroscience, 2(2), 137-145. doi: 10.3922/j.psns.2009.2.005
+* Cao, F., Rickles, B., Vu, M., Zhu, Z., Chan, D. H., Harris, L. N., . . . Perfetti, C. A. (2013). 
+Early stage visual-orthographic processes predict long-term retention of word 
+form and meaning: a visual encoding training study. J Neurolinguistics, 26(4), 
+440-461. doi: 10.1016/j.jneuroling.2013.01.003
+* Carreiras, Manuel, Vergara, Marta, & Barber, Horacio. (2005). Early event-related 
+potential effects of syllabic processing during visual word recognition. Journal of 
+Cognitive Neuroscience, 17(11), 1803-1817.
+* Carreiras, Manuel, Vergara, Marta, & Barber, Horacio. (2005). Early event-related 
+potential effects of syllabic processing during visual word recognition. Journal of 
+Cognitive Neuroscience, 17(11), 1803-1817.
+* Dien, Joseph, Michelson, CA, & Franklin, Michael S. (2010). Separating the Visual 
+Sentence N400 Effect from the P400 Sequential Expectancy Effect: Cognitive 
+and Neuroanatomical Implications. Brain Research, 1355, 126-140. doi: 10.1016/j.brainres.2010.07.099
+* Dowdall, J. R., Luczak, A., & Tata, M. S. (2012). Temporal variability of the N2pc during 
+efficient and inefficient visual search. Neuropsychologia, 50(10), 2442-2453. doi: 10.1016/j.neuropsychologia.2012.06.015
+* Harris, L. N., Perfetti, C. A., & Rickles, B. (2014). Error-related negativities during 
+spelling judgments expose orthographic knowledge. Neuropsychologia, 54, 112-
+128. doi: 10.1016/j.neuropsychologia.2013.12.007
+
+
 ##Handwriting and diacritic use or lack of use
 * Recognizing Vietnamese Online Handwritten Separated Characters [10.1109/ALPIT.2008.58](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4584380&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4584380) 
 
