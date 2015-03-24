@@ -1,5 +1,5 @@
 ##Idology
-_This section is for links to resources which discuss the reasons that a keyboard layout is aranged the way it is._
+_This section is for links to resources which discuss the reasons that a keyboard layout is arranged the way it is._
 
 Perhaps the best way to start this discussion off is to layout some history.
 
@@ -28,13 +28,11 @@ _Several resources about character frequency._
 * http://www.letterfrequency.org/
 * http://mdickens.me/typing/theory-of-letter-frequency.html
 * http://norvig.com/mayzner.html
-* 
 
 
 ##Website based apps for teaching typing
 * http://www.ratatype.com/
 * http://play.typeracer.com/
-* 
 
 ##Lists of Keyboard Layouts
 * http://mdickens.me/typing/alternative_layouts.html
@@ -48,3 +46,37 @@ _Several resources about character frequency._
 * http://web.archive.org/web/20091027065630/http://geocities.com/smozoma/projects/keyboard/layout_capewell.htm
 * http://web.archive.org/web/20121101022630/http://mtgap.bilfo.com/alternative_layouts.html
 * http://shenafu.com/layout.php
+
+##My most common OS X short cuts
+
+⌘ z - undo
+⌘ x - cut
+⌘ c - copy
+⌘ v - paste
+⌘ ⇧ ⌃v - past with formatting
+⌘ q - quit
+⌘ s - save
+⌘ , - preferences
+⌘ n - new
+⌘ ⇧ n - new folder
+⌘ d - duplicate file
+⌘ f - find
+⌘ m - minimize finder window
+⌘ a - select all
+⌘ w - close window ︎/ close tab
+⌘ ⎇ w - close all windows
+⌘ r - reload/refresh browser URL
+⌘ t - New tab or Text Palette 
+⌘ o - open
+⌘ p - print
+⌘ b - bold
+⌘ i - get info / or italic
+⌘ u - underline
+fn ⌫ - delete going the other way
+⌘ ⎇ 1 - iTunes song window
+⌘ k - open server
+⌘ tab - change/cycle applications
+⌘ ⇧ tab  - change/cycle applications
+⌘ \` - change/cycle windows in application
+⌘ ⇧ \` - Cycle the other way
+ Add ↩ to omnigraphel return key
