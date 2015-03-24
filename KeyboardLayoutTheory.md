@@ -20,6 +20,7 @@ As a rundown, there are three names which seem to come up in the computer develo
 * http://history-computer.com/ModernComputer/Basis/keyboard.html
 * http://www.xpertkeyboard.com/history.htm
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
+* Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 
 ##Character Frequency
 _Several resources about character frequency._
