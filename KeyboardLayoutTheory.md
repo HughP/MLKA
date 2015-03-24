@@ -48,35 +48,36 @@ _Several resources about character frequency._
 * http://shenafu.com/layout.php
 
 ##My most common OS X short cuts
-
-⌘ z - undo
-⌘ x - cut
-⌘ c - copy
-⌘ v - paste
-⌘ ⇧ ⌃v - past with formatting
-⌘ q - quit
-⌘ s - save
-⌘ , - preferences
-⌘ n - new
-⌘ ⇧ n - new folder
-⌘ d - duplicate file
-⌘ f - find
-⌘ m - minimize finder window
-⌘ a - select all
-⌘ w - close window ︎/ close tab
-⌘ ⎇ w - close all windows
-⌘ r - reload/refresh browser URL
-⌘ t - New tab or Text Palette 
-⌘ o - open
-⌘ p - print
-⌘ b - bold
-⌘ i - get info / or italic
-⌘ u - underline
-fn ⌫ - delete going the other way
-⌘ ⎇ 1 - iTunes song window
-⌘ k - open server
-⌘ tab - change/cycle applications
-⌘ ⇧ tab  - change/cycle applications
-⌘ \` - change/cycle windows in application
-⌘ ⇧ \` - Cycle the other way
+_Not necessarily in order of frequency of use._
+* ⌘ z - undo
+* ⌘ x - cut
+* ⌘ c - copy
+* ⌘ v - paste
+* ⌘ ⇧ ⌃v - past with formatting
+* ⌘ q - quit
+* ⌘ s - save
+* ⌘ , - preferences
+* ⌘ n - new
+* ⌘ ⇧ n - new folder
+* ⌘ d - duplicate file
+* ⌘ f - find
+* ⌘ m - minimize finder window
+* ⌘ a - select all
+* ⌘ w - close window ︎/ close tab
+* ⌘ ⎇ w - close all windows
+* ⌘ r - reload/refresh browser URL
+* ⌘ t - New tab or Text Palette 
+* ⌘ o - open
+* ⌘ p - print
+* ⌘ b - bold
+* ⌘ i - get info / or italic
+* ⌘ u - underline
+* fn ⌫ - delete going the other way
+* ⌘ ⎇ 1 - iTunes song window
+* ⌘ k - open server
+* ⌘ tab - change/cycle applications
+* ⌘ ⇧ tab  - change/cycle applications
+* ⌘ \` - change/cycle windows in application
+* ⌘ ⇧ \` - Cycle the other way
+* ⌃ click - I use this with my mouse a lot.
  Add ↩ to omnigraphel return key
