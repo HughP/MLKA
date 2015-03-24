@@ -1,0 +1,66 @@
+﻿c Ebira Keyboard for Tavultesoft Keyboard Manager 6.0
+c
+c Author:   Heidi James Rosendall
+c Date:     29-SEP-2003
+c (aeioumn o(dot below) (lf) )
+
+NAME "Obolo Keyboard KM6"
+VERSION 6.0
+HOTKEY "^%E"
+BITMAP Obolo
+
+store(&Copyright) "Copyright©2003 SIL International"
+store(&ETHNOLOGUECODE) "ANN"    c Obolo
+
+
+begin Unicode > use(main)
+
+c set up stores
+
+store(vowel)   "aeiouAEIOU"
+
+store(vGrave)  "àèìòùÀÈÌÒÙ"
+store(vCircum) "âêîôûÂÊÎÔÛ"
+
+store(Hconsonant) "bdkoBDKO"  c Hausa Cons + dotted vowels
+store(HausaC)   "ɓɗƙọƁƊƘỌ"
+
+group(main) using keys
+
+
++ '`'		> deadkey(grave)  c grave accent dead key
+dk(grave) + "`"	> U+02BB  c open single smart quote  
+dk(grave) + any(vowel) > index(vGrave,2)    c grave accents
+dk(grave) + "n"     >   "ǹ"
+dk(grave) + "N"     >   "Ǹ"
+dk(grave) + "m"     >   "m̀"
+dk(grave) + "M"     >   "M̀"
+dk(grave) + '`'	> '`'		  c just a grave accent  
+dk(grave) + ";"  > deadkey(7) c dotted grave vowel deadkey
+
+
+
++ '^'		> deadkey(circum)  c circumflex accent dead key
+dk(circum) + '^'	> '^'		  c just a circumflex accent   
+dk(circum) + ";"  > deadkey(8) c dotted circumflex vowel deadkey
+
++ ';'		> deadkey(mod)  c dot below & Hausa dead key
+dk(mod) + "n"   >   "n̄" 
+dk(mod) + "N"   >   "N̄"            
+dk(mod) + "`"   >   deadkey(7) c dotted grave vowel deadkey
+dk(mod) + "^"   >   deadkey(8) c dotted circumflex vowel deadkey
+dk(mod) + ';'	> ';'	      c just a semicolon
+
+
+dk(circum) + any(vowel) > index(vCircum,2)   c circumflex accents
+dk(mod) + any(Hconsonant) > index(HausaC,2) c Hausa consonants & dotted vowels
+
+c composite tone/dot vowels
+
+dk (7) + "o"    >   "ọ" U+0300 c dotted vowels with grave accents  (type ` + ; + vowel)
+dk (7) + "O"    >   "Ò" U+0323
+dk (8) + "o"    >   "ộ"       c dotted vowels with circumflex accents (type ^ + ; + vowel)
+dk (8) + "O"    >   "Ộ"
+                               
+
++ '$'		>  U+20A6  c Naira

@@ -1,0 +1,44 @@
+﻿c Combined English, French & Fulfulde keyboard file
+c Created by Bill Metzger for Kim C. Le June 27, 1994
+c Modified for Keyman 6 by Heidi J. Rosendall For Mark Gaddis
+c 15 Dec 2002
+NAME "French/Fulfulde Unicode Keyboard KM6" 
+BITMAP Fulfulde 
+HOTKEY  "^+F"            c Ctrl+Shift+F      
+VERSION 6.0
+
+store(&Copyright) "Copyright©2002 SIL International"
+
+
+begin Unicode >       use(MAIN)            
+c      set up stores 
+store(vowel)    "aeiouAEIOU"
+store(vDiuresis)"äëïöüÄËÏÖÜ"
+store(vGrave)   "àèìòùÀÈÌÒÙ"
+store(vCircum)  "âêîôûÂÊÎÔÛ"
+
+store(modCons)  "bcdnyBCDNY"
+store(hookChar) "ɓçɗŋƴƁÇƊŊƳ"
+ 
+ group(MAIN)    using keys
+ 
++ "/"		> deadkey(1)    c  hooked letters and french cedilla
+dk(1) + "/"	> "/"	        c  just a backslash  
+
++ "^"    > deadkey(2)    c  circumflex vowels
+dk(2) + "^"  > "^"        c  just a hat       
+
++ "~"    > deadkey(3)    c  diuresis vowels 
+dk(3) + "~" > "~"        c just a nasal sign  \   
+
++ "`"    > deadkey(4)    c grave vowels
+dk(4) + "`" > "`"         c just a grave accent
+
+dk(1) + any(modCons) > index (hookChar,2)       c hooked letters, cedilla
+dk(2) + any(vowel)   > index (vCircum,2)        c circumflex vowels
+dk(3) + any(vowel)   > index (vDiuresis,2)      c vowels w/ diuresis 
+dk(3) + "n"           > "ɲ"              c lowercase n w/left hook
+dk(3) + "N"          >  "Ɲ"             c uppercase n w/left hook
+dk(4) + any(vowel)   > index (vGrave,2)         c grave vowels
+                                                
++ '$'		>  U+20A6                               c naira sign
