@@ -8,6 +8,7 @@ Each in a folder. Each folder contains a keyboard in one or more of the followin
  * Windows
     * AutoHotKey
     * MSKLC file
+    * Compiled Keyman file `.kmx`
  * OS X
     * OS X ```.keylayout```
     * OS X ```.bundle```
