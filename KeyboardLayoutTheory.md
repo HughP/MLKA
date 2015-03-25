@@ -22,6 +22,7 @@ As a rundown, there are three names which seem to come up in the computer develo
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
 * Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 * See how it works: http://help.keyman.com/developer/9.0/docs/tutorial/tutorial_keyboard_6.php
+* Dirty QWERTY: http://qwertywtf.com/
 
 ####Copy over discussion from
 * https://code.google.com/p/amphetype/wiki/Backstory
