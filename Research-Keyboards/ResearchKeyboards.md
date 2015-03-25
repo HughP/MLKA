@@ -1,7 +1,7 @@
 #Research Keyboards
 _This folder contains research keyboards._
 ##Naming of folders
-* For keyboards designed for a single language the folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html) followed by a keyboard name if one exists.
+* For keyboards designed for a single language the folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html) followed by a keyboard name if one exists. Spaces shoud be relpaced with hyphens.
  * **Examples**: eng-English-latin-QWERTY, eng-English-latin-Dvorak, eng-English-latin-Workman, eng-English-latin-Colmak, deu-German-latin-QWERTZ, fra-French-latin-AWERTY, etc.
 * For Keyboards desinged for more than one language the folders are to be labled as follows: _TBD_
 
@@ -39,7 +39,7 @@ _Each keyboard layout has its own folder._
 **Organization**: Wycliffe Nigeria
 **License**: Freeware
 
-* [Nigeria Unicode Underline](/Nigeria%20Unicode%20Underline)
+* [Nigeria Unicode Underline](/Research-Keyboards/Nigeria%20Unicode%20Underline)
 
 **Keyboard Details**: _This keyboard pairs with two other keyboards to cover the expected needs of most of Nigeria's languages. The three keyboards are identical except that the vowels are treated differently. The vowels on this keyboard may be underlined as well as receive tone markings. The literacy alpha also receives these diacritics The keyboard also includes standard "hook" (implosives), tone, and the Naira sign. (eka, mzk, gby, bkv, tal can use any of the three keyboards. mfn, anc, tvd, bzw, yor, jbu, hau, fuv require special keyboards of their own which are available on request.)_
 **Languages Designed for**: C'lela, Eten, Goemai, Hun-Saare, Izere, Jju, Kadara, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Longuda, Ninzo, Ogbah, Tarok, Tsuvadi
@@ -49,7 +49,7 @@ _Each keyboard layout has its own folder._
 **Organization**:	Wycliffe Nigeria
 **License**: Freeware
 
-* [Obolo Keyboard](/Obolo%20Keyboard)
+* [Obolo Keyboard](/Research-Keyboards/Obolo%20Keyboard)
 
 **Keyboard Details**:
 **Languages Designed for**:
@@ -60,7 +60,7 @@ _Each keyboard layout has its own folder._
 **Organization**:
 **License**:
 
-* [Fulfulde Keyboard](/Fulfulde%20Keyboard)
+* [Fulfulde Keyboard](/Research-Keyboards/Fulfulde%20Keyboard)
 
 **Keyboard Details**:
 **Languages Designed for**:
