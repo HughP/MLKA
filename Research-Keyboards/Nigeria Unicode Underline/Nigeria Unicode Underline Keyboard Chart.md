@@ -25,6 +25,7 @@ _returns_  | ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ 
 If a deadkey is typed twice, it will produce its original value (If you type a semicolon two times you will get a semicolon).
 
 Deadkeys may be combined to get double diacritics. For example:
+
 Dead Key 1 and 2 | next key
  -----|-----
 ; `+` ' `+` a  |  will give you   á̱ 
