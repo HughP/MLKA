@@ -24,6 +24,9 @@ As a rundown, there are three names which seem to come up in the computer develo
 * See how it works: http://help.keyman.com/developer/9.0/docs/tutorial/tutorial_keyboard_6.php
 * Dirty QWERTY: http://qwertywtf.com/
 * http://atri.misericordia.edu/Papers/Dvorak.php
+* Futrue Keyboarding: https://docs.google.com/a/sil.org/document/d/1Kdj-hYqzZ9k2Z2Yn5b6aycRRwPLgQV11BJksMc_hLtw/edit
+* LDML Keyboard Structure Proposal: https://docs.google.com/a/sil.org/document/d/1XSFyUKFGJr3lTv1mmoL4Pmk3RTJJapwYZ63pAkiIYvg/edit#heading=h.heeivjifokk0
+* An introduction to keyboard design theory: What goes where?: http://scripts.sil.org/keybrddesign
 
 ####Copy over discussion from
 * https://code.google.com/p/amphetype/wiki/Backstory
