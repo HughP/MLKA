@@ -54,6 +54,7 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * https://github.com/district10/neo_keyboard_layout
 * https://github.com/kwhat/jnativehook Keyboard and Mouse listeners in Java
 * Philippines Keybard https://bitbucket.org/paninap/pnkl/
+* http://www.faculty.virginia.edu/linganth/Program/Linguistics%20Software%20Tools%20Page.htm
  
 ###Android
 * **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
