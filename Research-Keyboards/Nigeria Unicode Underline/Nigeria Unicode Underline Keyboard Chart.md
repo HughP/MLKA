@@ -1,6 +1,7 @@
 #Nigeria Unicode Underline Keyboard Chart
 Designed for languages: 'ank asg bys dbd dud etx gel kad kcg kdl tiv tsw yer'
 
+###Deadkeys
 There are 6 “deadkeys.” They are ; ' - ` & !
 
  Dead Key | next key
@@ -24,20 +25,25 @@ _returns_  | ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ 
 
 If a deadkey is typed twice, it will produce its original value (If you type a semicolon two times you will get a semicolon).
 
+####Combining Deadkeys
 Deadkeys may be combined to get double diacritics. For example:
 
 Dead Key 1 and 2 | next key
  -----|-----
-; `+` ' `+` a  |  will give you   á̱ 
-' `+` ; `+` a  |  will also give you á̱
+`;` + `'`  a  | a	e	i	o	u	A	E	I	O	U 
+|will give you   á̱, etc
+`'` + `;` + | a	e	i	o	u	A	E	I	O	U
+| will also give you á̱
 
+####Resolving acedental deadkey presses
 One high tone is the deadkey for acute
 Two high tones is the alphabetic apostrophe
-Three high tones gives you the standard keyboard character
+Three high tones gives you the standard keyboard character (returning the typist to the unaltered state of the keybaord and undoing two `''` previously typed)
 
-; plus q gives you “ɑ”
-; plus ; plus q gives you “ɑ̱”
-three ; ‘s  gives you a semicolon
+Literacy Characters
+* `;` + `q` gives you `ɑ`
+* `;` + `;` + `q` gives you `ɑ̱`
+* three ; ‘s  gives you a semicolon
 
 There are other keyboards available for odd and dotted vowels. You may contact Heidi Rosendall at 08035853427 or
 Patrick_Rosendall [at] wycliffe.org for technical assistance.
