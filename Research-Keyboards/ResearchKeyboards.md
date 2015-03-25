@@ -3,12 +3,12 @@ _This folder contains research keyboards._
 ##Naming of folders
 * For keyboards designed for a single language the folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html) followed by a keyboard name if one exists. Spaces shoud be relpaced with hyphens.
  * **Examples**: 
-   * eng-English-latin-QWERTY
-   * eng-English-latin-Dvorak
-   * eng-English-latin-Workman
-   * eng-English-latin-Colmak
-   * deu-German-latin-QWERTZ
-   * fra-French-latin-AWERTY
+    * eng-English-latin-QWERTY
+    * eng-English-latin-Dvorak
+    * eng-English-latin-Workman
+    * eng-English-latin-Colmak
+    * deu-German-latin-QWERTZ
+    * fra-French-latin-AWERTY
 
 * For Keyboards desinged for more than one language the folders are to be labled as follows: _TBD_
 
