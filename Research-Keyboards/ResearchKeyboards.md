@@ -28,7 +28,7 @@ Each in a folder. Each folder contains a keyboard in one or more of the followin
 ##List of Keyboard layouts
 _Each keyboard layout has its own folder._ 
 
-* [Nigeria Unicode Dot Keyboard](/Nigeria%20Unicode%20Dot%20Keyboard)
+* [Nigeria Unicode Dot Keyboard](/Research-Keyboards/Nigeria%20Unicode%20Dot%20Keyboard)
 
 **Keyboard Details**: _This keyboard pairs with two other keyboards to cover the expected needs of most of Nigeria's languages. The three keyboards are identical except that the vowels are treated differently. The vowels on this keyboard can have a dot below them as well as the standard tone markings. The literacy alpha also receives these diacritics. The keyboard also includes standard "hook" (implosives), nasality, tone, and the Naira sign._
 **Languages Designed for**: Ebira, Engenni, Igbo, Igede, Ikwere, Ivbie North-Okpela-Arhe, Lokaa, Obolo, Tangale
@@ -49,7 +49,7 @@ _Each keyboard layout has its own folder._
 **Organization**:	Wycliffe Nigeria
 **License**: Freeware
 
-* [Obolo Keyboard](Obolo%20Keyboard)
+* [Obolo Keyboard](/Obolo%20Keyboard)
 
 **Keyboard Details**:
 **Languages Designed for**:
@@ -60,7 +60,7 @@ _Each keyboard layout has its own folder._
 **Organization**:
 **License**:
 
-* [Fulfulde Keyboard](Fulfulde%20Keyboard)
+* [Fulfulde Keyboard](/Fulfulde%20Keyboard)
 
 **Keyboard Details**:
 **Languages Designed for**:
