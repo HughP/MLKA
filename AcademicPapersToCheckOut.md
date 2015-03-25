@@ -109,12 +109,23 @@ Gesture based input: https://en.wikipedia.org/wiki/Multi-touch
 
 ###Gesture
 * http://connection.ebscohost.com/c/articles/35587063/mandana-seyfeddinipur-2006-disfluency-interrupting-speech-gesture
+###Sign-language as gesture input to text
+* http://adetti.pt/events/GW2007/proceedings/papers/proceedings%20posters%20gw2007_small.pdf#page=18
 
 ##Patents for text input devices
 * Chord keyboard system using one chord to select a group from among several groups and another chord to select a character from the selected group http://www.google.com/patents/US5535421 
 * Keyboard device and method for entering Japanese language text utilizing Romaji character notation http://www.google.com/patents/US4737040
 * Reduced keyboard text input system for the Japanese language http://www.google.com.ar/patents/US6636162
-* 
+* http://www.nature.com/nature/journal/v397/n6715/abs/397116a0.html
+* http://www.forbes.com/sites/karstenstrauss/2014/10/27/tech-tackles-sign-language-motionsavvy/
+* http://www.motionsavvy.com/blog-3/
+* https://smartech.gatech.edu/handle/1853/28997
+* A new instrumented approach for translating American Sign Language into sound and text: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1301590&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1301590
+* http://www.pslt.org/faq
+* http://www.technologyreview.com/view/427210/an-app-to-turn-sign-language-to-text/
+
+
+
 
 ##Eye movement Text input
 * Fast gaze typing with an adjustable dwell time http://dl.acm.org/citation.cfm?id=1518758
