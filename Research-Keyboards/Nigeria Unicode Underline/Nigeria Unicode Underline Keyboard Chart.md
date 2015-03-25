@@ -23,17 +23,18 @@ _returns_  | ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ 
 !  `+` | a e i o u q m n A E I O U M N
        | a̋ e̋ I̋ ő ű ɑ̋ m̋ n̋ A̋ E̋ I̋ Ő Ű M̋ N̋
 
-If a deadkey is typed twice, it will produce its original value (If you type a semicolon two times you will get a semicolon).
 
 ####Combining Deadkeys
+If a deadkey is typed twice, it will produce its original value (If you type a semicolon two times you will get a semicolon).
+
 Deadkeys may be combined to get double diacritics. For example:
 
 Dead Key 1 and 2 | next key
  -----|-----
 `;` + `'`  a  | a	e	i	o	u	A	E	I	O	U 
-|will give you   á̱, etc
+ |will give you   á̱ , etc.
 `'` + `;` + | a	e	i	o	u	A	E	I	O	U
-| will also give you á̱
+ | will also give you á̱ , etc.
 
 ####Resolving acedental deadkey presses
 One high tone is the deadkey for acute
@@ -43,7 +44,7 @@ Three high tones gives you the standard keyboard character (returning the typist
 Literacy Characters
 * `;` + `q` gives you `ɑ`
 * `;` + `;` + `q` gives you `ɑ̱`
-* three ; ‘s  gives you a semicolon
+* three `;` ‘s  gives you a semicolon
 
 There are other keyboards available for odd and dotted vowels. You may contact Heidi Rosendall at 08035853427 or
 Patrick_Rosendall [at] wycliffe.org for technical assistance.
