@@ -33,5 +33,5 @@ Dead Key 1 and 2 | next key
   |	ạ́  ẹ́  ị́   ị́   ụ́  Ạ́  Ẹ́  Ị́  Ọ́  Ụ́   (the same result)
 
 There are other keyboards available for underlined and odd vowels. You may contact Heidi Rosendall at 08035853427 or
-Patrick_Rosendall@wycliffe.org for technical assistance.
+Patrick_Rosendall [at] wycliffe.org for technical assistance.
 Keyboard file can be found here: http://keymankeyboards.com/?id=379
