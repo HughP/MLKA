@@ -3,8 +3,10 @@ Designed for languages: 'ank asg bys dbd dud etx gel kad kcg kdl tiv tsw yer'
 
 There are 6 “Deadkeys”:     ; ' - ` & ! 
 
-; +  b c d g h k m n q y z B C D G K L M N X Y $ ? *
-       ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ ₦ ʔ °
+ Dead Key | next key
+ -----|-----
+; `+` |  b c d g h k m n q y z B C D G K L M N X Y $ ? *
+      | ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ ₦ ʔ °
 
 ; + a e i o u A E I O U
       a̱ e̱ i̱ o̱ u̱ A̱ E̱ I̱ O̱ U̱
