@@ -92,8 +92,9 @@ _Not necessarily in order of frequency of use._
 * ⌘ \` - change/cycle windows in application
 * ⌘ ⇧ \` - Cycle the other way
 * ⌃ click - I use this with my mouse a lot.
- Add ↩ to omnigraphel return key
-
+* ⌘ ; - Spell check
+* ⌃ space - search
+* ⌘ space - switch keyboard layout
 
 #What to count from Michael Dickens
 This document describes in depth how fitness is calculated.
