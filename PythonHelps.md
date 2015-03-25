@@ -17,6 +17,8 @@ Count Distance
 
 
 Create Output
-
+XML to images: XSLT to SVG: 
+* http://stackoverflow.com/questions/8056671/how-to-turn-an-xml-file-into-svg-using-xsl
+* http://www.carto.net/svg/samples/xslt/
 
 
