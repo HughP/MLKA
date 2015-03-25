@@ -24,7 +24,7 @@ The folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/
 ##List of Keyboard layouts
 _Each keyboard layout has its own folder._ 
 
-* Nigeria Unicode Dot Keyboard 
+* [Nigeria Unicode Dot Keyboard](/Nigeria%20Unicode%20Dot%20Keyboard)
 
 **Keyboard Details**: _This keyboard pairs with two other keyboards to cover the expected needs of most of Nigeria's languages. The three keyboards are identical except that the vowels are treated differently. The vowels on this keyboard can have a dot below them as well as the standard tone markings. The literacy alpha also receives these diacritics. The keyboard also includes standard "hook" (implosives), nasality, tone, and the Naira sign._
 **Languages Designed for**: Ebira, Engenni, Igbo, Igede, Ikwere, Ivbie North-Okpela-Arhe, Lokaa, Obolo, Tangale
