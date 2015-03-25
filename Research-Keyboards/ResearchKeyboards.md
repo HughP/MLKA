@@ -23,7 +23,9 @@ The folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/
 
 ##List of Keyboard layouts
 _Each keyboard layout has its own folder._ 
+
 * Nigeria Unicode Dot Keyboard 
+
 **Keyboard Details**: _This keyboard pairs with two other keyboards to cover the expected needs of most of Nigeria's languages. The three keyboards are identical except that the vowels are treated differently. The vowels on this keyboard can have a dot below them as well as the standard tone markings. The literacy alpha also receives these diacritics. The keyboard also includes standard "hook" (implosives), nasality, tone, and the Naira sign._
 **Languages Designed for**: Ebira, Engenni, Igbo, Igede, Ikwere, Ivbie North-Okpela-Arhe, Lokaa, Obolo, Tangale
 **Last Updated**:
@@ -34,6 +36,7 @@ _Each keyboard layout has its own folder._
 **License**: Freeware
 
 * [Nigeria Unicode Underline](/Nigeria%20Unicode%20Underline)
+
 **Keyboard Details**: _This keyboard pairs with two other keyboards to cover the expected needs of most of Nigeria's languages. The three keyboards are identical except that the vowels are treated differently. The vowels on this keyboard may be underlined as well as receive tone markings. The literacy alpha also receives these diacritics The keyboard also includes standard "hook" (implosives), tone, and the Naira sign. (eka, mzk, gby, bkv, tal can use any of the three keyboards. mfn, anc, tvd, bzw, yor, jbu, hau, fuv require special keyboards of their own which are available on request.)_
 **Languages Designed for**: C'lela, Eten, Goemai, Hun-Saare, Izere, Jju, Kadara, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Longuda, Ninzo, Ogbah, Tarok, Tsuvadi
 **Last Updated**:	2006-02-13 20:52:54.383
@@ -43,6 +46,7 @@ _Each keyboard layout has its own folder._
 **License**: Freeware
 
 * [Obolo Keyboard](Obolo%20Keyboard)
+
 **Keyboard Details**:
 **Languages Designed for**:
 **Last Updated**:
@@ -53,6 +57,7 @@ _Each keyboard layout has its own folder._
 **License**:
 
 * [Fulfulde Keyboard](Fulfulde%20Keyboard)
+
 **Keyboard Details**:
 **Languages Designed for**:
 **Last Updated**:
@@ -63,7 +68,9 @@ _Each keyboard layout has its own folder._
 **License**:
 
 ###Template
+
 * Name - with link to folder
+
 **Keyboard Details**:
 **Languages Designed for**:
 **Last Updated**:
