@@ -1,4 +1,5 @@
-Nigeria Unicode Underline Keyboard Chart
+#Nigeria Unicode Underline Keyboard Chart
+Designed for languages: 'ank asg bys dbd dud etx gel kad kcg kdl tiv tsw yer'
 
 There are 6 “Deadkeys”:     ; ' - ` & ! 
 
