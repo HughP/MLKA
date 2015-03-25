@@ -18,9 +18,15 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 
 ##Human-Computer Interaction
 Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction --> Text Input --> Typing --> Keyboard Typing.
+* Soft machines: A philosophy of user-computer interface design: http://dl.acm.org/citation.cfm?doid=800045.801573
+
 
 
 #Some papers to read and some reasons to do it.
+
+#Speech tools
+http://www.speech.kth.se/wavesurfer/wsurf_icslp00.pdf
+
 
 ###What is the relationship between reading text messages and regular text as measured by EEG? Is this similar to Mis-typed words and correctly typed words?
 
@@ -94,6 +100,9 @@ spelling judgments expose orthographic knowledge. Neuropsychologia, 54, 112-
 * Evaluation and Improvement of Dvorak Keyboard Layout Using CADWORK http://www.scientific.net/AMR.62-64.585
 * Ergonomic Design of an Optimal Hindi Keyboard for Convenient Use http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1688577
 * Optimal character arrangement for ambiguous keyboards using a PSO-based algorithm [10.1109/ICNC.2011.6022544](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6022544&searchWithin%3Dp_Authors%3A.QT.En-Ping+Su.QT.) **Need to Acquire Copy**
+* Offline handwriting recognition using Artificial Neural Network and Hidden Markov Model: http://eprints.utm.my/4393/
+
+Gesture based input: https://en.wikipedia.org/wiki/Multi-touch
 
 
 ###Gestures of typing
@@ -114,6 +123,17 @@ spelling judgments expose orthographic knowledge. Neuropsychologia, 54, 112-
 * Text input methods for eye trackers using off-screen targets http://dl.acm.org/citation.cfm?id=355020
 * An investigation into the relationship between saccadic intrusion and mental workload http://soar.wichita.edu/handle/10057/2548
 * Twenty years of eye typing: systems and design issues http://dl.acm.org/citation.cfm?id=507076
+* Text Input Methods for Eye Trackers Using Off-Screen Targets: http://www.sis.uta.fi/~pi52316/etra_2000_paper/ETRA_2000_final.htm
+* Text input methods for eye trackers using off-screen targets: http://dl.acm.org/citation.cfm?id=355020
+
+##Speech and Text input
+* http://www.sciencedirect.com/science/article/pii/S0020737384800383
+* 
+
+
+##Keyboard arangment
+* Optimal character arrangement for ambiguous keyboards using a PSO-based algorithm: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6022544&searchWithin%3Dp_Authors%3A.QT.En-Ping+Su.QT.
+* 
 
 ----
 #Academic citations
