@@ -21,6 +21,24 @@ As a rundown, there are three names which seem to come up in the computer develo
 * http://www.xpertkeyboard.com/history.htm
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
 * Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+* See how it works: http://help.keyman.com/developer/9.0/docs/tutorial/tutorial_keyboard_6.php
+
+####Copy over discussion from
+* https://code.google.com/p/amphetype/wiki/Backstory
+* https://mathematicalmulticore.wordpress.com/2008/05/26/how-hard-to-type/
+* https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
+
+####copy this over to python
+* http://www.diveintopython.net/xml_processing/parsing_xml.html
+* http://infohost.nmt.edu/tcc/help/pubs/pyparsing/web/index.html
+* http://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb
+* http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
+* http://stackoverflow.com/questions/21149920/pandas-import-multiple-csv-files-into-dataframe-using-a-loop-and-hierarchical-i?rq=1
+* http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.html
+* http://stackoverflow.com/questions/20637439/skip-rows-during-csv-import-pandas
+* http://pandas.pydata.org/pandas-docs/stable/index.html
+* http://pandas.pydata.org/pandas-docs/dev/categorical.html
+
 
 ##Character Frequency
 _Several resources about character frequency._
