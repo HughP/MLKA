@@ -1,5 +1,10 @@
 #Research Keyboards
 _This folder contains research keyboards._
+##Naming of folders
+* For keyboards designed for a single language the folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html) followed by a keyboard name if one exists.
+ * **Examples**: eng-English-latin-QWERTY, eng-English-latin-Dvorak, eng-English-latin-Workman, eng-English-latin-Colmak, deu-German-latin-QWERTZ, fra-French-latin-AWERTY, etc.
+* For Keyboards desinged for more than one language the folders are to be labled as follows: _TBD_
+
 ##Composition of folders
 Each in a folder. Each folder contains a keyboard in one or more of the following:
 * A keyboard definition file such as:
@@ -19,7 +24,6 @@ Each in a folder. Each folder contains a keyboard in one or more of the followin
 * A text description of the keyboard.
 * A series of photos (.jpg, .png, or .svg) of each state of the keyboard layout
 * A training text designed to be used with that keyboard
-The folders are to be labled as follows: [ISO 639-3 code](http://www-01.sil.org/iso639-3), Language name following the ISO 639-3 designated name, then the script name following [ISO 15924](http://unicode.org/iso15924/iso15924-codes.html).
 
 ##List of Keyboard layouts
 _Each keyboard layout has its own folder._ 
