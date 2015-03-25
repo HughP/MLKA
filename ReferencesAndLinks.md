@@ -102,6 +102,7 @@ _The applications below may not be as refined as the ones above._
 * **[LayoutTracker](https://github.com/andrimarjonsson/LayoutTracker)**
 * **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide - iOS maybe?
 * https://github.com/lailsonbm/ABNT2-Layout
+* https://docs.cycling74.com/max7/maxobject/itoa
  
 **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 
