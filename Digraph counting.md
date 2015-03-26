@@ -6,11 +6,9 @@ When looking up my situation on the web, it seems that [others have tried to get
 _Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs)._
 _Here is what I am doing: I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text._
 
-'aa' happens 15 times
-
-'at' happens 35 times 
-
-'fet' happens 12 times, etc.
+* 'aa' happens 15 times
+* 'at' happens 35 times 
+* 'fet' happens 12 times, etc.
 
 _Basically load text, count, return counts._
 
@@ -26,33 +24,33 @@ For instance I may have text string 'aaab'. However the actual text being used i
 Given the 'aaab' string mentioned above that would mean that I have: 
 
 ####Digrams
-'aa' three times
-'ab' one time
+* 'aa' three times
+* 'ab' one time
 
 ####Trigrams
-'aaa' one time
-'aab' one time
+* 'aaa' one time
+* 'aab' one time
 
 Given the text 'aaab bbbc ab' I would expect that there would be the following treatment of the space character:
 
 ####Digrams
- 'aa' three times
- 'ab' two times
- 'bb' three times
- 'bc' one time
-' b' one time
-'b ' one time
-' a' one time
-'c ' one time
+* 'aa' three times
+* 'ab' two times
+* 'bb' three times
+* 'bc' one time
+* ' b' one time
+* 'b ' one time
+* ' a' one time
+* 'c ' one time
 
 ####Trigrams
-'aaa' three times
-'aab' one time
-' bb' one time
-'b b' one time
-'bbb' one time
-'bbc' one time
-' ab' one time
+* 'aaa' three times
+* 'aab' one time
+* ' bb' one time
+* 'b b' one time
+* 'bbb' one time
+* 'bbc' one time
+* ' ab' one time
 
 ##Yet one more clarification
 I should clarify four things:
