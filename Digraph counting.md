@@ -7,11 +7,11 @@ My inital querry was:
 _Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs)._
 _Here is what I am doing: I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text._
 
-```'aa' happens 15 times
+'aa' happens 15 times
 
 'at' happens 35 times 
 
-'fet' happens 12 times, etc.```
+'fet' happens 12 times, etc.
 
 _Basically load text, count, return counts._
 
