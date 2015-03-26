@@ -36,10 +36,10 @@ Given the 'aaab' string mentioned above that would mean that I have:
 Given the text 'aaab bbbc ab' I would expect that there would be the following treatment of the space character:
 
 ####Digrams
-'aa' three times
-'ab' two times
-'bb' three times
-'bc' one time
+ 'aa' three times
+ 'ab' two times
+ 'bb' three times
+ 'bc' one time
 ' b' one time
 'b ' one time
 ' a' one time
