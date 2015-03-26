@@ -2,8 +2,7 @@
 
 When looking up my situation on the web, it seems that [others have tried to get to the same solution](http://s13.zetaboards.com/Crypto/topic/6830966/1/). They have called it: _biliteral frequency count, which is a count not of single elements, each composed of two letters, but of pairs of elements, each composed of a single letter._
 
-My inital querry was:
-
+##Inital inquerry
 _Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs)._
 _Here is what I am doing: I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text._
 
