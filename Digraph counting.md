@@ -64,5 +64,7 @@ I should clarify four things:
 4. Alphabetical ordering of results is not necessary.
 
 _Non-viable solutions_: PrimerPro, Synphony, FLEx, Phonology Assistant 
+
 Reason:
+
 I am looking at graphemic relations (neighborhood) not phonological relationships or phonemes being represented by a pair of orthographic characters.
