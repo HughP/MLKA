@@ -3,19 +3,19 @@
 When looking up my situation on the web, it seems that [others have tried to get to the same solution](http://s13.zetaboards.com/Crypto/topic/6830966/1/). They have called it: _biliteral frequency count, which is a count not of single elements, each composed of two letters, but of pairs of elements, each composed of a single letter._
 
 My inital querry was:
-_Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs).
 
-Here is what I am doing:
+_Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs)._
+_Here is what I am doing: I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text._
 
-I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text.
+```'aa' happens 15 times
 
-'aa' happens 15 times
 'at' happens 35 times 
-'fet' happens 12 times, etc.
 
-Basically load text, count, return counts.
+'fet' happens 12 times, etc.```
 
-I am working on OS X, command line tools (perl/python) with explanation are also of interest._
+_Basically load text, count, return counts._
+
+_**I am working on OS X**, command line tools (perl/python) **with explanation** are also of interest._
 
 ##Second Clarification
 _Given some other replies I requalified my statements with the following._
