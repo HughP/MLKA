@@ -2,7 +2,7 @@
 Designed for languages: 'ank asg bys dbd dud etx gel kad kcg kdl tiv tsw yer'
 
 ###Deadkeys
-There are 6 “deadkeys.” They are `;` `'` `-` `` ` `` `&` `!`
+There are 6 “deadkeys.” They are: `;` `'` `-` `` ` `` `&` `!`.
 
  Dead Key | next key
  -----|-----
