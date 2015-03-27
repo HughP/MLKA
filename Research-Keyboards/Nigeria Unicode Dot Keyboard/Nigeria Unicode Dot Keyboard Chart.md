@@ -1,6 +1,6 @@
 #Nigeria Unicode Dot Keyboard Chart
 
-There are 6 “deadkeys.” They are ; ' - ` & !
+There are 6 “deadkeys.” They are: `;` `'` `-` `` ` `` `&` `!`.
 
  Dead Key | next key
  -----|-----
