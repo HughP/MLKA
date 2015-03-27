@@ -10,9 +10,9 @@ _returns_  | ɓ	ç	ɗ	ɡ	ɦ	ƙ	ɲ	ŋ	ɑ	ƴ	ʒ	Ɓ	Ç	Ɗ	ɣ	Ƙ	£	Ɲ	Ŋ	Ǝ	Ƴ	₦	
   | ạ  ẹ  ị   ọ  ụ   Ạ  Ẹ Ị   Ọ  Ụ
 `'` + |	a	e	i	o	u	m	n	A	E	I	O	U	M	N
   | á	é	í	ó	ú	ḿ	ń	Á	É	Í	Ó	Ú	Ḿ	Ń
-`` ` `` + |	a	e	i	o	u	m	n	A	E	I	O	U	M	N
+`-` + |	a	e	i	o	u	m	n	A	E	I	O	U	M	N
   |	ā	ē	ī	ō	ū	m̄	n̄	Ā	Ē	Ī	Ō	Ū	M̄	N̄
-`	+	|	a	e	i	o	u	m	n	A	E	I	O	U	M	N
+`` ` `` + |	a	e	i	o	u	m	n	A	E	I	O	U	M	N
   |	à	è	ì	ò	ù	m̀	ǹ	ÀÈ	Ì	Ò	Ù	M̀	Ǹ
 `^` + |	a	e	i	o	u	m	n	A	E	I	O	U	M	N
   |	â	ê	î	ô	û	m̂	n̂	Â	Ê	Î	Ô	Û	M̂	N̂
