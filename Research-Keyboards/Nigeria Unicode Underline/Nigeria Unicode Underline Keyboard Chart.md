@@ -14,7 +14,7 @@ _returns_  | ɓ ç ɗ ɡ ɦ ƙ ɲ ŋ  ɑ ƴ ʒ Ɓ Ç Ɗ ɣ  Ƙ £  Ɲ Ŋ  Ǝ Ƴ 
      | á é í ó ú ɑ́ ḿ ń Á É Í Ó Ú Ḿ Ń
 `-` + | a e i o u q m n A E I O U M N
       | ā ē ī ō ū ɑ̄ m̄ n̄ Ā Ē Ī Ō Ū M̄ N̄
-\` `+` | a e i o u q m n A E I O U M N
+`\`` + | a e i o u q m n A E I O U M N
       | à è ì ò ù ɑ̀ m̀ ǹ ÀÈ Ì Ò Ù M̀ Ǹ
 `^` + | a e i o u q m n A E I O U M N
       | â ê î ô û ɑ̂ m̂ n̂ Â Ê Î Ô Û M̂ N̂
