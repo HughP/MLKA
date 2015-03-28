@@ -3,6 +3,9 @@ Ezaa text
 Chance to use previous layout is now 0.742129.
 Number of swaps between rounds is now 19.
 Time elapsed: 3 hours, 58 minutes, 23 seconds
+Time elapsed: 5 hours, 40 minutes, 11 seconds
+Number of rounds in greatToBest() is now 262144.
+
 
 Options:
 
