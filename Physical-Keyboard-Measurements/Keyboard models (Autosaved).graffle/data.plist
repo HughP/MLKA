@@ -7,6 +7,8 @@
 		<string>com.omnigroup.OmniGrafflePro</string>
 		<string>139.18.0.187838</string>
 	</array>
+	<key>AutosavedUrl</key>
+	<string>file://localhost/Users/Hugh/Multi-lingual%20Keyboard%20Assessment/MLKA/Physical-Keyboard-Measurements/Keyboard%20models.graffle/</string>
 	<key>CreationDate</key>
 	<string>2015-03-17 16:34:59 -0700</string>
 	<key>Creator</key>
@@ -36,7 +38,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-03-28 05:48:30 -0700</string>
+	<string>2015-03-28 05:53:25 -0700</string>
 	<key>Modifier</key>
 	<string>Hugh Paterson III</string>
 	<key>NotesVisible</key>
@@ -66754,6 +66756,22 @@ command}</string>
 	<string>YES</string>
 	<key>UseEntirePage</key>
 	<false/>
+	<key>UserInfo</key>
+	<dict>
+		<key>kMDItemAuthors</key>
+		<array>
+			<string></string>
+		</array>
+		<key>kMDItemCopyright</key>
+		<string>Hugh Paterson III</string>
+		<key>kMDItemKeywords</key>
+		<array>
+			<string>Hugh Paterson III</string>
+			<string>Keyboard Layouts</string>
+		</array>
+		<key>kMDItemSubject</key>
+		<string>Keyboard Layouts</string>
+	</dict>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
@@ -66780,7 +66798,7 @@ command}</string>
 		<key>SidebarWidth</key>
 		<integer>208</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {586, 362.5}}</string>
+		<string>{{396, 0}, {586, 362.5}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>
