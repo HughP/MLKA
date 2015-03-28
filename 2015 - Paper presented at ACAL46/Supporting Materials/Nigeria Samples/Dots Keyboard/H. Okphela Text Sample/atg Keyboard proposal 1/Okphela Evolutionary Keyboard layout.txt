@@ -1,0 +1,20 @@
+Okphela [atg] text
+run 28. March 2015 on iMac
+
+
+
+Options:
+
+>> setksize standard
+Keyboard set to full standard. All user-defined values have been reset.
+
+>>> set keepNumbers 1
+keepNumbers set to 1.
+
+>>> set keepTab 1
+keepTab set to 1.
+
+>>> set keepNumbersShifted 1
+keepNumbersShifted set to 1.
+
+>>> set detailedOutput 1
