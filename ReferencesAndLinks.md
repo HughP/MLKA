@@ -147,6 +147,7 @@ _The applications below may not be as refined as the ones above._
 * **[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
 * **[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
 * **[Keyboard Heatmap](http://timepass.appb.in/keyboardheatmap.html)**
+* **[TileMill Keyboard Heatmap](http://utilitymill.com/utility/Keyboard_HeatMap)**
 
 ####JS
 
