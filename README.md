@@ -54,7 +54,15 @@ The Academic fit for keyboard layout design and assessment (especiall across lan
 
 While it appears simple to narrow down the choice of academic disciplines to two, deciding which two is not easy. Some description of how the keyboarding task fits within these two academic disciplines is shown in the following diagram.
 
----- insert diagram ----
+
+---- insert diagram ---- 
+ To include: figur 3.1 from http://www.sis.uta.fi/~pi52316/g/node6.html
+Compatible input devices
+Mouse
+Touchpads, touch-screens, pressure sensitive pens and digitizing tablets
+Trackball
+Joysticks
+Keyboard
 
 [Academic Papers](/AcademicPapersToCheckOut.md)
 
