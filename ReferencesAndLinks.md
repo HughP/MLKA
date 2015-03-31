@@ -146,6 +146,7 @@ _The applications below may not be as refined as the ones above._
 
 * **[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
 * **[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
+* **[Keyboard Heatmap](http://timepass.appb.in/keyboardheatmap.html)**
 
 ####JS
 
@@ -183,3 +184,6 @@ _The applications below may not be as refined as the ones above._
 ###Keypads
 * Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods
 * Left handed keypad: http://commons.wikimedia.org/wiki/File:Left_handed_keypad.png
+
+##Services
+* http://whatpulse.org/
