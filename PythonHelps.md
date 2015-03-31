@@ -22,3 +22,7 @@ XML to images: XSLT to SVG:
 * http://www.carto.net/svg/samples/xslt/
 
 
+##Pull these scripts into the Repo
+* https://gist.github.com/HughP/31aecf4884babf0878d4
+* http://stackoverflow.com/questions/9868792/find-out-the-unicode-script-of-a-character
+* https://gist.github.com/HughP/8395fa9030aa9bdbc592
