@@ -26,6 +26,8 @@ Also in contrast to the norms of open source licenses and collaboration practice
 
 ##Papers and presentations
 _The following papers and presentations can be found in this repo as well._
+* Paterson, Hugh J., III. 2015. Keyboard Layout Design for Minority Languages - (Socio)linguistic (app/im)plications. MA Thesis in progress at the Uninversity of North Dakota.
+ * [[In Repo Content](/2015-thesis)]
 * Paterson, Hugh J., III. 2015. African Languages: Assessing the text input difficulty. Paper presented at the 46th  Annual Conference of African Linguistics. Held at the University of Oregon  26-28. March 2015
  * [[In Repo Content](/2015%20-%20Paper%20presented%20at%20ACAL46)]
 * Paterson, Hugh J., III. 2015. _Assessing the difficulty of the text input task for minority languages_. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i. http://scholarspace.manoa.hawaii.edu/handle/10125/25318
