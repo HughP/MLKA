@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+version="2.20.0"
+><frontMatter
+><title
+>Thesis Topic Proposal UND 2014</title
+><author
+>Hugh Paterson III</author
+><date
+>15. March 2014</date
+><version
+>Version 0.5</version
+></frontMatter
+><section1
+id="s1"
+><secTitle
+>Optional Titles</secTitle
+><p
+>Title option #1:</p
+><p
+>The Application of Linguistic Knowledge to the Keyboard Layout Design Process for Minority Languages</p
+><p
+>Title option #2:</p
+><p
+>Designing Keyboard Layouts for Minority Languages: The Application of Linguistic Knowledge</p
+></section1
+><section1
+id="s"
+><secTitle
+>Proposal</secTitle
+><p
+></p
+><p
+>This study, entitled The Application of Linguistic Knowledge to the Keyboard Layout Design Process for Minority Languages, offers (1) a framework for evaluating keyboard layout designs as they are created for minority language communities and (2) a model for testing a particular communityʼs reception of a given keyboard layout. To this end, semantically equivalent texts in three to six languages will be compared based on the following parameters. The texts will be of existing translated material that is currently in circulation. The orthography of a given language will be assessed in terms of the phonological/phonemic distinctions made in the language. Available text input methods (keyboards/ keyboard layouts) will be assessed in terms of minimal inefficiencies, i.e., the number of keystrokes required to input a certain character and thereby create the typed text. The input method comparison will be achieved by mapping each instance of each character in the text to the keystrokes required to produce all characters that appear in the sample text.</p
+><p
+>Text input methods in the twenty-first century have the potential to entice or discourage speakers of minority languages in the use of their languages in digital mediums. Popular and prolific writing systems in the twenty-first century are crucially tied to electronic input methods that can be easily used in communicating ideas in written orthographic form including the production of printed or electronic reading material. Although, literacy systems have always contained a human interaction element as part of the writing method, in the twenty-first century these methods involve an electronic-tactile medium, e.g. the keyboard. Twenty-first century literacy in social contexts (or as social practice) almost always contains a digital element, e.g. SMS, e-mail, web-forums, Twitter, Facebook, etc.</p
+><p
+>Keyboard layout design is an important stepping stone to linguistic expression in the digital age. The production of written language is dependent on cognitive processes that access language competencies. This linguistic information is embodied in the message (discourse and syntax) and encoded via the orthography (phonological and lexical information). The design of orthographies and how these orthographies encode linguistic information affect the mechanics of language expression in written form.</p
+><p
+>Because a speakerʼs choice of language is based in both social and physical environments, orthography design decisions have an overall effect on the mechanics of language expression in digital forms. Emotional responses to design - of orthography, the computer operating system, and text input method - also bear upon the language user. In the discipline of language documentation and description, text input methods may initially be developed with the needs of the researcher in mind rather than the needs of a native speaker who uses the language in everyday interactions. These existing keyboard layouts that support specific languages are rarely used by the broader minority language community, and the efficacy of many keyboard layouts is limited to linguistic analysis or researcher convenience. Linguists often bring linguistic knowledge and some of their own user expectations to the keyboard design process. They may not realize that requiring a typist to negotiate a keyboard layout to access a given character can have an impact on language-use choice, orthography development, or adherence to an approved orthography. User-centric keyboard layout design for minority language community writers/typists should be an integral part of a language development project in the twenty-first century. These considerations bring us to the following question: at what point in the design process should this linguistic information be considered and applied, as opposed to other design criteria, so that maximal language usage is encouraged and made possible? This study offers a framework for the linguist or language development worker to address crucial issues of keyboard layout design.</p
+><section2
+id="s"
+><secTitle
+></secTitle
+><p
+></p
+></section2
+></section1
+><section1
+id="s"
+><secTitle
+></secTitle
+><section2
+id="s"
+><secTitle
+>The seperation of language documenation and linguistis</secTitle
+><p
+></p
+></section2
+><section2
+id="s"
+><secTitle
+>Digial revolution</secTitle
+><p
+></p
+></section2
+><section2
+id="s"
+><secTitle
+>Language endangerment movement</secTitle
+><p
+></p
+></section2
+><section2
+id="s"
+><secTitle
+></secTitle
+><p
+></p
+></section2
+></section1
+><backMatter
+><endnotes
+></endnotes
+><xi:include
+href="EndnoteXMLReferences.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="en"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tSubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+></lingPaper
+><xi:include
+href="../../../Library/Application%20Support/XMLmind/XMLEditor5/addon/XLingPap/publisherstylesheets/SIL-UNDWorkPapersStylesheet.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>
