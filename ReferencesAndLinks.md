@@ -8,6 +8,7 @@ _These are refences and links about text input methods and digital writing. Incl
 * http://www.wasdkeyboards.com/index.php/wasd-v2-105-key-iso-custom-mechanical-keyboard.html
 
 ###Overlays and stikers
+* http://www.datacal.com/international-overlays.htm
 
 ##Character and Word Counting
 _When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpra._ 
@@ -181,10 +182,13 @@ _The applications below may not be as refined as the ones above._
 * [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
 * [Maltron Keyboards](http://mindprod.com/bgloss/maltron.html)
 * http://www.daskeyboard.com/
+* http://www.bestbuy.com/site/datacal-russian-and-english-bilingual-keyboard-black/7031056.p?id=1218824947707&skuId=7031056
+*  Datacal Bilingual - Keyboard - Japanese- http://www.amazon.com/DataCal-Japanese-English-Keyboard-Ergoguys/dp/B008AXH28C
 
 ###Keypads
 * Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods
 * Left handed keypad: http://commons.wikimedia.org/wiki/File:Left_handed_keypad.png
+
 
 ##Services
 * http://whatpulse.org/
