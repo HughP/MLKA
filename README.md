@@ -28,7 +28,7 @@ Also in contrast to the norms of open source licenses and collaboration practice
 _The following papers and presentations can be found in this repo as well._
 * Paterson, Hugh J., III. 2015. _Keyboard Layout Design for Minority Languages - (Socio)linguistic (app/im)plications_. MA Thesis in progress at the Uninversity of North Dakota.
  * [[In Repo Content](/2015-thesis)]
-* Paterson, Hugh J., III. 2015. African Languages: Assessing the text input difficulty. Paper presented at the 46th  Annual Conference of African Linguistics. Held at the University of Oregon  26-28. March 2015
+* Paterson, Hugh J., III. 2015. _African Languages: Assessing the text input difficulty_. Paper presented at the 46th  Annual Conference of African Linguistics. Held at the University of Oregon  26-28. March 2015
  * [[In Repo Content](/2015%20-%20Paper%20presented%20at%20ACAL46)]
 * Paterson, Hugh J., III. 2015. _Assessing the difficulty of the text input task for minority languages_. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i. http://scholarspace.manoa.hawaii.edu/handle/10125/25318
  * [[In Repo Content](2015%20-%20ICLDC%20-%20Assessing%20the%20difficulty%20Presentation)] [[Archived Audio and Slides at UH Moana](http://scholarspace.manoa.hawaii.edu/handle/10125/25318)]
@@ -40,11 +40,11 @@ _The following papers and presentations can be found in this repo as well._
 #Organization
 _This repo is divided up into several sections. It is hard to say content is solely belonging to one section or anther (so cross references may exist)._
 
-##Keyboard layout theory and progression
+##Keyboard layout theory and the historical progression of the keyboard layout
 _This section discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
 _There are two major social locations where keyboard layouts are discussed:_
-  1. The computer programing industry
-  2. The professional academic literature
+  1. The computer programing world (forums, websites, etc.)
+  2. The professional academic literature (journals, thesis, etc.)
 
 _A review of the websites discussing the problems encountered by the compute programing industry reveal very little about multi-lingual or non-English/Roman Script discussions. A review of the professional literature including technical journals, and journals focused on ergonomics find that very little in the literature exists about keyboard efficiency measurements across languages. More generally in the academic literature the problem of what characters go where on a keyboard layout, that is how they are arranged, is discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
 [Keyboard layout theory](/KeyboardLayoutTheory.md)
