@@ -25,17 +25,17 @@ In one sense this is "not traditional open source" in that I (Hugh) am not licen
 Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing (and fair use) rather than the open source tradition of nameless collaboration. Which means, in short I may not have the legal right to license everything in this repo under a single license.
 
 ##Papers and presentations
-_The following papers and presentations can be found in this repo as well._
+_The following papers and presentations can be found in this repo under the `/Publications` folder._
 * Paterson, Hugh J., III. 2015. _Keyboard Layout Design for Minority Languages - (Socio)linguistic (app/im)plications_. MA Thesis in progress at the Uninversity of North Dakota.
- * [[In Repo Content](/2015 - Thesis)]
+ * [[In Repo Content](/Publications/2015 - Thesis)]
 * Paterson, Hugh J., III. 2015. _African Languages: Assessing the text input difficulty_. Paper presented at the 46th  Annual Conference of African Linguistics. Held at the University of Oregon  26-28. March 2015
- * [[In Repo Content](/2015%20-%20Paper%20presented%20at%20ACAL46)]
+ * [[In Repo Content](/Publications/2015%20-%20Paper%20presented%20at%20ACAL46)]
 * Paterson, Hugh J., III. 2015. _Assessing the difficulty of the text input task for minority languages_. Paper presented at the 4th International Conference on Language Documentation & Conservation, Ala Moana Hotel in Honolulu, Hawai‘i. http://scholarspace.manoa.hawaii.edu/handle/10125/25318
- * [[In Repo Content](2015%20-%20ICLDC%20-%20Assessing%20the%20difficulty%20Presentation)] [[Archived Audio and Slides at UH Moana](http://scholarspace.manoa.hawaii.edu/handle/10125/25318)]
+ * [[In Repo Content](/Publications/2015%20-%20ICLDC%20-%20Assessing%20the%20difficulty%20Presentation)] [[Archived Audio and Slides at UH Moana](http://scholarspace.manoa.hawaii.edu/handle/10125/25318)]
 * Paterson, Hugh J., III. 2014. _Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs_. In Mari C. Jones (ed.), Endangered Languages and New Technologies, 49-66. Cambridge, UK: Cambridge University Press.
- * [[In Repo Content](2014%20-%20Publication%20%20-%20Submission%20(Not%20final%20publication%20version)/Second%20(shorter)%20Paper/Final%20submission) (Pre-print draft)] [[Final publication](https://books.google.com/books?id=HpBEBQAAQBAJ&pg=PA49&dq=hugh+Paterson+III&hl=en&sa=X&ei=hDgOVbWpD8r9yQS9g4KYAg&ved=0CCQQ6AEwAQ#v=onepage&q=hugh%20Paterson%20III&f=false) view on Google Books] [[Buy the book](http://www.cambridge.org/US/academic/subjects/languages-linguistics/sociolinguistics/endangered-languages-and-new-technologies) at CUP]
+ * [[In Repo Content](/Publications/2014%20-%20Publication%20%20-%20Submission%20(Not%20final%20publication%20version)/Second%20(shorter)%20Paper/Final%20submission) (Pre-print draft)] [[Final publication](https://books.google.com/books?id=HpBEBQAAQBAJ&pg=PA49&dq=hugh+Paterson+III&hl=en&sa=X&ei=hDgOVbWpD8r9yQS9g4KYAg&ved=0CCQQ6AEwAQ#v=onepage&q=hugh%20Paterson%20III&f=false) view on Google Books] [[Buy the book](http://www.cambridge.org/US/academic/subjects/languages-linguistics/sociolinguistics/endangered-languages-and-new-technologies) at CUP]
 * Paterson, Hugh J., III. 2012. _Keyboard layout as part of language documentation: the case of the Meꞌphaa and Chinantec keyboards_. Paper presented at CRASSH Conference Language Endangerment: Methodologies and New Challenges, Cambridge, UK.
- * [[In Repo Content](/2012%20-%20Paper%20presented%20at%20CRASSH)] [[Blog post](http://hugh.thejourneyler.org/2012/keyboard-design-for-minority-languages/)] [[Youtube video of presentation](http://youtu.be/_Z5n77NPZC0)]
+ * [[In Repo Content](/Publications/2012%20-%20Paper%20presented%20at%20CRASSH)] [[Blog post](http://hugh.thejourneyler.org/2012/keyboard-design-for-minority-languages/)] [[Youtube video of presentation](http://youtu.be/_Z5n77NPZC0)]
 
 #Organization
 _This repo is divided up into several sections. It is hard to say content is solely belonging to one section or anther (so cross references may exist)._
@@ -47,7 +47,7 @@ _There are two major social locations where keyboard layouts are discussed:_
   2. The professional academic literature (journals, thesis, etc.)
 
 _A review of the websites discussing the problems encountered by the compute programing industry reveal very little about multi-lingual or non-English/Roman Script discussions. A review of the professional literature including technical journals, and journals focused on ergonomics find that very little in the literature exists about keyboard efficiency measurements across languages. More generally in the academic literature the problem of what characters go where on a keyboard layout, that is how they are arranged, is discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
-[Keyboard layout theory](/KeyboardLayoutTheory.md)
+[Keyboard layout theory](/Theory/Keyboard-Layout-Theory/README.md)
 
 ##Academic fit
 The Academic fit for keyboard layout design and assessment (especiall across languages) is difficult to pin to a single academic discipline. In general the keyboard layout challenge has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics (physiology), human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
@@ -69,14 +69,14 @@ Keyboard
 [Academic Papers](/AcademicPapersToCheckOut.md)
 
 ##Notes and formulas from academic papers on text input
-[Notes](/notes.md)
+[Notes](/Methodology/notes.md)
 
 ##Notes and formulas from academic papers on information theory
-[Information Theory](/InformationTheory.md)
+[Information Theory](/Theory/InformationTheory.md)
 
 ##Applications related keyboard analysis
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/ReferencesAndLinks.md)
+[As a subsection here](/Applications-and-Programs/ReferencesAndLinks.md)
 
 ##Metrics of keyboard analysis
 _This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
