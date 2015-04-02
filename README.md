@@ -25,7 +25,7 @@ In one sense this is "not traditional open source" in that I (Hugh) am not licen
 Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing (and fair use) rather than the open source tradition of nameless collaboration. Which means, in short I may not have the legal right to license everything in this repo under a single license.
 
 ##Papers and presentations
-_The following papers and presentations can be found in this repo under the `/Publications` folder._
+_The following papers and presentations can be found in this repo under the `/Publications` folder. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.)_
 * Paterson, Hugh J., III. 2015. _Keyboard Layout Design for Minority Languages - (Socio)linguistic (app/im)plications_. MA Thesis in progress at the Uninversity of North Dakota.
  * [[In Repo Content](/Publications/2015 - Thesis)]
 * Paterson, Hugh J., III. 2015. _African Languages: Assessing the text input difficulty_. Paper presented at the 46th  Annual Conference of African Linguistics. Held at the University of Oregon  26-28. March 2015
@@ -66,38 +66,7 @@ Trackball
 Joysticks
 Keyboard
 
-[Academic Papers](/AcademicPapersToCheckOut.md)
+[Academic Papers](/Academic-Papers/AcademicPapersToCheckOut.md)
 
-##Notes and formulas from academic papers on text input
-[Notes](/Methodology/notes.md)
-
-##Notes and formulas from academic papers on information theory
-[Information Theory](/Theory/InformationTheory.md)
-
-##Applications related keyboard analysis
-_This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/applications-and-programs/ReferencesAndLinks.md)
-
-##Metrics of keyboard analysis
-_This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
-###Keyboard key centers
-###Keyboard angle
-* Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
-* Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
-
-##Project code
-[Issues in Programming](/Methodology/PythonHelps.md)
-
-##Keyboard composition
-* Hardware controller codes
-* keycodes
-* character codes
-* encoded characters
-* Keyboard key press pressure
-* Key size
-* key spacing
-* keyboard tilt
-* visual characters on the key
- * See: The Design of Keyboard Templates http://pro.sagepub.com/content/35/6/486.short
-* Keyboard layout (arrangement of characters on the keyboard)
-* Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
+#Methodologies
+_Methodologies are discussed in the [`Methodology`](/Methodology/) folder.
