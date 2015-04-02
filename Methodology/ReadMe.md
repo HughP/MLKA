@@ -26,6 +26,7 @@ _This section considers the physical measurement of keyboards and the metrics of
 ####Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
+
 ###Notes and formulas from academic papers on text input
 [Notes](/Methodology/notes.md)
 
