@@ -25,7 +25,7 @@ In one sense this is "not traditional open source" in that I (Hugh) am not licen
 Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing (and fair use) rather than the open source tradition of nameless collaboration. Which means, in short I may not have the legal right to license everything in this repo under a single license.
 
 ##Publications
-_The_ `/Publications` _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.) A list of publications can be found in the [ReadMe.md](/Publications) of the _ `/Publications` _folder._
+_The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.) A list of publications can be found in the [ReadMe.md](/Publications/ReadMe.md) of the_ `/Publications` _folder._
 
 #Organization
 _This repo is divided up into several sections. It is hard to say content is solely belonging to one section or anther (so cross references may exist)._
