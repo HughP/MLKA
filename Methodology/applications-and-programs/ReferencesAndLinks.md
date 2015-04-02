@@ -149,6 +149,8 @@ _The applications below may not be as refined as the ones above._
  * The first is a 'corpus', a body of text. This is the text that you want the keyboard layout to be optimal for.
  * The second input of the algorithm is your 'typing style', which is the time it takes you to press two particular keyboard positions in sequence.
 
+###Firefox OS
+* https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard
 
 ###Web Platform
 
