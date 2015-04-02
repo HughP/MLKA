@@ -63,6 +63,13 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * [kasahorow-Keyboard-For-Android](https://github.com/eyedol/kasahorow-Keyboard-For-Android)
 * [AnySoftKeyboard](http://anysoftkeyboard.github.io/):  All kinds of keyboards:
  * supporting lots of languages via external packages. E.g., English (QWERTY, DVORAK, AZERTY and Colemak), Hebrew, Russian, Arabic, Lao, Bulgarian, Swiss, German, Swedish, Spanish, Catalan, Belorussian, Portuguese, Ukrainian and many more
+* [O Keyboard](https://plus.google.com/u/1/108476491967142053511/about)
+ * https://groups.google.com/forum/#!forum/multiling-keyboard
+ * https://plus.google.com/u/1/108476491967142053511/about
+* [Indic Keyboard](https://plus.google.com/u/1/communities/100056827514089367822) - 
+ * https://play.google.com/store/apps/details?id=in.androidtweak.inputmethod.indic
+* [TouchPal Keyboard](https://plus.google.com/u/1/communities/105746648636072214666)
+ * https://play.google.com/store/apps/details?id=com.cootek.smartinputv5 
 
 ###iOS
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
