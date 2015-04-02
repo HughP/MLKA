@@ -68,5 +68,5 @@ Keyboard
 
 [Academic Papers](/Academic-Papers/AcademicPapersToCheckOut.md)
 
-#Methodologies
-_Methodologies are discussed in the [`Methodology`](/Methodology/) folder.
+##Methodologies
+_Methodologies are discussed in the [`Methodology`](/Methodology/) folder._
