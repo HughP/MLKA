@@ -76,7 +76,7 @@ Keyboard
 
 ##Applications related keyboard analysis
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/Applications-and-Programs/ReferencesAndLinks.md)
+[As a subsection here](/applications-and-programs/ReferencesAndLinks.md)
 
 ##Metrics of keyboard analysis
 _This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
@@ -86,7 +86,7 @@ _This section considers the physical measurement of keyboards and the metrics of
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
 
 ##Project code
-[Issues in Programming](/PythonHelps.md)
+[Issues in Programming](/Methodology/PythonHelps.md)
 
 ##Keyboard composition
 * Hardware controller codes
