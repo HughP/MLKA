@@ -5,6 +5,7 @@ _This section (or folder) discusses and contains the tools used in this project 
 The folder Software and applications used contains software used to obtain the results in this project.
 It is further devided up into tree sections
 1. Software used
+  ######Project code [Issues in Programming](/Methodology/PythonHelps.md)
 2. Software stashed
 3. Software reviewed or links to other software solutions
 
@@ -13,23 +14,21 @@ It is further devided up into tree sections
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 [As a subsection here](/applications-and-programs/ReferencesAndLinks.md)
 
-##Notes and formulas from academic papers on text input
-[Notes](/Methodology/notes.md)
-
-##Notes and formulas from academic papers on information theory
-[Information Theory](/Theory/InformationTheory.md)
-
-##Metrics of keyboard analysis
+##Metrics and Measurements
+###Metrics of keyboard analysis
 _This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
 
-###Keyboard key centers
+####Keyboard key centers
 
-###Keyboard angle
+####Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
+###Notes and formulas from academic papers on text input
+[Notes](/Methodology/notes.md)
 
-##Project code
-[Issues in Programming](/Methodology/PythonHelps.md)
+###Notes and formulas from academic papers on information theory
+[Information Theory](/Theory/InformationTheory.md)
+
 
 ##Keyboard composition
 * Hardware controller codes
