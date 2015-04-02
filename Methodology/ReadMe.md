@@ -5,7 +5,8 @@ _This section (or folder) discusses and contains the tools used in this project 
 The folder Software and applications used contains software used to obtain the results in this project.
 It is further devided up into tree sections
 1. Software used
-  ######Project code [Issues in Programming](/Methodology/PythonHelps.md)
+  * Project code created [Issues in Programming](/Methodology/PythonHelps.md)
+  * Project code borrowed
 2. Software stashed
 3. Software reviewed or links to other software solutions
 
