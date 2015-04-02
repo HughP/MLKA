@@ -58,7 +58,9 @@ While it appears simple to narrow down the choice of academic disciplines to two
 
 
 ---- insert diagram ---- 
- To include: figur 3.1 from http://www.sis.uta.fi/~pi52316/g/node6.html
+
+[A Minimal Device-Independent Text Input Method](http://www.sis.uta.fi/~pi52316/g/node6.html) by Poika Isokoski
+ To include: figur 3.1 from 
 Compatible input devices
 Mouse
 Touchpads, touch-screens, pressure sensitive pens and digitizing tablets
@@ -69,4 +71,4 @@ Keyboard
 [Academic Papers](/Academic-Papers/AcademicPapersToCheckOut.md)
 
 ##Methodologies
-_Methodologies are discussed in the [`Methodology`](/Methodology/) folder._
+_Methodologies are discussed in the_ [`Methodology`](/Methodology/) _folder._
