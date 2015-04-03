@@ -92,13 +92,13 @@ Fix names for:
  * 2007. VIPP Visualisation in Participatory Programmes: How to Facilitate And Visualise Participatory Group Processes. Malaysia: Southbound.
  * 2002. Protecting Endangered Minority Languages: Sociolinguistic Perspectives. International Journal on Multicultural Societies 4.2: http://unesdoc.unesco.org/images/0013/001387/138795e.pdf
  * 2007. Review of: Language Policy and Modernity in Southeast Asia (Malaysia, The Philippines, Singapore and Thailand). Australian Review of Applied Linguistics 30.1: 13.1-.5.  <Accessed: 23. April 2014>. http://www.nla.gov.au/openpublish/index.php/aral/article/viewFile/1946/2329
- Go through proposal and mark citation’s sections of use in the research notes field of endnote
- JavaScript Write to File: http://jquery.tiddlywiki.org/twFile.html
+ - [ ] Go through proposal and mark citation’s sections of use in the research notes field of endnote
+ - [ ] JavaScript Write to File: http://jquery.tiddlywiki.org/twFile.html
 * https://github.com/mguillem/JSErrorCollector
 * http://www.softwareishard.com/blog/consoleexport/
 * http://stackoverflow.com/questions/19298420/log-javascript-console-into-a-log-file-with-firefox
 * https://addons.mozilla.org/en-US/firefox/addon/preferences-monitor/
 * https://addons.mozilla.org/en-US/firefox/addon/console%C2%B2/
 * https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Annotator/Storing_annotations
- Contact Ben about: http://www.yorku.ca/mack/HCIbook/ and Java Keys Paper
-Awesome site for font and keyboard resources: http://typophile.com/wiki
+- [ ] Contact Ben about: http://www.yorku.ca/mack/HCIbook/ and Java Keys Paper
+* Awesome site for font and keyboard resources: http://typophile.com/wiki
