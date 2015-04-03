@@ -70,35 +70,35 @@ There are three citations in Endnote which are not reference in the paper see if
  * http://ccat.sas.upenn.edu/plc/clpp/proposal/SaranMalaysia.htm
 
 ###Other Issues
- Resolve Visual Culture Citations
- Resolve Francophone intuitions citations
- Resolve Language choice in CMC citations
- Language use dispersion by social network evidence.
- Resolve 1337 and CMC citations
- Resolve Anthropology of objects citations
- Resolve Citations about IM and CMC on work computer
- Twitter mapping and CMC example: http://bigthink.com/strange-maps/539-vive-le-tweet-a-map-of-twitters-languages
- http://firstmonday.org/article/view/4366/3654 - They have nice photos, get one of those
- http://www.insidefacebook.com/2010/05/24/facebooks-top-ten-languages-and-who-is-using-them/
- http://guardianlv.com/2014/03/facebook-study-finds-demographic-differences-in-language-use/
- http://dx.doi.org/10.1111/jcc4.12010
- http://indigenoustweets.blogspot.com/2013/12/mapping-celtic-twittersphere.html They have nice photos too,
- Twitter list of Users: http://indigenoustweets.com/ha/ One issue with this is platform penetration and another issue is noise. 
- http://indigenoustweets.blogspot.com/2014/04/social-media-in-bilingual-environments.html
+ - [ ] Resolve Visual Culture Citations
+ - [ ] Resolve Francophone intuitions citations
+ - [ ] Resolve Language choice in CMC citations
+ - [ ] Language use dispersion by social network evidence.
+ - [ ] Resolve 1337 and CMC citations
+ - [ ] Resolve Anthropology of objects citations
+ - [ ] Resolve Citations about IM and CMC on work computer
+ - [ ] Twitter mapping and CMC example: http://bigthink.com/strange-maps/539-vive-le-tweet-a-map-of-twitters-languages
+  * http://firstmonday.org/article/view/4366/3654 - They have nice photos, get one of those
+  * http://www.insidefacebook.com/2010/05/24/facebooks-top-ten-languages-and-who-is-using-them/
+  * http://guardianlv.com/2014/03/facebook-study-finds-demographic-differences-in-language-use/
+  * http://dx.doi.org/10.1111/jcc4.12010
+  * http://indigenoustweets.blogspot.com/2013/12/mapping-celtic-twittersphere.html They have nice photos too,
+  * Twitter list of Users: http://indigenoustweets.com/ha/ One issue with this is platform penetration and another issue is noise. 
+  * http://indigenoustweets.blogspot.com/2014/04/social-media-in-bilingual-environments.html
 
 ##There is another reason for key-logging -- it shows the cognitive process. (Neumann, Niemietz & Serbina 2013)
 Fix names for: 
- 2011. National language planning & language shifts in Malaysian minority communities : speaking in many tongues. Amsterdam; Manchester: Amsterdam University Press Manchester University Press [distributor].
- 2007. VIPP Visualisation in Participatory Programmes: How to Facilitate And Visualise Participatory Group Processes. Malaysia: Southbound.
- 2002. Protecting Endangered Minority Languages: Sociolinguistic Perspectives. International Journal on Multicultural Societies 4.2: http://unesdoc.unesco.org/images/0013/001387/138795e.pdf
- 2007. Review of: Language Policy and Modernity in Southeast Asia (Malaysia, The Philippines, Singapore and Thailand). Australian Review of Applied Linguistics 30.1: 13.1-.5.  <Accessed: 23. April 2014>. http://www.nla.gov.au/openpublish/index.php/aral/article/viewFile/1946/2329
+ * 2011. National language planning & language shifts in Malaysian minority communities : speaking in many tongues. Amsterdam; Manchester: Amsterdam University Press Manchester University Press [distributor].
+ * 2007. VIPP Visualisation in Participatory Programmes: How to Facilitate And Visualise Participatory Group Processes. Malaysia: Southbound.
+ * 2002. Protecting Endangered Minority Languages: Sociolinguistic Perspectives. International Journal on Multicultural Societies 4.2: http://unesdoc.unesco.org/images/0013/001387/138795e.pdf
+ * 2007. Review of: Language Policy and Modernity in Southeast Asia (Malaysia, The Philippines, Singapore and Thailand). Australian Review of Applied Linguistics 30.1: 13.1-.5.  <Accessed: 23. April 2014>. http://www.nla.gov.au/openpublish/index.php/aral/article/viewFile/1946/2329
  Go through proposal and mark citation’s sections of use in the research notes field of endnote
  JavaScript Write to File: http://jquery.tiddlywiki.org/twFile.html
-https://github.com/mguillem/JSErrorCollector
-http://www.softwareishard.com/blog/consoleexport/
-http://stackoverflow.com/questions/19298420/log-javascript-console-into-a-log-file-with-firefox
-https://addons.mozilla.org/en-US/firefox/addon/preferences-monitor/
-https://addons.mozilla.org/en-US/firefox/addon/console%C2%B2/
-https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Annotator/Storing_annotations
+* https://github.com/mguillem/JSErrorCollector
+* http://www.softwareishard.com/blog/consoleexport/
+* http://stackoverflow.com/questions/19298420/log-javascript-console-into-a-log-file-with-firefox
+* https://addons.mozilla.org/en-US/firefox/addon/preferences-monitor/
+* https://addons.mozilla.org/en-US/firefox/addon/console%C2%B2/
+* https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Annotator/Storing_annotations
  Contact Ben about: http://www.yorku.ca/mack/HCIbook/ and Java Keys Paper
 Awesome site for font and keyboard resources: http://typophile.com/wiki
