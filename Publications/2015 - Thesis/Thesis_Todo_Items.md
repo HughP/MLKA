@@ -17,12 +17,14 @@
 - [x] Contact Chris Harvey and ask him about his keyboard layout design process
   * http://www.languagegeek.com/email/messagesent.html
    * Waiting for a response 12. May 2014
+
 ####Language Data examples
 - [ ] Integrate content about Chinantec
 - [ ] Integrate content about Me’phaa
 - [x] Get Nigerian Context examples
 - [ ] Analyze Nigerian Data
 - [ ] Analyze Mongolian Data
+
 ####Orthography chart
 * http://en.wikipedia.org/wiki/Mongolian_script
 * http://en.wikipedia.org/wiki/Mongolian_Cyrillic_alphabet
@@ -33,15 +35,18 @@
 - [ ] Analyze Navajo Data
   * http://en.wikipedia.org/wiki/Navajo_language
   * http://www.worldcat.org/title/god-speaks-navajo/oclc/655209213?ht=edition&referer=di
+
 ##Section 2.3.2 
 There are two SUM citations in Endnote for section 2.3.2 see if these need removed from this section or if this section needs additional text added
 * Lewis, M. Paul. 2010. The Sustainable Use Model and the Expanded Graded Intergenerational Disruption Scale (EGIDS). Paper presented at International Language Assessment Community Meetings 2010 (ILAC VI), Penang, Malaysia. <Accessed: 18. April 2014>. 
 * Lewis, M. Paul. 2010. The Sustainable Use Model for Language Development. Paper presented at Payap University Linguistics Colloquium, Payap University, Chaing Mai Thailand, (22 September 2010). <Accessed: 18. April 2014>.
+
 ##Section 2.3.3
 There are three citations in Endnote about citation metrics which have not been used. My inclination is to not use them as this is not the main thrust of the section and is already well supported.
 * Brody, Tim & Stevan Harnad. 2005. Earlier Web Usage Statistics as Predictors of Later Citation Impact. <Accessed: 10. May 2014>. http://arxiv.org/abs/cs/0503020
 * Brumback, Roger A. 2009. Impact Factor Wars: Episode V—The Empire Strikes Back. Journal of Child Neurology 24.3: 260-2. http://jcn.sagepub.com/content/24/3/260.short
 * Neylon, Cameron & Shirley Wu. 2009. Article-Level Metrics and the Evolution of Scientific Impact. PLoS Biol 7.11: e1000242. http://dx.doi.org/10.1371%2Fjournal.pbio.1000242
+
 ##Section 2.3.5
 There are three citations in Endnote which are not reference in the paper see if this is a problematic over site or if this was a decision to not use thee resources.
 * Fishman, Joshua A. 1967. Bilingualism With and Without Diglossia; Diglossia With and Without Bilingualism. Journal of Social Issues 23.2: 29-38. http://dx.doi.org/10.1111/j.1540-4560.1967.tb00573.x
@@ -52,17 +57,18 @@ There are three citations in Endnote which are not reference in the paper see if
 - [ ] Resolve Boko Hararm citations
 - [ ] Look up Boko Hararm in arabic journal
 - [ ] Is the US South west languages looking for stable multilingualism?
-http://en.wikipedia.org/wiki/Diglossia
-http://www.personal.uni-jena.de/~mu65qev/wikolin/index.php?title=Diglossia
- There is a citation in Endnote which is not in the text resolve why
-Evers, Larry  & Felipe S. Molina. 1992. The Holy Dividing Line: Inscription and Resistance in Yaqui Culture. The Journal of the Southwest 34.1:  <Accessed: 07. May 2014>. http://parentseyes.arizona.edu/journalofthesw/HolyDividingLine1.htm
- Consider David Weber’s comment about Oral traditions and Literacy
-Keyboard layout is only important if writing is important, and the importance of writing hinges on the creation of a literature --literature that grips people, that is vital to survival, that gives spiritual and intellectual life. But you have to face the growing number of people who think that literacy undercuts oral literature.  So there could be some interesting and relevant discussion.
- Finish War and Anthropology citations
-Counter-Counter objections
- Resolve comments about SUM from Paul Lewis
- Resolve Language Planning Citations including Philippine and Malaysia Law on Main computer
-http://ccat.sas.upenn.edu/plc/clpp/proposal/SaranMalaysia.htm
+* http://en.wikipedia.org/wiki/Diglossia
+* http://www.personal.uni-jena.de/~mu65qev/wikolin/index.php?title=Diglossia
+- [ ] There is a citation in Endnote which is not in the text resolve why
+ * Evers, Larry  & Felipe S. Molina. 1992. The Holy Dividing Line: Inscription and Resistance in Yaqui Culture. The Journal of the Southwest 34.1:  <Accessed: 07. May 2014>. http://parentseyes.arizona.edu/journalofthesw/HolyDividingLine1.htm
+- [ ] Consider David Weber’s comment about Oral traditions and Literacy
+ * Keyboard layout is only important if writing is important, and the importance of writing hinges on the creation of a literature --literature that grips people, that is vital to survival, that gives spiritual and intellectual life. But you have to face the growing number of people who think that literacy undercuts oral literature.  So there could be some interesting and relevant discussion.
+- [ ] Finish War and Anthropology citations
+- [ ] Counter-Counter objections 
+ * Resolve comments about SUM from Paul Lewis
+ * Resolve Language Planning Citations including Philippine and Malaysia Law on Main computer
+ * http://ccat.sas.upenn.edu/plc/clpp/proposal/SaranMalaysia.htm
+
 ###Other Issues
  Resolve Visual Culture Citations
  Resolve Francophone intuitions citations
