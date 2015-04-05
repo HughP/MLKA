@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  26 DEC 2014 17:23
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  4 APR 2015 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -972,12 +972,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \XLingPapertempdim=\dimen199
 \XLingPapertempdim=\dimen200
 \XLingPapertempdim=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\XLingPapertempdim=\dimen256
  [5] [6
 
 ]
-Normal \dimen register pool exhausted, switching to extended pool.
-\XLingPapertempdim=\dimen256
 \XLingPapertempdim=\dimen257
+\XLingPapertempdim=\dimen258
  [7
 
 ] [8
@@ -990,9 +991,9 @@ Normal \dimen register pool exhausted, switching to extended pool.
 
 ] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 388.
+(Font)              <7> on input line 390.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 388.
+(Font)              <5> on input line 390.
  [5] [6] [7] [8]
 [9] [10
 
@@ -1009,39 +1010,46 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 [24
 
-] [25] [26] [27] [28] [29] [30] [31] [32]
-Overfull \hbox (24.3732pt too wide) in paragraph at lines 712--713
+
+] [25
+
+] [26
+
+] [27
+
+] [28] [29] [30] [31] [32] [33] [34] [35]
+Overfull \hbox (24.3732pt too wide) in paragraph at lines 733--734
 \MainFont Liga Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureea
 rth.org/data/cso/PDF/00-
  []
 
 
-Overfull \hbox (23.30247pt too wide) in paragraph at lines 718--719
+Overfull \hbox (23.30247pt too wide) in paragraph at lines 739--740
 []\MainFont Section headers were removed. Chap-
  []
 
-[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-Overfull \hbox (75.20848pt too wide) in paragraph at lines 732--733
+[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
+Overfull \hbox (75.20848pt too wide) in paragraph at lines 753--754
 \MainFont writing a particular language. http://scripts.sil.org/cms/scripts/pag
 e.php?cat_id=Glossary#writingsys
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
 
  []
 
-[44
+[47
 
 
 ] (./hughjpaterson2014thesis.aux) ) 
 Here is how much of TeX's memory you used:
  15949 strings out of 494535
  268198 string characters out of 3159869
- 424870 words of memory out of 3000000
+ 425656 words of memory out of 3000000
  18939 multiletter control sequences out of 15000+200000
  6682 words of font info for 49 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 44i,12n,48p,25206b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,48p,25192b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on hughjpaterson2014thesis.pdf (54 pages).
+Output written on hughjpaterson2014thesis.pdf (57 pages).

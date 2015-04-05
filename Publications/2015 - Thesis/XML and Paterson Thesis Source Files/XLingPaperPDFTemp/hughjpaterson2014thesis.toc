@@ -59,9 +59,11 @@
 <tocline ref="s54" page="21"/>
 <tocline ref="s55" page="22"/>
 <tocline ref="c6" page="23"/>
-<tocline ref="aAnalyzedTexts" page="24"/>
-<tocline ref="s-eng" page="24"/>
-<tocline ref="s-tcf" page="24"/>
-<tocline ref="s-cso" page="32"/>
-<tocline ref="rXLingPapGlossary1" page="44"/>
+<tocline ref="rXLingPapAppendiciesPage" page="24"/>
+<tocline ref="a" page="25"/>
+<tocline ref="b" page="26"/>
+<tocline ref="aAnalyzedTexts" page="27"/>
+<tocline ref="s-tcf" page="27"/>
+<tocline ref="s-cso" page="35"/>
+<tocline ref="rXLingPapGlossary1" page="47"/>
 </toc>

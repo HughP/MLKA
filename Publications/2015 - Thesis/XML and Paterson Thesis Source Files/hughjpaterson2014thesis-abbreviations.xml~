@@ -12,6 +12,28 @@ href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php"
 >http://www.eva.mpg.de/lingua/resources/glossing-rules.php</link
 > on 01-October, 2008.</comment
 ><abbreviation
+id="ANSI"
+><abbrInLang
+lang="en"
+xml:lang="en"
+><abbrTerm
+>ansi</abbrTerm
+><abbrDefinition
+>American National Standards Institute - a standards organization</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="ASCII"
+><abbrInLang
+lang="en"
+xml:lang="en"
+><abbrTerm
+>ascii</abbrTerm
+><abbrDefinition
+>American Standard Code for Information Interchange</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
 id="v1"
 ><abbrInLang
 lang="en"
@@ -85,6 +107,7 @@ lang="en"
 id="vADJ"
 ><abbrInLang
 lang="en"
+xml:lang="en"
 ><abbrTerm
 >adj</abbrTerm
 ><abbrDefinition
