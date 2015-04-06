@@ -106,7 +106,8 @@ _The applications below may not be as refined as the ones above._
 * **[logKext](https://github.com/SlEePlEs5/logKext)**: An update to fsb's logKext tool. Runs on 10.9 Mavericks!
 * **[dual-keyboards](https://github.com/pnc/dual-keyboards)** An OS X utility to allow the use of modifier keys across multiple external keyboards http://dotdotcomorg.net/Mac/
 * **[my-multiple-keyboards](https://github.com/mejedi/my-multiple-keyboards)**: A tool for Mac OS X enabling modifier keys to work ‘across’ keyboards if you have more than one
-* **[Karabiner](https://pqrs.org/osx/karabiner/)**
+* **[Karabiner](https://pqrs.org/osx/karabiner/)**: A powerful and stable keyboard customizer for OS X.
+* **[Ukelele](http://scripts.sil.org/ukelele)**: Ukelele is a Unicode Keyboard Layout Editor for Mac OS X versions 10.2 and later. Version 2.0 and later are only for Mac OS X versions 10.4 and later. Beginning with version 10.2 (Jaguar), Mac OS X supports an XML-based format for keyboard layouts (.keylayout files). These may be installed by copying them to the Keyboard Layouts folder within /Library or ~/Library; then they are enabled via the Input Sources (Input in 10.5 and earlier) tab of the Language & Text (International in 10.5 and earlier) module within System Preferences.
 * **[Keyboard Layout](https://github.com/atom/keyboard-layout)** Node module to read and observe the current keyboard layout on OS X
 * **[LayoutTracker](https://github.com/andrimarjonsson/LayoutTracker)**
 * **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide - iOS maybe?
@@ -156,6 +157,7 @@ _The applications below may not be as refined as the ones above._
 
 * **[Keyboard Layout Editor](https://github.com/ijprest/keyboard-layout-editor)** Web application to enable the design & editing of keyboard layouts http://www.keyboard-layout-editor.com/
 * **[Klavarog Δ](https://github.com/ibnteo/klavarog_delta)** : Keyboard trainer "Klavarog Δ" (klava.org)
+ * http://klava.org/#eng_code_xslt
 * **[Keyboard Heatmap](http://timepass.appb.in/keyboardheatmap.html)**
 * **[TileMill Keyboard Heatmap](http://utilitymill.com/utility/Keyboard_HeatMap)**
 
@@ -201,3 +203,19 @@ _The applications below may not be as refined as the ones above._
 
 ##Services
 * http://whatpulse.org/
+
+
+----- 
+Just a dump of links
+
+Some tools and resources for character input by SIL: http://scripts.sil.org/inputtoollinks
+KeyLayoutMaker: Perl script to create Mac OS X keyboard layouts: http://scripts.sil.org/keylayoutmaker
+Unicode Keyboards for Mac OS: http://wordherd.com/keyboards/
+Comparing Keyman and Microsoft Windows Keyboard Layout Creator: http://scripts.sil.org/KeymanVsMSKLC
+Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
+Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
+
+Games for typing:
+Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
+Master your Mac’s keyboard: Keyboard & Aliens: http://www.x04studios.com/macapps.html
+Typing Lessons online: https://typing.io/lessons
