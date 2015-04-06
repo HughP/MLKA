@@ -15,7 +15,7 @@ It is further devided up into three sections:
 
 ###Applications related keyboard analysis
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/applications-and-programs/ReferencesAndLinks.md)
+[As a subsection here](/Methodology/applications-and-programs/ReferencesAndLinks.md)
 
 ##Metrics and Measurements
 ###Metrics of keyboard analysis
