@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  4 APR 2015 14:33
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  5 APR 2015 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -17,8 +17,8 @@ guese, romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedis
 h, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
 (/usr/local/texlivexlingpaper/2009basic/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlivexlingpaper/2009basic/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlivexlingpaper/2009basic/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -700,22 +700,34 @@ tly
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 29.
-\g_fontspec_family_Times New Roman_int=\count192
- fontspec info: Defining font family 'TimesNewRoman(0)' for font 'Times New Rom
-an' with options [].
+\g_fontspec_family_Charis SIL_int=\count192
+ fontspec info: Defining font family 'CharisSIL(0)' for font 'Charis SIL' with 
+options [].
 
-\g_fontspec_TimesNewRoman(0)_prop=\toks44
+\g_fontspec_CharisSIL(0)_prop=\toks44
  fontspec info: Defining shape 'normal' with NFSS spec.:
-(fontspec)  <->"Times New Roman/ICU:script=latn;language=DFLT;"
+(fontspec)  <->"Charis SIL/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'small caps' with NFSS spec.:
+(fontspec)  <->"Charis SIL/ICU:script=latn;language=DFLT;+smcp;"
 
  fontspec info: Defining shape 'bold' with NFSS spec.:
-(fontspec)  <->"Times New Roman/B/ICU:script=latn;language=DFLT;"
+(fontspec)  <->"Charis SIL/B/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold small caps' with NFSS spec.:
+(fontspec)  <->"Charis SIL/B/ICU:script=latn;language=DFLT;+smcp;"
 
  fontspec info: Defining shape 'italic' with NFSS spec.:
-(fontspec)  <->"Times New Roman/I/ICU:script=latn;language=DFLT;"
+(fontspec)  <->"Charis SIL/I/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'italic small caps' with NFSS spec.:
+(fontspec)  <->"Charis SIL/I/ICU:script=latn;language=DFLT;+smcp;"
 
  fontspec info: Defining shape 'bold italic' with NFSS spec.:
-(fontspec)  <->"Times New Roman/BI/ICU:script=latn;language=DFLT;"
+(fontspec)  <->"Charis SIL/BI/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold italic small caps' with NFSS spec.:
+(fontspec)  <->"Charis SIL/BI/ICU:script=latn;language=DFLT;+smcp;"
 
 \g_fontspec_family_Charis SIL Small Caps_int=\count193
  fontspec info: Defining font family 'CharisSILSmallCaps(0)' for font 'Charis S
@@ -745,6 +757,23 @@ IL Small Caps' with options [].
 
  fontspec info: Defining shape 'bold italic small caps' with NFSS spec.:
 (fontspec)  <->"Charis SIL Small Caps/BI/ICU:script=latn;language=DFLT;+smcp;"
+
+\g_fontspec_family_Times New Roman_int=\count194
+ fontspec info: Defining font family 'TimesNewRoman(0)' for font 'Times New Rom
+an' with options [].
+
+\g_fontspec_TimesNewRoman(0)_prop=\toks46
+ fontspec info: Defining shape 'normal' with NFSS spec.:
+(fontspec)  <->"Times New Roman/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold' with NFSS spec.:
+(fontspec)  <->"Times New Roman/B/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'italic' with NFSS spec.:
+(fontspec)  <->"Times New Roman/I/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold italic' with NFSS spec.:
+(fontspec)  <->"Times New Roman/BI/ICU:script=latn;language=DFLT;"
 
  (./hughjpaterson2014thesis.aux)
 \openout1 = `hughjpaterson2014thesis.aux'.
@@ -799,38 +828,37 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 68.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-68.
+(Font)                  OT1/cmr/m/n --> EU1/CharisSIL(0)/m/n on input line 68.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `bold' on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 68.
+(Font)                  OT1/cmr/bx/n --> EU1/CharisSIL(0)/m/n on input line 68.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 68.
+(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/m/n on input 
+line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 68.
+(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/m/n on input 
+line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 68.
+(Font)                  OT1/cmr/m/it --> EU1/CharisSIL(0)/m/it on input line 68
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 68.
+(Font)                  OT1/cmr/bx/n --> EU1/CharisSIL(0)/bx/n on input line 68
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 68.
+(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/bx/n on input
+ line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 68.
+(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/bx/n on input
+ line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 68.
+(Font)                  OT1/cmr/bx/it --> EU1/CharisSIL(0)/bx/it on input line 
+68.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -850,7 +878,7 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 estring.sty
 Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
-\c@section@level=\count194
+\c@section@level=\count195
 )
 LaTeX Info: Redefining \ref on input line 68.
 LaTeX Info: Redefining \pageref on input line 68.
@@ -875,25 +903,111 @@ LaTeX Info: Redefining \nameref on input line 68.
 \XLingPapertempdimletter=\dimen143
 \XLingPaperpnumwidth=\skip82
 \XLingPapertocrmarg=\skip83
-\XLingPaperlistinexampleindent=\skip84
-\XLingPaperisocodewidth=\skip85
-\XLingPaperlistitemindent=\skip86
-\XLingPaperbulletlistitemwidth=\skip87
-\XLingPapersingledigitlistitemwidth=\skip88
-\XLingPaperdoubledigitlistitemwidth=\skip89
-\XLingPapertripledigitlistitemwidth=\skip90
-\XLingPapersingleletterlistitemwidth=\skip91
-\XLingPaperdoubleletterlistitemwidth=\skip92
-\XLingPapertripleletterlistitemwidth=\skip93
-\XLingPaperromanviilistitemwidth=\skip94
-\XLingPaperromanviiilistitemwidth=\skip95
-\XLingPaperromanxviiilistitemwidth=\skip96
-\XLingPaperspacewidth=\skip97
-\XLingPapersingledigitlistofwidth=\skip98
-\XLingPaperdoubledigitlistofwidth=\skip99
-\XLingPapertripledigitlistofwidth=\skip100
-\XLingPaperexamplefreeindent=\skip101
-\XLingPaperinterwordskip=\skip102
+\XLingPapertempbox=\box37
+\XLingPapertemplen=\skip84
+\XLingPaperavailabletablewidth=\skip85
+\XLingPapertableminwidth=\skip86
+\XLingPapertablemaxwidth=\skip87
+\XLingPapertablewidthminustableminwidth=\skip88
+\XLingPapertablemaxwidthminusminwidth=\skip89
+\XLingPapertablewidthratio=\skip90
+\XLingPapermincola=\skip91
+\XLingPapermaxcola=\skip92
+\XLingPapercolawidth=\skip93
+\XLingPapermincolb=\skip94
+\XLingPapermaxcolb=\skip95
+\XLingPapercolbwidth=\skip96
+\XLingPapermincolc=\skip97
+\XLingPapermaxcolc=\skip98
+\XLingPapercolcwidth=\skip99
+\XLingPapermincold=\skip100
+\XLingPapermaxcold=\skip101
+\XLingPapercoldwidth=\skip102
+\XLingPapermincole=\skip103
+\XLingPapermaxcole=\skip104
+\XLingPapercolewidth=\skip105
+\XLingPapermincolf=\skip106
+\XLingPapermaxcolf=\skip107
+\XLingPapercolfwidth=\skip108
+\XLingPapermincolg=\skip109
+\XLingPapermaxcolg=\skip110
+\XLingPapercolgwidth=\skip111
+\XLingPapermincolh=\skip112
+\XLingPapermaxcolh=\skip113
+\XLingPapercolhwidth=\skip114
+\XLingPapermincoli=\skip115
+\XLingPapermaxcoli=\skip116
+\XLingPapercoliwidth=\skip117
+\XLingPapermincolj=\skip118
+\XLingPapermaxcolj=\skip119
+\XLingPapercoljwidth=\skip120
+\XLingPapermincolk=\skip121
+\XLingPapermaxcolk=\skip122
+\XLingPapercolkwidth=\skip123
+\XLingPapermincoll=\skip124
+\XLingPapermaxcoll=\skip125
+\XLingPapercollwidth=\skip126
+\XLingPapermincolm=\skip127
+\XLingPapermaxcolm=\skip128
+\XLingPapercolmwidth=\skip129
+\XLingPapermincoln=\skip130
+\XLingPapermaxcoln=\skip131
+\XLingPapercolnwidth=\skip132
+\XLingPapermincolo=\skip133
+\XLingPapermaxcolo=\skip134
+\XLingPapercolowidth=\skip135
+\XLingPapermincolp=\skip136
+\XLingPapermaxcolp=\skip137
+\XLingPapercolpwidth=\skip138
+\XLingPapermincolq=\skip139
+\XLingPapermaxcolq=\skip140
+\XLingPapercolqwidth=\skip141
+\XLingPapermincolr=\skip142
+\XLingPapermaxcolr=\skip143
+\XLingPapercolrwidth=\skip144
+\XLingPapermincols=\skip145
+\XLingPapermaxcols=\skip146
+\XLingPapercolswidth=\skip147
+\XLingPapermincolt=\skip148
+\XLingPapermaxcolt=\skip149
+\XLingPapercoltwidth=\skip150
+\XLingPapermincolu=\skip151
+\XLingPapermaxcolu=\skip152
+\XLingPapercoluwidth=\skip153
+\XLingPapermincolv=\skip154
+\XLingPapermaxcolv=\skip155
+\XLingPapercolvwidth=\skip156
+\XLingPapermincolw=\skip157
+\XLingPapermaxcolw=\skip158
+\XLingPapercolwwidth=\skip159
+\XLingPapermincolx=\skip160
+\XLingPapermaxcolx=\skip161
+\XLingPapercolxwidth=\skip162
+\XLingPapermincoly=\skip163
+\XLingPapermaxcoly=\skip164
+\XLingPapercolywidth=\skip165
+\XLingPapermincolz=\skip166
+\XLingPapermaxcolz=\skip167
+\XLingPapercolzwidth=\skip168
+\XLingPaperlistinexampleindent=\skip169
+\XLingPaperisocodewidth=\skip170
+\XLingPaperlistitemindent=\skip171
+\XLingPaperbulletlistitemwidth=\skip172
+\XLingPapersingledigitlistitemwidth=\skip173
+\XLingPaperdoubledigitlistitemwidth=\skip174
+\XLingPapertripledigitlistitemwidth=\skip175
+\XLingPapersingleletterlistitemwidth=\skip176
+\XLingPaperdoubleletterlistitemwidth=\skip177
+\XLingPapertripleletterlistitemwidth=\skip178
+\XLingPaperromanviilistitemwidth=\skip179
+\XLingPaperromanviiilistitemwidth=\skip180
+\XLingPaperromanxviiilistitemwidth=\skip181
+\XLingPaperspacewidth=\skip182
+\XLingPapersingledigitlistofwidth=\skip183
+\XLingPaperdoubledigitlistofwidth=\skip184
+\XLingPapertripledigitlistofwidth=\skip185
+\XLingPaperexamplefreeindent=\skip186
+\XLingPaperinterwordskip=\skip187
 \openout8 = `hughjpaterson2014thesis.toc'.
 
 
@@ -905,11 +1019,11 @@ LaTeX Info: Redefining \nameref on input line 68.
 ]
 \XLingPapertempdim=\dimen144
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 220.
+(Font)              <10.95> on input line 299.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 220.
+(Font)              <8> on input line 299.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 220.
+(Font)              <6> on input line 299.
 \XLingPapertempdim=\dimen145
 \XLingPapertempdim=\dimen146
 \XLingPapertempdim=\dimen147
@@ -928,11 +1042,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \XLingPapertempdim=\dimen160
 \XLingPapertempdim=\dimen161
 \XLingPapertempdim=\dimen162
+\XLingPapertempdim=\dimen163
  [3
 
 
 ]
-\XLingPapertempdim=\dimen163
 \XLingPapertempdim=\dimen164
 \XLingPapertempdim=\dimen165
 \XLingPapertempdim=\dimen166
@@ -955,9 +1069,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \XLingPapertempdim=\dimen183
 \XLingPapertempdim=\dimen184
 \XLingPapertempdim=\dimen185
- [4]
 \XLingPapertempdim=\dimen186
 \XLingPapertempdim=\dimen187
+ [4]
 \XLingPapertempdim=\dimen188
 \XLingPapertempdim=\dimen189
 \XLingPapertempdim=\dimen190
@@ -974,82 +1088,190 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \XLingPapertempdim=\dimen201
 Normal \dimen register pool exhausted, switching to extended pool.
 \XLingPapertempdim=\dimen256
- [5] [6
-
-]
 \XLingPapertempdim=\dimen257
 \XLingPapertempdim=\dimen258
- [7
+\XLingPapertempdim=\dimen259
+\XLingPapertempdim=\dimen260
+\XLingPapertempdim=\dimen261
+\XLingPapertempdim=\dimen262
+\XLingPapertempdim=\dimen263
+\XLingPapertempdim=\dimen264
+ [5]
+\XLingPapertempdim=\dimen265
+\XLingPapertempdim=\dimen266
+\XLingPapertempdim=\dimen267
+\XLingPapertempdim=\dimen268
+\XLingPapertempdim=\dimen269
+\XLingPapertempdim=\dimen270
+\XLingPapertempdim=\dimen271
+\XLingPapertempdim=\dimen272
+\XLingPapertempdim=\dimen273
+\XLingPapertempdim=\dimen274
+\XLingPapertempdim=\dimen275
+\XLingPapertempdim=\dimen276
+\XLingPapertempdim=\dimen277
+\XLingPapertempdim=\dimen278
+\XLingPapertempdim=\dimen279
+\XLingPapertempdim=\dimen280
+\XLingPapertempdim=\dimen281
+\XLingPapertempdim=\dimen282
+\XLingPapertempdim=\dimen283
+ [6] [7
 
-] [8
+]
+\XLingPapertempdim=\dimen284
+\XLingPapertempdim=\dimen285
+\XLingPapertempdim=\dimen286
+ [8
 
-] [9
+]
+Underfull \vbox (badness 10000) detected at line 511
+ []
+
+[9
 
 ] [10
+
+] [11
 
 ] [1
 
 ] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 390.
+(Font)              <9> on input line 540.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 390.
- [5] [6] [7] [8]
-[9] [10
+(Font)              <5> on input line 540.
+ [5] [6] [7]
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+ [8]
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+ [9] [10]
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+Missing character: There is no ⟨ in font Charis SIL!
+Missing character: There is no ⟩ in font Charis SIL!
+ [11]
+Overfull \hbox (118.19159pt too wide) in paragraph at lines 557--558
+ [][] 
+ []
 
-] [11] [12] [13] [14] [15] [16
+[12] [13] [14] [15] [16] [17]
+Underfull \vbox (badness 10000) detected at line 584
+ []
 
-] [17] [18
+[18] [19] [20
 
-] [19] [20
+] [21] [22] [23] [24] [25] [26] [27
 
-] [21
+] [28
 
-] [22] [23
+] [29] [30
+
+] [31] [32
 
 ]
-[24
+[33
+
+] [34
 
 
-] [25
+] [35
 
-] [26
+] [36
 
-] [27
-
-] [28] [29] [30] [31] [32] [33] [34] [35]
-Overfull \hbox (24.3732pt too wide) in paragraph at lines 733--734
-\MainFont Liga Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureea
-rth.org/data/cso/PDF/00-
+]
+Overfull \hbox (6.0853pt too wide) in paragraph at lines 1018--1019
+[]\MainFont this text was likely the most com-
  []
 
+[37
 
-Overfull \hbox (23.30247pt too wide) in paragraph at lines 739--740
-[]\MainFont Section headers were removed. Chap-
+] [38] [39] [40] [41] [42] [43] [44]
+Overfull \hbox (22.38269pt too wide) in paragraph at lines 1035--1036
+\MainFont Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureearth.o
+rg/data/cso/PDF/00-
  []
 
-[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Overfull \hbox (75.20848pt too wide) in paragraph at lines 753--754
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+Overfull \hbox (22.38269pt too wide) in paragraph at lines 1058--1059
+\MainFont Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureearth.o
+rg/data/cso/PDF/00-
+ []
+
+[55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
+Overfull \hbox (92.65091pt too wide) in paragraph at lines 1078--1079
 \MainFont writing a particular language. http://scripts.sil.org/cms/scripts/pag
 e.php?cat_id=Glossary#writingsys
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--754
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
 
  []
 
-[47
+[65
 
 
 ] (./hughjpaterson2014thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 15949 strings out of 494535
- 268198 string characters out of 3159869
- 425656 words of memory out of 3000000
- 18939 multiletter control sequences out of 15000+200000
- 6682 words of font info for 49 fonts, out of 3000000 for 9000
+ 16092 strings out of 494535
+ 271160 string characters out of 3159869
+ 428541 words of memory out of 3000000
+ 19066 multiletter control sequences out of 15000+200000
+ 7645 words of font info for 58 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 44i,12n,48p,25192b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,48p,25191b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on hughjpaterson2014thesis.pdf (57 pages).
+Output written on hughjpaterson2014thesis.pdf (76 pages).

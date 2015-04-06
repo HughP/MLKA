@@ -26,7 +26,7 @@ version="2.20.0"
 ><p
 >I would like to thank Bob Hallissy of SIL International, NRSI for help understanding Unicode and converting non-Unicode texts to Unicode; Mark L. Weathers for his extensive knowledge of the use of technology in writing Meꞌphaa; Steve Marlett for inviting me to work with him on documenting the Meꞌphaa genus; Wilfrido Flores for giving me the opportunity to serve him in the creation of a Chinantec keyboard; John Brownie, the creator of Ukelele a program which makes the designing of keyboards layouts on OS X a really easy thing to do; Kevin Cline for explaining to me how MSKLC works and for creating the MSKLC keyboards for Meꞌphaa; Tim Sissel of SIL Mexico Branch for is assistance with the history of keyboard design in SIL's language program involvement in Mexico; John Gibbens for assistance in obtaining Mongolian texts and keyboard layouts for analysis; Coleen Starwalt and Heidi Rosendall for assistance in obtaining Mongolian texts and keyboard layouts for analysis; Kirby O’Brien for his involvement in refining some of the graphics used to demonstrate some of the ideas of this thesis; Becky Paterson for proof reading and helping a visual processor like me reduce my thoughts to keystrokes. SIL International Americas Area for sponsoring my involvement in the Meꞌphaa genus Language Documentation project. I take full responsibility for all errors.</p
 ><p
-cssSpecial="middle"
+cssSpecial="center"
 >This thesis was proudly typeset with <link
 href="http://www.xlingpaper.org/"
 >XLingPaper</link
@@ -55,11 +55,34 @@ label="List of figures"
 ><preface
 label="List of abbreviations"
 ><p
+></p
+><table
+border="1"
+><tr
+><td
+>ANSI</td
+><td
+>American National Standards Institute - a standards organization</td
+></tr
+><tr
+><td
+>ASCII</td
+><td
+>American Standard Code for Information Interchange</td
+></tr
+></table
+><p
+></p
+><p
 ><comment
 >ANSI: American National Standards Institute - a standards organization ASCII: American Standard Code for Information Interchange C &amp; dR: Chelliah and de Reuse (the authors of the Handbook of descriptive linguistic fieldwork) CALL: Computer Assisted Language Learning CMC: Computer-Mediated Communication EGIDS: Expanded Graded Intergenerational Disruption Scale FOSS: Free and Open Source Software GIDS: Graded Intergenerational Disruption Scale HFA: Hoffnung für Alle IM: Instant Message ISO: International Standards Organization - a standards organization JIS: Japanese Industrial Standards - a standards organization KL: Keyboard Layout MSKLC: Microsoft Keyboard Layout Creator NLT: New Living Translation NRSI: Non-Roaman Script Initiative OS (OSes): Computer Operating System (Operating Systems) OS X: Operating system ten (Apple, Inc.’s operating system) PUA: Private Use Area RVR: La Biblia Reina-Valera SFM: Scripture Format Marker SMS: Short Message Service also known as Text Message SUM: Sustainable Use Model TBU: Tone Bearing Unit UI: User Interface USA: United States of America UX: User Experience</comment
 ></p
+><p
+></p
 ><abbreviationsShownHere
 ></abbreviationsShownHere
+><p
+></p
 ></preface
 ></frontMatter
 ><chapter
@@ -67,7 +90,7 @@ id="c"
 ><secTitle
 >Introduction</secTitle
 ><p
->Keyboard layout design affects language vitality. Socio-technical systems are increasingly important in today's communication ecology (Whitworth &amp; Ahmad 2013). Language development projects and language planing programs need a way to integrate linguistic knowledge, information, and transmission practices into socio-technical systems if the languages used in these systems are going to be the mother tongue languages of minority language speakers. With the current rate of technological adaption it is more than feasible that technical systems (such as social media and the mobile devices used to access these systems) will become more relevant than the traditional, printed, literacy reading primer (Blench 2012: 15). This requires addressing the design tension between requirements for minority language users and the Human Computer Interaction (HCI) requirements of computing devices. The academic linguistic community often attempts to address these tensions at the orthography “design” level (Cooper 2005: 160, Jany 2010b: 235-6). However these “solutions” often revolve around removing diacritic marks from Roman script orthographies (Boerger 2007: 134) and do not address the marking of tone in languages, such as Chinantec (Foris 2000) and some African languages (Roberts 2011), where there is a significant need to mark tone. Such solutions also do not affect key frequency issues, or diacritic marks in Ajami and Indic scripts. This project focuses on the arrangement of keys on the keyboard, or keyboard layout (KL); proposing that KL’s are the cornerstone to truly adapting the digital content creation process to the needs of minority language users. In the context of minority language text input design specifications and considerations, there has been relatively little published, either for the publishing industry, linguists, or for technologists (designers and programmers). The one exception is an unfinished book released in draft form by SIL’s foundry NRSI (Lyons 2001). In contrast to the relatively sparse literature specifically supporting and covering minority language text input, QWERTY keyboard interactions, primarily dealing with English, are well studied (MacKenzie 2002, 2007, 2013, MacKenzie &amp; Tanaka-Ishii 2007). This current study takes current practice in the HCI literature and applies it to several minority language use cases, focusing on languages which use diacritics, often as a device used to explicitly mark tone in their orthographies.</p
+>Keyboard layout design affects language vitality. Socio-technical systems are increasingly important in today’s communication ecology (Whitworth &amp; Ahmad 2013). Language development projects and language planing programs need a way to integrate linguistic knowledge, information, and transmission practices into socio-technical systems if the languages used in these systems are going to be the mother tongue languages of minority language speakers. With the current rate of technological adaption it is more than feasible that technical systems (such as social media and the mobile devices used to access these systems) will become more relevant than the traditional, printed, literacy reading primer (Blench 2012: 15). This requires addressing the design tension between requirements for minority language users and the Human Computer Interaction (HCI) requirements of computing devices. The academic linguistic community often attempts to address these tensions at the orthography “design” level (Cooper 2005: 160, Jany 2010b: 235-6). However these “solutions” often revolve around removing diacritic marks from Roman script orthographies (Boerger 2007: 134) and do not address the marking of tone in languages, such as Chinantec (Foris 2000) and some African languages (Roberts 2011), where there is a significant need to mark tone. Such solutions also do not affect key frequency issues, or diacritic marks in Ajami and Indic scripts. This project focuses on the arrangement of keys on the keyboard, or keyboard layout (KL); proposing that KL’s are the cornerstone to truly adapting the digital content creation process to the needs of minority language users. In the context of minority language text input design specifications and considerations, there has been relatively little published, either for the publishing industry, linguists, or for technologists (designers and programmers). The one exception is an unfinished book released in draft form by SIL’s foundry NRSI (Lyons 2001). In contrast to the relatively sparse literature specifically supporting  and covering minority language text input, QWERTY keyboard interactions, primarily dealing with English, are well studied (MacKenzie 2002, 2007, 2013, MacKenzie &amp; Tanaka-Ishii 2007). This current study takes current practice in the HCI literature and applies it to several minority language use cases, focusing on languages which use diacritics, often as a device used to explicitly mark tone in their orthographies.</p
 ><p
 >In communicative environments where there is the option to use more than one language, choice of language is based in both social and physical environments. Orthography design decisions are often perceived to have an effect on the mechanics of language expression in digital mediums. However, strictly speaking it is only the text input method not the orthography which plays a role in the mechanics of creating new entextualized content in digital mediums. Emotional responses to physical elements of a language such as the design of orthography, the computer operating system, and of the text input method bear upon the language user. In the disciplines of language documentation and language description, text input methods may initially be developed with the needs of the researcher in mind rather than the needs of a native speaker who uses the language in everyday interactions. These existing keyboard layouts that support specific languages,which are created by researchers, are rarely used by the broader minority language community, and the efficacy of these keyboard layouts is limited to linguistic analysis or researcher convenience. Linguists often bring linguistic knowledge and some of their own expectations as ‘experienced’ computer users to the keyboard design process. They may not realize that requiring a typist to negotiate a keyboard layout to access a given character (often a non-ASCII character) can have an impact on language-use choice, the development path of an orthography, or adherence to an approved orthography. User-centric keyboard layout design for minority language community writers/typists should be an integral part of a language development project in the twenty-first century. These considerations bring us to the following question: At what point in the design process should linguistic information be considered and applied, as opposed to other design criteria, so that maximal language usage is encouraged and made possible? This study offers a framework for the linguist or language development worker to address crucial issues of keyboard layout design.</p
 ><p
@@ -83,7 +106,7 @@ id="Thesis-layout"
 ><p
 >Chapter two of this thesis takes the reader through the relevance of writing to the disciplines of linguistics and language development. It is often within this context that new keyboard layouts are created for monitory languages. The first section discusses entextulization and the process often followed in developing writing for the purposes of linguistic research, language documentation and language development. These settings are not without conflicting views surrounding writing as a part of language development. Just as writing is affected by various social practices and communal attitudes towards writing, so also the process of typing (text input) is affected by similar social constraints. That is, the need for writing, and therefore also the need for text input, is not felt ubiquitously.</p
 ><p
->Included in chapter two is an introduction to writing and discussion of the current literature relevant to human computer interaction (HCI) and keyboard interaction analysis. Academically, user experience design falls under the broader discipline of computer science, therefore much of the literature discussing text input (even in minority languages) does not occur in the linguistics or language documentation literature. Current literature concerning keyboard layout design, while not solely based on English language text input, is predominantly based on English language research. Furthermore, this research is rarely cited and apparently un-accessed by language development staff in the production of keyboard layouts (p.c. with various keyboard layout designers). For these language development staff a far more pressing goal is the correct typesetting of professional documents, therefore the keyboard layout becomes a way to limit (or quality control) data input options for text processing systems<endnote
+>Included in chapter two is an introduction to writing and discussion of the current literature relevant to human computer interaction (HCI) and keyboard interaction analysis. Academically, user experience design falls under the broader discipline of computer science, therefore much of the literature discussing text input (even in minority languages) does not occur in the linguistics or language documentation literature. Current literature concerning keyboard layout design, while not solely based on English language text input, is predominantly based on English language research. Furthermore, this research is rarely cited and apparently un-accessed by language development staff in the production of keyboard layouts (p.c. with various keyboard layout designers). For these language development staff a far more pressing goal is the correct typesetting of professional documents, therefore the keyboard layout becomes a way to limit (or quality control) data input options for text processing systems <endnote
 id="n-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..chapter.1..section1.1..p.3..endnote.1."
 ><p
 >The creation of keyboard layouts and text input systems is sometimes delegated to publishers (and typesetters and their foundries). These stakeholders in the publishing process are very interested in consistent encoding of texts. As an example some packages of LaTeX require the special declaration of combining glyphs to form characters and can not accept strait Unicode characters (Goossens, Rahtz &amp; Mittelbach 1997: 264-5). This more restricted approach to text input can be seen as a challenge for self publishers, who prefer a more straightforward approach to entextualization.</p
@@ -94,7 +117,7 @@ id="n-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..chapter.1..section1
 ><p
 >Chapter five highlights some outstanding issues in keyboard layout design in terms of theory, technology, and practical application of language related knowledge to the keyboard layout design process.</p
 ><p
->Back matter: It is hoped that the reader finds the interdisciplinary bibliography useful. It covers the topics user experience design, orthography design, keyboard layouts, and the sociolinguistics and sociology of writing. Following the bibliography is an appendix with a short glossary of technical terms. A second appendix with a list of the technical standards referenced in this thesis. In a third appendix, for the sake of completeness and for the benefit future researchers the analyzed texts are included in their entirety. </p
+>Back matter: It is hoped that the reader finds the interdisciplinary bibliography useful. It covers the topics user experience design, orthography design, keyboard layouts, and the sociolinguistics and sociology of writing. Following the bibliography is an appendix with a short glossary of technical terms. A second appendix with a list of the technical standards referenced in this thesis. A third appendix includes the entire corpus of texts uses in analysis of this thesis. This is done for the sake of completeness and for the benefit future researchers who may desire to investigate various claims made here or to uses these texts and my analysis in further investigations.</p
 ><figure
 id="f-issues-mindmap"
 location="here"
@@ -116,11 +139,67 @@ id="Core-Concepts"
 ><p
 >This section provides a cursory discussion of key concepts and terms used throughout this thesis. Some of these terms are also available in the glossary contained in the back matter. It is acknowledged that in each of the respective fields, various authors use the same term with various connotations of scope. Therefore for clarity it is necessary to address what is meant in this thesis by these terms, and it is hoped that addressing these key terms earlier rather than later in the thesis will provide additional clarity to the reader. Many of these terms are not new and exist in other, non-linguistics literatures. The goal in presenting these ‘models’ is not to articulate or present a comprehensive taxonomy of knowledge in the fields represented. Rather the purpose is to give the reader a brief overview on the issue as this thesis will reference concepts and terms from various academic disciplines and areas of practice. However, some topics in this section will be discussed in more detail than others.</p
 ><section2
-id="s"
+id="character-components"
 ><secTitle
 >Model of character components and make up</secTitle
 ><p
-></p
+>Three disciplines donate ideas and terms to describe characters: Typography (drawing letters), Computer Science (programing), and Linguistics (orthography). Written language users often think of words in terms of the ‘letters’ or graphical units from which they are formed. I follow (P. G. Constable 2001: 10) and call these orthographical characters. They are orthographical characters because language specific information or perceptions are applied to the character by readers. Therefore a more general, cross-language (and cross-script) model of characters is required. Unicode provides such a model<endnote
+id="endnote-3"
+><p
+>Within Unicode, technical attributes are also applied to each Unicode code point. For more details see Unicode Unicode Technical Report #23 on the Unicode character Property Model.__(add citation to UTR#23 in biblography)__</p
+></endnote
+>. Within Unicode, all the characters from world’s writing systems are arranged in a giant table. Each character is given an identifying reference place in that table called a code point. Conceptually, Graphical Characters in Unicode have two components. They contain a graphical component called a glyph and a database code point. Graphical components have an abstract notion which may hold several graphical components together. This abstract notion is called an abstract character. However, not all abstract characters need to have a glyph associated with them. For instance the character for “space” often used to form word breaks is not normally assigned a glyph. Strictly speaking the lower case letter ⟨ a ⟩ is a different glyph than the italic lower case letter ⟨ a ⟩. Both the italic version and the non-italic version are connected to the same code point in Unicode but are different glyphs. They are different instances of the same abstract character. Formally, the term glyph is defined in ISO 15924:2004 as: “recognizable abstract graphic symbol which is independent of any specific design [SOURCE: ISO/IEC 9541-1:1991__()__]”.</p
+><p
+>Individual sounds of a language may be represented in an orthography by a single visual element or by a set of visual elements. Sets of visual elements are called Multi-graphs. There are two major types of multi-graphs in non-logographic scripts: (1) strings of orthographic characters and (2) diacritic modification of orthographic characters. Strings of orthographic characters like the German tri-graph ⟨ sch ⟩ which the German [deu]<endnote
+id="endnote-4"
+><p
+>Three letter items within square brackets are ISO 639-3 codes (International Organization for Standardization 2007). These codes correspond to a variety of language names used for languages and provide a level of clarity when referencing languages. All code values used in this document are current up to the 2014 release of code table changes as released by the ISO 639-3 registrar.</p
+></endnote
+> orthography uses to represent a voiceless postalveolar fricative [ ʃ ], or the English di-graph ⟨ ch ⟩ which is used to represent the voiceless palato-alveolar affricate [ t͡ʃ ]. In terms of code points and orthographical characters, these types of multi-graphs are strings of characters which have a one-to-one character to orthographic character relationship. Readers of the writing system must infer that these series of orthographic characters indicate a single sound in the language being read. (2) As a methodology, diacritic modification of orthographic characters, is the practice of modifying an existing orthographical character, usually with small marks above, below or to the side of the original character. </p
+><p
+>To the reader of an orthography, multi-graphs may represent one unit of information or they may represent multiple units of information. Each graphical unit which encodes a single unit of information is a grapheme. That is, the visual components of an orthographical character may also have sub-units which individually relay information. Graphemes are anything that functions as a distinct unit within an orthography.__(SIL Glossary)__This is an important notion because the orthography is the domain of control for the meaning of a graphical element. The same visual shape may appear in several orthographies but (1) have different meanings or (2) not have independent meaning apart in an independent form. For instance, the commonly known umlaut marks which in Unicode are called 'COMBINING DIAERESIS' U+0308 ⟨ ¨ ⟩ serve several functions across the world’s writing systems. In English they are diaeresis and serve to tell the reader that two vowels are not a di-graph and should be read as separate vowels. We can see its use in the following words ⟨ naïve, Noël, coöperation ⟩. The wide spread use of diaeresis in English has for the most part been abandoned or replaced by using the dash such that we might see either of the following⟨ cooperation, co-operation ⟩. The same mark (diaeresis) in the Swedish [swe] orthography, is part of the Swedish letter ⟨ Ä ⟩ (Granberry 1991: 7, Svenska Akademien 2006). The way that the Swedish letter is conceptualized, by users of Swedish, is such that the mark is not removable from the letter. There is not just an addition to an existing letter but a whole new letter of the alphabet. In a typographical sense the diaeresis in an independent, removable, and alternating component in the Swedish orthography. However, in the minds of the reader, the grapheme is the whole letter ⟨ Ä ⟩ not a combination of two graphemes ⟨ A + ¨ ⟩. This means that the way that readers and the way that typographers conceive of the character are different. In other languages this distinction between the way readers and typographers conceive of the character may not obtain. For instance, in German the case is not always clear. Some may claim that ⟨ ä ⟩ and ⟨ a ⟩ are not separate letters of the German alphabet for two reasons: (1) because of legislation__()__ matching the German “orthography”<endnote
+id="endnote-5"
+><p
+>This legislation only applies to the German language as it is used by the government. The legislation is clear that the language belongs to the people and that the government can not prevent the people from using the language as they wish.</p
+></endnote
+> to the ISO Latin Alphabet which contains only 26 letters, and (2) because rules for alphabetical ordering of ⟨ ä ⟩ and ⟨ a ⟩ call for words in which ⟨ ä ⟩ occurs to collate along with ⟨ a ⟩ as if it were ⟨ ae ⟩. This second reason matches the historical development of the marking in German orthography. However, Germans have a name for each letter and often think of them as independent “Buchstaben”, a term which dates back to the manual printing process of books and imprinting (stabbing) them with type, but functions as the German term used for “letter” as in the “letter of the alphabet”. In German language instructional curricula, both in materials for German for German speakers, and in materials for German as a foreign language (Sevin &amp; Sevin 2000: 4) ⟨ ä ⟩ and ⟨ a ⟩ are often presented as separate letters in the alphabet. In a phonological sense, in German the ⟨ ¨ ⟩ marks a fronting of the base vowel, and in that sense the ⟨ ¨ ⟩ does represent meaning lending itself to the interpretation of a grapheme, however, most Germans will not be able to tell you that there is a “fronting process” and would just tell you that it is a separate letter/“Buchstabe” representing a separate sound. German publishers may also use ⟨ ¨ ⟩ as diaeresis. However, in these uses it is often the case that the word in which it is used is a loan word or that the base character is not ⟨ a, o, u ⟩. For instance a German reader would know that the dots above an ⟨ ë ⟩ would be an instance of diaeresis, not umlauts, or indicating a vowel fronting. If we take a similar case from Malinaltepec Meꞌphaa [tcf], an indigenous language spoken in Mexico, and look at the use of the macron which is used to indicate tone ⟨ ā, a, a̱ ⟩. In this case the macron is indicating tone and functions as a separate grapheme. It is positioned in various locations around the base character depending on the pitch of the tone. In the Meꞌphaa case it is clear that the macron is a distinct grapheme in dependent of the base ⟨ a ⟩. </p
+><p
+>In a more technical encoding sense a multi-graph may be composed of a base character and several other parts called diacritics which modify the base character. Usually in Unicode the ‘other parts’ are labeled “combining” indicating that they usually do not visually stand on their own, but rather combine visually with a base character. In this analysis, ⟨ a ⟩ would be the base character of the following characters ⟨ å, ä, ã, á ⟩. Unicode uses this analysis and the separation of combining characters from base characters to create new combinations of characters from base units such as the following ⟨ ẫ, ặ ⟩. This brings us to to the next level of complexity in the character model.</p
+><p
+>Some Unicode multi-graph characters can be further separated along another technical encoding dimension. They may be referred to as composed (or complex character) or pre-composed (composite character). Base characters and their diacritics often receive separate Unicode code points, and computers must intelligently figure out the appropriate visual display. However, for historical reasons, some base character/diacritic combinations were also inducted into Unicode as a single code point. Composed characters are graphical units which are composed of several Unicode characters, whereas pre-composed characters have a single Unicode code point. The Unicode standard says that a pre-composed character should be treated by a computer as equivalent to its matching composed character. The mechanism for establishing the relationship between these two sets of Unicode code points is called, Canonical equivalence. The Unicode standard outlines 4 different types of canonical equivalence.</p
+></section2
+><section2
+id="writing-system-description"
+><secTitle
+>Model of writing system description</secTitle
+><p
+>It is important to clearly state what is meant by terms such as language, language variety, dialect, script, writing system, and orthography. This thesis attempts to use the framework laid out in Constable (2002). </p
+><figure
+align="center"
+id="f-writing-systems"
+location="here"
+><chart
+><img
+src="images/f-writing-systems.pdf"
+></img
+></chart
+><caption
+align="center"
+valign="bottom"
+xml:lang="en"
+>Model of writing systems. Adapted from Constable (2002).</caption
+></figure
+><pc
+>In this model a language is a written speech variety which is identifiable with an ISO 639-3 code</pc
+><pc
+><endnote
+id="endnote-6"
+><p
+>Constable cites the ISO 639-2 (1998) standard but the 639-2:1998 standard was partially superseded__(BPC47)__ by the ISO 639-3:(2007). At the time Constable (2002) was published, work was still ongoing on the ISO 639-3 standard which was not published until 2007.</p
+></endnote
+>. An instance of a language variety would be a dialect. In this thesis unless otherwise indicated the term dialect follows the structural interpretation following the discussion by Haugen (1966: 926). A script is a collection of graphical characters as identified in ISO 15924:2004 and following revisions. The ISO 15924:2004 standard defines a script as: “set of graphic characters used for the written form of one or more languages [SOURCE: ISO/IEC 10646-1__()__, 4.14]”. Meaning that the ISO 15924 standard uses the same definition as ISO 10464-1. The ISO 10646-1 standard itself is periodically synchronized with Unicode. This further means that Unicode, and ISO 15924 work off of the same definition for the term script. A writing system is the union of a script with a single language. A writing system includes all of the characters used to entextualize a language in addition to the mapping of lower-case letters to the appropriate glyphs for the upper-case letters.</pc
+><p
+>Orthography is a term which gets thrown around in linguistics and language documentation literature quite easily. However, following Constable (2002) there is a rather narrow definition of orthography. This more technical sense of the term presumes a writing systems has been identified and adds the following features to that writing system: an orthography specifies specific spelling conventions, when upper case letters should be used, conventions for hyphenation, abbreviations, contractions. Constable is unclear about word break conventions and conventions for Bantu like languages which use hyphenation not as word dividers but as morphology connectors. While a writing system selects the characters which are used in expressing certain grammatical features commas and full stops, etc. It is the orthography which says how they are applied.</p
 ><figure
 align="center"
 id="f-character-make-up"
@@ -133,8 +212,50 @@ src="images/f-character-make-up.pdf"
 align="center"
 valign="bottom"
 xml:lang="en"
->Characters</caption
+>Relationships with Characters</caption
 ></figure
+><p
+>__(One last note about orthographies. what about the case of multiple languages and single orthographies? - Simons and others. Can languages share a writing system and not share an orthography? can languages share and orthography?)___</p
+></section2
+><section2
+id="model-writing"
+><secTitle
+>Model of writing</secTitle
+><p
+>Rather than presenting a succinct model of writing I present a few senses of how the term is commonly used in the literature. My purpose is to disambiguate its uses and to provide clarity for the senses I use though the thesis. Strictly speaking writing is a verb. Traditionally the action denoted has been of the type of handwriting or the use of a pen, pencil or some other instrument, to encode language in a visual, text based manner. Handwriting of course may be either cursive or print in style. With the invention of type machines and later computers typing became the method of committing words to text based mediums. By analogical extension the term writing is often used to reference cases of typing in the sense of text input. However in technical genres the term typing is often associated with the practice of matching tokens to an ontology, such as blood typing. An additional confusion can arise through an analogical extension of typing to mean text input of all kinds. However the activities of text input on mobile devices like smartphones (where two thumbs are used) and phones with keypads (where multiple strokes per key are required), can hardly be held to be the same text input process as “typing” on the keyboard of computer. To address these confusions I have considered following Poveda et al. (2005a: 92) in the use of entextualization, but feel that term veers too far afield with connotations and focus on being able to create new context surrounding a created text as Bauman and Briggs discuss (1990: 67). I have also considered following Paterson (2014) in the use of the term codification. However, I feel that the use of the term codification when used in the context of the activity of committing new ideas to text, I feel it generally carries the idea of creating a new law or social code. Neither of these terms clearly convey the idea of a superordinate category covering both activities of handwriting, typing, and text input on other kinds of devices. Finally it is important to contrast the activity of writing with the task of composition. In some cases “writing analysis” investigates a body of text produced and its form relative to a genre of literature. I realize that in the typing task, which is the task type in focus in this thesis, that composition may also be occurring simultaneously. However, the focus in this thesis is not on composition, but rather on the manual activity of creating the digital text.</p
+></section2
+><section2
+id="text-input"
+><secTitle
+>Model of text input</secTitle
+><p
+>The term text input means to input characters into a digital device. Given the plethora of digital devices created in humanity’s recent history, the literature is new and growing rapidly. Generally, but not always, the literature on text input processes is part of a computer science sub-field called Human-Computer Interaction. Unless specifically stated otherwise, this thesis discusses the activities of typing via a laptop or other computer keyboard. However, to situate the discussion it is important to take a quick look at the other kinds of text input options which are in the literature. The literature easily divides three ways: by types of devices, by methods of input, and methods of input assistance.</p
+><p
+>By types of devices I mean both the general location of use of the device and a typological nature of the device. For instance the radio on a car stereo system may be attributed to have a text input system by which the time is set. However this is different from methods of selecting text for user names on video game systems like Xbox. Both of these examples demonstrate different locations of use of text input and also different input controllers. Without an attempt to be comprehensive a listing of device types would include: industrial computers or specialized keyboards for special computers used in a manufacturing process. Mobile devices such as the mobile phone (with keypad), the touchscreen mobile phone, the touchscreen tablet computer. Video games and mobile electronic devices who’s primary input method is a joystick like controller, the laptop computer and the desktop computer. As a general note on the kinds of content which make it into the text input literature, much of the literature is produced by evaluating the efficiency of a given device or input method. Sometimes these input devices come from industry, and sometimes they come from labs run at various academic institutions.</p
+><p
+>The second way to evaluate devices is by how they provide a text input solution. An ontology of methods of text input would include the following: speech to text , eye-gaze selectors, and button pushing of various kinds including: stylus use, joystick use, menu selection, keyboards, and finger dragging. Basically we either use our fingers, our eyes, or our mouth to do the task of text input. Several distinct methods are highlighted in the following table items from the following table.  Text Input type Example product Academic citation Speech to text Apple’s Siri, Microsoft’s Cortana Strictly speaking Siri and Cortana are device specific assistant applications with access a speech to text engine. Bellegarda (2014) Optical character recognition and handwriting recognition WritePad Pro by PhatWare Corp MyScript Smart Note by MyScript (formerly Vision Objects) Multi motion touch (Gesture, Drag) SwiftKey Flow, Nintype, Fleksy, Swype Weir, et al. (2014) Romano, Paolino, Tortora &amp; Vitiello (2014) Joystick selectors Controllers for video game systems like Xbox Isokoski &amp; Raisamo (2000) Wilson &amp; Agrawala (2006) Eye-gaze selectors tobii ATI Projection and sensor keyboards Celluon Roy, Singh, Mittal &amp; Thakral (2014) Multi motion touch (Chorded keystroke) Perkins Brailler Stenograph Palantype Seibel (1962) Noyes (1983) Gopher &amp; Raij (1988) Evans, Pettitt &amp; Blenkhorn (2002) Sandnes &amp; Huang (2006) Ghomi, et al.(2013) Split Keyboard “Standard” Keyboard ANSI, ISO, JIS Swarm and irregular shaped “keyboards” Dryft Lee &amp; Zhai (2004) Yin &amp; Su (2011) Li, Chen, &amp; Goonetilleke (2006)</p
+><table
+border="1"
+><tr
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+></tr
+></table
+></section2
+><section2
+id="s"
+><secTitle
+></secTitle
+><p
+></p
 ></section2
 ></section1
 ></chapter
@@ -763,7 +884,7 @@ xsl-foSpecial="text-decoration=&quot;underline&quot;"
 ></types
 ></lingPaper
 ><xi:include
-href="../../../../../Library/Application%20Support/XMLmind/XMLEditor5/addon/XLingPap/publisherstylesheets/SIL-UNDThesisAlternateStylesheet.xml"
+href="../../../../../Library/Application%20Support/XMLmind/XMLEditor5/addon/XLingPap/publisherstylesheets/SIL-UNDThesisStandardStylesheet.xml"
 xpointer="element(/1)"
 xmlns:xi="http://www.w3.org/2001/XInclude"
 ></xi:include
