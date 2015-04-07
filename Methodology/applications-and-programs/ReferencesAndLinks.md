@@ -1,4 +1,4 @@
-#Refernces and Links
+#References and Links
 _These are refences and links about text input methods and digital writing. Included are links to technical discussions, technical specification, computer utilites for monitoring and evaluating text input, and descriptions about text input methods._
 
 ##Buy a custom text input solution
