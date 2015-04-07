@@ -206,16 +206,16 @@ _The applications below may not be as refined as the ones above._
 
 
 ----- 
-Just a dump of links
+###Just a dump of links
 
-Some tools and resources for character input by SIL: http://scripts.sil.org/inputtoollinks
-KeyLayoutMaker: Perl script to create Mac OS X keyboard layouts: http://scripts.sil.org/keylayoutmaker
-Unicode Keyboards for Mac OS: http://wordherd.com/keyboards/
-Comparing Keyman and Microsoft Windows Keyboard Layout Creator: http://scripts.sil.org/KeymanVsMSKLC
-Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
-Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
-
-Games for typing:
-Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
-Master your Mac’s keyboard: Keyboard & Aliens: http://www.x04studios.com/macapps.html
-Typing Lessons online: https://typing.io/lessons
+* Some tools and resources for character input by SIL: http://scripts.sil.org/inputtoollinks
+* KeyLayoutMaker: Perl script to create Mac OS X keyboard layouts: http://scripts.sil.org/keylayoutmaker
+* Unicode Keyboards for Mac OS: http://wordherd.com/keyboards/
+* Comparing Keyman and Microsoft Windows Keyboard Layout Creator: http://scripts.sil.org/KeymanVsMSKLC
+* Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
+* Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
+* 
+####Games for typing:
+* Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
+* Master your Mac’s keyboard: Keyboard & Aliens: http://www.x04studios.com/macapps.html
+* Typing Lessons online: https://typing.io/lessons
