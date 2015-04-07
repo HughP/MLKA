@@ -205,7 +205,6 @@ _The applications below may not be as refined as the ones above._
 * http://whatpulse.org/
 
 
------ 
 ###Just a dump of links
 
 * Some tools and resources for character input by SIL: http://scripts.sil.org/inputtoollinks
