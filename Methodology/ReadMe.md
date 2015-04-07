@@ -59,6 +59,8 @@ _There are several tools for this. The following or some I have found._
 * [Letter Frequency Counter](http://millikeys.sourceforge.net/freqanalysis.html) written in Visual Basic 6. It requires the VB6 runtime. Open Source via Source Forge.
 * Follow up expereiment to the landmark English frequency analysis. http://norvig.com/mayzner.html
 * Michael Dickens on Letter Frequency in several languages: http://mdickens.me/typing/letter_frequency.html
+* [LetterMetter](http://www.type-applications.com/site/lettermeter_info.php) by [Typotheque](https://www.typotheque.com/help/technical_issues/where_has_the_lettermeter_gone) is an application which works in OS X 10.6 (but not above).
+http://chiron.valdosta.edu/are/litreviews/vol4no2/allenbullock_litrev.pdf
 
 
 ###Notes and formulas from academic papers on text input
