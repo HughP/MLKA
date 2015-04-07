@@ -39,6 +39,7 @@ Key centers are important for computing distance.
 ####Measureing finger travel distance
 * http://patorjk.com/blog/2009/07/12/typing-distance/
 * http://colemak.com/Compare
+* See this too: https://github.com/michaeldickens/Typing/issues/18
 
 ####Weighted assesments
 * https://github.com/michaeldickens/Typing/blob/master/doc/Fitness
