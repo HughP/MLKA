@@ -27,28 +27,14 @@ Also in contrast to the norms of open source licenses and collaboration practice
 ##Publications
 _The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.) A list of publications can be found in the [ReadMe.md](/Publications/ReadMe.md) of the_ `/Publications` _folder._
 
-##Academic fit
+##Academic Appropriateness
 The Academic fit for keyboard layout design and assessment (especiall across languages) is difficult to pin to a single academic discipline. In general the keyboard layout challenge has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics (physiology), human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
  1. language use
  2. human-computer interaction
 
-While it appears simple to narrow down the choice of academic disciplines to two, deciding which two is not easy. Some description of how the keyboarding task fits within these two academic disciplines is shown in the following diagram.
+Notions of academic fit or appropiateness are further explored in materials contained in the [`Academic Papers`](/Academic-Papers/AcademicPapersToCheckOut.md) folder
 
-
----- insert diagram ---- 
-
-[A Minimal Device-Independent Text Input Method](http://www.sis.uta.fi/~pi52316/g/node6.html) by Poika Isokoski
- To include: figur 3.1 from 
-Compatible input devices
-Mouse
-Touchpads, touch-screens, pressure sensitive pens and digitizing tablets
-Trackball
-Joysticks
-Keyboard
-
-[Academic Papers](/Academic-Papers/AcademicPapersToCheckOut.md)
-
-##Methodologies
+#Methodologies
 _Methodologies are discussed in the_ [`Methodology`](/Methodology/) _folder._
 
 ##Keyboard layout theory and the historical progression of the keyboard layout
