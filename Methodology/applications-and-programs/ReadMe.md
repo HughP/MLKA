@@ -9,6 +9,7 @@ _This is a list of applications and programs used with text input. The list is d
  ##Software used and developed
  
  ###Software used
+ Folder [`Used`](/Used)
  
  ###Software developed
  

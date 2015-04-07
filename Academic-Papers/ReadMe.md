@@ -23,11 +23,11 @@ We hold that the text input activity is important in all of these disciplines.
 Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction --> Input via Sensors --> Input target is Text --> Text Input --> Typing --> Keyboard Typing.
 
 Some have attempted to categorize the various kinds of text input. One such attempt is by Poika Isokoski in his thesis [_A Minimal Device-Independent Text Input Method_](http://www.sis.uta.fi/~pi52316/g/node6.html). The following figure comes from section 3.1.
-![Map of text input methods.](/Academic-Papers/img20.gif)
+![Map of text input methods.](/Academic-Papers/images/img20.gif)
 
 Thistaxonomy is somewhat aged and it is perhaps clearer to think about text input in terms of which sensors are used to acomplsih the text input.
 
-![Text input Sensors](/Academic-Papers/Text-input-via-sensors.jpg)
+![Text input Sensors](/Academic-Papers/images/Text-input-via-sensors.jpg)
 
 * Compatible input devices
 * Mouse
