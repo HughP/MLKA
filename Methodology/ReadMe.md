@@ -38,6 +38,14 @@ Key centers are important for computing distance.
 
 ####Measureing finger travel distance
 * http://patorjk.com/blog/2009/07/12/typing-distance/
+* http://colemak.com/Compare
+
+####Weighted assesments
+* https://github.com/michaeldickens/Typing/blob/master/doc/Fitness
+* https://github.com/michaeldickens/Typing#adding-your-own-physical-keyboard
+* http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/
+* http://colemak.com/Compare
+
 
 ####Measuring finger plunge
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
