@@ -61,7 +61,7 @@ _There are several tools for this. The following or some I have found._
 * Michael Dickens on Letter Frequency in several languages: http://mdickens.me/typing/letter_frequency.html
 * [LetterMetter](http://www.type-applications.com/site/lettermeter_info.php) by [Typotheque](https://www.typotheque.com/help/technical_issues/where_has_the_lettermeter_gone) is an application which works in OS X 10.6 (but not above).
 
-##Character Frequency
+#####Character Frequency
 _Several resources about character frequency._
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.394.1855&rep=rep1&type=pdf
 * http://www.letterfrequency.org/
