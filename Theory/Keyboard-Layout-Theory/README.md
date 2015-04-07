@@ -34,14 +34,6 @@ As a rundown, there are three names which seem to come up in the computer develo
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
 
 
-##Character Frequency
-_Several resources about character frequency._
-* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.394.1855&rep=rep1&type=pdf
-* http://www.letterfrequency.org/
-* http://mdickens.me/typing/theory-of-letter-frequency.html
-* http://norvig.com/mayzner.html
-
-
 ##Website based apps for teaching typing
 * http://www.ratatype.com/
 * http://play.typeracer.com/
