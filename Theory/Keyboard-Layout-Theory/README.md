@@ -59,6 +59,7 @@ _Several resources about character frequency._
 * http://web.archive.org/web/20121101022630/http://mtgap.bilfo.com/alternative_layouts.html
 * http://shenafu.com/layout.php
 
+
 ##My most common OS X short cuts
 _Not necessarily in order of frequency of use._
 * ⌘ z - undo
