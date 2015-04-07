@@ -214,7 +214,7 @@ _The applications below may not be as refined as the ones above._
 * Comparing Keyman and Microsoft Windows Keyboard Layout Creator: http://scripts.sil.org/KeymanVsMSKLC
 * Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
 * Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
-* 
+
 ####Games for typing:
 * Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
 * Master your Mac’s keyboard: Keyboard & Aliens: http://www.x04studios.com/macapps.html
