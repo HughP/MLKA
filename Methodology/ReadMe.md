@@ -22,10 +22,26 @@ _This section includes mostly a description of software used in various keyboard
 _This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
 
 ####Keyboard key centers
+* The distance between key centers is called pitch. Generally this is considered 19mm. All of my apple keyboards maintain this distance. More resources:
+ * http://www.ergonomicsmadeeasy.com/pages/keypitch
+ * http://www.emperorlinux.com/systemmatrix/keyboards/
+ * http://web.archive.org/web/20090630115240/http://www.technewsworld.com/story/67444.html
+
+It is reported in the Grey Literature that this 19mm distance is a sacred rule. 
+
+Key centers are important for computing distance.
+
 
 ####Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
+
+####Measureing finger travel distance
+* http://patorjk.com/blog/2009/07/12/typing-distance/
+
+####Measuring finger plunge
+The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
+* ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
 
 ###Notes and formulas from academic papers on text input
 [Notes](/Methodology/notes.md)
