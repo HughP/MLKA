@@ -52,6 +52,15 @@ Key centers are important for computing distance.
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
 * ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
 
+####Measuring Character Frequency
+_There are several tools for this. The following or some I have found._
+* List for the frequencies of words in several languages: http://letterfrequency.org/#english-language-letter-frequency
+* [Daniel Borkman](http://web.archive.org/web/20120215152400/http://daniel.netsniff-ng.org/) created a java application to count letter frequencies. A copy can be found [in the interent archive](http://web.archive.org/web/20120716051349/http://www.imn.htwk-leipzig.de/~dborkman/offtopic/letter_frequency/letter.html) as of 07. April 2015 and can be found in this repo [under applications and programs](/Methodology/applications-andprograms/).
+* [Letter Frequency Counter](http://millikeys.sourceforge.net/freqanalysis.html) written in Visual Basic 6. It requires the VB6 runtime. Open Source via Source Forge.
+* Follow up expereiment to the landmark English frequency analysis. http://norvig.com/mayzner.html
+* Michael Dickens on Letter Frequency in several languages: http://mdickens.me/typing/letter_frequency.html
+
+
 ###Notes and formulas from academic papers on text input
 [Notes](/Methodology/notes.md)
 
