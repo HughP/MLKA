@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  5 APR 2015 23:11
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.11.15)  6 APR 2015 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1124,11 +1124,7 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \XLingPapertempdim=\dimen286
  [8
 
-]
-Underfull \vbox (badness 10000) detected at line 511
- []
-
-[9
+] [9
 
 ] [10
 
@@ -1138,15 +1134,16 @@ Underfull \vbox (badness 10000) detected at line 511
 
 ] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 540.
+(Font)              <9> on input line 533.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 540.
+(Font)              <5> on input line 533.
  [5] [6] [7]
 Missing character: There is no ⟨ in font Charis SIL!
 Missing character: There is no ⟩ in font Charis SIL!
 Missing character: There is no ⟨ in font Charis SIL!
 Missing character: There is no ⟩ in font Charis SIL!
- [8]
+
+[8]
 Missing character: There is no ⟨ in font Charis SIL!
 Missing character: There is no ⟩ in font Charis SIL!
 Missing character: There is no ⟨ in font Charis SIL!
@@ -1203,12 +1200,12 @@ Missing character: There is no ⟩ in font Charis SIL!
 Missing character: There is no ⟨ in font Charis SIL!
 Missing character: There is no ⟩ in font Charis SIL!
  [11]
-Overfull \hbox (118.19159pt too wide) in paragraph at lines 557--558
+Overfull \hbox (118.19159pt too wide) in paragraph at lines 550--551
  [][] 
  []
 
 [12] [13] [14] [15] [16] [17]
-Underfull \vbox (badness 10000) detected at line 584
+Underfull \vbox (badness 10000) detected at line 577
  []
 
 [18] [19] [20
@@ -1232,32 +1229,32 @@ Underfull \vbox (badness 10000) detected at line 584
 ] [36
 
 ]
-Overfull \hbox (6.0853pt too wide) in paragraph at lines 1018--1019
+Overfull \hbox (6.0853pt too wide) in paragraph at lines 1011--1012
 []\MainFont this text was likely the most com-
  []
 
 [37
 
 ] [38] [39] [40] [41] [42] [43] [44]
-Overfull \hbox (22.38269pt too wide) in paragraph at lines 1035--1036
+Overfull \hbox (22.38269pt too wide) in paragraph at lines 1028--1029
 \MainFont Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureearth.o
 rg/data/cso/PDF/00-
  []
 
 [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
-Overfull \hbox (22.38269pt too wide) in paragraph at lines 1058--1059
+Overfull \hbox (22.38269pt too wide) in paragraph at lines 1051--1052
 \MainFont Bíblica. <Accessed: 12 June 2012>. [][][]http://www.scriptureearth.o
 rg/data/cso/PDF/00-
  []
 
 [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
-Overfull \hbox (92.65091pt too wide) in paragraph at lines 1078--1079
+Overfull \hbox (92.65091pt too wide) in paragraph at lines 1071--1072
 \MainFont writing a particular language. http://scripts.sil.org/cms/scripts/pag
 e.php?cat_id=Glossary#writingsys
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1072
 
  []
 
@@ -1266,11 +1263,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
 
 ] (./hughjpaterson2014thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 16092 strings out of 494535
- 271160 string characters out of 3159869
- 428541 words of memory out of 3000000
- 19066 multiletter control sequences out of 15000+200000
- 7645 words of font info for 58 fonts, out of 3000000 for 9000
+ 16094 strings out of 494535
+ 271251 string characters out of 3159869
+ 427540 words of memory out of 3000000
+ 19067 multiletter control sequences out of 15000+200000
+ 7653 words of font info for 59 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  44i,12n,48p,25191b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
 
