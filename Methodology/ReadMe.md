@@ -1,5 +1,5 @@
 #Methodology
-_This section (or folder) discusses and contains the tools used in this project and other porjects in the assement of the keyboard arangement problem._
+_This section (or folder) discusses and contains the tools used in this project and other projects in the assement of the keyboard arangement problem._
 
 ##Software and Applications
 The folder Software and applications used contains software used to obtain the results in this project.
