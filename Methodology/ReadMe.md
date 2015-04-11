@@ -29,8 +29,10 @@ _This section considers the physical measurement of keyboards and the metrics of
 
 It is reported in the Grey Literature that this 19mm distance is a sacred rule. 
 
+#####Paterson Method
 Key centers are important for computing distance.
-
+For the center points in my diagrams and in my numbers these were computed in the following way:
+A the keys were taped with scotch tape in the down posision, a pice of see-though graph paper was lain out over the keyboard and the key position was traced over the keys. The center point for the keys on the left side was computed my dearing perpendicular lines though the corner points of the keys. The sitance measurements were replicated in OmniGraffle. OmniGraffle is used to create the spacing lines and various diagrams of keyboard layouts.
 
 ####Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
