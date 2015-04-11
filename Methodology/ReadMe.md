@@ -93,8 +93,11 @@ _Several resources about character frequency._
 * Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
 
 ##Text Processing
-Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts aquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted.
+Since we are not dealing with live user data, corpus texts were used and counted for generated key strokes.
+
+Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts aquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted. Diagrams of keyboards were created in OminGraffel
 
 Each text was counted several ways. cleaned texts were first UnicodeCCount a perl character counter. Each text was counted several times, each time in different ways. Flags -u -f were used to get "raw" counts based of frequency and sort the counts in different ways (see UnicodeCCount help for details). Flags -c and -d were used to get counts where data types were not regularized. For instance, some characters have composits but others do not with the same diacritc. By seperating composit characters I was able to better count the number of key strokes used to create the texts.
 
+To create finger storke counts characters with diacritics were treated as digraphs, replacing orthogrpahic characters with the QWERTY keyboard equivlent. This allows for keyboard specivfic based analysis and visualization. It allows for optimisation of location when maintaining the dead key combinations already used. However, this method does not optimize based on single orthographic character.
 
