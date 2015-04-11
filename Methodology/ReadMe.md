@@ -103,8 +103,71 @@ To create finger stroke counts characters with diacritics were treated as digrap
 
 ###African language data
 The following transformations were done manually on the african data.
-
+```
 << --> "
 >> --> "
 ! --> !!
+- --> --
+' --> ''
+; --> ;;
+ọ --> ;o
+ụ --> ;u
+Ọ --> ;O
+ẹ --> ;e
+ị --> ;i
+á --> 'a
+ --> ;u
+ --> 'e
+ --> ;u
+ --> `i
+ --> `e
+ --> -e
+ --> `u
+ --> `a
+ --> -i
+ --> `o
+ --> 'i
+ --> 'A
+ --> `U
+ --> `n
+ --> ^i
+ --> `A
+ --> 'o
+ --> -a
+ --> &e
+ --> `m
+ --> ;E
+ --> ;d
+ --> `;O
+ --> Removed text in not on ezza (There was a short footnote from the original text in english which needed to be removed. It looked like a translation note.)
+ --> ;a
+ --> ;A
+ --> ;b
+ --> ;D
+ --> 'E
+ --> -u
+ --> -U
+ --> -o
+ --> ^a
+ --> `E
+ --> -I
+ --> -O
+ --> `N
+ --> !n
+ --> gb
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
 
