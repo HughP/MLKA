@@ -15,11 +15,11 @@ _Basically load text, count, return counts._
 _**I am working on OS X**, command line tools (perl/python) **with explanation** are also of interest._
 
 ##Second Clarification
-_Given some other replies I requalified my statements with the following._
+_Given some other replies I re qualified my statements with the following._
 
 I don't already know what the matches are. It seems with your solution you are suggesting that I already know what the possibilities are, and can use that regex to search for those possibilities. In my case this is not the situation.
 
-For instance I may have text string 'aaab'. However the actual text being used is arbitrary and in a sense unknown (as I am not making assumptions about the orthography or cooccurrences - I really am looking at digrams not digraphs in the orthography sense). Of course my text is much longer, and I actually have about 6 different texts I am working with. 
+For instance I may have text string 'aaab'. However the actual text being used is arbitrary and in a sense unknown (as I am not making assumptions about the orthography or co-occurrences - I really am looking at digrams not digraphs in the orthography sense). Of course my text is much longer, and I actually have about 6 different texts I am working with. 
 
 Given the 'aaab' string mentioned above that would mean that I have: 
 

@@ -1,9 +1,9 @@
 #Methodology
-_This section (or folder) discusses and contains the tools used in this project and other projects in the assement of the keyboard arangement problem._
+_This section (or folder) discusses and contains the tools used in this project and other projects in the assessment of the keyboard arrangement problem._
 
 ##Software and Applications
 The folder Software and applications used contains software used to obtain the results in this project.
-It is further devided up into three sections:
+It is further divided up into three sections:
 
 1. Software used
   * Project code created - [Issues in Programming](/Methodology/PythonHelps.md)
@@ -19,7 +19,7 @@ _This section includes mostly a description of software used in various keyboard
 
 ##Metrics and Measurements
 ###Metrics of keyboard analysis
-_This section considers the physical measurement of keyboards and the metrics of analysing user behavior with those keybaord layouts._
+_This section considers the physical measurement of keyboards and the metrics of analyzing user behavior with those keyboard layouts._
 
 ####Keyboard key centers
 * The distance between key centers is called pitch. Generally this is considered 19mm. All of my apple keyboards maintain this distance. More resources:
@@ -32,7 +32,7 @@ It is reported in the Grey Literature that this 19mm distance is a sacred rule.
 #####Paterson Method
 Key centers are important for computing distance.
 For the center points in my diagrams and in my numbers these were computed in the following way:
-A the keys were taped with scotch tape in the down posision, a pice of see-though graph paper was lain out over the keyboard and the key position was traced over the keys. The center point for the keys on the left side was computed my dearing perpendicular lines though the corner points of the keys. The sitance measurements were replicated in OmniGraffle. OmniGraffle is used to create the spacing lines and various diagrams of keyboard layouts.
+A the keys were taped with scotch tape in the down position, a pice of see-though graph paper was lain out over the keyboard and the key position was traced over the keys. The center point for the keys on the left side was computed my drawing perpendicular lines though the corner points of the keys. The stencil measurements were replicated in OmniGraffle. OmniGraffle is used to create the spacing lines and various diagrams of keyboard layouts.
 
 ####Keyboard angle
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
@@ -59,7 +59,7 @@ _There are several tools for this. The following or some I have found._
 * List for the frequencies of words in several languages: http://letterfrequency.org/#english-language-letter-frequency
 * [Daniel Borkman](http://web.archive.org/web/20120215152400/http://daniel.netsniff-ng.org/) created a java application to count letter frequencies. A copy can be found [in the interent archive](http://web.archive.org/web/20120716051349/http://www.imn.htwk-leipzig.de/~dborkman/offtopic/letter_frequency/letter.html) as of 07. April 2015 and can be found in this repo [under applications and programs](/Methodology/applications-andprograms/).
 * [Letter Frequency Counter](http://millikeys.sourceforge.net/freqanalysis.html) written in Visual Basic 6. It requires the VB6 runtime. Open Source via Source Forge.
-* Follow up expereiment to the landmark English frequency analysis. http://norvig.com/mayzner.html
+* Follow up experiment to the landmark English frequency analysis. http://norvig.com/mayzner.html
 * Michael Dickens on Letter Frequency in several languages: http://mdickens.me/typing/letter_frequency.html
 * [LetterMetter](http://www.type-applications.com/site/lettermeter_info.php) by [Typotheque](https://www.typotheque.com/help/technical_issues/where_has_the_lettermeter_gone) is an application which works in OS X 10.6 (but not above).
 
@@ -95,9 +95,9 @@ _Several resources about character frequency._
 ##Text Processing
 Since we are not dealing with live user data, corpus texts were used and counted for generated key strokes.
 
-Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts aquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted. Diagrams of keyboards were created in OminGraffel
+Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts acquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted. Diagrams of keyboards were created in OminGraffle
 
-Each text was counted several ways. cleaned texts were first UnicodeCCount a perl character counter. Each text was counted several times, each time in different ways. Flags -u -f were used to get "raw" counts based of frequency and sort the counts in different ways (see UnicodeCCount help for details). Flags -c and -d were used to get counts where data types were not regularized. For instance, some characters have composits but others do not with the same diacritc. By seperating composit characters I was able to better count the number of key strokes used to create the texts.
+Each text was counted several ways. cleaned texts were first UnicodeCCount a perl character counter. Each text was counted several times, each time in different ways. Flags -u -f were used to get "raw" counts based of frequency and sort the counts in different ways (see UnicodeCCount help for details). Flags -c and -d were used to get counts where data types were not regularized. For instance, some characters have composites but others do not with the same diacritic. By separating composite characters I was able to better count the number of key strokes used to create the texts.
 
-To create finger storke counts characters with diacritics were treated as digraphs, replacing orthogrpahic characters with the QWERTY keyboard equivlent. This allows for keyboard specivfic based analysis and visualization. It allows for optimisation of location when maintaining the dead key combinations already used. However, this method does not optimize based on single orthographic character.
+To create finger stroke counts characters with diacritics were treated as digraphs, replacing orthographic characters with the QWERTY keyboard equivalent. This allows for keyboard specific based analysis and visualization. It allows for optimization of location when maintaining the dead key combinations already used. However, this method does not optimize based on single orthographic character.
 

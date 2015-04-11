@@ -39,7 +39,7 @@ The second class of keyboard layouts is assumed to be that every character recei
 >1. People who use the hunt and peck method on (SCK) layouts. This is common by some learners.
 >2. Where the the non-English keyboard requires the use of deadkeys or modifier keys.
 
-The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK = M < N arrangment typology. But the operation of the keyboard is much closer to (MFK).
+The Non-english stated keyboard layout (like those with deadkeys) sometimes assumes a MCK = M < N arrangement typology. But the operation of the keyboard is much closer to (MFK).
 
 * M = Characters
 * N = Keys

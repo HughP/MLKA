@@ -93,7 +93,7 @@ _The applications below may not be as refined as the ones above._
 * **[Keycounter](https://github.com/programble/keycounter)**: A keystroke counter for X11.
 * **[ibus-xkb-layouts](https://github.com/suzhe/ibus-xkb-layouts)**: Wrap XKB keyboard layouts into ibus input method engines.
 *  **[Colegrammer](https://github.com/repolho/xkb)**: Colegrammer - Colemak for the (shell) programmer Keyboard layout
-*  **[Keyboard Layout Viewer for Neo 2.](https://github.com/YggdrasiI/NeoLayoutViewer)**: Allows viewing of the keyboad on the screen.
+*  **[Keyboard Layout Viewer for Neo 2.](https://github.com/YggdrasiI/NeoLayoutViewer)**: Allows viewing of the keyboard on the screen.
 * **[IPA symbols with xkb](http://www.ajmakkas.com/pages/c_xkbipa.html)** IPA symbols with xkb layout on Slackware
 * **[Create a new keyboard layout for OLPC](http://wiki.laptop.org/go/Creating_A_New_Keyboard_Layout)** One Laptop per child layout design instructions.
 
