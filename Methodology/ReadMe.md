@@ -91,3 +91,10 @@ _Several resources about character frequency._
  * See: The Design of Keyboard Templates http://pro.sagepub.com/content/35/6/486.short
 * Keyboard layout (arrangement of characters on the keyboard)
 * Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
+
+##Test Processing
+Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts aquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted.
+
+Each text was counted several ways. cleaned texts were first UnicodeCCount a perl character counter. Each text was counted several times, each time in different ways. Flags -u -f were used to get "raw" counts based of frequency and sort the counts in different ways (see UnicodeCCount help for details). Flags -c and -d were used to get counts where data types were not regularized. For instance, some characters have composits but others do not with the same diacritc. By seperating composit characters I was able to better count the number of key strokes used to create the texts.
+
+
