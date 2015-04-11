@@ -116,44 +116,44 @@ The following transformations were done manually on the african data.
 ẹ --> ;e
 ị --> ;i
 á --> 'a
- --> ;u
+Ụ --> ;U
  --> 'e
  --> ;u
  --> `i
- --> `e
+è --> `e
  --> -e
- --> `u
+ù --> `u
  --> `a
- --> -i
- --> `o
- --> 'i
- --> 'A
- --> `U
- --> `n
- --> ^i
+ī --> -i
+ò --> `o
+ì --> 'i
+Á --> 'A
+Ù --> `U
+ǹ --> `n
+î --> ^i
  --> `A
  --> 'o
  --> -a
  --> &e
  --> `m
  --> ;E
- --> ;d
+ɗ --> ;d
  --> `;O
  --> Removed text in not on ezza (There was a short footnote from the original text in english which needed to be removed. It looked like a translation note.)
  --> ;a
  --> ;A
- --> ;b
- --> ;D
+ɓ --> ;b
+Ɗ --> ;D
  --> 'E
  --> -u
- --> -U
+Ū --> -U
  --> -o
  --> ^a
  --> `E
  --> -I
  --> -O
- --> `N
- --> !n
+Ǹ --> `N
+ṅ --> !n
  --> gb
 
 
