@@ -51,6 +51,35 @@ _Some resources will appear in multiple sections._
 * Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics (full version). Linguistics 36.1: 161-95.  <Accessed: 2 January 2011>. http://www.uni-muenster.de/imperia/md/content/allgemeine_sprachwissenschaft/dozenten-unterlagen/himmelmann/linguistics98.pdf
 * Bird, Steven & Gary F. Simons. 2003. Seven dimension of portability for language documentation and description. Language 79.3: 557-82. http://www.jstor.org/stable/4489465
 
+###Thesis Section 2.2 - Digital Revolution
+
+* Duncan, Daniel. 2013. Whistles in the Mist: Whistled Speech in Oaxaca. p. Video Run time: 26:46. Vimeo.com: The Southwest Center, University of Arizona. <Accessed: 23. April 2014>. http://vimeo.com/57291304
+* Elia, Antonella. 2006. Language learning in tandem via Skype. Reading Matrix: An International Online Journal 6.3: 269-80. http://connection.ebscohost.com/c/articles/24393892/language-learning-tandem-via-skype
+* Taft, Marcus & Gail Hambly. 1985. The influence of orthography on phonological representations in the lexicon. Journal of Memory and Language 24.3: 320-35. http://www.sciencedirect.com/science/article/pii/0749596X85900312
+* Brinckwirth, Anton T. 2012. Implementation and Outcomes of an Online English-Portuguese Tandem Language Exchange Program Delivered Jointly Across a U.S.-Brazilian University Partnership: A Case Study. Ph.D dissertation, Virginia Commonwealth University, Richmond, Virginia.
+* Otsuka, Yuko & Andrew Wong. 2007. Fostering the growth of budding community initiatives: The role of linguists in Tokelauan maintenance in Hawai‘i. Language Documentation & Conservation 1.2: 240–56. http://hdl.handle.net/10125/1716
+* Kluge, Angela. 2007. The Gbe Language Continuum of West Africa: A Synchronic Typological Approach to Prioritizing In-depth Sociolinguistic Research on Literature Extensibility. Language Documentation & Conservation 1.2: 82-25. http://hdl.handle.net/10125/1714
+* Das, T., P. Padakannaya, K. R. Pugh & N. C. Singh. 2011. Neuroimaging reveals dual routes to reading in simultaneous proficient readers of two orthographies. NeuroImage 54.2: 1476-87. http://www.sciencedirect.com/science/article/pii/S1053811910012036
+* Kiesler, Sara, Jane Siegel & Timothy W. McGuire. 1984. Social psychological aspects of computer-mediated communication. American Psychologist 39.10: 1123-34. 
+* Eisenlohr, Patrick. 2004. Language Revitalization and New Technologies: Cultures of Electronic Mediation and the Refiguring of Communities. Annual Review of Anthropology 33.1: 21-45. http://www.jstor.org/stable/25064844
+* Fortunati, Leopoldina & Jane Vincent. 2014. Sociological insights on the comparison of writing/reading on paper with writing/reading digitally. Telematics and Informatics 31.1: 39-51. http://www.sciencedirect.com/science/article/pii/S0736585313000087
+* Liu, Ziming. 2005. Reading behavior in the digital environment: Changes in reading behavior over the past ten years. Journal of Documentation 61.6: 700-12. 
+* Maslamani, Jaber Ali. 2013. Potential Integration of a Computer-Mediated Communication Platform into the Saudi EFL Classroom: A Synthetic Review International Journal of Humanities and Social Science 3.15: 73-8. http://www.ijhssnet.com/journals/Vol_3_No_15_August_2013/9.pdf
+* Crasborn, Onno, Micha Hulsbosch, Lari Lampen & Han Sloetjes. 2014. New Multilayer Concordance Functions in ELAN and TROVA. Proceedings of the Tilburg Gesture Research Meeting [TiGeR 2013]. 
+* Vendelin, Inga & Sharon Peperkamp. 2006. The influence of orthography on loanword adaptations. Lingua 116.7: 996-1007. http://www.sciencedirect.com/science/article/pii/S0024384105001038
+* Crasborn, Onno. 2010. What Does "Informed Consent" Mean in the Internet Age?: Publishing Sign Language Corpora as Open Content. Sign Language Studies 10.2: 276-90. http://muse.jhu.edu/journals/sign_language_studies/v010/10.2.crasborn.html
+* Lexander, Kristin Vold. 2011. Texting and African language literacy. New Media & Society 13.3: 427-43. http://nms.sagepub.com/content/13/3/427.abstract
+* Seltzer, Leslie J., Ashley R. Prososki, Toni E. Ziegler & Seth D. Pollak. 2012. Instant messages vs. speech: hormones and why we still need to hear each other. Evolution and Human Behavior 33.1: 42-5.  <Accessed: 24. April 2014>. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277914/
+* Simon, Ellen, Della Chambless & Ubiratã Kickhöfel Alves. 2010. Understanding the role of orthography in the acquisition of a non-native vowel contrast. Language Sciences 32.3: 380-94. http://www.sciencedirect.com/science/article/pii/S0388000109000412
+* Porter, Jim. 2003. Why technology matters to writing: A cyberwriter’s tale. Computers and Composition 20.4: 375-94. http://www.sciencedirect.com/science/article/pii/S8755461503000677
+* Detey, Sylvain & Jean-Luc Nespoulous. 2008. Can orthography influence second language syllabic segmentation?: Japanese epenthetic vowels and French consonantal clusters. Lingua 118.1: 66-81. http://www.sciencedirect.com/science/article/pii/S0024384107000733
+* Mangen, Anne, Bente R. Walgermo & Kolbjørn Brønnick. 2013. Reading linear texts on paper versus computer screen: Effects on reading comprehension. International Journal of Educational Research 58.1: 61-8. http://www.sciencedirect.com/science/article/pii/S0883035512001127
+* Jany, Carmen. 2010. Orthography Design for Chuxnabán Mixe. Language Documentation & Conservation 4.1: 231-53.  <Accessed: 12 June 2012>. http://hdl.handle.net/10125/4481
+
+
+###Thesis Section 2.2 - Orthography affecting sound change
+
+###Thesis Section 2.2 - Orthography-phonology/pronounciation relationship
 
 
 
