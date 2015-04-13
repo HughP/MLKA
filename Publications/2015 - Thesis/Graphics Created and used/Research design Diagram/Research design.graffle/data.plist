@@ -40,7 +40,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-04-11 17:13:34 -0700</string>
+	<string>2015-04-12 16:55:15 -0700</string>
 	<key>Modifier</key>
 	<string>Hugh Paterson III</string>
 	<key>NotesVisible</key>
@@ -415,7 +415,7 @@ Optimal solution}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\fs24 \cf0 Desktop based design for andriods}</string>
+\f0\fs24 \cf0 Desktop based design for android}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -3730,7 +3730,7 @@ Character in word patterns}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Character and keystorke Frequency}</string>
+Character and keystroke Frequency}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -4967,7 +4967,7 @@ Mono-lingual keyboard design}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Mult-lingual digital environment}</string>
+Multi-lingual digital environment}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -8879,7 +8879,7 @@ Digital Revolution}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\b\fs22 \cf0 domin-specific data set}</string>
+\f0\b\fs22 \cf0 domain-specific data set}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -11116,7 +11116,7 @@ Digital Revolution}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\b\fs22 \cf0 domin-specific data set}</string>
+\f0\b\fs22 \cf0 domain-specific data set}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -13319,7 +13319,7 @@ Digital Revolution}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
-\f0\b\fs22 \cf0 domin-specific data set}</string>
+\f0\b\fs22 \cf0 domain-specific data set}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -25970,7 +25970,7 @@ Diacritic and Base}</string>
 		</dict>
 		<dict>
 			<key>ActiveLayerIndex</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>AutoAdjust</key>
 			<true/>
 			<key>BackgroundGraphic</key>
@@ -26008,6 +26008,60 @@ Diacritic and Base}</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>AllowToConnect</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>138</integer>
+					<key>Layer</key>
+					<integer>0</integer>
+					<key>Points</key>
+					<array>
+						<string>{341, 283.687}</string>
+						<string>{430, 368.5}</string>
+						<string>{477, 331.5}</string>
+						<string>{487, 263.25}</string>
+						<string>{567.725, 191.5}</string>
+						<string>{549.213, 161}</string>
+						<string>{457, 150}</string>
+						<string>{55, 153.754}</string>
+						<string>{53, 242.5}</string>
+						<string>{341, 283.5}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>c</key>
+								<string>0.33</string>
+								<key>k</key>
+								<string>0.04</string>
+								<key>m</key>
+								<string>0.01</string>
+								<key>y</key>
+								<string>0.97</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>1</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+							<key>Width</key>
+							<real>5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
 					<key>Bounds</key>
 					<string>{{118.882, 482}, {82.5, 33}}</string>
 					<key>Class</key>
@@ -26033,7 +26087,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>131</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26134,7 +26188,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>130</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Line</key>
 					<dict>
 						<key>ID</key>
@@ -26244,7 +26298,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>129</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26345,7 +26399,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>128</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26361,6 +26415,8 @@ Diacritic and Base}</string>
 								<key>r</key>
 								<string>0.888</string>
 							</dict>
+							<key>Draws</key>
+							<string>NO</string>
 						</dict>
 						<key>shadow</key>
 						<dict>
@@ -26440,7 +26496,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>127</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26535,7 +26591,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>123</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26608,7 +26664,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>122</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26681,7 +26737,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>121</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Line</key>
 					<dict>
 						<key>ID</key>
@@ -26791,7 +26847,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>120</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -26892,7 +26948,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>119</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Line</key>
 					<dict>
 						<key>ID</key>
@@ -27002,7 +27058,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>118</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Line</key>
 					<dict>
 						<key>ID</key>
@@ -27112,7 +27168,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>116</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27185,7 +27241,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>115</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27258,7 +27314,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>113</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27331,7 +27387,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>111</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27404,7 +27460,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>110</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27477,7 +27533,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>109</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27564,7 +27620,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>108</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27653,7 +27709,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>107</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27742,7 +27798,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>94</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27830,7 +27886,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>93</integer>
 					<key>Layer</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -27900,7 +27956,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>126</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -27949,7 +28005,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>125</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -27998,7 +28054,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>106</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28046,7 +28102,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>104</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28092,7 +28148,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>103</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28138,7 +28194,7 @@ Diacritic and Base}</string>
 					<key>ID</key>
 					<integer>102</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28179,7 +28235,7 @@ and their limitations and/or specifications}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{11.0236, 374.01}, {247.31, 26}}</string>
+					<string>{{11.0236, 358.328}, {247.31, 26}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28189,7 +28245,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>100</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28244,7 +28300,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>98</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28299,7 +28355,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>97</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28354,7 +28410,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>96</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28405,7 +28461,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>99</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28446,7 +28502,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>105</integer>
 					<key>Layer</key>
-					<integer>1</integer>
+					<integer>2</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28480,6 +28536,87 @@ and their limitations and/or specifications}</string>
 					</dict>
 				</dict>
 				<dict>
+					<key>Bounds</key>
+					<string>{{287.044, 176.877}, {60, 22}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>Vertical</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>ID</key>
+					<integer>137</integer>
+					<key>Layer</key>
+					<integer>3</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
+
+\f0\fs18 \cf0 Language Revitalization}</string>
+						<key>VerticalPad</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>AllowToConnect</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>ID</key>
+					<integer>136</integer>
+					<key>Layer</key>
+					<integer>3</integer>
+					<key>Points</key>
+					<array>
+						<string>{351.93, 202}</string>
+						<string>{214.93, 202.748}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>stroke</key>
+						<dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>LineType</key>
+							<integer>1</integer>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>FontInfo</key>
@@ -28497,7 +28634,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>92</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{476.781, 507.93}</string>
@@ -28543,7 +28680,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>91</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{343.352, 476.589}</string>
@@ -28589,7 +28726,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>90</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{508.488, 468.732}</string>
@@ -28630,7 +28767,7 @@ and their limitations and/or specifications}</string>
 					<key>ID</key>
 					<integer>89</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28663,7 +28800,7 @@ Effects of modality}</string>
 					<key>ID</key>
 					<integer>88</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28694,7 +28831,7 @@ What is \
 					<key>ID</key>
 					<integer>87</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -28784,7 +28921,7 @@ What is \
 					<key>ID</key>
 					<integer>85</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28817,7 +28954,7 @@ Character in word patterns}</string>
 					<key>ID</key>
 					<integer>82</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28832,7 +28969,7 @@ Character in word patterns}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Character and keystorke Frequency}</string>
+Character and keystroke frequency}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -28846,11 +28983,11 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>81</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{418.262, 305.677}</string>
-						<string>{424.312, 318.789}</string>
+						<string>{424.929, 305.109}</string>
+						<string>{435.59, 318.608}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -28887,7 +29024,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>79</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -28915,7 +29052,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>78</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -29001,7 +29138,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>77</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -29081,7 +29218,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>76</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{79.3428, 44}</string>
@@ -29130,7 +29267,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>75</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -29183,7 +29320,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>74</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -29230,7 +29367,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>73</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{88.8097, 544.266}</string>
@@ -29280,7 +29417,7 @@ Character and keystorke Frequency}</string>
 					<key>ID</key>
 					<integer>70</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29295,7 +29432,7 @@ Character and keystorke Frequency}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Communicative Efficiency}</string>
+Communicative efficiency}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -29313,7 +29450,7 @@ Communicative Efficiency}</string>
 					<key>ID</key>
 					<integer>68</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29342,7 +29479,7 @@ Ergonomics}</string>
 					<key>ID</key>
 					<integer>67</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{299.385, 371.074}</string>
@@ -29392,7 +29529,7 @@ Ergonomics}</string>
 					<key>ID</key>
 					<integer>65</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29425,7 +29562,7 @@ Writing as social practice}</string>
 					<key>ID</key>
 					<integer>63</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29451,7 +29588,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>62</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -29480,7 +29617,7 @@ Reading as social practice}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
 \f0\fs18 \cf0 Hugh Paterson III\
-11. April 2015 v 0.8}</string>
+12. April 2015 v 0.9}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -29501,7 +29638,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>61</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{165.63, 612.658}</string>
@@ -29544,7 +29681,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>59</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29575,7 +29712,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>57</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29903,7 +30040,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>56</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{283.323, 333.187}</string>
@@ -29946,7 +30083,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>54</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -29973,7 +30110,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>53</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{407.828, 544.115}</string>
@@ -30024,7 +30161,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>51</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30055,7 +30192,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>49</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30086,7 +30223,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>47</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30409,11 +30546,11 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>46</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{352.5, 215}</string>
-						<string>{215.5, 215.748}</string>
+						<string>{352.5, 229.597}</string>
+						<string>{215.5, 230.345}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -30432,7 +30569,7 @@ Reading as social practice}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{220, 224}, {68, 22}}</string>
+					<string>{{220, 233}, {60, 22}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30442,7 +30579,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>45</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -30480,7 +30617,7 @@ Reading as social practice}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{273, 183}, {68, 22}}</string>
+					<string>{{250, 206}, {68, 22}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30490,7 +30627,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>44</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -30541,7 +30678,7 @@ Reading as social practice}</string>
 					<key>ID</key>
 					<integer>42</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30574,7 +30711,7 @@ Socio-linguistic situation for digital communication}</string>
 					<key>ID</key>
 					<integer>40</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30589,7 +30726,7 @@ Socio-linguistic situation for digital communication}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-From QWERTY or other regional layout}</string>
+Influences from QWERTY or other regional layouts}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -30607,7 +30744,7 @@ From QWERTY or other regional layout}</string>
 					<key>ID</key>
 					<integer>38</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>RoundRect</string>
 					<key>Style</key>
@@ -30622,7 +30759,7 @@ From QWERTY or other regional layout}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Device Based Design}</string>
+Device based design}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -30640,7 +30777,7 @@ Device Based Design}</string>
 					<key>ID</key>
 					<integer>35</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30673,7 +30810,7 @@ Poly-language keyboard layout design}</string>
 					<key>ID</key>
 					<integer>33</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30706,7 +30843,7 @@ Mono-lingual keyboard design}</string>
 					<key>ID</key>
 					<integer>31</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30721,7 +30858,7 @@ Mono-lingual keyboard design}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Mult-lingual digital environment}</string>
+Multi-lingual digital environment}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -30739,7 +30876,7 @@ Mult-lingual digital environment}</string>
 					<key>ID</key>
 					<integer>29</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30754,7 +30891,7 @@ Mult-lingual digital environment}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-New Design For Keyboard layout based on language usage}</string>
+New design for keyboard layout based on language usage}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -30772,7 +30909,7 @@ New Design For Keyboard layout based on language usage}</string>
 					<key>ID</key>
 					<integer>27</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30787,7 +30924,7 @@ New Design For Keyboard layout based on language usage}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc\pardirnatural
 
 \f0\fs18 \cf0 \expnd0\expndtw0\kerning0
-Basic Layout Analogy}</string>
+Basic keyboard layout analogy}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -30808,7 +30945,7 @@ Basic Layout Analogy}</string>
 					<key>ID</key>
 					<integer>26</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{379.165, 419.505}</string>
@@ -30852,7 +30989,7 @@ Basic Layout Analogy}</string>
 					<key>ID</key>
 					<integer>25</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{194.505, 420.269}</string>
@@ -30893,7 +31030,7 @@ Basic Layout Analogy}</string>
 					<key>ID</key>
 					<integer>23</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30932,7 +31069,7 @@ Text Input}</string>
 					<key>ID</key>
 					<integer>21</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -30971,7 +31108,7 @@ Writing for linguistics}</string>
 					<key>ID</key>
 					<integer>19</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -31015,7 +31152,7 @@ Writing for literacy}</string>
 					<key>ID</key>
 					<integer>18</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{380.879, 254.638}</string>
@@ -31056,7 +31193,7 @@ Writing for literacy}</string>
 					<key>ID</key>
 					<integer>16</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -31089,7 +31226,7 @@ Writing}</string>
 					<key>ID</key>
 					<integer>14</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>RoundRect</string>
 					<key>Style</key>
@@ -31129,7 +31266,7 @@ Writing}</string>
 					<key>ID</key>
 					<integer>13</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{416.961, 131.949}</string>
@@ -31175,7 +31312,7 @@ Writing}</string>
 					<key>ID</key>
 					<integer>12</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{284, 144.254}</string>
@@ -31218,7 +31355,7 @@ Writing}</string>
 					<key>ID</key>
 					<integer>10</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -31257,7 +31394,7 @@ Endangered language movement}</string>
 					<key>ID</key>
 					<integer>8</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>RoundRect</string>
 					<key>Style</key>
@@ -31290,7 +31427,7 @@ Document}</string>
 					<key>ID</key>
 					<integer>6</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -31329,7 +31466,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>4</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Magnets</key>
 					<array>
 						<string>{1, 1}</string>
@@ -31359,7 +31496,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>3</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -31399,7 +31536,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>5</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{154.02, 131.988}</string>
@@ -31445,7 +31582,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>9</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{215.5, 215.5}</string>
@@ -31489,7 +31626,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>15</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{352.5, 215.5}</string>
@@ -31533,7 +31670,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>17</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{191.767, 255.096}</string>
@@ -31577,7 +31714,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>20</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{315.752, 327.864}</string>
@@ -31621,7 +31758,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>22</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{251.511, 328.31}</string>
@@ -31665,7 +31802,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>24</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{284, 401.375}</string>
@@ -31711,7 +31848,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>28</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{249.008, 509.003}</string>
@@ -31758,7 +31895,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>30</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{141.943, 627.834}</string>
@@ -31802,7 +31939,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>32</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{463.096, 582.036}</string>
@@ -31846,7 +31983,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>34</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{437.319, 586.626}</string>
@@ -31890,7 +32027,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>36</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{418.189, 586.977}</string>
@@ -31934,7 +32071,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>39</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{284, 517.5}</string>
@@ -31980,7 +32117,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>41</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{96.7574, 629.559}</string>
@@ -32024,7 +32161,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>43</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{324.823, 505.405}</string>
@@ -32071,7 +32208,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>48</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{459.917, 205.711}</string>
@@ -32115,7 +32252,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>50</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{417.185, 255.477}</string>
@@ -32159,7 +32296,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>55</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{315.069, 583.998}</string>
@@ -32203,7 +32340,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>58</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{118.201, 429.257}</string>
@@ -32247,7 +32384,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>60</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{266.56, 584.108}</string>
@@ -32293,7 +32430,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>64</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{472.862, 369.525}</string>
@@ -32337,7 +32474,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>66</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{469.089, 421.072}</string>
@@ -32381,7 +32518,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>69</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{128.693, 589.631}</string>
@@ -32427,7 +32564,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>71</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{98.4505, 590.091}</string>
@@ -32456,6 +32593,8 @@ Digital Revolution}</string>
 					</dict>
 				</dict>
 				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
 					<key>Bounds</key>
 					<string>{{73, 159}, {420, 368}}</string>
 					<key>Class</key>
@@ -32470,7 +32609,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>37</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -32507,11 +32646,11 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>80</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{418.262, 305.677}</string>
-						<string>{424.312, 318.789}</string>
+						<string>{424.929, 305.109}</string>
+						<string>{435.59, 318.608}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32555,7 +32694,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>83</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{247.205, 682.322}</string>
@@ -32599,7 +32738,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>86</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Points</key>
 					<array>
 						<string>{146.414, 681.18}</string>
@@ -32640,7 +32779,7 @@ Digital Revolution}</string>
 					<key>ID</key>
 					<integer>72</integer>
 					<key>Layer</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -32681,11 +32820,21 @@ Digital Revolution}</string>
 					<key>Lock</key>
 					<string>NO</string>
 					<key>Name</key>
+					<string>Green Ring</string>
+					<key>Print</key>
+					<string>YES</string>
+					<key>View</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Lock</key>
+					<string>NO</string>
+					<key>Name</key>
 					<string>Texts</string>
 					<key>Print</key>
 					<string>YES</string>
 					<key>View</key>
-					<string>YES</string>
+					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Lock</key>
@@ -32695,7 +32844,7 @@ Digital Revolution}</string>
 					<key>Print</key>
 					<string>YES</string>
 					<key>View</key>
-					<string>YES</string>
+					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Lock</key>
@@ -44319,7 +44468,7 @@ How to spell words}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{31, 0}, {1376, 878}}</string>
+		<string>{{32, -1}, {1376, 878}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
