@@ -160,12 +160,12 @@ The following transformations were done manually on the african data.
 
 ```
 
-Unicode|Character|Quantity
-----|----|----
-U+000A| |121
-U+0020| |16166
-U+0021|!|10
-U+0027|'|1411
+Unicode|Character|Quantity|Converted to
+----|----|----|----
+U+000A| |121|
+U+0020| |16166|
+U+0021|!|10|!!
+U+0027|'|1411|''
 U+002A|*|10
 U+002C|,|1157
 U+002D|-|666
