@@ -39,3 +39,4 @@ Thistaxonomy is somewhat aged and it is perhaps clearer to think about text inpu
 ##Further Reading
 _Within this folder are list of other relevant references and other relevant PDFs._
 See additional comments are reasons to read particular papers in the file [`AcademicPapersToCheckOut.md`](/Academic-Papers/AcademicPapersToCheckOut.md)
+and the ongoing list of items to get from the lbrary [`Library_Get_List.md`](Library_Get_List.md)
