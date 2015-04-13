@@ -40,7 +40,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-04-12 16:55:15 -0700</string>
+	<string>2015-04-12 23:23:00 -0700</string>
 	<key>Modifier</key>
 	<string>Hugh Paterson III</string>
 	<key>NotesVisible</key>
@@ -4372,8 +4372,8 @@ Reading as social practice}</string>
 					<integer>61</integer>
 					<key>Points</key>
 					<array>
-						<string>{165.632, 612.65}</string>
-						<string>{172.311, 613.007}</string>
+						<string>{165.634, 612.644}</string>
+						<string>{172.314, 613}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -6167,8 +6167,8 @@ Digital Revolution}</string>
 					<integer>41</integer>
 					<key>Points</key>
 					<array>
-						<string>{96.7582, 629.56}</string>
-						<string>{92.8494, 633.697}</string>
+						<string>{96.7588, 629.56}</string>
+						<string>{92.8502, 633.697}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -6466,7 +6466,7 @@ Digital Revolution}</string>
 					<integer>64</integer>
 					<key>Points</key>
 					<array>
-						<string>{472.198, 368.832}</string>
+						<string>{472.197, 368.832}</string>
 						<string>{482.452, 363.472}</string>
 					</array>
 					<key>Style</key>
@@ -6716,8 +6716,8 @@ Digital Revolution}</string>
 					<integer>83</integer>
 					<key>Points</key>
 					<array>
-						<string>{247.221, 682.316}</string>
-						<string>{250.536, 683.452}</string>
+						<string>{247.234, 682.31}</string>
+						<string>{250.546, 683.445}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -7057,8 +7057,10 @@ Digital Revolution}</string>
 						ZQBsAHYAZQB0AGkAYwBhAC0AQgBv
 						AGwAZAAAAIQBZg6bAJsBmwCbAIaG
 						lwIDkoSYmQOSmZKEm5sBhARmZmZm
-						g6uqKj+DmZgYPoOBgAA+AYaSnJKd
-						kq6Sr4aXAR+G
+						g6uqKj+DmZgYPoOBgAA+AYaSnJKE
+						np4BAISgmQySoZKjkqSSpZKmkqeS
+						qJKpkqqSq5Kskq2GgQAIooPNzEw9
+						hpKukq+GlwEfhg==
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
@@ -7694,7 +7696,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{390.146, 413.563}, {76.0089, 13}}</string>
+					<string>{{390.147, 413.562}, {76.0089, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -7773,7 +7775,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{488.5, 376.291}</string>
-						<string>{487.441, 420.063}</string>
+						<string>{487.441, 420.062}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -7823,7 +7825,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{569.5, 362.122}</string>
-						<string>{353.561, 420.063}</string>
+						<string>{353.561, 420.062}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -8064,7 +8066,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{297.221, 476.749}, {67.6847, 13}}</string>
+					<string>{{298.086, 475.739}, {67.6847, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -8123,7 +8125,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{198.966, 347}, {86.6886, 39}}</string>
+					<string>{{198.965, 347}, {86.6886, 39}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -8229,7 +8231,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{336.57, 209.973}, {95.8257, 13}}</string>
+					<string>{{336.57, 209.651}, {95.8257, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -8308,10 +8310,10 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>21.087368011474609</real>
+					<real>21.087165832519531</real>
 					<key>Points</key>
 					<array>
-						<string>{295.558, 275}</string>
+						<string>{295.558, 273.5}</string>
 						<string>{337.732, 251}</string>
 						<string>{384.483, 176.219}</string>
 					</array>
@@ -9064,12 +9066,12 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>37.825485229492188</real>
+					<real>37.82550048828125</real>
 					<key>Points</key>
 					<array>
 						<string>{126, 124.549}</string>
 						<string>{149.5, 240}</string>
-						<string>{224.561, 275}</string>
+						<string>{224.56, 275}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -9164,11 +9166,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>7.0433197021484375</real>
+					<real>6.2982048988342285</real>
 					<key>Points</key>
 					<array>
-						<string>{327.987, 456.349}</string>
-						<string>{377.5, 510.235}</string>
+						<string>{328.406, 456.339}</string>
+						<string>{377.5, 508.735}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -9212,11 +9214,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>7.1607627868652344</real>
+					<real>7.1608595848083496</real>
 					<key>Points</key>
 					<array>
 						<string>{126, 124.549}</string>
-						<string>{219.6, 178.671}</string>
+						<string>{219.601, 178.671}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -9931,7 +9933,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{390.146, 413.563}, {76.0089, 13}}</string>
+					<string>{{390.147, 413.562}, {76.0089, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -10010,7 +10012,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{488.5, 376.291}</string>
-						<string>{487.441, 420.063}</string>
+						<string>{487.441, 420.062}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -10060,7 +10062,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{569.5, 362.122}</string>
-						<string>{353.561, 420.063}</string>
+						<string>{353.561, 420.062}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -10301,7 +10303,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{298.086, 475.739}, {67.6847, 13}}</string>
+					<string>{{297.221, 476.749}, {67.6847, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -10360,7 +10362,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{198.966, 347}, {86.6886, 39}}</string>
+					<string>{{198.965, 347}, {86.6886, 39}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -10466,7 +10468,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{336.57, 209.973}, {95.8257, 13}}</string>
+					<string>{{336.57, 209.651}, {95.8257, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -10545,10 +10547,10 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>21.087368011474609</real>
+					<real>21.087165832519531</real>
 					<key>Points</key>
 					<array>
-						<string>{295.558, 275}</string>
+						<string>{295.558, 273.5}</string>
 						<string>{337.732, 251}</string>
 						<string>{384.483, 176.219}</string>
 					</array>
@@ -11301,12 +11303,12 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>37.825485229492188</real>
+					<real>37.82550048828125</real>
 					<key>Points</key>
 					<array>
 						<string>{126, 124.549}</string>
 						<string>{149.5, 240}</string>
-						<string>{224.561, 275}</string>
+						<string>{224.56, 275}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -11401,11 +11403,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>6.2982912063598633</real>
+					<real>7.0432329177856445</real>
 					<key>Points</key>
 					<array>
-						<string>{328.406, 456.339}</string>
-						<string>{377.5, 508.735}</string>
+						<string>{327.987, 456.349}</string>
+						<string>{377.5, 510.235}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -11449,11 +11451,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>7.1607627868652344</real>
+					<real>7.1608595848083496</real>
 					<key>Points</key>
 					<array>
 						<string>{126, 124.549}</string>
-						<string>{219.6, 178.671}</string>
+						<string>{219.601, 178.671}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -11635,7 +11637,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{231.785, 209.281}</string>
-						<string>{232.996, 239.281}</string>
+						<string>{232.105, 239.281}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -11731,7 +11733,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{428.073, 354.6}</string>
-						<string>{359.885, 408.594}</string>
+						<string>{359.884, 408.594}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -12213,7 +12215,7 @@ Digital Revolution}</string>
 					<key>Points</key>
 					<array>
 						<string>{512.496, 375.572}</string>
-						<string>{511.437, 419.343}</string>
+						<string>{511.436, 419.343}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -12262,7 +12264,7 @@ Digital Revolution}</string>
 					<real>0.0</real>
 					<key>Points</key>
 					<array>
-						<string>{593.496, 361.402}</string>
+						<string>{593.496, 361.403}</string>
 						<string>{377.556, 419.343}</string>
 					</array>
 					<key>Style</key>
@@ -12397,7 +12399,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{365.271, 282.781}, {76.0089, 13}}</string>
+					<string>{{366.269, 282.781}, {76.0089, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -12479,8 +12481,8 @@ Digital Revolution}</string>
 					<real>-1</real>
 					<key>Points</key>
 					<array>
-						<string>{337.303, 289.281}</string>
-						<string>{496.996, 252.1}</string>
+						<string>{338.803, 289.281}</string>
+						<string>{496.995, 252.1}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -12504,7 +12506,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{321.216, 476.029}, {67.6847, 13}}</string>
+					<string>{{322.082, 475.02}, {67.6847, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -12669,7 +12671,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{360.565, 209.254}, {95.8257, 13}}</string>
+					<string>{{360.566, 208.932}, {95.8257, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -12748,12 +12750,12 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>21.087368011474609</real>
+					<real>21.087165832519531</real>
 					<key>Points</key>
 					<array>
-						<string>{319.553, 274.281}</string>
+						<string>{319.554, 272.781}</string>
 						<string>{361.728, 250.281}</string>
-						<string>{408.478, 175.5}</string>
+						<string>{408.479, 175.5}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -13099,7 +13101,7 @@ Digital Revolution}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{140.156, 226.281}, {91.6283, 26}}</string>
+					<string>{{139.832, 226.281}, {91.6283, 26}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -13504,12 +13506,12 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>37.825485229492188</real>
+					<real>37.075599670410156</real>
 					<key>Points</key>
 					<array>
-						<string>{149.996, 123.83}</string>
+						<string>{149.996, 125.33}</string>
 						<string>{173.496, 239.281}</string>
-						<string>{248.556, 274.281}</string>
+						<string>{248.556, 272.781}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -13604,11 +13606,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>7.0433197021484375</real>
+					<real>6.2982082366943359</real>
 					<key>Points</key>
 					<array>
-						<string>{351.982, 455.629}</string>
-						<string>{401.496, 509.516}</string>
+						<string>{352.401, 455.62}</string>
+						<string>{401.496, 508.016}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -13652,11 +13654,11 @@ Digital Revolution}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>7.1607627868652344</real>
+					<real>7.1609587669372559</real>
 					<key>Points</key>
 					<array>
 						<string>{149.996, 123.83}</string>
-						<string>{243.596, 177.951}</string>
+						<string>{243.596, 177.952}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -28986,8 +28988,8 @@ Character and keystroke frequency}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{424.929, 305.109}</string>
-						<string>{435.59, 318.608}</string>
+						<string>{420.472, 305.52}</string>
+						<string>{427.877, 318.57}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -29641,8 +29643,8 @@ Reading as social practice}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{165.63, 612.658}</string>
-						<string>{172.307, 613.015}</string>
+						<string>{165.632, 612.65}</string>
+						<string>{172.311, 613.007}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32120,8 +32122,8 @@ Digital Revolution}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{96.7574, 629.559}</string>
-						<string>{92.8485, 633.697}</string>
+						<string>{96.7584, 629.56}</string>
+						<string>{92.8497, 633.697}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32211,8 +32213,8 @@ Digital Revolution}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{459.917, 205.711}</string>
-						<string>{474.997, 195.004}</string>
+						<string>{461, 205.716}</string>
+						<string>{476.381, 195.127}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32433,8 +32435,8 @@ Digital Revolution}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{472.862, 369.525}</string>
-						<string>{484.083, 363.904}</string>
+						<string>{472.588, 369.236}</string>
+						<string>{483.394, 363.726}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32649,8 +32651,8 @@ Digital Revolution}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{424.929, 305.109}</string>
-						<string>{435.59, 318.608}</string>
+						<string>{420.472, 305.52}</string>
+						<string>{427.877, 318.57}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32697,8 +32699,8 @@ Digital Revolution}</string>
 					<integer>3</integer>
 					<key>Points</key>
 					<array>
-						<string>{247.205, 682.322}</string>
-						<string>{250.524, 683.46}</string>
+						<string>{247.221, 682.316}</string>
+						<string>{250.536, 683.452}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -32844,7 +32846,7 @@ Digital Revolution}</string>
 					<key>Print</key>
 					<string>YES</string>
 					<key>View</key>
-					<string>NO</string>
+					<string>YES</string>
 				</dict>
 				<dict>
 					<key>Lock</key>
@@ -41060,7 +41062,7 @@ How to spell words}</string>
 					<key>Points</key>
 					<array>
 						<string>{404.748, 173.728}</string>
-						<string>{464.502, 168.531}</string>
+						<string>{465, 168.487}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -41930,7 +41932,7 @@ How to spell words}</string>
 					<key>Points</key>
 					<array>
 						<string>{132.75, 440.5}</string>
-						<string>{105.889, 387.842}</string>
+						<string>{105.889, 387.843}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42540,7 +42542,7 @@ How to spell words}</string>
 					<key>Points</key>
 					<array>
 						<string>{306.5, 212.111}</string>
-						<string>{335.239, 195.466}</string>
+						<string>{335.24, 195.466}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42609,8 +42611,8 @@ How to spell words}</string>
 					<integer>25</integer>
 					<key>Points</key>
 					<array>
-						<string>{303.75, 440.685}</string>
-						<string>{359, 438.71}</string>
+						<string>{303.75, 440.682}</string>
+						<string>{359, 438.706}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42642,8 +42644,8 @@ How to spell words}</string>
 					<integer>27</integer>
 					<key>Points</key>
 					<array>
-						<string>{303.737, 463.711}</string>
-						<string>{359.013, 476.58}</string>
+						<string>{303.737, 463.726}</string>
+						<string>{359.013, 476.604}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42708,8 +42710,8 @@ How to spell words}</string>
 					<integer>49</integer>
 					<key>Points</key>
 					<array>
-						<string>{434.248, 334.32}</string>
-						<string>{469.001, 337.079}</string>
+						<string>{434.248, 334.265}</string>
+						<string>{469.001, 336.974}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42741,8 +42743,8 @@ How to spell words}</string>
 					<integer>51</integer>
 					<key>Points</key>
 					<array>
-						<string>{434.241, 324.132}</string>
-						<string>{469.009, 317.477}</string>
+						<string>{434.241, 324.083}</string>
+						<string>{469.009, 317.383}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42775,7 +42777,7 @@ How to spell words}</string>
 					<key>Points</key>
 					<array>
 						<string>{510.89, 351.65}</string>
-						<string>{530.987, 407.266}</string>
+						<string>{530.988, 407.267}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -42850,8 +42852,8 @@ How to spell words}</string>
 					<integer>54</integer>
 					<key>Points</key>
 					<array>
-						<string>{462.249, 433.716}</string>
-						<string>{501.251, 431.342}</string>
+						<string>{462.249, 433.728}</string>
+						<string>{501.251, 431.363}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -43551,7 +43553,7 @@ How to spell words}</string>
 					<integer>41</integer>
 					<key>Points</key>
 					<array>
-						<string>{303.25, 361.25}</string>
+						<string>{303.742, 361.339}</string>
 						<string>{359.008, 371.391}</string>
 					</array>
 					<key>Style</key>
@@ -44246,7 +44248,7 @@ How to spell words}</string>
 					<integer>13</integer>
 					<key>Points</key>
 					<array>
-						<string>{303.25, 255.25}</string>
+						<string>{303.749, 255.227}</string>
 						<string>{359.001, 252.712}</string>
 					</array>
 					<key>Style</key>
@@ -44313,7 +44315,7 @@ How to spell words}</string>
 					<key>Points</key>
 					<array>
 						<string>{303.75, 440.682}</string>
-						<string>{359, 438.706}</string>
+						<string>{359, 438.705}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -44345,8 +44347,8 @@ How to spell words}</string>
 					<integer>27</integer>
 					<key>Points</key>
 					<array>
-						<string>{303.737, 463.726}</string>
-						<string>{359.013, 476.604}</string>
+						<string>{303.737, 463.73}</string>
+						<string>{359.013, 476.611}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -44468,7 +44470,7 @@ How to spell words}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{32, -1}, {1376, 878}}</string>
+		<string>{{32, 0}, {1376, 878}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -44482,7 +44484,7 @@ How to spell words}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-18, 363}, {613.5, 370}}</string>
+		<string>{{-18, 178.5}, {613.5, 370}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>
