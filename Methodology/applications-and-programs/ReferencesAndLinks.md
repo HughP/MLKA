@@ -195,6 +195,7 @@ _The applications below may not be as refined as the ones above._
 * http://www.daskeyboard.com/
 * http://www.bestbuy.com/site/datacal-russian-and-english-bilingual-keyboard-black/7031056.p?id=1218824947707&skuId=7031056
 *  Datacal Bilingual - Keyboard - Japanese- http://www.amazon.com/DataCal-Japanese-English-Keyboard-Ergoguys/dp/B008AXH28C
+* [TypeMatrix](http://www.typematrix.com/2030/features.php)
 
 ###Keypads
 * Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods

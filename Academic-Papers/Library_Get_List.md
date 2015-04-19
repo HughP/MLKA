@@ -1,5 +1,14 @@
 #Things to get from the library
 
+
+###Eye movements in typing
+* Miles, W. R. and Segel, David, "Clinical Observatoni of Eye Movements in the Rating of Reading Ability," Journal of Educational Psycology (1929), Vol. 20 pp. 520-529
+* Butsch, R. L. C., "Eye Movements and the Eye-Hand Span in Typewriting," Journal of Educational Psycology (1932) Vol. 23 pp. 104-121
+
+###Spelling Errors
+* Mendenhall, J. E., "The Characteristics of Spelling Errors," Journal of Educational Psycology (1930) Vol 21: p.655.
+
+ 
 * http://www.tavultesoft.com/eurolatin/?search=spanish
 * http://arxiv.org/abs/cs/0006032
 * http://www.wordcounter.net/#
