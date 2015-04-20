@@ -49,6 +49,12 @@ A the keys were taped with scotch tape in the down position, a pice of see-thoug
 * http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/
 * http://colemak.com/Compare
 
+###Keyboard Shape + Ergonomics
+* O'Brien, Marita A. 2004. Keyboard Shape and Arrangement Effects on Keyboard Design Elements. Proceedings of the Human Factors and Ergonomics Society Annual Meeting 48.18: 2147-51. 
+* Smith, Michael J., et al. 1998. Effects of a Split Keyboard Design and Wrist Rest on Performance, Posture, and Comfort. Human Factors: The Journal of the Human Factors and Ergonomics Society 40.2: 324-36. http://hfs.sagepub.com/content/40/2/324.abstract
+* Swanson, Naomi G., Traci L. Galinsky, Libby L. Cole, Christopher S. Pan & Steven L. Sauter. 1997. The impact of keyboard design on comfort and productivity in a text-entry task. Applied Ergonomics 28.1: 9-16. http://www.sciencedirect.com/science/article/pii/S000368709600052X
+* Rempel, David, Alan Barr, David Brafman & Ed Young. 2007. The effect of six keyboard designs on wrist and forearm postures. Applied Ergonomics 38.3: 293-8. http://www.sciencedirect.com/science/article/pii/S0003687006000706
+* Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98. http://www.sciencedirect.com/science/article/pii/S0268003300000115
 
 ####Measuring finger plunge
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
