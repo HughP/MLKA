@@ -119,12 +119,13 @@ Gesture based input: https://en.wikipedia.org/wiki/Multi-touch
 
 ##Speech and Text input
 * http://www.sciencedirect.com/science/article/pii/S0020737384800383
-* 
 
 
 ##Keyboard arangment
 * Optimal character arrangement for ambiguous keyboards using a PSO-based algorithm: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6022544&searchWithin%3Dp_Authors%3A.QT.En-Ping+Su.QT.
-* 
+
+##Prehistory of QWERTY
+http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf
 
 ----
 #Academic citations
