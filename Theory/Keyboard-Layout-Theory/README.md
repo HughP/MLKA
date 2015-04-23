@@ -9,17 +9,21 @@ As a rundown, there are three names which seem to come up in the computer develo
 First there was "chaos". Then there was QWERTY. Before it was known as QWERTY, it was refernced as the "Universal layout".
 
 ##QWERTY
+_Designer: Christopher Latham Sholes_
+
 The QWERTY keyboard layout is often credited to Christopher Latham Sholes (David 1985: 333, Gernold Kinney 1935: 1). Although others suggest that this “Universal” keyboard layout (as QWERTY was known as a the time) was already known to Sholes and only slightly modified (Yasuoka & Yasuoka 2011).
 
 Before Dvorak's suggestion there were already suggestions in the academic literature.
 
 ###Hoke
 * Hoke (1922)
+
 ###Reimer
 * Riemer (1929)
 
 ##Dvorak
 _Designer: August Dvorak_
+
 Dvorak tries to impove and uses methods from both Hoke (1922) and Riemer (1929).
 
 Regardless of the historical facts surrounding the development of the QWERTY layout, Dvorak uses its apparent sporadic layout as a reason to argue for a mathematical arrangement to the keyboard layout problem.
@@ -28,33 +32,41 @@ There are several iterations of this keyboard. There is the one patented, and pu
 
 ##Wade
 _Designer: ??? Wade_
+
 Wade challenges Dvorak's keyboard within two years.
 
 ##Capwell
 _Designer: Michael Capewell_
+
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * Capewell improvement of the Dvorak keyboard: http://www.michaelcapewell.com/projects/keyboard/layout_capewell-dvorak.htm
 
 ##Colmak
 _Designer: Shai Coleman_
+
 Website: [http://colemak.com/](http://colemak.com/)
+
 Released on 01-Jan-2006.
+
 * Discussion of the colemak keyboard: http://colemak.com/
  * Colemak keyboard layout comparison: http://colemak.com/Compare
 
 ###Colmak Mods
+
 * http://colemakmods.github.io/mod-dh/#angle-mod
 This website has an interesting discussion about [learnibility difficultiy](http://colemakmods.github.io/mod-dh/learn.html). This index might be similar to an index of non-visual response.
 It also has an valuable discussion of the [differences between evaluation metrics](http://colemakmods.github.io/mod-dh/compare.html). Including this [metric](http://forum.colemak.com/viewtopic.php?pid=15137#p15137) and [this one](http://www.shenafu.com/smf/index.php?topic=89.0)
 
 ##Norman
 _Designer: David Norman_
+
 * Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 
 ##Workman
 
 ##Balanced
 _Designer: Den_
+
 * http://www.shenafu.com/smf/index.php?topic=89.0
 
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
