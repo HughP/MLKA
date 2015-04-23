@@ -63,6 +63,13 @@ _Designer: David Norman_
 * Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 
 ##Workman
+_Designer: OJ Bucao_
+
+Website: [http://www.workmanlayout.com/blog/](http://www.workmanlayout.com/blog/)
+
+Released: 06-Sept-2010 
+
+The goal of the workman layout was to improve on the Colmak layout.
 
 ##Balanced
 _Designer: Den_
