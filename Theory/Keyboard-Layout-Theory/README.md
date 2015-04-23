@@ -3,8 +3,60 @@ _This section is for links to resources which discuss the reasons that a keyboar
 
 Perhaps the best way to start this discussion off is to layout some history.
 
-As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and David Norman. There are some other names too like: Ted Lilley, David Piepgrass. The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
+As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and David Norman. There are some other names too like: Ted Lilley, David Piepgrass, and Shai Coleman. The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
+
+##Pre-QWERTY
+First there was "chaos". Then there was QWERTY. Before it was known as QWERTY, it was refernced as the "Universal layout".
+
+##QWERTY
+The QWERTY keyboard layout is often credited to Christopher Latham Sholes (David 1985: 333, Gernold Kinney 1935: 1). Although others suggest that this “Universal” keyboard layout (as QWERTY was known as a the time) was already known to Sholes and only slightly modified (Yasuoka & Yasuoka 2011).
+
+Before Dvorak's suggestion there were already suggestions in the academic literature.
+
+###Hoke
+* Hoke (1922)
+###Reimer
+* Riemer (1929)
+
+##Dvorak
+_Designer: August Dvorak_
+Dvorak tries to impove and uses methods from both Hoke (1922) and Riemer (1929).
+
+Regardless of the historical facts surrounding the development of the QWERTY layout, Dvorak uses its apparent sporadic layout as a reason to argue for a mathematical arrangement to the keyboard layout problem.
+Dvorak is likely the most famous to suggest an alternative layout for text input and typing. Dvorak advocates that the keyboard arrangement problem is essentially time-over-distance equation (with some caveats such as finger load). His goal is to increase typing speed by reducing finger travel and by leveling imbalances in finger and hand movements.
+There are several iterations of this keyboard. There is the one patented, and published in the 1936 book, the one Dvorak created on machines, and then there is also the one in popular distribution today.
+
+##Wade
+_Designer: ??? Wade_
+Wade challenges Dvorak's keyboard within two years.
+
+##Capwell
+_Designer: Michael Capewell_
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
+* Capewell improvement of the Dvorak keyboard: http://www.michaelcapewell.com/projects/keyboard/layout_capewell-dvorak.htm
+
+##Colmak
+_Designer: Shai Coleman_
+Website: [http://colemak.com/](http://colemak.com/)
+Released on 01-Jan-2006.
+* Discussion of the colemak keyboard: http://colemak.com/
+ * Colemak keyboard layout comparison: http://colemak.com/Compare
+
+###Colmak Mods
+* http://colemakmods.github.io/mod-dh/#angle-mod
+This website has an interesting discussion about [learnibility difficultiy](http://colemakmods.github.io/mod-dh/learn.html). This index might be similar to an index of non-visual response.
+It also has an valuable discussion of the [differences between evaluation metrics](http://colemakmods.github.io/mod-dh/compare.html). Including this [metric](http://forum.colemak.com/viewtopic.php?pid=15137#p15137) and [this one](http://www.shenafu.com/smf/index.php?topic=89.0)
+
+##Norman
+_Designer: David Norman_
+* Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
+
+##Workman
+
+##Balanced
+_Designer: Den_
+* http://www.shenafu.com/smf/index.php?topic=89.0
+
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
@@ -12,10 +64,6 @@ As a rundown, there are three names which seem to come up in the computer develo
 * Michael Dickens - Introducing the Thumb Keys https://mathematicalmulticore.wordpress.com/category/keyboards/
 * This forum talks about the comparison of keyboards. https://geekhack.org/index.php?topic=48292.msg1309062#msg1309062
 * Discussion of the historical nature of the return key: http://deskthority.net/wiki/Return_key.
-* Capewell improvement of the Dvorak keyboard: http://www.michaelcapewell.com/projects/keyboard/layout_capewell-dvorak.htm
-* Discussion of the colemak keyboard: http://colemak.com/
- * Colemak keyboard layout comparison: http://colemak.com/Compare
-* Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 * http://www.makeuseof.com/tag/a-history-of-keyboard-layouts-is-qwerty-lagging-behind/
 * http://history-computer.com/ModernComputer/Basis/keyboard.html
 * http://www.xpertkeyboard.com/history.htm
