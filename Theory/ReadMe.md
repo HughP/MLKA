@@ -4,7 +4,7 @@ _I find there to be four teoretical topics which seem to be apropiate to disucs 
 ##Typewriter Histoy
 This is where "factual" history of machines are discussed and citations are stored. Much of what we are trying to imporve upon is because of historical onomilies.
 
-##Keyboard layout Theory
+##Keyboard Layout Theory
 This is the theory which applies to what should go where on a keyboard layout. This theory motivates methodologies. That is, because we hold things to be true in our theory we count numbers and actions a certain way.
 
 ##Information Theory
