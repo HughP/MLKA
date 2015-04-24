@@ -27,6 +27,7 @@ Also in contrast to the norms of open source licenses and collaboration practice
 ---
 #Repository layout
 _This repository contains the following folders with the resons they exists._
+
 1. [`/Publications`](/Publications)
 2. [`/Academic-Papers`](/Academic-Papers)
 3. [`/Methodology`](/Methodology)
@@ -43,7 +44,7 @@ The Academic fit for keyboard layout design and assessment (especially across la
 
 Notions of academic fit or appropiateness are further explored in materials contained in the [`/Academic Papers`](/Academic-Papers) folder
 
-#Methodologies
+##Methodologies
 _Methodologies are discussed in the_ [`/Methodology`](/Methodology) _folder._
 These include: Hardware and software layout specs, Physical Keyboard Measurements, Applications and programs used, images of keyboard layouts, and research keyboards (think of this as the data).
 
