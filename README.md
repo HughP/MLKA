@@ -25,6 +25,13 @@ In one sense this is "not traditional open source" in that I (Hugh) am not licen
 Also in contrast to the norms of open source licenses and collaboration practice this repo may contain cited works which are not Hugh's "invention". These will always, where possible indicate who the original author/contributor is. This is more inline with the academic tradition of publishing (and fair use) rather than the open source tradition of nameless collaboration. Which means, in short I may not have the legal right to license everything in this repo under a single license.
 
 ---
+#Repository layout
+_This repository contains the following folders with the resons they exists._
+1. [`/Publications`](/Publications)
+2. [`/Academic-Papers`](/Academic-Papers)
+3. [`/Methodology`](/Methodology)
+4. [`/Theory/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory/README.md)
+
 
 ##Publications
 _The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.) A list of publications can be found in the [ReadMe.md](/Publications/ReadMe.md) of the_ `/Publications` _folder._
@@ -34,16 +41,17 @@ The Academic fit for keyboard layout design and assessment (especially across la
  1. language use
  2. human-computer interaction
 
-Notions of academic fit or appropiateness are further explored in materials contained in the [`/Academic Papers`](/Academic-Papers/AcademicPapersToCheckOut.md) folder
+Notions of academic fit or appropiateness are further explored in materials contained in the [`/Academic Papers`](/Academic-Papers) folder
 
 #Methodologies
-_Methodologies are discussed in the_ [`/Methodology`](/Methodology/) _folder._
+_Methodologies are discussed in the_ [`/Methodology`](/Methodology) _folder._
+These include: Hardware and software layout specs, Physical Keyboard Measurements, Applications and programs used, images of keyboard layouts, and research keyboards (think of this as the data).
 
 ##Keyboard layout theory
-_This section discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
+_The [`/Theory/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory/README.md) folder contains discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
 _There are two major social locations where keyboard layouts are discussed:_
   1. The computer programing world (forums, websites, etc.)
   2. The professional academic literature (journals, thesis, etc.)
 
-_A comparitive review of the websites and designers discussing the problems encountered by the compute programing industry reveal very little about multi-lingual or non-English/Roman Script discussions. A review of the professional literature including technical journals, and journals focused on ergonomics find that very little in the literature exists about keyboard efficiency measurements across languages. More generally in the academic literature the problem of what characters go where on a keyboard layout, that is how they are arranged, is discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
-[`/Theory/Keyboard layout theory`](/Theory/Keyboard-Layout-Theory/README.md)
+_A comparitive review of the literature and designers discussing the problems encountered by the computer programing industry reveal very little about multi-lingual or non-English/Roman Script discussions. A review of the professional literature including technical journals, and journals focused on ergonomics find that very little in the literature exists about keyboard efficiency measurements across languages. More generally in the academic literature the problem of what characters go where on a keyboard layout, that is how they are arranged, is discussed as the **Keyboard Arrangement Problem** (KAP) or **General Keyboard Arrangement Problem** (GKAP)._
+
