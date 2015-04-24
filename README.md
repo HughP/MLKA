@@ -31,11 +31,11 @@ _This repository contains the following folders with the resons they exists._
 1. [`/Publications`](/Publications)
 2. [`/Academic-Papers`](/Academic-Papers)
 3. [`/Methodology`](/Methodology)
-4. [`/Theory/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory/README.md)
+4. [`/Theory`](/Theory)
 
 
 ##Publications
-_The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.)
+_The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.)_
 
 ##Academic Appropriateness
 The Academic fit for keyboard layout design and assessment (especially across languages) is difficult to pin to a single academic discipline. In general the keyboard layout challenge has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics (physiology), human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
