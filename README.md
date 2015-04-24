@@ -35,7 +35,7 @@ _This repository contains the following folders with the resons they exists._
 
 
 ##Publications
-_The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.) A list of publications can be found in the [ReadMe.md](/Publications/ReadMe.md) of the_ `/Publications` _folder._
+_The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.)
 
 ##Academic Appropriateness
 The Academic fit for keyboard layout design and assessment (especially across languages) is difficult to pin to a single academic discipline. In general the keyboard layout challenge has been approached from the perspective of _anthropology of objects, applied mathematics, computer science, design, economics, ergonomics (physiology), human-computer inertaction, language development, language documentation, linguistics, literacy, user experience design_. In this project I take two academic perspectives: 
@@ -49,7 +49,7 @@ _Methodologies are discussed in the_ [`/Methodology`](/Methodology) _folder._
 These include: Hardware and software layout specs, Physical Keyboard Measurements, Applications and programs used, images of keyboard layouts, and research keyboards (think of this as the data).
 
 ##Keyboard layout theory
-_The [`/Theory/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory/README.md) folder contains discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
+_The [`/Theory`](/Theory) folder contains discusses the history of the evolution of the keyboard and the evolution of how keyboards are measured. Perhaps the best known discussion is the controversy over QWERTY and Dvorak as it relates to the text input of English. However there are more than these two layouts to be discussed and more than just English text input to consider._
 _There are two major social locations where keyboard layouts are discussed:_
   1. The computer programing world (forums, websites, etc.)
   2. The professional academic literature (journals, thesis, etc.)
