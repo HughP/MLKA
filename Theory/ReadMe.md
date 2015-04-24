@@ -11,6 +11,7 @@ This is where "factual" history of machines are discussed and citations are stor
 ##Keyboard Layout Theory
 This is the theory which applies to what should go where on a keyboard layout. This theory motivates methodologies. That is, because we hold things to be true in our theory we count numbers and actions a certain way. [`/Keyboard-Layout-Theory`](/Keyboard-Layout-Theory)
 
+
 ##Information Theory
 This theory talks about how infomration is processed. This section also contains discussions about the congnitive processes in typing.
 [`/Information-Theory`](/Information-Theory)
