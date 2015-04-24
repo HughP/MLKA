@@ -3,6 +3,8 @@ _I find there to be four teoretical topics which seem to be apropiate to disucs 
 
 1. [`/Typewriter-Histoy`](/Typewriter-Histoy)
 2. [`/Keyboard-Layout-Theory`](/Keyboard-Layout-Theory)
+3. [`/Information-Theory`](/Information-Theory)
+4. [`/Object-Anthropology`](/Object-Anthropology)
 
 
 ##Typewriter Histoy
