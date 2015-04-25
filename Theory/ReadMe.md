@@ -46,5 +46,6 @@ _There are two resourcs which fit here:_
 
 ##Object Anthropology
 This theory talks about how humans interact with objects. Objects like the keyboard.
+Here we are asking the question: _How does the keyboard layout behave in society? That is, how do humans interact and react to the keyboard layout?_
 
 [`/Object-Anthropology`](/Theory/Object-Anthropology)
