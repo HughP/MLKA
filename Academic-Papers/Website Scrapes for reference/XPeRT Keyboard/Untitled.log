@@ -1,0 +1,93 @@
+Apr 24, 2015 6:24:14 PM
+
+ERROR: Download of "http://www.filecart.com/reviews/xpertkeyboard.txt",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.softwaretransit.com/partners/show.php?site_id=9&review=xpert_keyboard2",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+
+Apr 24, 2015 6:24:16 PM
+
+---------------------
+
+Apr 24, 2015 6:25:52 PM
+
+ERROR: Download of "http://www.softwaretransit.com/partners/show.php?site_id=9&review=xpert_keyboard2",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.filecart.com/reviews/xpertkeyboard.txt",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+
+Apr 24, 2015 6:25:53 PM
+
+---------------------
+
+Apr 24, 2015 6:28:17 PM
+
+ERROR: Download of "http://www.filecart.com/reviews/xpertkeyboard.txt",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.softwaretransit.com/partners/show.php?site_id=9&review=xpert_keyboard2",
+	referenced from "http://www.xpertkeyboard.com/xpert.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.xpertkeyboard.com/overview.htm",
+	referenced from "http://www.xpertkeyboard.com/sequence.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.blogchina.com/new/source/202.html",
+	referenced from "http://www.xpertkeyboard.com/awards.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.softwareawards.net/homeedu/misc.html",
+	referenced from "http://www.xpertkeyboard.com/awards.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.ornithopter.org/typing",
+	referenced from "http://www.xpertkeyboard.com/peck.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.go2download.com/Utilities/Optimizers/XPeRT_Keyboard09100029.htm",
+	referenced from "http://www.xpertkeyboard.com/awards.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.controlzoneinteractive.com/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1003 (A server with the specified hostname could not be found.)
+ERROR: Download of "http://www.datacal.com/dce/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://capital-ideas.com/moonlight.htm",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://crystalvisions.com/compactkeyboards.htm",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.pitrinec.com/clickymouse.htm",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.precision-dynamics.com.au/typewriters/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1003 (A server with the specified hostname could not be found.)
+ERROR: Download of "http://tifaq.com/keyboards.html",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.123greetings.com/links/events/typewriter_day/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.w3-hosting.net/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.sharetheware.com/",
+	referenced from "http://www.xpertkeyboard.com/awards.htm",
+	failed with error code -1003 (A server with the specified hostname could not be found.)
+ERROR: Download of "http://intellipointer.com/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://www.intellipointer.com/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://www.geeknewscentral.com/",
+	referenced from "http://www.xpertkeyboard.com/outlink.htm",
+	failed with error code -1001 (The request timed out.)
+
+Apr 24, 2015 6:29:33 PM
+
+---------------------
+
