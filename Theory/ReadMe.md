@@ -33,8 +33,6 @@ The work of several people fit in this section. But primarily the work of Fitts.
 * MacKenzie, I. Scott. 1992. Fitts' law as a research and design tool in human-computer interaction. Human-Computer Interaction 7, 91-139. 
 * MacKenzie, I. Scott & Poika Isokoski. 2008. Fitts' Throughput and the Speed-Accuracy Tradeoff. Proceedings of the ACM Conference on Human Factors in Computing Systems – CHI 2008, 1633-6. New York: ACM.
 * Soukoreff, R. William & I. Scott MacKenzie. 2009. An Informatic Rationale for the Speed-Accuracy Trade-Off. Proceedings of the 2009 IEEE International Conference on Systems, Man, and Cybernetics (San Antonio, TX, USA - October 2009), 2890-6. Piscataway, NJ, USA: IEEE Press.
-* Fitts, Paul M. 1954. The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology 47.6: 381-91. 
-* Fitts, Paul  M. 1992. The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement. Journal of Experimental Psychology: General 121.3: 262-9. 
 * Soukoreff, R. William & I. Scott MacKenzie. 2002. Using Fitts' Law to Model Key Repeat Time in Text Entry Models. Paper presented at Graphics Interface 2002, Calgary, Alberta, Canada, (27-29 May 2002). <Accessed: 16. April 2014>. http://www.yorku.ca/mack/gi02-poster.html
 * Toomim, Michael, Travis Kriplean, Claus Pörtner & James A. Landay. 2011. Utility of Human-Computer Interactions: Toward a Science of Preference Measurement. CHI 2011. ACM.
 

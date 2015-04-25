@@ -3,7 +3,7 @@ _This section is for links to resources which discuss the reasons that a keyboar
 
 Perhaps the best way to start this discussion off is to layout some history.
 
-As a rundown, there are three names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell, Michael Dickens, and David Norman. There are some other names too like: Ted Lilley, David Piepgrass, and Shai Coleman. The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
+As a rundown, there are several names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell (Capwell layout), Michael Dickens, and David Norman (Norman layout). There are some other names too like: Ted Lilley (Minimak layout), David Piepgrass (Asset layout), and Shai Coleman (Colmak layout). The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
 
 ##Pre-QWERTY
 First there was "chaos". Then there was QWERTY. Before it was known as QWERTY, it was refernced as the "Universal layout".
@@ -24,16 +24,41 @@ Before Dvorak's suggestion there were already suggestions in the academic litera
 ##Dvorak
 _Designer: August Dvorak_
 
+Year: 1936 (book is published)
+![Dvorak Keyboard Layout](/Dvorak-Modern-Keyboard-Layout.jpg)
+
 Dvorak tries to impove and uses methods from both Hoke (1922) and Riemer (1929).
 
 Regardless of the historical facts surrounding the development of the QWERTY layout, Dvorak uses its apparent sporadic layout as a reason to argue for a mathematical arrangement to the keyboard layout problem.
 Dvorak is likely the most famous to suggest an alternative layout for text input and typing. Dvorak advocates that the keyboard arrangement problem is essentially time-over-distance equation (with some caveats such as finger load). His goal is to increase typing speed by reducing finger travel and by leveling imbalances in finger and hand movements.
 There are several iterations of this keyboard. There is the one patented, and published in the 1936 book, the one Dvorak created on machines, and then there is also the one in popular distribution today.
 
-##Wade
-_Designer: ??? Wade_
+##Ward
+_Designer: J. L. Ward_
+
+Year : 1936
+
+![Ward Keyboard Layout](/Ward-keyboard-layout.jpg)
+
+* Ward, J. L. 1936. A Study of Typewriter Keyboards. Educational Research Bulletin 15.9: 243-6. http://www.jstor.org/stable/1471353
+
+##Minimotion
+_Designer: Roy T. Griffith_
+
+Year: 1949
+
+* Griffith, Roy T. 1949. The minimotion typewriter keyboard. Journal of the Franklin Institute 248.5: 399-436. http://www.sciencedirect.com/science/article/pii/0016003249906547
+
 
 Wade challenges Dvorak's keyboard within two years.
+
+##Asset
+_Designer: Daivd Piepgrass_
+
+Year: 2004
+
+* Piepgrass, David. 2006. Why QWERTY, And What's Better? <Accessed: 20. April 2015>. http://millikeys.sourceforge.net/asset/why-qwerty.pdf
+
 
 ##Capwell
 _Designer: Michael Capewell_
@@ -43,6 +68,8 @@ _Designer: Michael Capewell_
 
 ##Colmak
 _Designer: Shai Coleman_
+
+Year: 2006
 
 Website: [http://colemak.com/](http://colemak.com/)
 
@@ -56,6 +83,13 @@ Released on 01-Jan-2006.
 * http://colemakmods.github.io/mod-dh/#angle-mod
 This website has an interesting discussion about [learnibility difficultiy](http://colemakmods.github.io/mod-dh/learn.html). This index might be similar to an index of non-visual response.
 It also has an valuable discussion of the [differences between evaluation metrics](http://colemakmods.github.io/mod-dh/compare.html). Including this [metric](http://forum.colemak.com/viewtopic.php?pid=15137#p15137) and [this one](http://www.shenafu.com/smf/index.php?topic=89.0)
+
+##Minimak
+
+http://www.minimak.org/
+
+##Arensito
+
 
 ##Norman
 _Designer: David Norman_
