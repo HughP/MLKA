@@ -1,7 +1,7 @@
 #Academic Fit
 _As previously indicated, the activity of typing is encountered by a variety of academic disciplines. I divide these into two discussions segments_: _Language Use_ and _Human-Computer Interaction._
 
-##Langauge Use
+##Language Use
 Under the auspices of the term _language use_, I classify studies in linguistics (theoretical), linguistic anthropology, language use in digital mediums, language description, language development, language documentation, language revitalization, language learning, language teaching, literacy, and sociolinguistics. The answer to the question: _which discipline deals most closely with the task of language use in the text input task of typing_, is _Yes_. That is, they can and all do have interactions in journals which deal with the text input task.  Various disciplines also have other kinds of relevant discussions like: orthography development, font development, calligraphy, or graphemics.
 
 ###Terms
@@ -20,12 +20,12 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 We hold that the text input activity is important in all of these disciplines.
 
 ##Human-Computer Interaction
-Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction --> Input via Sensors --> Input target is Text --> Text Input --> Typing --> Keyboard Typing.
+Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction -- > Input via Sensors --> Input target is Text --> Text Input --> Typing --> Keyboard Typing.
 
 Some have attempted to categorize the various kinds of text input. One such attempt is by Poika Isokoski in his thesis [_A Minimal Device-Independent Text Input Method_](http://www.sis.uta.fi/~pi52316/g/node6.html). The following figure comes from section 3.1.
 ![Map of text input methods.](/Academic-Papers/images/img20.gif)
 
-Thistaxonomy is somewhat aged and it is perhaps clearer to think about text input in terms of which sensors are used to acomplsih the text input.
+This taxonomy is somewhat aged and it is perhaps clearer to think about text input in terms of which sensors are used to accomplish the text input.
 
 ![Text input Sensors](/Academic-Papers/images/Text-input-via-sensors.jpg)
 
