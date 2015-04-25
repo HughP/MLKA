@@ -51,6 +51,16 @@ Date Released: 1949
 
 * Griffith, Roy T. 1949. The minimotion typewriter keyboard. Journal of the Franklin Institute 248.5: 399-436. http://www.sciencedirect.com/science/article/pii/0016003249906547
 
+##Arensito
+_Designer: Håkon Hallingstad_
+
+Date Released: 2001
+
+Website: [http://www.pvv.org/~hakonhal/main.cgi/keyboard](http://www.pvv.org/~hakonhal/main.cgi/keyboard)
+
+      q  l     p           f  u  d  k
+      a  r  e  n  b     g  s  i  t  o
+      z  w     h  j     v  c  y  m  x
 
 ##Asset
 _Designer: Daivd Piepgrass_
@@ -59,6 +69,8 @@ Date Released: 2004
 
 * Piepgrass, David. 2006. Why QWERTY, And What's Better? <Accessed: 20. April 2015>. http://millikeys.sourceforge.net/asset/why-qwerty.pdf
 
+##Carpalx
+* http://mkweb.bcgsc.ca/carpalx/
 
 ##Capwell
 _Designer: Michael Capewell_
@@ -92,14 +104,12 @@ Date Released:
 Website: [http://www.minimak.org/](http://www.minimak.org/)
 
 
-##Arensito
-
-Date Released:
-
 ##Norman
 _Designer: David Norman_
 
 Date Released:
+
+Website: https://normanlayout.info/
 
 * Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 
@@ -108,9 +118,11 @@ _Designer: OJ Bucao_
 
 Date Released: 06-Sept-2010 
 
-Website: [http://www.workmanlayout.com/blog/](http://www.workmanlayout.com/blog/)
+Website: [http://www.workmanlayout.com/blog](http://www.workmanlayout.com/blog/)
 
 The goal of the workman layout was to improve on the Colmak layout.
+* Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+
 
 ##Balanced
 _Designer: Den_
@@ -124,25 +136,25 @@ _Designer: ???_
 
 Date Released: 2003
 
+Website: [http://www.xpertkeyboard.com](http://www.xpertkeyboard.com)
+
 X	P	E	R	T	Y	U	I	O	J
 Q	S	D	F	N	H	A	E	L	K
 Z	W	C	V	B	G	M	,	.	?
 
-* http://www.xpertkeyboard.com/history.htm
+
 
 ---
 
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
-* http://mkweb.bcgsc.ca/carpalx/
 * Michael Dickens - Introducing the Thumb Keys https://mathematicalmulticore.wordpress.com/category/keyboards/
 * This forum talks about the comparison of keyboards. https://geekhack.org/index.php?topic=48292.msg1309062#msg1309062
 * Discussion of the historical nature of the return key: http://deskthority.net/wiki/Return_key.
 * http://www.makeuseof.com/tag/a-history-of-keyboard-layouts-is-qwerty-lagging-behind/
 * http://history-computer.com/ModernComputer/Basis/keyboard.html
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
-* Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 * See how it works: http://help.keyman.com/developer/9.0/docs/tutorial/tutorial_keyboard_6.php
 * Dirty QWERTY: http://qwertywtf.com/
 * http://atri.misericordia.edu/Papers/Dvorak.php
