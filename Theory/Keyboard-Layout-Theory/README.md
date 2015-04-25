@@ -25,7 +25,7 @@ Before Dvorak's suggestion there were already suggestions in the academic litera
 _Designer: August Dvorak_
 
 Year: 1936 (book is published)
-![Dvorak Keyboard Layout](/Dvorak-Modern-Keyboard-Layout.jpg)
+![Dvorak Keyboard Layout](/Theory/Keyboard-Layout-Theory/Dvorak-Modern-Keyboard-Layout.jpg)
 
 Dvorak tries to impove and uses methods from both Hoke (1922) and Riemer (1929).
 
@@ -38,7 +38,7 @@ _Designer: J. L. Ward_
 
 Year : 1936
 
-![Ward Keyboard Layout](/Ward-keyboard-layout.jpg)
+![Ward Keyboard Layout](/Theory/Keyboard-Layout-Theory/Ward-keyboard-layout.jpg)
 
 * Ward, J. L. 1936. A Study of Typewriter Keyboards. Educational Research Bulletin 15.9: 243-6. http://www.jstor.org/stable/1471353
 
