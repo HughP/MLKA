@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Keyboard Evolve | Michael Capewell | smozoma</title>
+  
+
+  
+  
+  
+  <style type="text/css">
+  .left{
+    padding: 5px; 
+    text-align: center; 
+    vertical-align: top; 
+    width: 25%; 
+    background-color: rgb(249, 249, 255);
+  }
+  .right{
+    padding: 5px; 
+    text-align: justify; 
+    vertical-align: top; 
+    background-color: rgb(249, 249, 255);
+  }
+  .figureright{
+    padding: 2px;
+    margin: 3px 3px 3px 8px; 
+    float: right; 
+    text-align: center; 
+    font-style: italic; 
+    font-size:small;
+    border: 1px dashed #cccccc;
+  }
+  .figurecenter{
+    padding: 2px;
+    margin: 3px 3px 3px 8px; 
+    text-align: center; 
+    font-style: italic; 
+    font-size:small;
+    border: 1px dashed #cccccc;
+  }
+  </style>
+  
+</head>
+<body style="background-color: white; text-align: center;">
+
+  
+<div style="border: 1px solid rgb(204, 204, 204); background-image: url(hand.jpg); background-repeat: repeat-y; margin-left: auto; margin-right: auto; width: 960px; text-align: left;">
+  <div style="padding: 10px;">
+  <div style="text-align: center;">
+  
+  
+<h1><span style="font-weight: bold;">Keyboard Evolve</span></h1>
+
+[ <a href="../index.htm">home</a> | <a href="index.htm">programming</a> | <a href="../work/index.htm">r&eacute;sum&eacute;</a> ]
+
+<br>
+<br>
+
+[ <a href="eare.htm">EARE</a>
+| <a href="mcppunit.htm">mcppUnit</a>
+| <a href="sptc.htm">Sports Pool Team Chooser</a>
+| <a href="keyboardevolve.htm">Keyboard Evolve</a>
+| <a href="typingtutor.htm">Typing Tutor</a><br>
+| <a href="virtualdub.htm">VirtualDub 1.5.9 MC</a>
+| <a href="3d.htm">3D Object Viewer</a>
+| <a href="index.htm#TuneOMatic">Tune'O'Matic</a>
+| <a href="index.htm#In_the_Works">In the Works</a> ]<br><br>
+
+</div>
+
+<hr style="width: 100%; height: 1px;">
+
+<table style="border: 1px dashed rgb(204, 204, 204);" cellspacing="10">
+  <tbody>
+  
+  <!-- ========================================================================== -->
+  <!-- ========================== Keyboard Evolve v1.0 ========================== -->
+  <!-- ========================================================================== -->
+  
+    <tr>
+      <td class="left">
+      
+      <h2><span style="font-weight: bold;"></span>Downloads</h2>
+      
+      <a name="KeyboardEvolve" id="KeyboardEvolve"></a><a href="KeyboardEvolve.zip"><span style="font-weight: bold;">Keyboard Evolve</span></a><br>
+~25KiB<br>
+C++ source code<br>
+      <small><span style="font-style: italic;">(Sep 19 2005)<br>
+      <a href="changelog-kb.txt">Changelog</a><br>
+      <a href="TODO-kb.txt">ToDo list</a><br>
+</span></small>
+      <small><span style="font-style: italic;"><a href="README-kb.txt">ReadMe</a><br>
+</span></small><br>
+      <small><span style="font-style: italic;">(Compiles under VC++7.1 in Windows and gcc in Linux.&nbsp; If you have an old versin of gcc, you may have trouble.)<br>
+      <br>
+(The code is a mess due to it being my first C++ program, it growing
+beyond my initial vision, and me desiring quick results over nice
+code)<br>
+      </span></small><br>
+      <small style="font-style: italic;">Get <a href="#AnalyzeText">AnalyzeText</a> to be able to make combo lists.</small><br>
+      <small><span style="font-style: italic;"></span></small><br>
+
+      </td>
+      <td class="right"><small><span style="font-style: italic;"></span></small><span style="font-weight: bold;">Keyboard Evolve</span>
+is a program that uses an evolutionary algorithm to evolve an efficient
+keyboard layout.&nbsp; I started this program in July 2005 after
+reading about <a href="../../www.visi.com/~pmk/evolved.html">Peter M. Klausler's experiments</a>.<br><br>
+      <span style="font-weight: bold;">News</span>:
+I do not know when I will resume working on this project. &nbsp;When I
+do get around to it, the program will undergo a complete re-write, as
+the
+current version hit a dead-end.&nbsp; Since I wrote the current
+version, I've improved my knowledge of C++ and design patterns, which
+should allow me to make a much more flexible and extensible
+design.&nbsp; The new version will also be available at <a href="../../keyboardevolve.sourceforge.net/index.html">http://keyboardevolve.sourceforge.net/</a>.<br><br>
+You can read about my other work on alternative keyboard layouts at <a href="../projects/keyboard/index.htm">Projects\Alternative Keyboard Layouts</a>.&nbsp; By following the previous link, you can also download a few custom layouts I've created. If you use the <a href="../../www.google.com/search/index-num=20&hl=en&lr=&safe=off&c2coff=1&q=dvorak+keyboard+layout&btnG=Search.html">Dvorak layout</a>,
+you might be interested in the modified Dvorak layout I created in 2004
+that reduces finger movement an extra 10% (48% compared to QWERTY) and
+also makes typing CTRL+Z/X/C/V much easier. If you want something easier, try QWERF -- it's similar to QWERTY, but rearranges things a little to make it more comfortable.<br>
+<br>Some of
+the code is a bit of a mess, since the program grew waay beyond my
+initial vision and I just wanted to get results as soon as
+possible.&nbsp; Not to mention that it was my first C++ program.&nbsp; It's not tooo hard to edit the settings, but I hope to
+one day get it all working from INI files rather than having everything
+hard-coded in..<br>
+
+      <br>Unfortunately, I have yet to find the holy grail of keyboard layout evolution
+parameters!&nbsp; Things are complicated by there being a fundamental
+difference in how curved, ergonomic keyboards and plain, rectangular
+keyboards are used -- the way I see things, they have different home
+"rows."&nbsp; This program works best for ergonomic keyboards.&nbsp;
+I'm in the process of finding the right balance between the two...<br>
+      <br>
+
+      <br>
+
+      
+      <div style="text-align: center;"><img alt="Keyboard Evolve console screenshot" src="keyboardevolvewin.png" style="border: 0px solid ; width: 476px; height: 379px;">
+
+      </div>
+<div style="text-align: center;"><br>
+<img alt="Keyboard Evolve program in linux" src="keyboardevolveunix.png" style="width: 402px; height: 286px;"><br>
+      </div>
+      <div style="text-align: center;"><small style="font-style: italic;">Yes, root.. Internet is broken again (no WPA).&nbsp; Stupid Linux wireless.</small><br>
+      </div>
+<br>Get <span style="font-weight: bold;">AnalyzeText</span> (below) to be able to make key combo lists for Keyboard Evolve.<br>
+<br>
+
+
+      </td>
+    </tr>
+
+<!-- ========================================================================== -->
+<!-- ========================== ANALYZE TEXT ================== -->
+<!-- ========================================================================== -->
+
+    <tr>
+      <td class="left"><a name="AnalyzeText"></a><a style="font-weight: bold;" href="AnalyzeText.zip">AnalyzeText</a><br>~11KiB<br>
+
+Java source code<br>
+(Nov 14, 2005)<br>
+      <br>
+      <small style="font-style: italic;">(About 130 times faster than the previous version, so it can now be used on large text files)</small><br>
+</td>
+      <td class="right"><span style="font-weight: bold;">AnalyzeText</span> is a little
+program that can take a text file and spit out a file listing the
+character 'combos' in the text and the number of occurrences of each
+combo.&nbsp; I use this list in Keyboard Evolve instead of stepping
+through a text file since it's much faster and doesn't make much of a
+difference in the scores for the layouts (+/-2%).<br>
+
+      <br>
+
+For example, this program tells me that in a certain 120kB test text file, the character combination '<span style="font-weight: bold;">th</span>' occurs 2045 times.<br>
+</td>
+    </tr>
+
+<!-- ========================================================================== -->
+<!-- ========================== HOCKEY POOL TEAM CHOOSER 3.5 ================== -->
+<!-- ========================================================================== -->
+
+<tr>
+      <td class="left">
+      <a name="Typing_Tutor_Program"></a><a style="font-weight: bold;" href="Typing_Program.zip">Typing Tutor Program</a><br>
+16KiB<br>
+      <small style="font-style: italic;">(MS Windows only. This program requires that the <a href="../../download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe">VB6 runtimes</a> are installed on your computer)
+     </small><br>
+</td>
+      <td class="right">
+      A little program I made that
+teaches you to type based on common key combinations.&nbsp; I found
+that it worked every well when I was learning alternative keyboard
+layouts.&nbsp; It teaches you <span style="font-style: italic;">habits</span>, not just where the keys are, so you <span style="font-style: italic;">subconsciously</span> know how to type and don't need to think about where keys are.<br>
+      <br>
+Note:&nbsp; I suggest reducing the 'Target Speed' to 35wpm.<br>
+      <br>
+      <div style="text-align: center;"><img alt="Typing Program screen shot" src="typingprogram.png" style="width: 460px; height: 366px;"><br>
+      <small style="font-style: italic;">I can copy/paste as 3300 WPM</small><br>
+<br>
+      </div>
+</td>
+    </tr>
+
+    
+  <!-- ========================================================================== -->
+  <!-- ==========================  VirtualDubMC  ================================ -->
+  <!-- ========================================================================== -->
+
+    
+    
+  <!-- ========================================================================== -->
+  <!-- ========================  3D Object Viewer  ============================== -->
+  <!-- ========================================================================== -->
+  
+    
+    
+  <!-- ========================================================================== -->
+  <!-- ==========================  Tune'O'Matic  ================================ -->
+  <!-- ========================================================================== -->
+  
+    
+
+  <!-- ========================================================================== -->
+  <!-- =============================  In the Works  ============================= -->
+  <!-- ========================================================================== -->
+  
+      
+    
+
+  </tbody>
+</table>
+<div style="text-align: center;">
+<hr style="width: 100%; height: 1px;"><br>
+[<a href="../index.htm">home</a>]<br>
+[<a href="../work/index.htm">employment</a>]<br>
+<br>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<small><small>page made quickly using Mozilla Composer (i.e. the coding
+is poor)</small></small><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="../index.htm">Michael Capewell</a> 2005 <a href="../index.htm">smozoma</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
+<!-- Localized -->

@@ -1,0 +1,41 @@
+TODO LIST
+
+================================================================================
+   Level I - next
+================================================================================
+
+*  Add a third option when starting a run.  This option will allow you to
+   start an all-star round based on the winners from the last run (whether it
+   was New or Continued).
+*  Allow scoring options to be set using an INI file so we don't need to 
+   hard-code them
+*  Instead of hardcoding the layouts (QWERTY, etc), use an INI file
+*  Keyboard::calculateScore could do with some more cleaning up
+*  Refactor how the Keyboard constructors work.  It's such a mess.
+*  Add error checking when trying to open INI files and keyboard list files
+*  Ensure that the default copy constructor for Keyboard works.  The Score
+   class and combo struct were added, so the default ctr may not work properly
+   (I need to read up on this to see how it's different from Java).  I don't 
+   NEED a perfect copy ctr, but for the sake of completeness and extensibility,
+   it should be there.
+
+================================================================================
+   Level II - if I'm bored of level I
+================================================================================
+
+*  Try to speed it up somehow
+*  I need to learn more about clean coding styles (where to declare static 
+   variables and such)
+*  get rid of unneeded global variables
+*  In KeyboardEvolve.cpp main(), I have to declare a Score variable in order
+   to get the scoring parameters that are being used.  Bad bad bad!  Need to 
+   make that static, since all score objects will use the same scoring parameters.
+
+================================================================================
+   Level III - meh.. whenever
+================================================================================
+
+*  add an estimate of time left (could be tricky)
+*  error checking and all that
+*  get rid of the inconsistensices between m_layoutStr, m_layout, and m_lookupTable
+*  rename some things with inconsistent names

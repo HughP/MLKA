@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Sports Pool Team Chooser | Michael Capewell | smozoma</title>
+  
+
+  <style type="text/css">
+  .left{
+    padding: 5px; 
+    text-align: center; 
+    vertical-align: top; 
+    width: 25%; 
+    background-color: rgb(249, 249, 255);
+  }
+  .right{
+    padding: 5px; 
+    text-align: justify; 
+    vertical-align: top; 
+    background-color: rgb(249, 249, 255);
+  }
+  .figureright{
+    padding: 2px;
+    margin: 3px 0px 3px 10px; 
+    float: right; 
+    text-align: center; 
+    font-style: italic; 
+    font-size:smaller;
+    border: 1px dashed #cccccc;
+  }
+  .figurecenter{
+    padding: 2px;
+    margin: 3px 0px 3px 10px; 
+    text-align: center; 
+    font-style: italic; 
+    font-size:smaller;
+    border: 1px dashed #cccccc;
+  }
+  </style>
+  
+</head>
+<body style="background-color: white; text-align: center;">
+
+  
+<div style="border: 1px solid rgb(204, 204, 204); background-image: url(hand.jpg); background-repeat: repeat-y; margin-left: auto; margin-right: auto; width: 960px; text-align: left;">
+  <div style="padding: 10px;">
+  <div style="text-align: center;">
+  
+  
+<h1><span style="font-weight: bold;">Sports Pool Team Chooser</span></h1>
+  
+  
+  <span style="font-style: italic;">There is also <a href="#Hockey_Pool_TeamChooser_v3.5">Hockey Pool Team Chooser v3.5</a> from a few years ago.<br>
+<br>
+
+
+[ <a href="../index.htm">home</a> | <a href="index.htm">programming</a> | <a href="../work/index.htm">r&eacute;sum&eacute;</a> ]
+
+<br>
+<br>
+
+[ <a href="eare.htm">EARE</a>
+| <a href="mcppunit.htm">mcppUnit</a>
+| <a href="sptc.htm">Sports Pool Team Chooser</a>
+| <a href="keyboardevolve.htm">Keyboard Evolve</a>
+| <a href="typingtutor.htm">Typing Tutor</a><br>
+| <a href="virtualdub.htm">VirtualDub 1.5.9 MC</a>
+| <a href="3d.htm">3D Object Viewer</a>
+| <a href="index.htm#TuneOMatic">Tune'O'Matic</a>
+| <a href="index.htm#In_the_Works">In the Works</a> ]<br><br>
+
+</div>
+
+
+<hr style="width: 100%; height: 1px;">
+
+<table style="border: 1px dashed rgb(204, 204, 204);" cellspacing="10">
+  <tbody>
+  
+<tr>
+<td class="left">
+      <h2><span style="font-weight: bold;"></span>Downloads</h2>
+
+v4.0 beta 0.1.0.1<br><a href="SportsPoolTeamChooser1devel_win.zip">
+MS Windows executable</a><br>
+609KiB<br>
+      <small style="font-style: italic;">(Feb 8, 2006)<br>
+(includes sportsnet.ca stats for weeks 1-15 of the 2005-06 season)<br>
+      </small><br>
+v4.0 beta 0.0.9.2<br><a href="http://chat.carleton.ca/%7Emcapewel/SportsPoolTeamChooser1devel_gtk.zip">Linux executable</a><br>
+1.20MiB<br><small style="font-style: italic;">(Sep 26, 2005)</small><br><small>(Note
+that the GUI is a bit buggy in Linux at the moment due to wxWidgets bugs and
+inconsistencies that I'll need to work around)<br>
+<br>
+</small>
+      <h2>Screenshots</h2><small><span style="font-style: italic;"></span></small>
+      <h3>Windows</h3><small><span style="font-style: italic;">(Click to enlarge)<br>
+      <br>
+</span></small>
+
+      <a target="_blank" href="sptc-win-1-big.png"><img alt="Windows screenshot - Player Selection" src="sptc-win-1-small.png" style="border: 0px solid ; width: 160px; height: 148px;"></a><br><small style="font-style: italic;">
+Player Selection</small><br>
+      <br>
+      <a target="_blank" href="sptc-win-2-big.png"><img alt="Windows Screenshot - Best Teams" src="sptc-win-2-small.png" style="border: 0px solid ; width: 160px; height: 97px;"></a><br>
+      <small><span style="font-style: italic;">Best Teams</span></small><br>
+      <h3>Linux</h3>
+      <small><span style="font-style: italic;">(Click to enlarge)<br>
+      <br>
+</span></small><a target="_blank" href="sptc-linux-1-big.png"><img alt="Linux Screenshot - Player Selection" src="sptc-linux-1-small.png" style="border: 0px solid ; width: 160px; height: 145px;"></a><br>
+      <small style="font-style: italic;">Player Selection</small>
+
+
+</td>
+<td class="right">
+      <h2>About</h2>
+Sports Pool Team Chooser is a program that can be used to <span style="font-weight: bold;">calculate the best teams to pick in online sports pools</span>.&nbsp;
+It takes player and team statistics and the limits of the pool (number
+of players at each position, total player cost) and uses them to find the
+combination of players that is most likely to give you the most points in the coming
+week.<br>
+      <br>
+When this re-write is done, this will be v4.0.  This one is in C++; the old ones were in VB6.0.
+      <br><br>
+
+      <small style="font-style: italic;">[Note:&nbsp; I may discontinue this project and simply redo it as a web application -- the development
+speed would be faster, and it could also be a better business model...]</small><br>
+      <br>
+<div class="figureright"><img alt="Sportsnet T-Shirt" title="Sportsnet T-Shirt" src="../pools/sportsnettshirt.jpg" style="width: 240px; height: 180px;"><br>Sportsnet.ca T-shirt won<br>using the program</div>
+If you would like to see how well the program has been working for me, please see my <a href="../pools/index.htm">Sports Pools</a> page.&nbsp; As you can see from the picture to the right, it hasn't worked too badly!<br>
+      <br>
+This is actually the 4th such program I have created, but the other
+ones were geared specifically towards a certain hockey pool and were
+called <a href="#Hockey_Pool_TeamChooser_v3.5">Hockey Pool Team Chooser</a>, while this new version is much more customizable and can be used for many types of pools.<br>
+<br>
+      This program is written in C++ and uses <a href="http://www.wxwidgets.org/">wxWidgets</a> and <a href="http://wxglade.sourceforge.net/">wxGlade</a>
+for
+the GUI. wxWidgets is a cross-platform GUI framework, allowing me
+to create both Windows and Linux versions of this program without much extra work.<br>
+
+      <br>
+Rather than just calculating [average pool points per game]&times;[games
+this week] to find the best players, the program can take into account
+the player's recent performance and will eventually be able to take
+into account the difficulty of the teams he'll be playing against in
+the coming week.<br>
+      <br>
+Current Features:<br>
+      <ol>
+        <li>Can <span style="font-weight: bold;">calculate the best set
+of players</span> based on the statistics that have been input and on whatever pool constraints it was set up with (number of
+different positions, players per position, total player salary
+cost...).</li>
+
+        <ul>
+          <li>Can currently test over <span style="font-weight: bold;">5 million teams per second</span>
+on a 2.8GHz Intel P4 CPU.&nbsp; Typically, you won't test more than
+half a million teams.&nbsp; When I made the first version of <a href="sptc.htm#Hockey_Pool_TeamChooser_v3.5">Hockey Pool Team Chooser</a> back in 2000 using Visual Basic, it would sometimes
+take 10 minutes to check all the player combinations I was interested
+in, but now it takes less than a second!<br>
+</li><li>Statistics must be input manually right now --
+instructions are in the readme.&nbsp; In future versions, you'll be
+able to input stats directly from the Internet, saving a lot of time.<br>
+          </li>
+
+        </ul>
+        <li>It allows you to <span style="font-weight: bold;">view player stats.</span></li>
+<ul><li>Name &amp; team</li>
+          <li>Total number of pool points and games played</li>
+          <li>Average pool points per game over the whole season</li>
+          <li>Weighted average pool points per game, in order to see how a
+player has been performing lately.&nbsp; There is a window where you
+can set up the weights for each week.&nbsp; For example, I tend to set
+the five most recent weeks to have a weight of 4 while the others have
+a weight of just 1.</li>
+          <li>Number of games played in the coming week</li>
+          <li>Expected number of pool points in the coming week, based on [weighted pts/gm]&times;[games played in the coming week]</li>
+          <li>"Rating" -- a measure of the value of a player based on
+his cost and his weighted pts/gm average.&nbsp; Currently only
+calibrated for the sportsnet.ca hockey pool, so it probably won't make sense for other pools.<br>
+</li></ul>
+      </ol>
+Future Features:<br>
+      <ol>
+<li>All around nicer GUI<br>
+</li><li>Double clicking on a player will bring up a window showing detailed
+information about that player, such as his pts/week record throughout
+the season and a measure of his consistency/streakiness.</li>
+<li>Ability
+to manually modify a player's projected points for the week if you
+think he will perform better than statistics indicate (this feature is available in <a href="sptc.htm#Hockey_Pool_TeamChooser_v3.5">Hockey Pool Team Chooser</a>).</li>
+        <li>Ability
+to 'pin' a player so that, no matter what, he will be on all the
+suggested teams (this feature is available in <a href="sptc.htm#Hockey_Pool_TeamChooser_v3.5">Hockey Pool Team Chooser</a>).</li>
+        <li>Ability to input team statistics.&nbsp; This will allow the program to know which teams are easy to score points against.</li>
+        <li>Ability to input the schedule, so the program knows what teams a player is playing against in the coming week.</li>
+</ol>
+      
+</td>
+</tr>
+
+
+<!-- ========================================================================== -->
+<!-- ========================== HOCKEY POOL TEAM CHOOSER 3.5 ================== -->
+<!-- ========================================================================== -->
+
+
+<tr>
+      <td class="left">
+        <a name="Hockey_Pool_TeamChooser_v3.5"></a><a style="font-weight: bold;" href="TeamChooser_v3_5.zip">Hockey Pool Team Chooser v3.5</a><span style="font-weight: bold;">
+        </span><br>48KiB<br>
+      <small style="font-style: italic;">(MS Windows only. This program requires that the <a href="http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe">VB6 runtimes</a> are installed on your computer)
+      <br>
+      <br>
+
+(<span style="font-weight: bold;">Version 4.0</span> is in development and has had a name change to <a href="index.htm#Sports_Pool_Team_Chooser_v.To-Be-1.0">Sports Pool Team Chooser v1.0</a> since it is intended for use with many sports, not just hockey.)</small>
+      
+
+      </td>
+
+      <td class="right">
+
+      <div class="figureright">
+        <a href="hockeypool-big.png" target="_blank">
+        <img src="hockeypool-sm.png" border="0"><br>click for the "Full Window" view</a> 
+      </div>
+
+This
+program was made to help me with weekly online hockey pools. You enter
+players' statistics and "salaries" for four positions (center, winger,
+defense, and goalie) and give a salary budget, and the program will
+compute the best player combinations. <br>
+      <br>
+The version I'm making available here doesn't have all the player slots
+available, since I don't particularly want it used against me! If you'd
+like the full version, contact me... <br>
+      <br>
+I originally developed this program for the Smallworld hockey pool back
+in my OAC (grade 13) year of high school (2000), but I now use it for the <a target="_blank" href="http://www.sportsnet.ca/features/games/index.jsp">CTV Sportsnet.ca hockey pool</a>.
+      <br>
+      <br>
+This summer, I will be rewriting the program from scratch in C++.&nbsp;
+The current version is written in Visual Basic 6.0.&nbsp; New features will
+include:&nbsp; vastly improved GUI, unlimited players, customizable
+game rules so it can be used for just about any pool (and any sport), automatic
+statistics gathering... <br>
+      <br>
+I predict that this program will be even more accurate now that the NHL
+has adopted some new rules to increase scoring.&nbsp; More consistent
+scoring means better predictions!<br>
+      <br>
+Success stories:
+      <br>
+      <ol>
+        <li>2000-2001.&nbsp;
+The first week after I started using v1.0, I went from 10th to first in
+my Smallworld hockey pool group thanks to two hat tricks by Jaromir
+Jagr, whom I had originally believed I could not afford.</li>
+        <li>2003-2004.&nbsp;
+Finished 487th out of over 40000 players in the CTV Sportsnet pool.&nbsp; Scored 93% as many
+points as the winner.&nbsp; In the first 7 weeks, I lost 54 points on
+the leader (about 2 weeks' worth of points) and fell to 8254th position, but over the last 16 weeks of the
+season, I was up 2 points on the winner and slowly and steadily climbed into the top 500.&nbsp; At the start of that
+period, I had modified my stats-collecting program to weight the stats
+to favour players on hot streaks.&nbsp; v3.5 does not include my
+stats-collecting program, but it will (probably) be incorporated into
+v4.0.</li>
+      </ol><br>
+      <div style="text-align: center;"><img alt="Graph showing my ranking steadily improve after the 7th week of the season" src="../pools/hockeypool-ranking.png" style="width: 488px; height: 274px;"><br>
+      <small><span style="font-style: italic;">After weighting the stats after the 7th week, my rank steadily improved.<br>
+In only 3 of the last 16 weeks did I not improve my rank.<br>
+Increased league scoring after the '04-'05 strike <br>
+should make predictions more accurate.<br>
+      </span></small><br>
+
+      </div>
+</td>
+    </tr>
+
+  </tbody>
+</table>
+<div style="text-align: center;">
+<hr style="width: 100%; height: 1px;"><br>
+[ <a href="../index.htm">home</a> | <a href="../work/index.htm">employment</a> ]<br>
+<br>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<small><small>page made quickly using Mozilla Composer (i.e. the coding
+is poor)</small></small><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="../index.htm">Michael Capewell</a> 2005 <a href="../index.htm">smozoma</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,113 @@
+*** 05/09/19 *******************************************************************
+
+ADDED:
+
+ * Can now run an all star round from the results of the previous evolution by 
+   selecting option 2 when running the program.
+
+FIXED:
+
+ * Fixed some problems that prevented compilation with gcc in Linux.
+ * Fixed file input so that windows-formatted text files (\r\n) can be read in
+   Linux.
+
+TODO:
+
+ * Refactor how the Keyboard constructors
+ * Add error checking when trying to open INI files and keyboard list files
+ * Fix time problem in Linux (it's measuring in ms, not s).
+
+
+*** 05/07/13 *******************************************************************
+
+doing:
+
+ * save the keyboard vector to a file when the allstar round is done
+
+ * get input about whether they want to run a new evolution or pick up where the last one ended
+   * input old vector of keyboards if they chose that
+   * run a new allstar round
+
+TODO:
+*  Refactor how the Keyboard constructors
+*  Add error checking when trying to open INI files and keyboard list files
+
+
+
+*** 05/07/05 *******************************************************************
+
+CHANGED:
+
+*  Penalties now stored in an array for easier modification and eventual use of 
+   an INI file to set penalty parameters.  Unfortunately, this has slowed the 
+   program down about 3x, since the functions can not be inline and the 
+   variables can not be set as registers.
+  
+TODO:
+
+   Level I - next
+
+*  Create a 'continue from last simulation' option that allows you to pick
+   up where you left off the last time the simulation was run to completion.
+   This will allow you to change a few parameters, then begin immediately with
+   a set of highly-optimized layouts (since you probably changed the scoring
+   only slightly and don't want to wait 2 hours to reevolve the...wheel).
+*  Allow scoring options to be set using an INI file so we don't need to 
+   hard-code them
+*  instead of hardcoding the layouts (QWERTY, etc), use an INI file
+*  Keyboard::calculateScore could do with some more cleaning up
+
+   Level II - if I'm bored of level I
+
+*  Try to speed it up somehow
+*  I need to learn more about clean coding styles (where to declare static 
+   variables and such)
+*  get rid of unneeded global variables
+*  In KeyboardEvolve.cpp main(), I have to declare a Score variable in order
+   to get the scoring parameters that are being used.  Bad bad bad!  Need to 
+   make that static, since all score objects will use the same scoring parameters.
+
+   Level III - meh.. whenever
+
+*  add an estimate of time left (could be tricky)
+*  error checking and all that
+*  get rid of the inconsistensices between m_layoutStr, m_layout, and m_lookupTable
+*  rename some things with inconsistent names
+
+*** 05/06/24 *******************************************************************
+
+FIXED:
+
+*  Time now displays properly if minutes or seconds are single digit
+
+CHANGED:
+
+*  Combos are now stored in a list of "combo" structs, not 2 separate vectors
+
+*** 05/06/22 *******************************************************************
+
+FIXED:
+
+*  Fixed bug in Keyboard::mutateLayout() that was allowing about 16% of 
+   mutations to not change the layout at all.  Now the layout is guaranteed to 
+   have changed (though I ought to put in an assert just to make suuuure).
+   Program runs about twice as fast now.
+
+CHANGED:
+
+*  No longer penalize using ring finger on top row
+*  Factored out "if (sameHand(cCol, lCol)){" in Score::calculateScore(..)
+   Seemed a little faster.
+
+ADDED:
+
+*  Added penalty for using middle finger on home row and index finger on top row
+
+REMOVED:
+
+*
+
+PROBLEMS REMAINING:
+
+*  when the time is reported at the end of program execution, if it is single 
+   digit, it isn't given a leading zero.
