@@ -119,6 +119,19 @@ Date Released:
 
 * http://www.shenafu.com/smf/index.php?topic=89.0
 
+##XPeRT
+_Designer: ???_
+
+Date Released: 2003
+
+X	P	E	R	T	Y	U	I	O	J
+Q	S	D	F	N	H	A	E	L	K
+Z	W	C	V	B	G	M	,	.	?
+
+* http://www.xpertkeyboard.com/history.htm
+
+---
+
 * [Editorial: Moving from QWERTY to QWERTZ on short notice](http://www.neowin.net/news/editorial-moving-from-qwerty-to-qwertz-on-short-notice)
 * [Discussion on Ukelele forum](https://groups.google.com/forum/#!msg/ukelele-users/DQnnVANOF0c/Fvwf-UMBg_AJ)
 * https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/
@@ -128,7 +141,6 @@ Date Released:
 * Discussion of the historical nature of the return key: http://deskthority.net/wiki/Return_key.
 * http://www.makeuseof.com/tag/a-history-of-keyboard-layouts-is-qwerty-lagging-behind/
 * http://history-computer.com/ModernComputer/Basis/keyboard.html
-* http://www.xpertkeyboard.com/history.htm
 * http://www.daskeyboard.com/blog/typing-through-time-the-history-of-the-keyboard/
 * Workman: https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 * See how it works: http://help.keyman.com/developer/9.0/docs/tutorial/tutorial_keyboard_6.php
@@ -198,6 +210,8 @@ _Not necessarily in order of frequency of use._
 * ⌘ ; - Spell check
 * ⌃ space - search
 * ⌘ space - switch keyboard layout
+
+---
 
 #What to count from Michael Dickens
 This document describes in depth how fitness is calculated.
