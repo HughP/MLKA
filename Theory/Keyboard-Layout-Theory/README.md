@@ -3,7 +3,7 @@ _This section is for links to resources which discuss the reasons that a keyboar
 
 Perhaps the best way to start this discussion off is to layout some history.
 
-As a rundown, there are several names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell (Capwell layout), Michael Dickens, and David Norman (Norman layout). There are some other names too like: Ted Lilley (Minimak layout), David Piepgrass (Asset layout), and Shai Coleman (Colmak layout). The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com . His site is worth the quote and the time to read.
+As a rundown, there are several names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell (Capwell layout), Michael Dickens, and David Norman (Norman layout). There are some other names too like: Ted Lilley (Minimak layout), David Piepgrass (Asset layout), and Shai Coleman (Colmak layout). The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com. His site is worth the quote and the time to read.
 
 ##Pre-QWERTY
 First there was "chaos". Then there was QWERTY. Before it was known as QWERTY, it was refernced as the "Universal layout".
@@ -24,8 +24,8 @@ Before Dvorak's suggestion there were already suggestions in the academic litera
 ##Dvorak
 _Designer: August Dvorak_
 
-Year: 1936 (book is published)
-![Dvorak Keyboard Layout](/Theory/Keyboard-Layout-Theory/Dvorak-Modern-Keyboard-Layout.jpg)
+Year: 1932-1936 (Book is published and [patent is granted](http://www.google.com/patents/US2040248) in 1936.)
+![Dvorak Keyboard Layout](/Theory/Keyboard-Layout-Theory/keyboard-images/Dvorak-Modern-Keyboard-Layout.jpg)
 
 Dvorak tries to impove and uses methods from both Hoke (1922) and Riemer (1929).
 
@@ -36,26 +36,26 @@ There are several iterations of this keyboard. There is the one patented, and pu
 ##Ward
 _Designer: J. L. Ward_
 
-Year : 1936
+Date Released: 1936
 
-![Ward Keyboard Layout](/Theory/Keyboard-Layout-Theory/Ward-keyboard-layout.jpg)
+![Ward Keyboard Layout](/Theory/Keyboard-Layout-Theory/keyboard-images/Ward-keyboard-layout.jpg)
 
 * Ward, J. L. 1936. A Study of Typewriter Keyboards. Educational Research Bulletin 15.9: 243-6. http://www.jstor.org/stable/1471353
+
+Ward challenges Dvorak's keyboard within two years.
 
 ##Minimotion
 _Designer: Roy T. Griffith_
 
-Year: 1949
+Date Released: 1949
 
 * Griffith, Roy T. 1949. The minimotion typewriter keyboard. Journal of the Franklin Institute 248.5: 399-436. http://www.sciencedirect.com/science/article/pii/0016003249906547
 
 
-Wade challenges Dvorak's keyboard within two years.
-
 ##Asset
 _Designer: Daivd Piepgrass_
 
-Year: 2004
+Date Released: 2004
 
 * Piepgrass, David. 2006. Why QWERTY, And What's Better? <Accessed: 20. April 2015>. http://millikeys.sourceforge.net/asset/why-qwerty.pdf
 
@@ -63,17 +63,17 @@ Year: 2004
 ##Capwell
 _Designer: Michael Capewell_
 
+Date Released:
+
 * Michael Capewell Alternate Keyboard Layouts http://www.michaelcapewell.com/projects/index.htm ; http://www.michaelcapewell.com/projects/keyboard/index.htm
 * Capewell improvement of the Dvorak keyboard: http://www.michaelcapewell.com/projects/keyboard/layout_capewell-dvorak.htm
 
 ##Colmak
 _Designer: Shai Coleman_
 
-Year: 2006
+Date Released:  01-Jan-2006
 
 Website: [http://colemak.com/](http://colemak.com/)
-
-Released on 01-Jan-2006.
 
 * Discussion of the colemak keyboard: http://colemak.com/
  * Colemak keyboard layout comparison: http://colemak.com/Compare
@@ -85,28 +85,37 @@ This website has an interesting discussion about [learnibility difficultiy](http
 It also has an valuable discussion of the [differences between evaluation metrics](http://colemakmods.github.io/mod-dh/compare.html). Including this [metric](http://forum.colemak.com/viewtopic.php?pid=15137#p15137) and [this one](http://www.shenafu.com/smf/index.php?topic=89.0)
 
 ##Minimak
+_Designer: Ted Lilley_
 
-http://www.minimak.org/
+Date Released: 
+
+Website: [http://www.minimak.org/](http://www.minimak.org/)
+
 
 ##Arensito
 
+Date Released:
 
 ##Norman
 _Designer: David Norman_
+
+Date Released:
 
 * Comparison of the Norman layout with Qwerty: https://normanlayout.info/compare
 
 ##Workman
 _Designer: OJ Bucao_
 
-Website: [http://www.workmanlayout.com/blog/](http://www.workmanlayout.com/blog/)
+Date Released: 06-Sept-2010 
 
-Released: 06-Sept-2010 
+Website: [http://www.workmanlayout.com/blog/](http://www.workmanlayout.com/blog/)
 
 The goal of the workman layout was to improve on the Colmak layout.
 
 ##Balanced
 _Designer: Den_
+
+Date Released:
 
 * http://www.shenafu.com/smf/index.php?topic=89.0
 
