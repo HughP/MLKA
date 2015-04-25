@@ -3,7 +3,7 @@ _This section is for links to resources which discuss the reasons that a keyboar
 
 Perhaps the best way to start this discussion off is to layout some history.
 
-As a rundown, there are several names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Michael Capewell (Capwell layout), Michael Dickens, and David Norman (Norman layout). There are some other names too like: Ted Lilley (Minimak layout), David Piepgrass (Asset layout), and Shai Coleman (Colmak layout). The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com. His site is worth the quote and the time to read.
+As a rundown, there are several names which seem to come up in the computer developer side of the keyboard optimization world. These names never make it to the academic literature as far as I can tell. These names are: Peter M. Klausler, Michael Capewell (Capwell layout), Michael Dickens, and David Norman (Norman layout), Ted Lilley (Minimak layout), David Piepgrass (Asset layout), and Shai Coleman (Colmak layout). The previously mentioned names all deal with keyboard layouts. However, Bill Buxton is a real UX designer: http://www.billbuxton.com. His site is worth the quote and the time to read.
 
 ##Pre-QWERTY
 First there was "chaos". Then there was QWERTY. Before it was known as QWERTY, it was refernced as the "Universal layout".
@@ -61,6 +61,17 @@ Website: [http://www.pvv.org/~hakonhal/main.cgi/keyboard](http://www.pvv.org/~ha
       q  l     p           f  u  d  k
       a  r  e  n  b     g  s  i  t  o
       z  w     h  j     v  c  y  m  x
+
+##XPeRT
+_Designer: ???_
+
+Date Released: 2003
+
+Website: [http://www.xpertkeyboard.com](http://www.xpertkeyboard.com)
+
+      X	P	E	R	T	Y	U	I	O	J
+      Q	S	D	F	N	H	A	E	L	K
+      Z	W	C	V	B	G	M	,	.	?
 
 ##Asset
 _Designer: Daivd Piepgrass_
@@ -130,18 +141,6 @@ _Designer: Den_
 Date Released:
 
 * http://www.shenafu.com/smf/index.php?topic=89.0
-
-##XPeRT
-_Designer: ???_
-
-Date Released: 2003
-
-Website: [http://www.xpertkeyboard.com](http://www.xpertkeyboard.com)
-
-X	P	E	R	T	Y	U	I	O	J
-Q	S	D	F	N	H	A	E	L	K
-Z	W	C	V	B	G	M	,	.	?
-
 
 
 ---
