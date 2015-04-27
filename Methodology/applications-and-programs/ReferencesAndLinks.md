@@ -221,7 +221,8 @@ _The applications below may not be as refined as the ones above._
 * Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
 * Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
 * https://gigaom.com/2004/11/03/text_entry_epip/
-* http://sangaline.com/blog/optimizing_for_swype/FITALY.html
+* http://sangaline.com/blog/optimizing_for_swype/FITALY.html]
+* The hold of the keyboard: The Troublesome Task of Rejiggering the Keyboard: http://web.archive.org/web/20090630115240/http://www.technewsworld.com/story/67444.html - Also as PDF
 
 ####Games for typing:
 * Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
