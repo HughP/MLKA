@@ -174,7 +174,8 @@ _The applications below may not be as refined as the ones above._
 * **[Alt Key](http://www.w3schools.com/jsref/event_altkey.asp)**
 * **[Meta Key Event](http://www.w3schools.com/jsref/event_metakey.asp)**
 * **[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)**
-* **[Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+* **[Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)**
+
 ##Games and other stuff
 * Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
 
