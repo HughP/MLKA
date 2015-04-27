@@ -200,6 +200,9 @@ _The applications below may not be as refined as the ones above._
 ###Buy keytops
 * http://www.laptopkey.com/KeyboardKeys.php/Apple/Macbook%20Pro%20Retina%20Display%2015%20Inch/ME664LL~A
 
+###Measurements Examples
+* http://www2.elecom.co.jp.e.gj.hp.transer.com/peripheral/full-keyboard/tk-fcm064whrs/
+
 ###Keypads
 * Japanese Cellphone: http://en.wikipedia.org/wiki/File:Keypad_on_Japanese_phone_708SC.jpg see: http://en.wikipedia.org/wiki/Japanese_input_methods
 * Left handed keypad: http://commons.wikimedia.org/wiki/File:Left_handed_keypad.png
