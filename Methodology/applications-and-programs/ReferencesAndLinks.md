@@ -39,9 +39,9 @@ Keycodes in kernal: https://wiki.archlinux.org/index.php/Extra_keyboard_keys#Key
 https://dev.twitter.com/overview/api/counting-characters
 
 ###OS X
-Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
-.keylayout files: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
-Text Input Source Services Reference: https://developer.apple.com/library/mac/documentation/TextFonts/Reference/TextInputSourcesReference/
+* Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
+* .keylayout files: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
+* Text Input Source Services Reference: https://developer.apple.com/library/mac/documentation/TextFonts/Reference/TextInputSourcesReference/
 
 
 ###Windows
