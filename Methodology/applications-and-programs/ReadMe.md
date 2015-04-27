@@ -26,9 +26,21 @@ As is explained in the section on theory, each of these tools uses a different a
 
 Due to linkrot one online keyboard analysis tool from a .uk domain (written in .NET) was not avaible. Images of this tool are in the internet archive, but the server side features are not preserved.
  
- ###Software developed
+###Software developed
  _This is software and scripts I have developed._
  
- ##Software stashed
+##Software stashed
 _Software I have found but am not sure how it works or what it does._
 
+##Software not used
+* http://utilitymill.com/edit/Keyboard_HeatMap
+* http://mindprod.com/bgloss/dsk.html#CLASSIC
+* 
+##Stuff for Mobile Text input
+* http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/
+* https://news.ycombinator.com/item?id=9355276
+ * https://github.com/sangaline/dodona/
+  * http://sangaline.com/blog/optimizing_for_swype/FITALY.html
+  * http://sangaline.com/blog/optimizing_for_swype/img/qwerty.keyboard.svg
+* Text Entry Epiphany for the Tablet PC- SHARK https://gigaom.com/2004/11/03/text_entry_epip/
+* 
