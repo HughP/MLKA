@@ -200,6 +200,11 @@ _The applications below may not be as refined as the ones above._
 ###Buy keytops
 * http://www.laptopkey.com/KeyboardKeys.php/Apple/Macbook%20Pro%20Retina%20Display%2015%20Inch/ME664LL~A
 
+###Keyboard Stickers
+* http://www.4keyboard.com/xcode-keyboard-sticker-p-853.html
+* http://www.4keyboard.com/language-stickers-arabic-c-82_34.html
+* http://www.4keyboard.com/arabic-large-lettering-keyboard-sticker-p-351.html
+
 ###Measurements Examples
 * http://www2.elecom.co.jp.e.gj.hp.transer.com/peripheral/full-keyboard/tk-fcm064whrs/
 
