@@ -35,7 +35,7 @@ _Software I have found but am not sure how it works or what it does._
 ##Software not used
 * http://utilitymill.com/edit/Keyboard_HeatMap
 * http://mindprod.com/bgloss/dsk.html#CLASSIC
-* 
+
 ##Stuff for Mobile Text input
 * http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/
 * https://news.ycombinator.com/item?id=9355276
