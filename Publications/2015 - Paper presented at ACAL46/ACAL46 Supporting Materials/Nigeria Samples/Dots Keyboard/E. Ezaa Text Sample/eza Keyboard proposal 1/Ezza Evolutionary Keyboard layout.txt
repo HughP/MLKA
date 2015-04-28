@@ -1,0 +1,57 @@
+Ezaa text
+
+Chance to use previous layout is now 0.742129.
+Number of swaps between rounds is now 19.
+Time elapsed: 3 hours, 58 minutes, 23 seconds
+Time elapsed: 5 hours, 40 minutes, 11 seconds
+Number of rounds in greatToBest() is now 262144.
+
+
+Options:
+
+>> setksize standard
+Keyboard set to full standard. All user-defined values have been reset.
+
+>>> keepNumbers 1
+Unknown command. Type "help" for a listing of commands.
+
+>>> set keepNumbers 1
+keepNumbers set to 1.
+
+>>> set keepTab 1
+keepTab set to 1.
+
+>>> set keepNumbersShifted 1
+keepNumbersShifted set to 1.
+
+>>> set detailedOutput 1
+detailedOutput set to 1.
+
+
+
+
+Hands: 49% 50%
+Fingers: 9.0% 10% 12% 18% 0.00% 0.00% 19% 14% 11% 7.0% 
+
+ `  <  >  /  %  &   !  ^  ?  (  )  V  @    
+    S  H  I  B  Q   F  W  K  R  M  {  }  \
+    O  N  A  E  =   Y  U  ,  .  L  G       
+    X  P  C  T  |   J  D  Z  *  _          
+
+ ~  1  2  3  4  5   6  7  8  9  0  v  "    
+    s  h  i  b  q   f  w  k  r  m  [  ]  +
+    o  n  a  e  -   y  u  ;  '  l  g       
+    x  p  c  t  :   j  d  z  #  $          
+
+Fitness:       1460
+Distance:      1860
+Finger work:   0
+Inward rolls:  25.45%
+Outward rolls: 1.82%
+Same hand:     49.09%
+Same finger:   0.00%
+Row change:    3.64%
+Home jump:     0.00%
+Ring jump:     0.00%
+To center:     0.00%
+To outside:    0.00%

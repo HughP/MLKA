@@ -1,0 +1,133 @@
+Okphela [atg] text
+run 28. March 2015 on iMac
+
+
+
+Options:
+
+>> setksize standard
+Keyboard set to full standard. All user-defined values have been reset.
+
+>>> set keepNumbers 1
+keepNumbers set to 1.
+
+>>> set keepTab 1
+keepTab set to 1.
+
+>>> set keepNumbersShifted 1
+keepNumbersShifted set to 1.
+
+>>> set detailedOutput 1
+
+Hands: 46% 53%
+Fingers: 9.0% 12% 7.0% 19% 0.00% 0.00% 20% 20% 8.0% 5.0% 
+
+ V  /  &  #  [  ]   `  ?  \  (  )  X  W    
+    P  T  G  B  Z   Q  S  N  R  .  {  }  J
+    A  O  L  I  K   U  E  ,  H  M  '       
+    :  F  C  D  *   +  Y  <  >  ~          
+
+ v  1  2  3  4  5   6  7  8  9  0  x  w    
+    p  t  g  b  z   q  s  n  r  -  !  ^  j
+    a  o  l  i  k   u  e  ;  h  m  "       
+    _  f  c  d  =   @  y  |  $  %          
+
+Fitness:       537
+Distance:      1050
+Finger work:   7
+Inward rolls:  42.86%
+Outward rolls: 0.00%
+Same hand:     45.71%
+Same finger:   0.00%
+Row change:    0.00%
+Home jump:     0.00%
+Ring jump:     0.00%
+To center:     0.00%
+To outside:    0.00%
+
+Time elapsed: 0 hours, 0 minutes, 0 seconds
+Chance to use previous layout is now 0.425147.
+Number of swaps between rounds is now 9.
+Number of rounds in greatToBest() is now 32.
+Chance to use previous layout is now 0.463111.
+Number of swaps between rounds is now 10.
+Chance to use previous layout is now 0.500168.
+Number of swaps between rounds is now 11.
+Number of rounds in greatToBest() is now 64.
+Chance to use previous layout is now 0.536049.
+Number of swaps between rounds is now 12.
+Number of rounds in greatToBest() is now 128.
+Chance to use previous layout is now 0.570538.
+Number of swaps between rounds is now 13.
+Number of rounds in greatToBest() is now 256.
+Chance to use previous layout is now 0.603470.
+Number of swaps between rounds is now 14.
+Number of rounds in greatToBest() is now 512.
+Chance to use previous layout is now 0.634732.
+Number of swaps between rounds is now 15.
+Number of rounds in greatToBest() is now 1024.
+Chance to use previous layout is now 0.664249.
+Number of swaps between rounds is now 16.
+Number of rounds in greatToBest() is now 2048.
+Number of rounds in greatToBest() is now 4096.
+Time elapsed: 0 hours, 1 minutes, 4 seconds
+Chance to use previous layout is now 0.691987.
+Number of swaps between rounds is now 17.
+Number of rounds in greatToBest() is now 8192.
+Time elapsed: 0 hours, 2 minutes, 19 seconds
+Time elapsed: 0 hours, 4 minutes, 22 seconds
+Number of rounds in greatToBest() is now 16384.
+Time elapsed: 0 hours, 7 minutes, 54 seconds
+Chance to use previous layout is now 0.717940.
+Number of swaps between rounds is now 18.
+Number of rounds in greatToBest() is now 32768.
+Time elapsed: 0 hours, 13 minutes, 45 seconds
+Time elapsed: 0 hours, 19 minutes, 44 seconds
+Number of rounds in greatToBest() is now 65536.
+Time elapsed: 0 hours, 36 minutes, 27 seconds
+Time elapsed: 0 hours, 51 minutes, 2 seconds
+Number of rounds in greatToBest() is now 131072.
+Time elapsed: 1 hours, 15 minutes, 52 seconds
+Chance to use previous layout is now 0.742129.
+Number of swaps between rounds is now 19.
+Time elapsed: 1 hours, 58 minutes, 30 seconds
+Number of rounds in greatToBest() is now 262144.
+Time elapsed: 3 hours, 0 minutes, 29 seconds
+Time elapsed: 4 hours, 11 minutes, 30 seconds
+Time elapsed: 6 hours, 27 minutes, 38 seconds
+Number of rounds in greatToBest() is now 524288.
+Time elapsed: 9 hours, 45 minutes, 33 seconds
+Time elapsed: 14 hours, 24 minutes, 5 seconds
+Number of rounds in greatToBest() is now 1048576.
+Chance to use previous layout is now 0.764595.
+Number of swaps between rounds is now 20.
+Time elapsed: 24 hours, 18 minutes, 55 seconds
+
+---
+If using the Nigeria Group Keyboard
+
+Hands: 32% 67%
+Fingers: 8.0% 2.0% 14% 9.0% 0.00% 0.00% 20% 17% 15% 15% 
+
+ ~  !  @  #  $  %   ^  &  *  (  )  _  +    
+    Q  W  E  R  T   Y  U  I  O  P  {  }  |
+    A  S  D  F  G   H  J  K  L  :  "       
+    Z  X  C  V  B   N  M  <  >  ?          
+
+ `  1  2  3  4  5   6  7  8  9  0  -  =    
+    q  w  e  r  t   y  u  i  o  p  [  ]  \
+    a  s  d  f  g   h  j  k  l  ;  '       
+    z  x  c  v  b   n  m  ,  .  /          
+
+Fitness:       5067
+Distance:      3205
+Finger work:   407
+Inward rolls:  0.00%
+Outward rolls: 0.00%
+Same hand:     100.00%
+Same finger:   0.00%
+Row change:    0.00%
+Home jump:     0.00%
+Ring jump:     0.00%
+To center:     0.00%
+To outside:    0.00%

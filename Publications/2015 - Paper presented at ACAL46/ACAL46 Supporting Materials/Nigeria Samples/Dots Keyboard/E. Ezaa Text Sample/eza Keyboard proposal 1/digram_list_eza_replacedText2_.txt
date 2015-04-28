@@ -1,0 +1,445 @@
+'' 862
+u  799
+e  750
+;u 499
+a  469
+ l 359
+o  344
+;e 331
+;o 322
+l' 320
+ ; 294
+wh 270
+ o 267
+,  260
+ i 251
+ n 250
+on 229
+b; 216
+-- 215
+ek 213
+nu 211
+ b 208
+hi 206
+ya 200
+ru 199
+ny 179
+un 170
+kw 169
+wa 165
+ke 165
+ m 154
+ye 145
+i  139
+iw 130
+le 127
+'; 127
+he 126
+ e 125
+ a 125
+ u 124
+.  123
+ t 114
+me 109
+ g 109
+nw 108
+no 106
+iy 105
+hu 104
+sh 103
+er 100
+we 99
+an 98
+ta 98
+'a 93
+d; 93
+je 89
+'e 84
+oo 84
+u, 83
+ k 82
+ d 81
+ar 81
+il 80
+ur 79
+h; 77
+ y 74
+kp 73
+   72
+Ch 72
+ma 72
+du 71
+n; 71
+e- 70
+ C 70
+be 66
+ok 65
+wu 65
+aa 63
+'o 62
+bu 62
+ho 62
+ee 61
+;i 60
+fu 56
+aw 55
+;O 55
+ch 55
+ha 54
+o, 54
+u. 53
+kf 53
+e, 53
+uk 53
+gb 52
+ O 52
+em 52
+ s 50
+ej 50
+ik 50
+ob 50
+g; 50
+'i 50
+-; 48
+t' 48
+l; 47
+a, 47
+ua 46
+nk 46
+gu 46
+u- 45
+ba 44
+Un 42
+ad 42
+ir 42
+t; 41
+en 41
+nd 41
+a- 41
+ri 40
+de 40
+ w 40
+e. 40
+ka 40
+g' 40
+z; 39
+eg 39
+yi 39
+O  39
+dz 39
+ow 38
+s; 38
+re 37
+ot 36
+ud 36
+ko 36
+ak 35
+a. 35
+te 34
+"" 34
+el 34
+.  33
+o- 33
+ub 33
+ab 33
+ag 33
+at 33
+r; 33
+ia 32
+eh 32
+na 32
+ U 31
+;; 30
+;  30
+ku 29
+mu 29
+'u 28
+od 28
+ew 28
+ut 27
+et 26
+i, 26
+ts 26
+es 26
+wo 26
+uj 25
+eb 25
+w; 25
+mi 25
+pe 25
+ng 24
+is 24
+gw 23
+i. 22
+ed 22
+by 22
+ ? 22
+og 21
+pa 21
+aj 21
+bo 21
+nn 21
+la 21
+uw 21
+ig 20
+al 20
+ji 20
+ r 20
+ga 20
+os 20
+:  20
+-i 19
+-a 19
+Oo 19
+On 19
+nt 18
+ge 18
+om 18
+am 17
+ul 17
+-g 17
+in 17
+?  17
+mm 16
+ j 16
+o. 16
+ h 16
+y; 16
+rw 16
+-d 16
+im 15
+wi 15
+zh 15
+do 15
+gh 15
+or 14
+ T 14
+go 14
+ns 14
+-o 14
+ni 14
+m; 14
+mb 14
+-n 14
+jo 14
+da 14
+li 14
+ " 13
+sw 13
+Oh 13
+i- 13
+"  13
+as 13
+ib 13
+ N 13
+;U 13
+ - 13
+oj 13
+p; 12
+mk 12
+T' 12
+-N 12
+se 12
+Nw 12
+-m 11
+Ol 11
+ii 11
+ c 11
+ey 11
+oc 11
+uh 10
+so 10
+ij 10
+um 10
+us 10
+ah 10
+T; 10
+po 10
+-b 10
+ol 10
+u; 10
+ez 9
+tu 9
+gg 9
+ec 9
+mg 9
+ja 9
+ I 9
+ih 9
+." 9
+nm 8
+ro 8
+ug 8
+to 8
+k; 8
+ze 8
+zu 8
+nc 8
+uz 8
+su 8
+u: 8
+f; 8
+Ok 7
+ ' 7
+zo 7
+oz 7
+j; 6
+Iw 6
+?T 6
+o: 6
+Nt 6
+-e 6
+;E 6
+bi 6
+-z 6
+az 6
+pu 6
+b' 6
+a? 6
+e? 6
+e; 6
+Ek 6
+!  5
+ra 5
+ E 5
+Nd 5
+o; 5
+u? 5
+a; 5
+a: 5
+!! 5
+uc 5
+gv 5
+ic 5
+ J 5
+Nn 5
+vu 5
+-k 5
+ L 4
+py 4
+oh 4
+m' 4
+?O 4
+i; 4
+ac 4
+ay 4
+Ir 3
+," 3
+ K 3
+-l 3
+?; 3
+ A 3
+v; 3
+id 3
+it 3
+r' 3
+lu 3
+ S 3
+iz 3
+yo 3
+sa 3
+uf 3
+-s 3
+Ku 3
+up 2
+o? 2
+S; 2
+e: 2
+-w 2
+A  2
+-j 2
+Eg 2
+Ob 2
+'E 2
+By 2
+za 2
+ f 2
+nh 2
+-t 2
+?n 2
+'A 2
+di 2
+ap 2
+Ji 2
+ M 2
+Eb 2
+-h 2
+"B 2
+"C 2
+lw 2
+lo 2
+"T 2
+of 2
+?  2
+nz 2
+ti 2
+i! 2
+L; 2
+Um 2
+?N 2
+ep 2
+?U 2
+nv 2
+-c 2
+L' 2
+Ng 1
+nr 1
+An 1
+ R 1
+a" 1
+ G 1
+u! 1
+ne 1
+af 1
+ v 1
+-r 1
+"" 1
+oy 1
+ z 1
+R' 1
+"G 1
+if 1
+"e 1
+pi 1
+ef 1
+J' 1
+Jo 1
+Ju 1
+ki 1
+ N 1
+N  1
+e! 1
+ L 1
+e" 1
+Em 1
+El 1
+Eh 1
+?t 1
+G; 1
+Kf 1
+"L 1
+"K 1
+:  1
+`a 1
+Ub 1
+-' 1
+Uj 1
+Go 1
+b` 1
+zi 1
+Mb 1
+z' 1
+Mu 1
+S' 1
+Aw 1
+I  1
+o! 1
+Os 1
+Le 1
+La 1
+?l 1
+?I 1
+"; 1
+"' 1
+"w 1
+Ay 1

@@ -1,14 +1,27 @@
 #Applications and Programs
-_This is a list of applications and programs used with text input. The list is divided up into three basic parts:_
+_This is a list of applications and programs used accross the history of this text input analysis project. The list contains several parts based on the kind of software.
+
+
+##Text processing and counting
+_Many of the texts recived needed for one reason or another to be cleaned up or to have the values of the texts transposed into other values._
+This list of software contains the software I used to do this.
+
+##Fonts and diagram creating tools
+
+
+##Keyboard layout analysis
+_These are tools which take keyboard layouts in some manner and then do some sort of analysis on them._
+
+The Keyboard layout analsis software is divided up into three basic parts:_
  1. Software used or developed in the process of this research.
  2. Software encountered in this research and "stashed" here.
  3. Other software resources.
  4. I'll think of something else to put here... [in Germanic languages things sound better in threes](http://en.wikipedia.org/wiki/Rule_of_three_(writing))
  
  
-##Software used and developed
+###Software used and developed
  
-###Software used
+####Software used
 Folder [`Used`](/Methodology/applications-and-programs/Used)
  
 _Short explanation about each software piece stashed here and how it is used._
@@ -26,13 +39,13 @@ As is explained in the section on theory, each of these tools uses a different a
 
 Due to linkrot one online keyboard analysis tool from a .uk domain (written in .NET) was not avaible. Images of this tool are in the internet archive, but the server side features are not preserved.
  
-###Software developed
+####Software developed
  _This is software and scripts I have developed._
  
-##Software stashed
+###Software stashed
 _Software I have found but am not sure how it works or what it does._
 
-##Software not used
+####Software not used
 * http://utilitymill.com/edit/Keyboard_HeatMap
 * http://mindprod.com/bgloss/dsk.html#CLASSIC
 
@@ -43,4 +56,3 @@ _Software I have found but am not sure how it works or what it does._
   * http://sangaline.com/blog/optimizing_for_swype/FITALY.html
   * http://sangaline.com/blog/optimizing_for_swype/img/qwerty.keyboard.svg
 * Text Entry Epiphany for the Tablet PC- SHARK https://gigaom.com/2004/11/03/text_entry_epip/
-* 
