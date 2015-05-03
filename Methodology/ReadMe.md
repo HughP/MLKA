@@ -72,7 +72,7 @@ _There are several tools for this. The following or some I have found._
 * Michael Dickens on Letter Frequency in several languages: http://mdickens.me/typing/letter_frequency.html
 * [LetterMetter](http://www.type-applications.com/site/lettermeter_info.php) by [Typotheque](https://www.typotheque.com/help/technical_issues/where_has_the_lettermeter_gone) is an application which works in OS X 10.6 (but not above).
 
-* Dvorak's study was actually founded on two seperate sources one of which he leans on heavily is the work of Hoke. Hoke in turn leans on someone else. Its good to consult Hoke chapter 1.
+* Dvorak's study was actually founded on two separate sources one of which he leans on heavily is the work of Hoke. Hoke in turn leans on someone else. Its good to consult Hoke chapter 1.
  * Hoke, Roy Edward. 1922. The Improvement of Speed and Accuracy in Typewriting. Baltimore, Md.: Johns Hopkins Press.
 
 #####Character Frequency

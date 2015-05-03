@@ -97,6 +97,7 @@ _The applications below may not be as refined as the ones above._
 * **[IPA symbols with xkb](http://www.ajmakkas.com/pages/c_xkbipa.html)** IPA symbols with xkb layout on Slackware
 * **[Create a new keyboard layout for OLPC](http://wiki.laptop.org/go/Creating_A_New_Keyboard_Layout)** One Laptop per child layout design instructions.
 * **[XCAPE](https://github.com/alols/xcape)** Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
+* **[English Neo Keyboard Layout](https://github.com/district10/neo_keyboard_layout)**
 
 ###OS X
 

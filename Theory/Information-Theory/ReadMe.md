@@ -8,6 +8,18 @@ Fundamentally there are two measurements, _distance_ and _speed_. These measurem
 * Fitts, Paul M. 1954. The information capacity of the human motor system in controlling the amplitude of movement. Journal of Experimental Psychology 47.6: 381-91.
 * Fitts, Paul  M. 1992. The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement. Journal of Experimental Psychology: General 121.3: 262-9.
 
+####Others
+* Bootsma, R. J., L. Fernandez & D. Mottet. 2004. Behind Fitts’ law: kinematic patterns in goal-directed movements. International Journal of Human-Computer Studies 61.6: 811-21. http://www.sciencedirect.com/science/article/pii/S1071581904001065
+* Zhai, Shumin. 2004. Characterizing computer input with Fitts’ law parameters — The information and non-information aspects of pointing. International Journal of Human-Computer Studies 61.6: 791-809.  <Accessed: 09. May 2014>. http://shuminzhai.com/papers/FittsThroughputFinalManuscript.pdf
+* MacKenzie, I. Scott & William Buxton. 1992. Extending Fitts' law to two-dimensional tasks. Proceedings of the ACM Conference on Human Factors in Computing Systems - CHI '92, 219-26. New York: ACM.
+* MacKenzie, I. Scott. 1991. Fitts' law as a performance model in human-computer interaction. Ph.D dissertation, University of Toronto, Toronto, Ontario, Canada.
+* MacKenzie, I. Scott. 1992. Fitts' law as a research and design tool in human-computer interaction. Human-Computer Interaction 7, 91-139. 
+* MacKenzie, I. Scott & Poika Isokoski. 2008. Fitts' Throughput and the Speed-Accuracy Tradeoff. Proceedings of the ACM Conference on Human Factors in Computing Systems – CHI 2008, 1633-6. New York: ACM.
+* Soukoreff, R. William & I. Scott MacKenzie. 2009. An Informatic Rationale for the Speed-Accuracy Trade-Off. Proceedings of the 2009 IEEE International Conference on Systems, Man, and Cybernetics (San Antonio, TX, USA - October 2009), 2890-6. Piscataway, NJ, USA: IEEE Press.
+* Soukoreff, R. William & I. Scott MacKenzie. 2002. Using Fitts' Law to Model Key Repeat Time in Text Entry Models. Paper presented at Graphics Interface 2002, Calgary, Alberta, Canada, (27-29 May 2002). <Accessed: 16. April 2014>. http://www.yorku.ca/mack/gi02-poster.html
+* Toomim, Michael, Travis Kriplean, Claus Pörtner & James A. Landay. 2011. Utility of Human-Computer Interactions: Toward a Science of Preference Measurement. CHI 2011. ACM.
+
+
 ###Shannon's Theorem 17
 
 ##General
@@ -47,3 +59,40 @@ Fundamentally there are two measurements, _distance_ and _speed_. These measurem
 * Levitin, Lev B. & Zeev Reingold. 1994. Entropy of natural languages: Theory and experiment. Chaos, Solitons & Fractals 4.5: 709-43.
 * Zhang, Le. Maximum Entropy Modeling. 29. December 2014>. http://homepages.inf.ed.ac.uk/lzhang10/maxent.html
 * Guerrero, Fabio G. 2012. On the Entropy of Written Spanish. Revista Colombiana de Estadística 35.3: 425-42.
+
+###Specific Readings for Entorpy
+* Genzel, Dmitriy and Eugene Charniak. 2002. Entropy rate constancy in text. Paper presented at Proceedings of the 40th Annual Meeting on Association for Computational Linguistics, Philadelphia, Pennsylvania.
+* Stam, A. J. 1959. Some inequalities satisfied by the quantities of information of Fisher and Shannon. Information and Control 2.2: 101-12.
+* Schiffer, Marcelo. 1991. Shannon's information is not entropy. Physics Letters A 154.7–8: 361-5.
+* McCalla, Kim. 1985. Entropy In Natural Languages. Folia Linguistica 19.3-4: 343-186.
+* Levitin, Lev B. and Zeev Reingold. 1994. Entropy of natural languages: Theory and experiment. Chaos, Solitons & Fractals 4.5: 709-43.
+* Zitouni, Imed and Ruhi Sarikaya. 2009. Arabic diacritic restoration approach based on maximum entropy models. Computer Speech & Language 23.3: 257-76.
+* Sato, Tomoaki and Mutsumi Suganuma. 2013. Verbal Expression of the Entropy Concept. Procedia - Social and Behavioral Sciences 97.1: 443-7.
+* Guerrero, Fabio G. 2012. On the Entropy of Written Spanish. Revista Colombiana de Estadística 35.3: 425-42. Related to: [spa].
+* Behr, F., V. Fossum, M. Mitzenmacher and D. Xiao. 2003. Estimating and comparing entropies across written natural languages using PPM compression. Paper presented at Data Compression Conference, 2003. Proceedings. DCC 2003. Related to: [eng], [fra], [spa], [kor].
+* Papadimitriou, C., K. Karamanos, F. K. Diakonos, V. Constantoudis and H. Papageorgiou. 2010. Entropy analysis of natural language written texts. Physica A: Statistical Mechanics and its Applications 389.16: 3260-6.
+* Jayant, N., J. Johnston and R. Safranek. 1993. Signal compression based on models of human perception. Proceedings of the IEEE 81.10: 1385-422.
+
+
+###Some links for Reading about Entropy
+* https://en.wikipedia.org/wiki/Principle_of_maximum_entropy
+* https://en.wikipedia.org/wiki/Entropy_(information_theory)
+* https://en.wikipedia.org/wiki/Talk:Maximum_entropy_probability_distribution
+* https://github.com/lzhang10/maxent
+* http://mdickens.me/typing/theory-of-letter-frequency.html
+* http://en.wikipedia.org/wiki/Entropy_encoding
+* http://rosettacode.org/wiki/Entropy#Python_2
+* http://miup2002.fc.ul.pt/problemas/I/I.html
+* http://www.wikihow.com/Calculate-Probability
+* http://stattrek.com/online-calculator/probability-calculator.aspx
+* http://repository.upenn.edu/cgi/viewcontent.cgi?article=1083&context=ircs_reports
+* http://www.spectraworks.com/web/welcome.html
+* http://www.spectraworks.com/web/products.html
+* http://arxiv.org/pdf/0704.3665v1.pdf
+
+
+##Cognitive aspects of typing
+_There are two sets of resources which fit here:_
+* The various works of [Saul Sternberg](http://www.psych.upenn.edu/~saul/)
+* The work of William E. Cooper:
+ * Cooper, William E. (ed.) 1983. Cognitive Aspects of Skilled Typewriting. New York, Heidelberg, Berlin: Springer-Verlag
