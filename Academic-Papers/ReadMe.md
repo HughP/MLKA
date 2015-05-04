@@ -37,6 +37,8 @@ This taxonomy is somewhat aged and it is perhaps clearer to think about text inp
 * Keyboard
 
 ##Further Reading
-_Within this folder are list of other relevant references and other relevant PDFs._
-See additional comments are reasons to read particular papers in the file [`AcademicPapersToCheckOut.md`](/Academic-Papers/AcademicPapersToCheckOut.md)
-and the ongoing list of items to get from the lbrary [`Library_Get_List.md`](Library_Get_List.md)
+_Within the `further-reading` folder are list of other relevant references and other relevant PDFs._
+* See additional comments are reasons to read particular papers in the file: [`AcademicPapersToCheckOut.md`](/Academic-Papers/further-reading/AcademicPapersToCheckOut.md)
+* See an ongoing list of items to get from the library: [`Library_Get_List.md`](/Academic-Papers/further-reading/Library_Get_List.md)
+* See a growing bibliography of for text input, focusing mostly on issues of keyboards and literacy in minority languages: [`Sectionedbiblography.md`](/Academic-Papers/further-reading/Sectionedbiblography.md)
+* See a list of papers which discuss an ontology of computer mitigated communication: [`CMC_Ontology.md`](/Academic-Papers/further-reading/CMC_Ontology.md)

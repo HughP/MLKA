@@ -57,3 +57,16 @@ _Software I have found but am not sure how it works or what it does._
   * http://sangaline.com/blog/optimizing_for_swype/FITALY.html
   * http://sangaline.com/blog/optimizing_for_swype/img/qwerty.keyboard.svg
 * Text Entry Epiphany for the Tablet PC- SHARK https://gigaom.com/2004/11/03/text_entry_epip/
+
+
+Heatmap updates:
+* https://github.com/zaki/keyboard-heatmap
+
+* Some Chinese discussion about keyboard optimization for programing languages: http://www.jianshu.com/p/2f56bed65e5c
+ * https://github.com/district10/extended-programmer-dvorak
+ * Dvorak programer layout: http://www.jianshu.com/p/2f56bed65e5c
+ 
+* Index of Keyboard Layouts in CLDR - Unicode Common Locale Data Repository: 
+ http://www.unicode.org/cldr/charts/latest/keyboards/layouts/index.html
+ * http://cldr.unicode.org/index/charts/keyboards
+ * http://cldr.unicode.org/development/cldr-big-red-switch/generating-charts
