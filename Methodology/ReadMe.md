@@ -35,10 +35,6 @@ For the center points in my diagrams and in my numbers these were computed in th
 A the keys were taped with scotch tape in the down position, a pice of see-though graph paper was lain out over the keyboard and the key position was traced over the keys. The center point for the keys on the left side was computed my drawing perpendicular lines though the corner points of the keys. The stencil measurements were replicated in OmniGraffle. OmniGraffle is used to create the spacing lines and various diagrams of keyboard layouts.
 ![Keyboard Centers](/Methodology/Images/Apple-QWERTY-with-crosses.jpg)
 
-####Keyboard angle
-* Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
-* Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
-
 ####Measureing finger travel distance
 * http://patorjk.com/blog/2009/07/12/typing-distance/
 * http://colemak.com/Compare
@@ -57,11 +53,24 @@ A the keys were taped with scotch tape in the down position, a pice of see-thoug
 * Rempel, David, Alan Barr, David Brafman & Ed Young. 2007. The effect of six keyboard designs on wrist and forearm postures. Applied Ergonomics 38.3: 293-8. http://www.sciencedirect.com/science/article/pii/S0003687006000706
 * Smith, Michael J., et al. 1998. Effects of a Split Keyboard Design and Wrist Rest on Performance, Posture, and Comfort. Human Factors: The Journal of the Human Factors and Ergonomics Society 40.2: 324-36. http://hfs.sagepub.com/content/40/2/324.abstract
 * Swanson, Naomi G., Traci L. Galinsky, Libby L. Cole, Christopher S. Pan & Steven L. Sauter. 1997. The impact of keyboard design on comfort and productivity in a text-entry task. Applied Ergonomics 28.1: 9-16. http://www.sciencedirect.com/science/article/pii/S000368709600052X
+* Gilad, Issachar & Shlomit Harel. 2000. Muscular effort in four keyboard designs. International Journal of Industrial Ergonomics 26.1: 1-7. http://www.sciencedirect.com/science/article/pii/S0169814199000578
+* van Galen, Gerard P., Hanneke Liesker & Ab de Haan. 2007. Effects of a vertical keyboard design on typing performance, user comfort and muscle tension. Applied Ergonomics 38.1: 99-107. http://www.sciencedirect.com/science/article/pii/S0003687006000196
+* Duncan, Joan & D. Ferguson. 1974. Keyboard Operating Posture and Symptoms in Operating. Ergonomics 17.5: 651-62.  <Accessed: 2013/07/02>. http://dx.doi.org/10.1080/00140137408931404
+* Terzuolo, C. A. & P. Viviani. 1980. Determinants and characteristics of motor patterns used for typing. Neuroscience 5.6: 1085-103. http://www.sciencedirect.com/science/article/pii/0306452280901888
 
 
 ####Measuring finger plunge
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
 * ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
+
+####Measuring key seperation spacing (vertical and horizontal)
+* Pereira, Anna, et al. 2013. The Effect of Keyboard Key Spacing on Typing Speed, Error, Usability, and Biomechanics: Part 1. Human Factors: The Journal of the Human Factors and Ergonomics Society 55.3: 557-66. http://hfs.sagepub.com/content/55/3/557.abstract
+* Pereira, Anna, Chih-Ming Hsieh, Charles Laroche & David Rempel. 2014. The Effect of Keyboard Key Spacing on Typing Speed, Error, Usability, and Biomechanics, Part 2: Vertical Spacing. Human Factors: The Journal of the Human Factors and Ergonomics Society 56.4: 752-9. http://hfs.sagepub.com/content/56/4/752.abstract
+
+####Keyboard angle
+* Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
+* Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
+
 
 ####Measuring Character Frequency
 _There are several tools for this. The following or some I have found._
