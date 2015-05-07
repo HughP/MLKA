@@ -86,6 +86,11 @@ spelling judgments expose orthographic knowledge. Neuropsychologia, 54, 112-
 
 Gesture based input: https://en.wikipedia.org/wiki/Multi-touch
 
+##South Asia
+* http://www.panl10n.net/english/archives09-I.htm
+* http://nepalitankan.blogspot.com/2013/11/ne-rom-translit.html
+* https://collab.itc.virginia.edu/wiki/tibetan-script/Tibetan%20Input%20System%20Principles.html - This is really descriptive of the kinds of keyboards out there.
+* http://web.archive.org/web/20050126143130/http://www.elda.org/en/proj/scalla/SCALLA2001BriefingNotes.htm - Why Human Language Technologies are critically important for Bridging the Digital Divide
 
 ###Gestures of typing
 
