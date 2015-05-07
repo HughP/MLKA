@@ -86,6 +86,8 @@ spelling judgments expose orthographic knowledge. Neuropsychologia, 54, 112-
 
 Gesture based input: https://en.wikipedia.org/wiki/Multi-touch
 
+##South Asia
+* http://www.panl10n.net/english/archives09-I.htm
 
 ###Gestures of typing
 
