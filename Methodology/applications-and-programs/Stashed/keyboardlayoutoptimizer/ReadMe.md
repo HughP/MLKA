@@ -3,8 +3,10 @@
 https://github.com/keyboardDrummer/keyboardlayoutoptimizer
 
 >I yeah I guess I didn't complete moving the code from google code to GitHub. It's an old project of mine. It evaluates the quality of a keyboard layout by combining these two pieces of information:
+>
 >1. The speed it takes your fingers to move from one keyboard location to the next. This speed is measured by keylogging.
 >2. How often a character 'x' occurs after a character 'y' in a given text. The program can scan text files for you to get this information.
+>
 >The assumption here is that the time it takes to move to a location on the keyboard is influenced mostly by the key pressed before it, but not so much the key pressed before that. Also I'm not sure to what extend I'm taking things like shift+key into account. Probably not so much.
 >The program has a few built in keyboard layouts, namely qwerty and dvorak. You can also experiment by creating new keyboard layouts and evaluating those.
 >
