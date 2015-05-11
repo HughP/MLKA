@@ -10,7 +10,8 @@ _The following papers and presentations can be found in the `/Publications` fold
  * [[In Repo Content](/Publications/2014%20-%20Publication%20%20-%20Submission%20(Not%20final%20publication%20version)/Second%20(shorter)%20Paper/Final%20submission) (Pre-print draft)] [[Final publication](https://books.google.com/books?id=HpBEBQAAQBAJ&pg=PA49&dq=hugh+Paterson+III&hl=en&sa=X&ei=hDgOVbWpD8r9yQS9g4KYAg&ved=0CCQQ6AEwAQ#v=onepage&q=hugh%20Paterson%20III&f=false) view on Google Books] [[Buy the book](http://www.cambridge.org/US/academic/subjects/languages-linguistics/sociolinguistics/endangered-languages-and-new-technologies) at CUP]
 * Paterson, Hugh J., III. 2012. _Keyboard layout as part of language documentation: the case of the Meꞌphaa and Chinantec keyboards_. Paper presented at CRASSH Conference Language Endangerment: Methodologies and New Challenges, Cambridge, UK.
  * [[In Repo Content](/Publications/2012%20-%20Paper%20presented%20at%20CRASSH)] [[Blog post](http://hugh.thejourneyler.org/2012/keyboard-design-for-minority-languages/)] [[Youtube video of presentation](http://youtu.be/_Z5n77NPZC0)]
-* [Reading and Tone Patterns](/Publications/Reading%20and%20Tone%20Patterns) is a draft of some observations I have made about reading and text input. 
 
 ---
-Drafts: Some notes before moving to github: https://docs.google.com/document/d/14QSEyJaHNAhjto5hOf4anaJGpntidWbGBrqdRANWGJg/edit?usp=sharing
+##Drafts
+* Some notes before moving to github: https://docs.google.com/document/d/14QSEyJaHNAhjto5hOf4anaJGpntidWbGBrqdRANWGJg/edit?usp=sharing
+* [Reading and Tone Patterns](/Publications/Reading%20and%20Tone%20Patterns) is a draft of some observations I have made about reading and text input. 
