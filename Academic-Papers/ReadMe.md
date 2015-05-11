@@ -19,6 +19,12 @@ We distinguish _language revitalization/conservation_ as a separate activity fro
 
 We hold that the text input activity is important in all of these disciplines.
 
+###Typing is Language production
+There exists an interesting question, which goes like the following: _Is typing acually language production?_
+
+I hold that it is langauge production. 
+I also hold that typing is communicative gesture. Some hold that gesture is communicative without being language, making exceptions for sign-languages. I hold that typing is language use, and therefore language, and also simultaniously communictive gesture, in ways more like sign-language than like non-communicative gesture.
+
 ##Human-Computer Interaction
 Moving from broad categorization to more specific categorization, the taxonomy falls a bit like this: Human-Computer Interaction -- > Input via Sensors --> Input target is Text --> Text Input --> Typing --> Keyboard Typing.
 
