@@ -13,5 +13,5 @@ _The following papers and presentations can be found in the `/Publications` fold
 
 ---
 ##Drafts
-* Some notes before moving to github: https://docs.google.com/document/d/14QSEyJaHNAhjto5hOf4anaJGpntidWbGBrqdRANWGJg/edit?usp=sharing
+* Some [notes before moving to github](https://docs.google.com/document/d/14QSEyJaHNAhjto5hOf4anaJGpntidWbGBrqdRANWGJg/edit?usp=sharing)
 * [Reading and Tone Patterns](/Publications/Reading%20and%20Tone%20Patterns) is a draft of some observations I have made about reading and text input. 
