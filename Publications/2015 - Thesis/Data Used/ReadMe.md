@@ -31,12 +31,14 @@ Inside each folder are several pieces of data.
 3. There are several keyboard layouts for each language. These come in two clases:
  * Keyboards that have been presented or suggested in the literature.
  * Keyboards that I have suggested based on text samples.
+ 
  There are serval things inculded for each keyboard.
   * A textual description of how it functions.
   * A technical description of the characters it supports.
   * A visualization of the first two states (Base & Shift). This indicates where the dead keys are, if they exist.
   * A heat map visualization for the sample text from James.
   * A heat map visualization of the entire text from James.
+  * A fitness score for each keyboard.
 4. Statistics for the texts in each language.
  * Statistics for James.
  * Statsitics for Wikipedia corpus.
