@@ -1,7 +1,7 @@
 #Data Used
 _This file presents the folders of data in this folder. It tells the story of the data used in this thesis. There are five use cases in this thesis._
 
-1. 	USA Use Case
+1. USA Use Case
  * Navaho
  * English
 2. Mongolia Use Case
@@ -20,4 +20,4 @@ _This file presents the folders of data in this folder. It tells the story of th
 5. Mexico Use Case
  * Me'phaa
  * Chinantec
- * Spanish
+ * Spanish	
