@@ -42,6 +42,20 @@ Inside each folder are several pieces of data.
 4. Statistics for the texts in each language.
  * Statistics for James.
  * Statsitics for Wikipedia corpus.
+  * Summary of characters used in the text
+  * Total number of characters in the text
+  * Total number of words in the text
+  * Total number of different characters used in the text
+  * Total number of keystrokes with the current layout
+  * right hand v.s. left hand
+  * finger load per finger 0-9
+  * right - left balance
+  * use of punctuation
+  * Characters not used in the text
+  * Percentage of use
+  * Combinational use of characters
+  * distance traveled
+
 
 ##Various wikipedia stats
 _These are some of the stats from some of the languages in this project._
