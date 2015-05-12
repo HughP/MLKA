@@ -90,13 +90,13 @@ Character counts on the cleaned corpus constitute the following:
 
 Character count for 'nvwiki-clean.txt':
 
-|Unicode code point| Symbol| Count
+Character Name|Unicode code point| Symbol| Count
 ---|---|---|---
-|U+FEFF|﻿|132
-|U+200E|‎|4
-|U+000A| |6392
-|U+000D| |6392
-|U+00A0| |158
+ZERO WIDTH NO-BREAK SPACE |U+FEFF|﻿|132
+LEFT-TO-RIGHT MARK |U+200E|‎|4
+LINE FEED (LF) |U+000A| |6392
+CARRIAGE RETURN (CR)|U+000D| |6392
+NO-BREAK SPACE |U+00A0| |158
 |U+0020| |121085
 |U+0060|` |10
 |U+005F|_|1
