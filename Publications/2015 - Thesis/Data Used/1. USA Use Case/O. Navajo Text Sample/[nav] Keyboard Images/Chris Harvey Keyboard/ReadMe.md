@@ -1,8 +1,12 @@
 #Navajo
-Keyboard Layout Description here: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
+##Keyboard Layout
+* Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
-Wikipedia text
+##New Testament Stats
+Text Count
+
+##Wikipedia text Stats
 
 `nvwiki-ori.txt` is a file from Matt Stave
 `nvwiki-clean.txt` is a file derived from Matt Stave's file which removed the following:
@@ -26,7 +30,7 @@ Character count for 'nvwiki-clean.txt':
 |U+000D| |6392
 |U+00A0| |158
 |U+0020| |121085
-|U+0060|`|10
+|U+0060|` |10
 |U+005F|_|1
 |U+002D|-|840
 |U+2013|–|902
