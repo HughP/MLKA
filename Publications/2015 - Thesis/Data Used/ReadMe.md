@@ -25,6 +25,7 @@ _This file presents the folders of data in this folder. It tells the story of th
 
 ##Data types
 Inside each folder are several pieces of data.
+
 1. There is a text from the Christian New Testament. - The book of James. This is a parallel corpus. The detials for each text sample are indicated with the text. This text may apear in several forms as it was cleaned for processing.
 2. There is a download of Wikipedia for the language if there was one a matching Wikipedia for the language (and if the text file was small enough to fit into github). If it was too large then there is just a textual summary.
 3. There are several keyboard layouts for each language. These come in two clases:
