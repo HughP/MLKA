@@ -7,6 +7,7 @@
 Text Count
 
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
+
 |Unicode code point| Symbol| Count
 ---|---|---|---
 |U+000A| |23
@@ -73,7 +74,7 @@ Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thes
 |U+007A|z|185
 
 
-##Wikipedia text Stats
+##Wikipedia Text Stats
 
 `nvwiki-ori.txt` is a file from Matt Stave
 `nvwiki-clean.txt` is a file derived from Matt Stave's file which removed the following:
@@ -88,6 +89,7 @@ This resulted in about 7070 edits.
 Character counts on the cleaned corpus constitute the following:
 
 Character count for 'nvwiki-clean.txt':
+
 |Unicode code point| Symbol| Count
 ---|---|---|---
 |U+FEFF|﻿|132
