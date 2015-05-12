@@ -3,25 +3,25 @@ _This file presents the folders of data in this folder. It tells the story of th
 ##Folders
 
 1. [`/USA Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case)
- * Navaho [`[nav](http://www.ethnologue.com/language/nav)`]
- * English [`[eng](http://www.ethnologue.com/language/eng)`]
+ * Navaho [[`nav`](http://www.ethnologue.com/language/nav)]
+ * English [[`eng`](http://www.ethnologue.com/language/eng)]
 2. [`/Mexico Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/2.%20Mexico%20Use%20Case)
- * Me'phaa [`[tcf](http://www.ethnologue.com/language/tcf)`]
- * Chinantec [`[cso](http://www.ethnologue.com/language/cso)`]
- * Spanish	[`[spa](http://www.ethnologue.com/language/spa)`]
+ * Me'phaa [[`tcf`](http://www.ethnologue.com/language/tcf)]
+ * Chinantec [[`cso`](http://www.ethnologue.com/language/cso)]
+ * Spanish	[[`spa`](http://www.ethnologue.com/language/spa)]
 3. [`/Nigeria Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/3.%20Nigeria%20Use%20Case)
- * Ezaa [`[eza](http://www.ethnologue.com/language/eza)`]
- * Okphela [`[atg](http://www.ethnologue.com/language/atg)`]
- * Cishingini [`[asg](http://www.ethnologue.com/language/asg)`]
- * Bekwarra [`[bkv](http://www.ethnologue.com/language/bkv)`]
- * Igbo [`[ibo](http://www.ethnologue.com/language/ibo)`]
+ * Ezaa [[`eza`](http://www.ethnologue.com/language/eza)]
+ * Okphela [[`atg`](http://www.ethnologue.com/language/atg)]
+ * Cishingini [[`asg`](http://www.ethnologue.com/language/asg)]
+ * Bekwarra [[`bkv`](http://www.ethnologue.com/language/bkv)]
+ * Igbo [[`ibo`](http://www.ethnologue.com/language/ibo)]
 4. [`/Europe Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/4.%20Europe%20Use%20Case)
- * German [`[deu](http://www.ethnologue.com/language/deu)`]
- * French [`[fra](http://www.ethnologue.com/language/fra)`]
- * Italian [`[ita](http://www.ethnologue.com/language/ita)`]
+ * German [[`deu`](http://www.ethnologue.com/language/deu)]
+ * French [[`fra`](http://www.ethnologue.com/language/fra)]
+ * Italian [[`ita`](http://www.ethnologue.com/language/ita)]
 5. [`/Mongolia Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/5.%20Mongolia%20Use%20Case)
- * Mongolian [`[khk](http://www.ethnologue.com/language/khk)`]
- * Russian [`[rus](http://www.ethnologue.com/language/rus)`]
+ * Mongolian [[`khk`](http://www.ethnologue.com/language/khk)]
+ * Russian [[`rus`](http://www.ethnologue.com/language/rus)]
 
 ##Data types
 Inside each folder are several pieces of data.
