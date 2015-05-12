@@ -1,5 +1,5 @@
 #Data Used
-_This file presents the folders of data in this folder. It tells the story of the data used in this thesis. There are five use cases in this thesis._
+_This file presents the folders of data in this folder. It tells the story of the data used in this thesis. There are five use cases in this thesis. Each one has its own folder._
 ##Folders
 
 1. [`/USA Use Case`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case)
