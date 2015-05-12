@@ -26,12 +26,20 @@ _This file presents the folders of data in this folder. It tells the story of th
 ##Data types
 Inside each folder are several pieces of data.
 
-1. There is a text from the Christian New Testament. - The book of James. This is a parallel corpus. The detials for each text sample are indicated with the text. This text may apear in several forms as it was cleaned for processing.
-2. There is a download of Wikipedia for the language if there was one a matching Wikipedia for the language (and if the text file was small enough to fit into github). If it was too large then there is just a textual summary.
+1. There is a text from the Christian New Testament. - The book of James. This is used as a parallel corpus across all the languages. The detials (such as provonance and how it was cleaned) for each text sample are indicated with the text. The original text may apear in several forms (and files) following the iteration of cleaning as it was processed.
+2. There is a download of Wikipedia for the language if there was a matching Wikipedia for the language. The whole file is included if the text file was small enough to fit into github. If the text file was too large then there is just a statistical summary. The Methodology for cleaning each wikipedia corpus is included in the Wikipedia data folder.
 3. There are several keyboard layouts for each language. These come in two clases:
- * Keyboards that have been presented in the literature.
+ * Keyboards that have been presented or suggested in the literature.
  * Keyboards that I have suggested based on text samples.
+ There are serval things inculded for each keyboard.
+  * A textual description of how it functions.
+  * A technical description of the characters it supports.
+  * A visualization of the first two states (Base & Shift). This indicates where the dead keys are, if they exist.
+  * A heat map visualization for the sample text from James.
+  * A heat map visualization of the entire text from James.
 4. Statistics for the texts in each language.
+ * Statistics for James.
+ * Statsitics for Wikipedia corpus.
 
 ##Various wikipedia stats
 _These are some of the stats from some of the languages in this project._
