@@ -58,35 +58,35 @@ _Each keyboard layout has its own folder._
 
 * [Obolo Keyboard](/Research-Keyboards/Obolo%20Keyboard)
 
-**Keyboard Details**:
-**Languages Designed for**:
-**Last Updated**:
-**Link**:
-**Link 2**:
-**Author**:
-**Organization**:
-**License**:
+ * **Keyboard Details**:
+ * **Languages Designed for**:
+ * **Last Updated**:
+ * **Link**:
+ * **Link 2**:
+ * **Author**:
+ * **Organization**:
+ * **License**:
 
 * [Fulfulde Keyboard](/Research-Keyboards/Fulfulde%20Keyboard)
 
-**Keyboard Details**:
-**Languages Designed for**:
-**Last Updated**:
-**Link**:
-**Link 2**:
-**Author**:
-**Organization**:
-**License**:
+ * **Keyboard Details**:
+ * **Languages Designed for**:
+ * **Last Updated**:
+ * **Link**:
+ * **Link 2**:
+ * **Author**:
+ * **Organization**:
+ * **License**:
 
 ###Template
 
 * Name - with link to folder
 
-**Keyboard Details**:
-**Languages Designed for**:
-**Last Updated**:
-**Link**:
-**Link 2**:
-**Author**:
-**Organization**:
-**License**:
+ * **Keyboard Details**:
+ * **Languages Designed for**:
+ * **Last Updated**:
+ * **Link**:
+ * **Link 2**:
+ * **Author**:
+ * **Organization**:
+ * **License**:
