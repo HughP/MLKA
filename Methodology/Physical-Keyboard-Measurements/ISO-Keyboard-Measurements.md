@@ -1,7 +1,7 @@
 # Apple Keyboard Model: A1314  Wireless bluetooth keyboard
 ##ISO Keyboard Layout
 _These are x,y coordinates for the centers of the keys. Coordinates are on a millimeter grid with 0,0, starting at the left bottom key (fn key). All measurements are rounded to the nearest 0.5mm. All x,y values are expressed with partial millimeter as in 0.0,7.5 . The bottom row of keys following ISO 9995 would be labeled “A”. Visual diagram in repo. In this keyboard all spaces between key edges are 3mm. Measurements are not laser exact for the purposes of milling but are close enough for the purposes of computing finger travel distance._
-![Keyboard layout](/Physical-Keyboard-Measurements/ISO-Keyboard-models.jpg)
+![Keyboard layout](/Methodology/Physical-Keyboard-Measurements/ISO-Keyboard-models.jpg)
 
 99e = 
 99d = 
