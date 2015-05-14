@@ -41,3 +41,35 @@ You could look at the following article:
 Jannedy, Stefanie and Ines Fiedler. 2013. Prosody of focus marking in Ewe. JALL. Volume 34, Issue 1, 1–46.
 If I remember right, they cite some articles among their references that also deal with intonation in African languages.
 Also, Annie Rialland has been doing research on intonation in Embosi and Wolof (and probably other languages). If you google Rialland and intonation, you will come up with some references, although a lot of them are conference presentation.
+
+---
+##Hugh's Notes on functional load
+
+Functional load
+What is Functional load and is it called upon in the text input process?
+Functional load - measuring the linguistic distinctions
+Perceptual load - measuring the difficulty in visual distinctions
+Cognitive load - measuring how much “brain power” is used during the reading or writing process.
+
+Cognitive Load is a term used in cognitive psychology referring to how hard the brain has to work to integrate new information (e.g. there's a higher cognitive load if the language of instruction is L2 than if it's L1). But I don't recall any references to Cognitive Load in the literature on tone orthography. I'd be interested if you can tell me where you've read this.
+
+The origin of the term functional load can be traced to the writings of the Prague School (Mathesius 1929; Trubetzkoy 1939), but it was Martinet (1955) who popularised the concept. After that, it received quite a lot of attention in the 1960s, but fell out of fashion after that. Several attempts have been made to measure functional load, including, with particular relevance to African tone languages Greenberg (1959). However, functional load is notoriously elusive to quantify, and a developing a reliable measure continues to be the subject of research in the field of computational linguistics (e.g. Surendran & Niyogi forthcoming; Surendran & Levow 2004; Surendran & Niyogi 2003).
+ 
+King’s (1967) definition: "The term functional load is customarily used in linguistics to describe the extent and degree of contrast between linguistic units, usually phonemes. In its simplest expression, functional load is a measure of the number of minimal pairs which can be found for a given opposition. More generally, in phonology, it is a measure of the work which two phonemes (or distinctive features) do in keeping utterances apart, in other words a gauge of the frequency with which two phonemes contrast in all possible environments."
+
+Greenberg, H.H. (1959). A method of measuring functional yield as applied to tone in African languages. Georgetown University Monograph series on Language and Linguistics 12.7-16.
+Hockett, Charles F. (1966). The quantification of functional load. Word 23.320-339.
+King, Robert D. (1967). Functional Load and Sound change. Language 43.831-852.
+Martinet, André (1955). Economie des changements phonétiques. Berne: Francke.
+Mathesius, Vilém (1929). La structure phonologique du lexique du tchèque moderne. Prague.
+Surendran, Dino J.  & Partha Niyogi (forthcoming). Quantifying the functional load of phonemic oppositions, distinctive features, and suprasegmentals. In ed. Ole Nedergaard Thomsen, Competing Models of Linguistic Change: Evolution and Beyond. In commemoration of Eugenio Coseriu (1921-2002). Amsterdam and Philadelphia: Benjamins.
+Surendran, Dinoj & Gina Levow (2004). The functional load of tone in Mandarin is as high as that of vowels. Paper presented to the Speech Prosody, 2004.
+Surendran, Dinoj & Partha Niyogi (2003). An approach to investigating the role of functional load in language change. Paper presented to the 16th International Conference on Historical Linguistics, Copenhagen, 2003.
+Trubetzkoy, Nikolai (1939). Grundzüge der Phonologie. Travaux du Cercle Linguistique de Prague: Prague.
+
+--hp3--04. January 2015
+ Économie des changements phonétiques: Traité de phonologie diachronique. Par ANDRÉ MARTINET. (Bibliotheca romanica, Series prima: Manualia et cornrnentationes, No. 10.) Pp. 396. Berne: editions A. Francke S. A., 1955
+A manual of phonology. By CHARLES F. HOCKETT(International journal of American linguistics, Vol. 21, No. 4, Part 1 [October 19551 = Indiana University publications in anthropology and linguistics, Memoir 11 of IJAL.) Pp. v, 246. Baltimore: Waverly Press (for Indiana University, under the auspices of [the] Linguistic Society of America [and the] American Anthropological Association), 1955.
+ b Surendran and Niyogi, Quantifying the functional load of phonemic oppositions, distinctive features, and suprasegmentals, chapter in Current trends in the theory of linguistic change. In commemoration of Eugenio Coseriu (1921-2002), Ole Nedergaard Thomsen (editor), Amsterdam & Philadelphia: Benjamins.
+Surendran and Levow, The functional load of tone in Mandarin is as high as that of vowels, Proceedings of Speech Prosody 2004, Nara, Japan, pp. 99-102.
+
