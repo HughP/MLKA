@@ -33,7 +33,7 @@ Inside each folder are several pieces of data.
  * Keyboards that I have suggested based on text samples.
  
  There are serval things inculded for each keyboard.
-  * A textual description of how it functions.
+  * A textual description of how it functions. Including dead-keys ordering and character values.
   * A technical description of the characters it supports.
   * A visualization of the first two states (Base & Shift). This indicates where the dead keys are, if they exist.
   * A heat map visualization for the sample text from James.
@@ -55,6 +55,7 @@ Inside each folder are several pieces of data.
    * Total number of characters in the text
    * Total number of words in the text
    * Total number of different characters used in the text
+   
 
 ###Workflow For text processing
 For data from both Wikipedia and the various coppies of the book of James the following steps were followed for each of the texts used.

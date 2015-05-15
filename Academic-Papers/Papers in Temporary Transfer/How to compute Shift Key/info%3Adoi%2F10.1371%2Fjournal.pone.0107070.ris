@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - A Data-Driven Design Evaluation Tool for Handheld Device Soft Keyboards
+A1  - Trudeau, Matthieu B. 
+A1  - Sunderland, Elsie M. 
+A1  - Jindrich, Devin L. 
+A1  - Dennerlein, Jack T. 
+Y1  - 2014/09/11
+N2  - <p>Thumb interaction is a primary technique used to operate small handheld devices such as smartphones. Despite the different techniques involved in operating a handheld device compared to a personal computer, the keyboard layouts for both devices are similar. A handheld device keyboard that considers the physical capabilities of the thumb may improve user experience. We developed and applied a design evaluation tool for different geometries of the QWERTY keyboard using a performance evaluation model. The model utilizes previously collected data on thumb motor performance and posture for different tap locations and thumb movement directions. We calculated a performance index (PI<sub>TOT</sub>, 0 is worst and 2 is best) for 663 designs consisting in different combinations of three variables: the keyboard's radius of curvature (R) (mm), orientation (O) (°), and vertical location on the screen (L). The current standard keyboard performed poorly (PI<sub>TOT</sub> = 0.28) compared to other designs considered. Keyboard location (L) contributed to the greatest variability in performance out of the three design variables, suggesting that designers should modify this variable first. Performance was greatest for designs in the middle keyboard location. In addition, having a slightly upward curve (R = −20 mm) and orientated perpendicular to the thumb's long axis (O = −20°) improved performance to PI<sub>TOT</sub> = 1.97. Poorest performances were associated with placement of the keyboard's spacebar in the bottom right corner of the screen (e.g., the worst was for R = 20 mm, O = 40°, L = Bottom (PI<sub>TOT</sub> = 0.09)). While this evaluation tool can be used in the design process as an ergonomic reference to promote user motor performance, other design variables such as visual access and usability still remain unexplored.</p>
+JF  - PLoS ONE
+JA  - PLoS ONE
+VL  - 9
+IS  - 9
+UR  - http://dx.doi.org/10.1371%2Fjournal.pone.0107070
+SP  - e107070
+EP  -
+PB  - Public Library of Science
+M3  - doi:10.1371/journal.pone.0107070
+ER  -
