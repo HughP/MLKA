@@ -16,7 +16,7 @@ This summary is sourced and summarized from two resources:
 
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
-|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |     Orthography    | ' | b | ch  | ch' | d | dl | dz | g | gh | h  | hw | j  | k  | k' | kw | l | ɬ | m | n | s | ʃ | t | t' | tɬ | tɬ' | ts | ts' | w | x | y | z | zh |
 | Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | sh | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ |  | w?? |  | j | z | ʒ |
@@ -29,47 +29,6 @@ In the above chart orthography sequences are shown. These sequences are arranged
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-A
-
-B
-Ch
-Ch’
-
-D
-Dl
-Dz
-
-E
-G
-Gh
-H
-Hw
-
-I
-
-J
-K
-K’
-Kw
-L
-Ł
-M
-N
-O
-S
-Sh
-T
-T’
-Tł
-Tł’
-Ts
-Ts’
-W
-X
-Y
-Z
-Zh
-
 ###Diacritics
 There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
 
@@ -77,7 +36,7 @@ There are arguably four kinds of tonal patterns:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
 |:------------------------:|--------------|------------|
-| High                     |       H      |     HL (Falling)     |
+| High                     |       H      |     HL (Falling)    |
 | Low                      |       L      |     LH (Rising)     |
 
 H, L, LL, HH, LH (Rising), HL (Falling)
