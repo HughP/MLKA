@@ -4,10 +4,44 @@
 
 1. [`/Navajo-Keyboards`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards)
  * Keyboard Resources and Images for Navajo.
-2. [`/General Linguistic Works on Navajo`](/Publications/2015%20-%20Thesis/Data%20Used/2.%20Mexico%20Use%20Case)
-3. [`/Navajo James Text`](/Publications/2015%20-%20Thesis/Data%20Used/3.%20Nigeria%20Use%20Case)
-4. [`/Wikipedia extracted Text`](/Publications/2015%20-%20Thesis/Data%20Used/4.%20Europe%20Use%20Case)
+2. [`/General Linguistic Works on Navajo`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/General%20Linguistic%20Works%20on%20Navajo)
+3. [`/Navajo James Text`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text)
+4. [`/Wikipedia extracted Text`](Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Wikipedia%20extracted%20Text)
+
+##Brief on the Phonology and Orthography
+
+This summary is sourced and summarized from two resources:
+* McDonough, Joyce. 2003. The Navajo sound system (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
+* Wilson, Garth. 1994. Conversational Navajo dictionary, 3rd edn. Blanding, Utah: Conversational Navajo Publications. 
+
+In summary the Navajo orthogrpahy contains the following base characters:
+
+TABLE
+
+These are used to represent the following phonemes:
+
+TABLE
+
+There are two kinds of diacritics marked potentially marked on vowels and nasals.
+
+Vowels are optionally marked for nasality.
+Vowels and nasals are optionally marked for tone.
+
+Vowels are also reapeaded orthographicaly when they are contrastive for length.
+Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+
+There are four kinds of tonal patterns:
+
+| *Tonal Patterns in Navajo* | Single Vowel | Long Vowel |
+|:------------------------:|--------------|------------|
+| High                     |       H      |     HL     |
+| Low                      |       L      |     LH     |
+
+H, L, LH (Rising), HL (Falling)
+Only high tone is marked. HL and LH sequences only occur on long vowels.
+
  
+
 
 ##Keyboard Layout
 
