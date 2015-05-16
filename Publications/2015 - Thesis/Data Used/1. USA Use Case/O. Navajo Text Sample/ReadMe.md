@@ -16,10 +16,10 @@ This summary is sourced and summarized from two resources:
 
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
-|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|     Orthography    | ' | b | ch  | ch' | d | dl | dz | g | gh | h  | hw | j  | k  | k' | kw | l | ɬ | m | n | s | ʃ | t | t' | tɬ | tɬ' | ts | ts' | w | x | y | z | zh |
-| Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | sh | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ |  | w?? |  | j | z | ʒ |
+|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |   |   |   |   |    |    |    |    |    |    |    |    |    |    |    | 
+|:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|
+|     Orthography   | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw  | l | ɬ | m | n | s | sh  | t  | t' | tɬ | tɬ' | ts | ts' | w | x |y | z | zh |
+| Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | ʃ | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ | w |  | j | z | ʒ |
 
 
 In the above chart orthography sequences are shown. These sequences are arranged with the following orthographic characters:
