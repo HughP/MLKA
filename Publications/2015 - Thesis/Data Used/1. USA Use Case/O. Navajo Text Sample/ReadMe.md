@@ -5,8 +5,11 @@
 1. [`/Navajo-Keyboards`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards)
  * Keyboard Resources and Images for Navajo.
 2. [`/General Linguistic Works on Navajo`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/General%20Linguistic%20Works%20on%20Navajo)
+ * References consulted and cited as part of the background work on Navajo orthography and phonology.
 3. [`/Navajo James Text`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text)
+ * The text of James used as a corpus and associated files.
 4. [`/Wikipedia extracted Text`](Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Wikipedia%20extracted%20Text)
+ * The text of the Navajo Wikipedia used as a corpus and associated files.
 
 ##Brief on the Phonology and Orthography
 
@@ -37,10 +40,14 @@ In the above chart orthography "character sequences" are shown. In the following
 | Upper Case | A | E | I | O |
 | Lower Case | a | e | i | o |
 
-###Diacritics
-There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+####Length
+Vowels may be long or short. Long vowels are indicated twice orthographically i.e. ⟨ aa ⟩.
 
-There are arguably four kinds of tonal patterns:
+
+####Tone
+There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent.
+
+There are arguably four kinds of tonal patterns which occur in Navajo:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
 |:------------------------:|--------------|------------|
@@ -48,9 +55,18 @@ There are arguably four kinds of tonal patterns:
 | Low                      |       L      |     LH (Rising)     |
 
 H, L, LL, HH, LH (Rising), HL (Falling)
-Only high tone is marked. HH, HL and LL, LH sequences only occur on long vowels.
+HH, HL and LL, LH sequences only occur on long vowels.
+Tone may also be indicated on nasals. ⟨ n, ń ⟩
 
-Since Navajo uses a four vowel system (at least orthographically), this creats the following permutations.  
+####Nasality
+Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
+
+
+###Diacritics
+There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+
+
+Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creats the following permutations.  
 
 * ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩ 
 * ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
@@ -58,6 +74,8 @@ Since Navajo uses a four vowel system (at least orthographically), this creats t
 * ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
 * ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
 
+###Punctuation
+Punctuation is undiscussed in resources currently available. I assume that an English like practice is also the case in Navajo punctuation.
 
 ##Keyboard Layout
 
