@@ -24,7 +24,7 @@ In summary the Navajo orthography contains the following "character sequences" a
 
 In the above chart orthography sequences are shown. These sequences are arranged with the following orthographic characters:
 
-|     Orthography characters     |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Orthography characters |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |:----------:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
