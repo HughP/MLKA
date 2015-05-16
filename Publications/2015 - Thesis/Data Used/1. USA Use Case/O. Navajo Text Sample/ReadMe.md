@@ -50,7 +50,7 @@ There are two pitch heights in Navajo, high and low. Low tone is unmarked. High 
 There are arguably four kinds of tonal patterns which occur in Navajo:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
-|:------------------------:|--------------|------------|
+|:------------------------:|:--------------:|:------------:|
 | High                     |       H      |     HL (Falling)    |
 | Low                      |       L      |     LH (Rising)     |
 
@@ -61,9 +61,11 @@ Tone may also be indicated on nasals. ⟨ n, ń ⟩
 ####Nasality
 Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
 
+####Dipthongs
+Dipthongs occur and are indicated as a sequence of contrasting orthographical vowels.
 
 ###Diacritics
-There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length.
 
 
 Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creats the following permutations.  
