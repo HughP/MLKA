@@ -11,36 +11,84 @@
 ##Brief on the Phonology and Orthography
 
 This summary is sourced and summarized from two resources:
-* McDonough, Joyce. 2003. The Navajo sound system (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
-* Wilson, Garth. 1994. Conversational Navajo dictionary, 3rd edn. Blanding, Utah: Conversational Navajo Publications. 
+* McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
+* Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications. 
 
-In summary the Navajo orthogrpahy contains the following base characters:
+In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
 TABLE
 
 These are used to represent the following phonemes:
 
+p,t,tˡ,ts,tʃ,k,ʔ,aspirated,tʰ,tɬʰ,tsʰ,tʃʰ,kʰ,(kʷʰ),ejective,tʼ,tɬʼ,tsʼ,tʃʼ,kʼ,Continuant,fortis,ɬ,s,ʃ,x,(xʷ),(h),(hʷ)lenis,l,z,ʒ,ɣ,(ɣʷ),Sonorant,Nasal,plain,m,n,glottalized,(mʼ),(nʼ),Glide,plain,j,(w),glottalized,(jʼ),(wʼ) 
+
 TABLE
 
-There are two kinds of diacritics marked potentially marked on vowels and nasals.
+|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|     Othography    | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw | l | ɬ | m | n | s | ʃ | t | t' | tɬ | tɬ' |  |  |  |  |  |  |  |  |
+| Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | sh | tx | t' | tɬʰ | tɬʼ |  |  |  |  |  |  |  |  |
+A
 
-Vowels are optionally marked for nasality.
-Vowels and nasals are optionally marked for tone.
+B
+Ch
+Ch’
 
-Vowels are also reapeaded orthographicaly when they are contrastive for length.
-Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+D
+Dl
+Dz
 
-There are four kinds of tonal patterns:
+E
+G
+Gh
+H
+Hw
 
-| *Tonal Patterns in Navajo* | Single Vowel | Long Vowel |
+I
+
+J
+K
+K’
+Kw
+L
+Ł
+M
+N
+O
+S
+Sh
+T
+T’
+Tł
+Tł’
+Ts
+Ts’
+W
+X
+Y
+Z
+Zh
+
+###Diacritics
+There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
+
+There are arguably four kinds of tonal patterns:
+
+| *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
 |:------------------------:|--------------|------------|
-| High                     |       H      |     HL     |
-| Low                      |       L      |     LH     |
+| High                     |       H      |     HL (Falling)     |
+| Low                      |       L      |     LH (Rising)     |
 
-H, L, LH (Rising), HL (Falling)
-Only high tone is marked. HL and LH sequences only occur on long vowels.
+H, L, LL, HH, LH (Rising), HL (Falling)
+Only high tone is marked. HH, HL and LL, LH sequences only occur on long vowels.
 
- 
+Since Navajo uses a four vowel system (at least orthographically), this creats the following permutations.  
+
+* ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩ 
+* ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
+* ⟨ ee, ée, eé, éé, ęę, ę́ę, ęę́, ę́ę́ ⟩
+* ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
+* ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
 
 
 ##Keyboard Layout
@@ -48,9 +96,11 @@ Only high tone is marked. HL and LH sequences only occur on long vowels.
 As I understand the situaiton there are two keyboard layouts for Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the baisis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
+In this keyboard layout each of the vowel permutations is treated with a seperate key. High toned n ⟨ ń ⟩ recived its own key as doe the glootal stop marker and bared l.
 
-The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work and us Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combingin diacritics. This work in essence creates a modifier key for tone marks and nasalization marks. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
+The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work and us Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combingin diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
+A visual comparison of the two keyboard layouts is below.
 ![Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
 ![Both Keyboards](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/799px-KB_USA-Navajo.svg.png)
 
