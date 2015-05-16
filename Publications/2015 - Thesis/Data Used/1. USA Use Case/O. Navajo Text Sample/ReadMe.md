@@ -16,18 +16,18 @@ This summary is sourced and summarized from two resources:
 
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
-TABLE
-
-These are used to represent the following phonemes:
-
-p,t,tˡ,ts,tʃ,k,ʔ,aspirated,tʰ,tɬʰ,tsʰ,tʃʰ,kʰ,(kʷʰ),ejective,tʼ,tɬʼ,tsʼ,tʃʼ,kʼ,Continuant,fortis,ɬ,s,ʃ,x,(xʷ),(h),(hʷ)lenis,l,z,ʒ,ɣ,(ɣʷ),Sonorant,Nasal,plain,m,n,glottalized,(mʼ),(nʼ),Glide,plain,j,(w),glottalized,(jʼ),(wʼ) 
-
-TABLE
-
 |     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|     Othography    | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw | l | ɬ | m | n | s | ʃ | t | t' | tɬ | tɬ' |  |  |  |  |  |  |  |  |
-| Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | sh | tx | t' | tɬʰ | tɬʼ |  |  |  |  |  |  |  |  |
+|     Orthography    | ' | b | ch  | ch' | d | dl | dz | g | gh | h  | hw | j  | k  | k' | kw | l | ɬ | m | n | s | ʃ | t | t' | tɬ | tɬ' | ts | ts' | w | x | y | z | zh |
+| Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | sh | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ |  | w?? |  | j | z | ʒ |
+
+
+In the above chart orthography sequences are shown. These sequences are arranged with the following orthographic characters:
+|     Orthography characters     |   |   |     |     |   |    |    |   |    |     |    |    |
+|:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|
+| Upper Case | ' | B | C | D | G | H | J | K | L  | Ł | M | tʃ | N | S | T | W | X | Y | Z |
+|     Lowwer Case    | ' | b | c  | d | g | h | j | k | l | ɬ  | M | N  | s  | w | x | y | z |
+
 A
 
 B
