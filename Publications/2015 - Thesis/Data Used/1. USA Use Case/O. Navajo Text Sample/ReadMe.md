@@ -14,6 +14,7 @@ This summary is sourced and summarized from two resources:
 * McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
 * Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications. 
 
+###Consonants
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
 |     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |   |   |   |   |    |    |    |    |    |    |    |    |    |    |    | 
@@ -22,12 +23,19 @@ In summary the Navajo orthography contains the following "character sequences" a
 | Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | ʃ | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ | w |  | j | z | ʒ |
 
 
-In the above chart orthography sequences are shown. These sequences are arranged with the following orthographic characters:
+In the above chart orthography "character sequences" are shown. In the following chart the typographical characters presented:
 
 | Orthography characters |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |:----------:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
+
+###Vowels
+
+| Orthography characters |   |   |   |   |
+|:----------:|---|---|---|---|
+| Upper Case | A | E | I | O |
+| Lower Case | a | e | i | o |
 
 ###Diacritics
 There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length. Dipthongs also occur and are indicated as a sequence of contrasting orthographical vowels.
@@ -53,12 +61,12 @@ Since Navajo uses a four vowel system (at least orthographically), this creats t
 
 ##Keyboard Layout
 
-As I understand the situaiton there are two keyboard layouts for Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the baisis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
+As I understand the situaiton there are two keyboard layouts which have historically been used to type Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the baisis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
-In this keyboard layout each of the vowel permutations is treated with a seperate key. High toned n ⟨ ń ⟩ recived its own key as doe the glootal stop marker and bared l.
+In this keyboard layout each of the vowel permutations is treated with a seperate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all recieve their own keys as well.
 
-The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work and us Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combingin diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
+The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work and us Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combinging diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then imediatly following key press would add a modifier diacritic like the acute accent or ogonek. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
 A visual comparison of the two keyboard layouts is below.
 ![Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
@@ -71,11 +79,10 @@ A third set of text input solutions were created to meet demands created by the 
 
 
 ![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg)
-
 iOS: http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkCi4Vi7.dpuf
 
+![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/Android-Keybard-NavajoApp_ScreenshotFromApp.jpg)
 Android: http://kunm.org/post/new-app-texting-navajo-android-phones
-
 
 ##New Testament Stats
 Text Count
