@@ -49,6 +49,7 @@ Vowels may be long or short. Long vowels are indicated twice orthographically i.
 ####Tone
 There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent.
 
+####Tone Patterns (Melodies)
 There are arguably four kinds of tonal patterns which occur in Navajo:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
@@ -59,6 +60,11 @@ There are arguably four kinds of tonal patterns which occur in Navajo:
 H, L, LL, HH, LH (Rising), HL (Falling)
 HH, HL and LL, LH sequences only occur on long vowels.
 Tone may also be indicated on nasals. ⟨ n, ń ⟩
+
+#####Classification of tonal orthographic marking
+Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in termonology are well presented and the reader hear is encouraged to read Robert's arguements.
+
+* Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
 ####Nasality
 Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
@@ -74,12 +80,16 @@ Since Navajo uses a four vowel system (at least orthographically), the use of di
 
 * ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩
 
-When length is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to be a single phoneme. If one holds that a "letter" is a graphical representations of a phoneme, then these would count as "letters". However, as typographical characters these permutations range from digraphs to sexigraphs.
+When length is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to be a single phoneme in Navajo. If one holds that a "letter" is a graphical representations of a phoneme, and that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view), then these would count as "letters". However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught. Therefore it is possible that native speakers consider the previous examples, or the following examples as single characters. Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
 
 * ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
 * ⟨ ee, ée, eé, éé, ęę, ę́ę, ęę́, ę́ę́ ⟩
 * ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
 * ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
+
+* Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
+* Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
+
 
 ###Punctuation
 Punctuation is undiscussed in resources currently available. I assume that an English like practice is also the case in Navajo punctuation.
@@ -117,6 +127,7 @@ The goal in processing the book of James is to determine how much "work" is cond
 To ensure that the text processed is Navajo language the text of the book of James was copied from the following publication found online:
 
 * American Bible Society. 2000. James. Navajo Bible. American Bible Society. https://www.bible.com/versions/1098
+
 Then various characters were removed from the source text. These included section headings, chapter markers, and verse markers. The purpose in doing this was to make the text as equatable with other translations of the book of James as possible. That is, several copies in this study did not have section headings, so, the texts were massaged to eliminate obvious incongruities.
 In order to test assumption two the text of the Navajo Wikipedia was processed in parallel to this text. A short comparison based on frequencies of characters is provided later.
 Assumption three is taken in good faith. Only live tests, with human subjects could show otherwise. Using corpora of written text is acceptable, though not preferred in similar UX and text input studies.
@@ -127,9 +138,22 @@ As has already been discussed, characters may be input via an orthographical typ
 * _-u_ uses the Unicode Collation Algorithm (UCA) rather than the default sort. 
 * _-c_ or _-d_ enforce Unicode normalization (NFC or NFD) as data is read.
 
-All of the above options are used and noted in various parts of this study.
+All of the above options are used and noted in various parts of this study. By decomposing characters and counting them it is then possible to reconstruct the keys used to produce the text corpus being analysised. Once the text corpus is analysed by keyboard input method, it is then possible to determine the following:
 
-###Text Count
+* A heat map visualization for the sample text from James.
+* A heat map visualization of the entire text from James.
+* A fitness score for each keyboard. Based on James, and again based on the Wikipedia corpus. This fitness score includes:
+* Total number of keystrokes with the current layout
+* right hand v.s. left hand (I started an interesting calculator in Google Docs.)
+* finger load per finger 0-9
+* right - left balance
+* use of punctuation
+* Characters not used in the text
+* Percentage of use
+* Combinational use of characters
+* distance traveled
+
+###Text Counts
 The original text capture from the _Navajo Bible_ can be found in the following file: [`/Navajo James Text/Navajo Text.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text.txt)
 As previously indicated, the file was cleaned up for this study. The file used for statistics is the following: [`/Navajo James Text/Navajo Text-no numbers-no headings.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text-no%20numbers-no%20headings.txt)
 When referring to "the James text", it is this second file which will be referenced.
@@ -142,10 +166,21 @@ How many words are in the text?| _This was determined by counting the number of 
 How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16488
 How many fully decomposed characters are in the text?| _This was determined by ...._| 
 How many visible characters (orthographic units, counting long vowels as two units) are in the text?| _This was determined by counting the number of spaces and adding 1._| 
-What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels. _| 
+What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels even though they represent a single phoneme. _| 
 
 Total Diacritic Density (This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics.)
 Tonal Marking Density (This is similar to total diacritic marking density, but only looks at tone.)
+
+####Punctuation
+The following puncturation marks are used in the text.
+Character Name|Unicode code point|Symbol|Count
+ ---|---|---|---
+Comma |U+002C|,|194
+Semi-Colon |U+003B|;|6
+Exclimation Point |U+0021|!|6
+Question Mark |U+003F|?|19
+Period (Full Stop) |U+002E|.|129
+
 
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
@@ -223,9 +258,9 @@ Character Name|Unicode code point|Symbol|Count
 * `"<newline>"`
 * `"<br><br>"`
 * `NO ARTICLE`
-* `""` 4882x
+* `""` (4882 total removals)
 
-This resulted in about 7070 edits.
+This resulted in about 7070 further edits to the original file provided by Matt.
 
 Character counts on the cleaned corpus constitute the following:
 
