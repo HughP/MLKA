@@ -20,7 +20,7 @@ This summary is sourced and summarized from two resources:
 ###Consonants
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
 
-|     Cononants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |   |   |   |   |    |    |    |    |    |    |    |    |    |    |    | 
+|     Consonants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |   |   |   |   |    |    |    |    |    |    |    |    |    |    |    | 
 |:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|
 |     Orthography   | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw  | l | ɬ | m | n | s | sh  | t  | t' | tɬ | tɬ' | ts | ts' | w | x |y | z | zh |
 | Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | ʃ | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ | w |  | j | z | ʒ |
@@ -32,6 +32,8 @@ In the above chart orthography "character sequences" are shown. In the following
 |:----------:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
+
+However, like many other languages which operate in bilingual contexts other orthographic characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings.
 
 ###Vowels
 
@@ -61,16 +63,19 @@ Tone may also be indicated on nasals. ⟨ n, ń ⟩
 ####Nasality
 Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
 
-####Dipthongs
-Dipthongs occur and are indicated as a sequence of contrasting orthographical vowels.
+####Diphthongs
+Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels.
 
 ###Diacritics
-There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base charactars may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also reapeaded orthographicaly when they are contrastive for length.
+There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated orthographically when they are contrastive for length.
 
 
-Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creats the following permutations.  
+Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creates the following permutations.  
 
-* ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩ 
+* ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩
+
+When length is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to be a single phoneme. If one holds that a "letter" is a graphical representations of a phoneme, then these would count as "letters". However, as typographical characters these permutations range from digraphs to sexigraphs.
+
 * ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
 * ⟨ ee, ée, eé, éé, ęę, ę́ę, ęę́, ę́ę́ ⟩
 * ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
@@ -81,21 +86,23 @@ Punctuation is undiscussed in resources currently available. I assume that an En
 
 ##Keyboard Layout
 
-As I understand the situaiton there are two keyboard layouts which have historically been used to type Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the baisis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
+As I understand the situation there are two keyboard layouts which have historically been used to type Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the basis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
-In this keyboard layout each of the vowel permutations is treated with a seperate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all recieve their own keys as well.
+In this keyboard layout each of the vowel permutations is treated with a separate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all receive their own keys as well.
 
-The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work and us Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combinging diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then imediatly following key press would add a modifier diacritic like the acute accent or ogonek. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
+This keyboard focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show semetry between phonemes and keystrokes, but does show semetry between keystrokes and typographical units.
+
+The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimizd around characters -- Unicode characters, rather than orthogrpahic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
 A visual comparison of the two keyboard layouts is below.
 ![Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
 ![Both Keyboards](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/799px-KB_USA-Navajo.svg.png)
 
-Image of both keyboards [from Wikipedia](https://sco.wikipedia.org/wiki/Navajo_leid)
+Image of both keyboards is sourced [from Wikipedia](https://sco.wikipedia.org/wiki/Navajo_leid).
 
 
-A third set of text input solutions were created to meet demands created by the proliforation of mobile communication devices. Jerome Tsosie, president and founder of Native Innovations Inc. is creditied with the design and production of the keyboard apps in the Android Market and the [iTunes Store](https://itunes.apple.com/us/app/navajo-keyboard/id577841547?mt=8) for Navajo language use.
+A third set of text input solutions were created to meet demands created by the proliferation of mobile communication devices. Jerome Tsosie, president and founder of Native Innovations Inc. is credited with the design and production of the keyboard apps in the Android Market and the [iTunes Store](https://itunes.apple.com/us/app/navajo-keyboard/id577841547?mt=8) for Navajo language use.
 
 
 ![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg)
@@ -105,6 +112,17 @@ iOS: http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkC
 Android: http://kunm.org/post/new-app-texting-navajo-android-phones
 
 ##New Testament Stats
+
+The goal in processing the book of James is to determine how much "work" is conducted in the typing of this particular text segment. Make an assessment several things are assumed (1) the text is valid Navajo language, (2) that the text is representative of the Navajo language text input needs, (3) that the text was input correctly when it was typed, and (4) that the text can give some residue of the way it was typed.
+To ensure that the text processed is Navajo language the text of the book of James was copied from the following publication found online:
+
+* American Bible Society. 2000. James. Navajo Bible. American Bible Society. https://www.bible.com/versions/1098
+Then various characters were removed from the source text. These included section headings, chapter markers, and verse markers. The purpose in doing this was to make the text as equatable with other translations of the book of James as possible. That is, several copies in this study did not have section headings, so, the texts were massaged to eliminate obvious incongruities.
+In order to test assumption two the text of the Navajo Wikipedia was processed in parallel to this text. A short comparison based on frequencies of characters is provided later.
+Assumption three is taken in good faith. Only live tests, with human subjects could show otherwise. Using corpora of written text is acceptable, though not prefered in similar UX and text input studies.
+Assumption four is a bit more challenging to address. Several methods of counting characters were used to count characters in each text. Intial counts used [UnicodeCCount](http://scripts.sil.org/UnicodeCharacterCount), a perl script by Bob Hallissy.
+As has already been discussed, characters may be input via an orthographical typographical unit form (i.e. first keyboard), or they may be divided up into Unicode Character form. This only need affect how the text input buttons are arranged. Background processes may 
+
 Text Count
 
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
