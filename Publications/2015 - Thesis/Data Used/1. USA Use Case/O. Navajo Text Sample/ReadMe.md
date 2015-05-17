@@ -47,7 +47,7 @@ Vowels may be long or short. Long vowels are indicated twice orthographically i.
 
 
 ####Tone
-There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent.
+There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent. Tone may occur on vowels or nasals. Typically tone is not indicatd on ⟨ m ⟩, when it occurs on ⟨ n ⟩ it appears as ⟨ ń ⟩.
 
 ####Tone Patterns (Melodies)
 There are arguably four kinds of tonal patterns which occur in Navajo:
@@ -59,7 +59,6 @@ There are arguably four kinds of tonal patterns which occur in Navajo:
 
 H, L, LL, HH, LH (Rising), HL (Falling)
 HH, HL and LL, LH sequences only occur on long vowels.
-Tone may also be indicated on nasals. ⟨ n, ń ⟩
 
 #####Classification of tonal orthographic marking
 Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in termonology are well presented and the reader hear is encouraged to read Robert's arguements.
@@ -87,6 +86,7 @@ When length is considered as a factor for creating permutations, the following c
 * ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
 * ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
 
+
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 * Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
 
@@ -96,9 +96,10 @@ Punctuation is undiscussed in resources currently available. I assume that an En
 
 ##Keyboard Layout
 
-As I understand the situation there are two keyboard layouts which have historically been used to type Navajo. The first was developed prior to Unicode utilized a customized font. Keys were assigned on the basis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
+There are several text input solutions which are used to create digital written texts in Navajo. Two different full size keyboard layouts, and two different layouts on mobile devices. The first of the two keyboard layouts discussed was developed prior to Unicode utilized a customized font. Keys were assigned on the basis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
+
 In this keyboard layout each of the vowel permutations is treated with a separate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all receive their own keys as well.
 
 This keyboard focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show semetry between phonemes and keystrokes, but does show semetry between keystrokes and typographical units.
@@ -106,7 +107,7 @@ This keyboard focuses on matching keystrokes to typographical units. For instanc
 The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimizd around characters -- Unicode characters, rather than orthogrpahic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
 A visual comparison of the two keyboard layouts is below.
-![Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
+
 ![Both Keyboards](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/799px-KB_USA-Navajo.svg.png)
 
 Image of both keyboards is sourced [from Wikipedia](https://sco.wikipedia.org/wiki/Navajo_leid).
@@ -143,15 +144,15 @@ All of the above options are used and noted in various parts of this study. By d
 * A heat map visualization for the sample text from James.
 * A heat map visualization of the entire text from James.
 * A fitness score for each keyboard. Based on James, and again based on the Wikipedia corpus. This fitness score includes:
-* Total number of keystrokes with the current layout
-* right hand v.s. left hand (I started an interesting calculator in Google Docs.)
-* finger load per finger 0-9
-* right - left balance
-* use of punctuation
-* Characters not used in the text
-* Percentage of use
-* Combinational use of characters
-* distance traveled
+ * Total number of keystrokes with the current layout
+ * right hand v.s. left hand (I started an interesting calculator in Google Docs.)
+ * finger load per finger 0-9
+ * right - left balance
+ * use of punctuation
+ * Characters not used in the text
+ * Percentage of use
+ * Combinational use of characters
+ * distance traveled
 
 ###Text Counts
 The original text capture from the _Navajo Bible_ can be found in the following file: [`/Navajo James Text/Navajo Text.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text.txt)
@@ -166,10 +167,8 @@ How many words are in the text?| _This was determined by counting the number of 
 How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16488
 How many fully decomposed characters are in the text?| _This was determined by ...._| 
 How many visible characters (orthographic units, counting long vowels as two units) are in the text?| _This was determined by counting the number of spaces and adding 1._| 
-What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels even though they represent a single phoneme. _| 
-
-Total Diacritic Density (This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics.)
-Tonal Marking Density (This is similar to total diacritic marking density, but only looks at tone.)
+What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels even though they represent a single phoneme. (This is similar to total diacritic marking density, but only looks at tone.)_ | 
+What is the Total Diacritic Density of the text?| _This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics._ | 
 
 ####Punctuation
 The following puncturation marks are used in the text.
