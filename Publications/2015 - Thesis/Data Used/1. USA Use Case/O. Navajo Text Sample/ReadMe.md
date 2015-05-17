@@ -172,6 +172,7 @@ What is the Total Diacritic Density of the text?| _This is the total number of d
 
 ####Punctuation
 The following puncturation marks are used in the text.
+
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
 Comma |U+002C|,|194
@@ -180,7 +181,7 @@ Exclimation Point |U+0021|!|6
 Question Mark |U+003F|?|19
 Period (Full Stop) |U+002E|.|129
 
-
+###File Output
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
 Character Name|Unicode code point|Symbol|Count
