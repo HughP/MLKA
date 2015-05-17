@@ -119,11 +119,33 @@ To ensure that the text processed is Navajo language the text of the book of Jam
 * American Bible Society. 2000. James. Navajo Bible. American Bible Society. https://www.bible.com/versions/1098
 Then various characters were removed from the source text. These included section headings, chapter markers, and verse markers. The purpose in doing this was to make the text as equatable with other translations of the book of James as possible. That is, several copies in this study did not have section headings, so, the texts were massaged to eliminate obvious incongruities.
 In order to test assumption two the text of the Navajo Wikipedia was processed in parallel to this text. A short comparison based on frequencies of characters is provided later.
-Assumption three is taken in good faith. Only live tests, with human subjects could show otherwise. Using corpora of written text is acceptable, though not prefered in similar UX and text input studies.
-Assumption four is a bit more challenging to address. Several methods of counting characters were used to count characters in each text. Intial counts used [UnicodeCCount](http://scripts.sil.org/UnicodeCharacterCount), a perl script by Bob Hallissy.
-As has already been discussed, characters may be input via an orthographical typographical unit form (i.e. first keyboard), or they may be divided up into Unicode Character form. This only need affect how the text input buttons are arranged. Background processes may 
+Assumption three is taken in good faith. Only live tests, with human subjects could show otherwise. Using corpora of written text is acceptable, though not preferred in similar UX and text input studies.
+Assumption four is a bit more challenging to address. Several methods of counting characters were used to count characters in each text. Initial counts used [UnicodeCCount](http://scripts.sil.org/UnicodeCharacterCount), a perl script by Bob Hallissy.
+As has already been discussed, characters may be input via an orthographical typographical unit form (i.e. first keyboard), or they may be divided up into Unicode Character form (i.e. second keyboard). This only need affect how the text input buttons are arranged when the user perceives them. Background processes to the text input process may choose to actually store the data in various encoded formats - even if all of those formats are Unicode. Specifically, of concern in this case is canonical equivalence. UnicodeCCount has the capability to provide counts in several ways: 
+* _No flags_ - defaults to UTF-8
+* _-m_ displays output in _combining mark sequences_ where (base + diacritics) are counted separately.
+* _-u_ uses the Unicode Collation Algorithm (UCA) rather than the default sort. 
+* _-c_ or _-d_ enforce Unicode normalization (NFC or NFD) as data is read.
 
-Text Count
+All of the above options are used and noted in various parts of this study.
+
+###Text Count
+The original text capture from the _Navajo Bible_ can be found in the following file: [`/Navajo James Text/Navajo Text.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text.txt)
+As previously indicated, the file was cleaned up for this study. The file used for statistics is the following: [`/Navajo James Text/Navajo Text-no numbers-no headings.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text-no%20numbers-no%20headings.txt)
+When referring to "the James text", it is this second file which will be referenced.
+
+In the James text the following statistics are encountered.
+
+Question|Note|Statistic|
+---|---|---|---
+How many words are in the text?| _This was determined by counting the number of spaces and adding 1._| 2047
+How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16488
+How many fully decomposed characters are in the text?| _This was determined by ...._| 
+How many visible characters (orthographic units, counting long vowels as two units) are in the text?| _This was determined by counting the number of spaces and adding 1._| 
+What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels. _| 
+
+Total Diacritic Density (This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics.)
+Tonal Marking Density (This is similar to total diacritic marking density, but only looks at tone.)
 
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
