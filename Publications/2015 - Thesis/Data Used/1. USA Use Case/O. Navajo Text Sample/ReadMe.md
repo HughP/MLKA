@@ -96,7 +96,7 @@ Punctuation is undiscussed in resources currently available. I assume that an En
 
 ##Keyboard Layout
 
-There are several text input solutions which are used to create digital written texts in Navajo. Two different full size keyboard layouts, and two different layouts on mobile devices. The first of the two keyboard layouts discussed was developed prior to Unicode utilized a customized font. Keys were assigned on the basis of which characters in the font were replaced. We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
+There are several text input solutions which are used to create digital written texts in Navajo. Four are briefly discussed here. These include two different full size keyboard layouts, and two layouts on mobile devices, iOS and Android. The first of the two full size keyboard layouts discussed was developed prior to Unicode. It was utilized along with a customized font. Keys on the keyboard were assigned on the basis of which characters in the font were replaced. I assume that numbers were also  We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
 
