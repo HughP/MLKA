@@ -33,7 +33,7 @@ In the above chart orthography "character sequences" are shown. In the following
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other orthographic characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings.
 
 ###Vowels
 
@@ -72,7 +72,7 @@ Vowels may be produced with with nasal resonation. Nasality is indicated with an
 Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels.
 
 ###Diacritics
-There are two kinds of diacritics used in the orthography. These are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated orthographically when they are contrastive for length.
+There are two kinds of diacritics used in the orthography. Diacritics are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated typographcially when they are contrastive for length.
 
 
 Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creates the following permutations.  
@@ -131,12 +131,12 @@ Jerome Tsosie | ![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/
 
 ##New Testament Stats
 
-The goal in processing the book of James is to determine how much "work" is conducted in the typing of this particular text segment. Make an assessment several things are assumed (1) the text is valid Navajo language, (2) that the text is representative of the Navajo language text input needs, (3) that the text was input correctly when it was typed, and (4) that the text can give some residue of the way it was typed.
+The goal in processing the book of James is to determine how much "work" is conducted in the typing of this particular text segment. In order to make an assessment several things are assumed (1) the text is valid Navajo language, (2) that the text is representative of the Navajo language text input needs, (3) that the text was input correctly when it was typed, and (4) that the text can give some residue of the way it was typed.
 To ensure that the text processed is Navajo language the text of the book of James was copied from the following publication found online:
 
 * American Bible Society. 2000. James. Navajo Bible. American Bible Society. https://www.bible.com/versions/1098
 
-Then various characters were removed from the source text. These included section headings, chapter markers, and verse markers. The purpose in doing this was to make the text as equatable with other translations of the book of James as possible. That is, several copies in this study did not have section headings, so, the texts were massaged to eliminate obvious incongruities.
+Various characters were removed from the source text. These included section headings, chapter markers, and verse markers. The purpose in doing this was to make the text as equatable as possible with other translations of the book of James used in this study. That is, several copies in this study did not have section headings, so, the texts were massaged to eliminate obvious incongruities.
 In order to test assumption two the text of the Navajo Wikipedia was processed in parallel to this text. A short comparison based on frequencies of characters is provided later.
 Assumption three is taken in good faith. Only live tests, with human subjects could show otherwise. Using corpora of written text is acceptable, though not preferred in similar UX and text input studies.
 Assumption four is a bit more challenging to address. Several methods of counting characters were used to count characters in each text. Initial counts used [UnicodeCCount](http://scripts.sil.org/UnicodeCharacterCount), a perl script by Bob Hallissy.
@@ -172,8 +172,9 @@ Question|Note|Statistic|
 ---|---|---|---
 How many words are in the text?| _This was determined by counting the number of spaces and adding 1._| 2047
 How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16488
-How many fully decomposed characters are in the text?| _This was determined by ...._| 
-How many visible characters (orthographic units, counting long vowels as two units) are in the text?| _This was determined by counting the number of spaces and adding 1._| 
+How many fully decomposed characters are in the text?| _This was determined by counting using -d. This number includes white spaces and non-displaying characters._| 19,931
+How many visible decomposed characters are in the text?| _This was determined by counting using -d and excluding 'U+0020' SPACE and 'U+000A' LINEFEED._ |17,322 
+How many visible orthographic units, counting long vowels as one unit, are in the text?| _This was determined by counting the total number of characters, subtracting invisible characters, subtracting the diacritics, and then also subtracting the number of occurances of long vowels._| 
 What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels even though they represent a single phoneme. (This is similar to total diacritic marking density, but only looks at tone.)_ | 
 What is the Total Diacritic Density of the text?| _This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics._ | 
 
@@ -189,6 +190,8 @@ Question Mark |U+003F|?|19
 Period (Full Stop) |U+002E|.|129
 
 ###File Output
+
+####Counts with -u (pre-composed characters)
 Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
 Character Name|Unicode code point|Symbol|Count
