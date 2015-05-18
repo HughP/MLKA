@@ -26,13 +26,13 @@ _This file presents the folders of data in this folder. It tells the story of th
 ##Data types
 Inside each folder are several pieces of data.
 
-1. There is a text from the Christian New Testament. - The book of James. This is used as a parallel corpus across all the languages. The detials (such as provonance and how it was cleaned) for each text sample are indicated with the text. The original text may apear in several forms (and files) following the iteration of cleaning as it was processed.
+1. There is a text from the Christian New Testament. - The book of James. This is used as a parallel corpus across all the languages. The details (such as provenance and how it was cleaned) for each text sample are indicated with the text. The original text may appear in several forms (and files) following the iteration of cleaning as it was processed.
 2. There is a download of Wikipedia for the language if there was a matching Wikipedia for the language. The whole file is included if the text file was small enough to fit into github. If the text file was too large then there is just a statistical summary. The Methodology for cleaning each wikipedia corpus is included in the Wikipedia data folder.
-3. There are several keyboard layouts for each language. These come in two clases:
+3. There are several keyboard layouts for each language. These come in two classes:
  * Keyboards that have been presented or suggested in the literature.
  * Keyboards that I have suggested based on text samples.
  
- There are serval things inculded for each keyboard.
+ There are serval things included for each keyboard.
   * A textual description of how it functions. Including dead-keys ordering and character values.
   * A technical description of the characters it supports.
   * A visualization of the first two states (Base & Shift). This indicates where the dead keys are, if they exist.
@@ -50,7 +50,7 @@ Inside each folder are several pieces of data.
    * distance traveled
 4. Statistics for the texts in each language.
  * Statistics for James.
- * Statsitics for Wikipedia corpus.
+ * Statistics for Wikipedia corpus.
    * Summary of characters used in the text
    * Total number of characters in the text
    * Total number of words in the text
@@ -58,27 +58,27 @@ Inside each folder are several pieces of data.
    
 
 ###Workflow For text processing
-For data from both Wikipedia and the various coppies of the book of James the following steps were followed for each of the texts used.
+For data from both Wikipedia and the various copies of the book of James the following steps were followed for each of the texts used.
 
 ####For Wikipeida Texts
 1. Daily dumps of each Wikipedia instance by language can be found at the following location: http://dumps.wikimedia.org/backup-index.html
 2. The nightly dump for each language was downloaded and processed with the following script titled wikiextractor: https://github.com/attardi/wikiextractor
-3. Following the processing with the first script, a second script was used to further clean up the file. This script was by Matt Stave and is avaible here:
+3. Following the processing with the first script, a second script was used to further clean up the file. This script was by Matt Stave and is available here:
  The purpose here was to remove HTML and XML characters which were not originally typed in the editing process of Wikipeida.
 
 ####For Texts of the book of James
 1. Copies and permissions were obtained from various sources as indicated in the texts.
-2. Manual text clean up was conducted as indeciated per text.
+2. Manual text clean up was conducted as indicated per text.
 3. A day of rest was had. Proceeded directly to step #4.
 
 ####For all texts
 
-4. Each file was inspected visually to determine if it was appropiatly cleaned. Any glarring anomolies were removed manually and noted.
+4. Each file was inspected visually to determine if it was appropriately cleaned. Any glaring anomalies were removed manually and noted.
 5. The text was counted with UnicodeCCount. A table was formed from the output of UnicodeCCount.
 6. Word counts were considered based on the number of occurances of <U+000A> ''.
 7. A mapping (of Unicode characters to ISO 9555 key positions) of the target keyboard was produced.
-8. A mapping of Unicode characters to QWERTY key equivelents was produced.
-9. A manual search and replace was done to create a QWERTY equivilent model.
+8. A mapping of Unicode characters to QWERTY key equivalents was produced.
+9. A manual search and replace was done to create a QWERTY equivalent model.
 10. The text was processed with the xyz script from Matt Stave.
 11. The output from step #9 was fed to Michael Dickens' application to produce an example optimized keyboard layout.
 12. The output from step #9 was fed to Michael Dickens' application to evaluate the existing model keyboard layout.

@@ -47,7 +47,7 @@ Vowels may be long or short. Long vowels are indicated twice orthographically i.
 
 
 ####Tone
-There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent. Tone may occur on vowels or nasals. Typically tone is not indicatd on ⟨ m ⟩, when it occurs on ⟨ n ⟩ it appears as ⟨ ń ⟩.
+There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent. Tone may occur on vowels or nasals. Typically tone is not indicated on ⟨ m ⟩, when it occurs on ⟨ n ⟩ it appears as ⟨ ń ⟩.
 
 ####Tone Patterns (Melodies)
 There are arguably four kinds of tonal patterns which occur in Navajo:
@@ -61,7 +61,7 @@ H, L, LL, HH, LH (Rising), HL (Falling)
 HH, HL and LL, LH sequences only occur on long vowels.
 
 #####Classification of tonal orthographic marking
-Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in termonology are well presented and the reader hear is encouraged to read Robert's arguements.
+Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in terminology are well presented and the reader hear is encouraged to read Robert's arguments.
 
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
@@ -102,9 +102,9 @@ There are several text input solutions which are used to create digital written 
 
 In this keyboard layout each of the vowel permutations is treated with a separate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all receive their own keys as well.
 
-This keyboard focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show semetry between phonemes and keystrokes, but does show semetry between keystrokes and typographical units.
+This keyboard focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show symmetry between phonemes and keystrokes, but does show symmetry between keystrokes and typographical units.
 
-The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimizd around characters -- Unicode characters, rather than orthogrpahic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
+The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimized around characters -- Unicode characters, rather than orthographic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
 A visual comparison of the two keyboard layouts is below.
 
@@ -139,7 +139,7 @@ As has already been discussed, characters may be input via an orthographical typ
 * _-u_ uses the Unicode Collation Algorithm (UCA) rather than the default sort. 
 * _-c_ or _-d_ enforce Unicode normalization (NFC or NFD) as data is read.
 
-All of the above options are used and noted in various parts of this study. By decomposing characters and counting them it is then possible to reconstruct the keys used to produce the text corpus being analysised. Once the text corpus is analysed by keyboard input method, it is then possible to determine the following:
+All of the above options are used and noted in various parts of this study. By decomposing characters and counting them it is then possible to reconstruct the keys used to produce the text corpus being analyzed. Once the text corpus is analyzed by keyboard input method, it is then possible to determine the following:
 
 * A heat map visualization for the sample text from James.
 * A heat map visualization of the entire text from James.
@@ -171,13 +171,13 @@ What is the Tonal Marking Density of the text?| _This was determined by counting
 What is the Total Diacritic Density of the text?| _This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics._ | 
 
 ####Punctuation
-The following puncturation marks are used in the text.
+The following punctuation marks are used in the text.
 
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
 Comma |U+002C|,|194
 Semi-Colon |U+003B|;|6
-Exclimation Point |U+0021|!|6
+Exclamation Point |U+0021|!|6
 Question Mark |U+003F|?|19
 Period (Full Stop) |U+002E|.|129
 

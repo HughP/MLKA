@@ -1,5 +1,5 @@
 #Theory
-_I find there to be four teoretical topics which seem to be apropiate to disucs in this section. These include the following:_
+_I find there to be four theoretical topics which seem to be appropriate to discuss in this section. These include the following:_
 
 1. [`/Typewriter-Histoy`](/Theory/Typewriter-Histoy)
 2. [`/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory)
@@ -8,14 +8,14 @@ _I find there to be four teoretical topics which seem to be apropiate to disucs 
 
 
 ##Typewriter Histoy
-This is where "factual" history of machines are discussed and citations are stored. Much of what we are trying to imporve upon is because of historical onomilies. [`/Typewriter-Histoy`](/Theory/Typewriter-Histoy)
+This is where "factual" history of machines are discussed and citations are stored. Much of what we are trying to improve upon is because of historical anomalies. [`/Typewriter-Histoy`](/Theory/Typewriter-Histoy)
 
 ##Keyboard Layout Theory
 This is the theory which applies to what should go where on a keyboard layout. This theory motivates methodologies. That is, because we hold things to be true in our theory we count numbers and actions a certain way. [`/Keyboard-Layout-Theory`](/Theory/Keyboard-Layout-Theory)
 
 
 ##Information Theory
-This theory talks about how infomration is processed. This section also contains discussions about the congnitive processes in typing.
+This theory talks about how information is processed. This section also contains discussions about the cognitive processes in typing.
 [`/Information-Theory`](/Theory/Information-Theory)
 
 ###Fitts' Law
@@ -38,7 +38,7 @@ The work of several people fit in this section. But primarily the work of Fitts.
 
 
 ###Cognitive aspects of typing
-_There are two resourcs which fit here:_
+_There are two resources which fit here:_
 * The various works of [Saul Sternberg](http://www.psych.upenn.edu/~saul/)
 * The work of William E. Cooper:
  * Cooper, William E. (ed.) 1983. Cognitive Aspects of Skilled Typewriting. New York, Heidelberg, Berlin: Springer-Verlag. 
