@@ -117,12 +117,10 @@ Image of both keyboards is sourced [from Wikipedia](https://sco.wikipedia.org/wi
 
 A third set of text input solutions were created to meet demands created by the proliferation of mobile communication devices. Jerome Tsosie, president and founder of Native Innovations Inc. is credited with the design and production of the keyboard apps in the Android Market and the [iTunes Store](https://itunes.apple.com/us/app/navajo-keyboard/id577841547?mt=8) for Navajo language use.
 
- | | 
+ Designer |Keyboard Layout | Operating System
 ---|---|---
-This is something | ![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg)
-iOS: http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkCi4Vi7.dpuf | iPhone Keyboard
-This is something | ![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/Android-Keybard-NavajoApp_ScreenshotFromApp.jpg)
-Android: http://kunm.org/post/new-app-texting-navajo-android-phones | Android Keyboard
+Jerome Tsosie | ![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg) [Image attribution for iOS](http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkCi4Vi7.dpuf) | iPhone Keyboard
+Jerome Tsosie | ![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/Android-Keybard-NavajoApp_ScreenshotFromApp.jpg) [Image attribution Android](http://kunm.org/post/new-app-texting-navajo-android-phones) | Android Keyboard
 
 ##New Testament Stats
 
