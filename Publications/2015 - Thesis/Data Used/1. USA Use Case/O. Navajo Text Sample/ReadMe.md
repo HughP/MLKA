@@ -96,13 +96,15 @@ Punctuation is undiscussed in resources currently available. I assume that an En
 
 ##Keyboard Layout
 
-There are several text input solutions which are used to create digital written texts in Navajo. Four are briefly discussed here. These include two different full size keyboard layouts, and two layouts on mobile devices, iOS and Android. The first of the two full size keyboard layouts discussed was developed prior to Unicode. It was utilized along with a customized font. Keys on the keyboard were assigned on the basis of which characters in the font were replaced. I assume that numbers were also  We can see evidence of this historical artifact in the online work at: http://www.gomyson.com/traces.php
+There are several text input solutions which are used to create digital written texts in Navajo. Four are briefly discussed here. These four solutions include two different full size keyboard layouts, and two layouts on mobile devices, one each for iOS and Android. 
+
+The first of the two full size keyboard layouts discussed was developed prior to Unicode. It was utilized along with a customized font. Keys on the keyboard were assigned on the basis of which characters in the font were replaced. I assume that numbers were also chosen as a design process to maximize the retention of accurate characters on the keyboard. Letters like "Y,y" were not moved because they already matched the given keyboard layout. However, characters like "U,u" were not replaced. I assume that this was because "U,u" was needed in contexts where the person was also writing in English. We can see evidence of this historical language artifact in the online work at: http://www.gomyson.com/traces.php
 
 ![Pre-Unicode Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/NAV-keyboard.jpg)
 
-In this keyboard layout each of the vowel permutations is treated with a separate key. High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all receive their own keys as well.
+In this pre-Unicode keyboard, layout each of the vowel permutations is treated with a separate key (with the exception of long vowels). High toned n ⟨ ń ⟩, bared l ⟨ ɬ ⟩, and the glottal stop marker all receive their own keys as well.
 
-This keyboard focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show symmetry between phonemes and keystrokes, but does show symmetry between keystrokes and typographical units.
+This keyboard also focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show symmetry between phonemes and keystrokes, but does show symmetry between keystrokes and typographical units.
 
 The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimized around characters -- Unicode characters, rather than orthographic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
@@ -115,12 +117,12 @@ Image of both keyboards is sourced [from Wikipedia](https://sco.wikipedia.org/wi
 
 A third set of text input solutions were created to meet demands created by the proliferation of mobile communication devices. Jerome Tsosie, president and founder of Native Innovations Inc. is credited with the design and production of the keyboard apps in the Android Market and the [iTunes Store](https://itunes.apple.com/us/app/navajo-keyboard/id577841547?mt=8) for Navajo language use.
 
-
-![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg)
-iOS: http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkCi4Vi7.dpuf
-
-![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/Android-Keybard-NavajoApp_ScreenshotFromApp.jpg)
-Android: http://kunm.org/post/new-app-texting-navajo-android-phones
+ | | 
+---|---|---
+This is something | ![iPhone Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/screen568x568.jpeg)
+iOS: http://www.navajotimes.com/entertainment/2013/0613/061313roc.php#sthash.LkCi4Vi7.dpuf | iPhone Keyboard
+This is something | ![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo-Keyboards/images/Android-Keybard-NavajoApp_ScreenshotFromApp.jpg)
+Android: http://kunm.org/post/new-app-texting-navajo-android-phones | Android Keyboard
 
 ##New Testament Stats
 
