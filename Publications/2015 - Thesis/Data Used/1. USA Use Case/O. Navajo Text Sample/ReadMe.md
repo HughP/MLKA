@@ -180,8 +180,8 @@ In the James text the following statistics are encountered.
 
 Question|Note|Statistic|
 ---|---|---|---
-How many words are in the text?| _This was determined by counting the number of spaces and adding 1._| 2047
-How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16488
+How many words are in the text?| _This was determined by counting the number of spaces and adding 1._| 2,047
+How many characters are in the text?| _This was determined by counting using -u. This number includes white spaces and non-displaying characters, but not all characters are fully decomposed._| 16,488
 How many fully decomposed characters are in the text?| _This was determined by counting using -d. This number includes white spaces and non-displaying characters._| 19,931
 How many visible decomposed characters are in the text?| _This was determined by counting using -d and excluding 'U+0020' SPACE and 'U+000A' LINEFEED._ |17,322 
 How many visible orthographic units, counting long vowels as one unit, are in the text?| _This was determined by counting the total number of characters, subtracting invisible characters, subtracting the diacritics, and then also subtracting the number of occurances of long vowels._| 
@@ -192,8 +192,8 @@ What is the Total Diacritic Density of the text?| _This is the total number of d
 
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
- |U+000A| |23
- |U+0020| |2046
+ Linefeed |U+000A| |23
+ Space |U+0020| |2,046
 
 ####Punctuation
 The following punctuation marks are used in the text.
@@ -201,15 +201,16 @@ The following punctuation marks are used in the text.
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
 Comma |U+002C|,|194
+Period (Full Stop) |U+002E|.|129
+Question Mark |U+003F|?|19
 Semi-Colon |U+003B|;|6
 Exclamation Point |U+0021|!|6
-Question Mark |U+003F|?|19
-Period (Full Stop) |U+002E|.|129
+
 
 ###File Output
 
 ####Counts with -u (pre-composed characters)
-Character count for '/Users/Hugh/Dropbox/Paterson Thesis 2014/Paterson 2014 Thesis Proposal/Thesis Data sets/US Examples/O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
+Character count for 'O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
@@ -278,8 +279,63 @@ Character Name|Unicode code point|Symbol|Count
 
 
 ####Counts with -d (decomposed characters)
+Character count for 'O. Navajo Text Sample/Navajo Text-no numbers-no headings.txt':
 
-
+Character Name|Unicode code point|Symbol|Count
+ ---|---|---|---
+|U+000A| |23
+|U+0020| |2046
+|U+002C|,|194
+|U+003B|;|6
+|U+0021|!|6
+|U+003F|?|19
+|U+002E|.|129
+|U+0027|'|955
+|U+0301|́|2670
+|U+0328|̨|443
+|U+0061|a|2109
+|U+0041|A|22
+|U+0062|b|277
+|U+0042|B|21
+|U+0063|c|61
+|U+0043|C|3
+|U+0064|d|964
+|U+0044|D|67
+|U+0065|e|789
+|U+0045|E|14
+|U+0066|f|2
+|U+0067|g|336
+|U+0047|G|44
+|U+0068|h|972
+|U+0048|H|15
+|U+0069|i|2728
+|U+0049|I|3
+|U+006A|j|95
+|U+004A|J|20
+|U+006B|k|192
+|U+004B|K|3
+|U+006C|l|282
+|U+004C|L|1
+|U+0142|ł|307
+|U+0141|Ł|2
+|U+006D|m|4
+|U+006E|n|919
+|U+004E|N|28
+|U+006F|o|1421
+|U+004F|O|2
+|U+0072|r|7
+|U+0052|R|1
+|U+0073|s|297
+|U+0053|S|13
+|U+0074|t|402
+|U+0054|T|19
+|U+0075|u|2
+|U+0076|v|1
+|U+0077|w|30
+|U+0078|x|10
+|U+0079|y|228
+|U+0059|Y|2
+|U+007A|z|185
 
 ##Wikipedia Text Stats
 
