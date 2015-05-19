@@ -13,7 +13,7 @@
 
 ##Brief on the Phonology and Orthography
 
-This summary is sourced and summarized from three resources:
+This summary is sourced and summarized from the following resources:
 * Channessian, Sirarpi, et al. 1969. _Confrence on Navajo Orthography_. Washington, D.C., USA: Center for Applied Linguistics, Washington D.C. http://eric.ed.gov/?id=ED044668
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico. http://eric.ed.gov/?id=ED059806
 * McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
@@ -52,7 +52,7 @@ Vowels may be long or short. Long vowels are indicated twice orthographically i.
 There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent. Tone may occur on vowels or nasals. Typically tone is not indicated on ⟨ m ⟩, when it occurs on ⟨ n ⟩ it appears as ⟨ ń ⟩.
 
 ####Tone Patterns (Melodies)
-Based on orthographic marking four kinds of tonal patterns which occur in Navajo:
+Based on orthographic marking four kinds of tonal patterns which occur on Navajo tone bearing units. McDonough (1999:510) claims that the syllable is the tone bearing unit:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
 |:------------------------:|:--------------:|:------------:|
@@ -205,6 +205,67 @@ Period (Full Stop) |U+002E|.|129
 Question Mark |U+003F|?|19
 Semi-Colon |U+003B|;|6
 Exclamation Point |U+0021|!|6
+
+####Vowels and Nasals
+
+Character Name|Unicode code point|Symbol|Count
+ ---|---|---|---
+Tone Marks|U+0301|́|2,670
+Nasal Marks|U+0328|̨|443
+Total Diacritics||3113
+
+Counts via Regression on lower case characters|Glyph|Replacement code
+---|---|---
+631|a|LA
+378|á|HA
+23|ą|LNA
+19|ą́|HNA
+77|e|LE
+164|é|HE
+0|ę|LNE
+0|ę́|HNE
+975|i|LI
+509|í|HI
+28|į|LNI
+24|į́|HNI
+434|o|LO
+188|ó|HO
+2|ǫ|LNO
+11|ǫ́|HNO
+918|n|LN
+0|ń|HN
+189|aa|LAA
+73|áa|HAA
+2|aá|LAHA
+187|áá|HAHA
+36|ąą|LNALNA
+17|ą́ą|HNALNA
+0|ąą́|LNAHNA
+23|ą́ą́|HNAHNA
+153|ee|LELE
+57|ée|HELE
+0|eé|LEHE
+46|éé|HEHE
+0|ęę|LNELNE
+6|ę́ę|HNELNE
+0|ęę́|LNEHNE
+12|ę́ę́|HNEHNE
+311|ii|LILI
+100|íi|HILI
+1|ií|LIHI
+126|íí|HIHI
+16|įį|LNILNI
+31|į́į|HNILNI
+0|įį́|LNIHNI
+11|į́į́|HNIHNI
+250|oo|LOLO
+13|óo|HOLO
+5|oó|LOHO
+111|óó|HOHO
+5|ǫǫ|LNOLNO
+8|ǫ́ǫ|HNOLNO
+0|ǫǫ́|LNOHNO
+1|ǫ́ǫ́|HNOHNO
 
 
 ###File Output
