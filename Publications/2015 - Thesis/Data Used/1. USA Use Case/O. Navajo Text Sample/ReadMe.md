@@ -13,9 +13,11 @@
 
 ##Brief on the Phonology and Orthography
 
-This summary is sourced and summarized from two resources:
+This summary is sourced and summarized from three resources:
+* Channessian, Sirarpi, et al. 1969. _Confrence on Navajo Orthography_. Washington, D.C., USA: Center for Applied Linguistics, Washington D.C. http://eric.ed.gov/?id=ED044668
+* Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico. http://eric.ed.gov/?id=ED059806
 * McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
-* Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications. 
+* Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications.
 
 ###Consonants
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
@@ -50,7 +52,7 @@ Vowels may be long or short. Long vowels are indicated twice orthographically i.
 There are two pitch heights in Navajo, high and low. Low tone is unmarked. High tone is marked with an acute accent. Tone may occur on vowels or nasals. Typically tone is not indicated on ⟨ m ⟩, when it occurs on ⟨ n ⟩ it appears as ⟨ ń ⟩.
 
 ####Tone Patterns (Melodies)
-There are arguably four kinds of tonal patterns which occur in Navajo:
+Based on orthographic marking four kinds of tonal patterns which occur in Navajo:
 
 | *Tonal Patterns in Navajo* | Single and long Vowels | Long Vowels |
 |:------------------------:|:--------------:|:------------:|
@@ -59,6 +61,11 @@ There are arguably four kinds of tonal patterns which occur in Navajo:
 
 H, L, LL, HH, LH (Rising), HL (Falling)
 HH, HL and LL, LH sequences only occur on long vowels.
+For further considerations of Navajo tone, including lexical vs. grammatical tone, toneless prefixes, and tonal interactions consider:
+
+* Hardy, Frank W. 1985. Pseudo-Suffixes and Optative Stem Shape Prediction in Navajo. International Journal of American Linguistics 51.4: 435-8. http://www.jstor.org/stable/1265293
+* Kidder, Emily. 2008. Tone, intonation, stress and duration in Navajo. Coyote Papers: Working Papers in Linguistics, Linguistic Theory at the University of Arizona 16. 55-66. http://hdl.handle.net/10150/126405
+* McDonough, Joyce M. 1999. Tone in Navajo. Anthropological Linguistics 41.4: 503-40. http://www.jstor.org/stable/30028725
 
 #####Classification of tonal orthographic marking
 Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in terminology are well presented and the reader hear is encouraged to read Robert's arguments.
@@ -79,7 +86,7 @@ Since Navajo uses a four vowel system (at least orthographically), the use of di
 
 * ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩
 
-When length is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to be a single phoneme in Navajo. If one holds that a "letter" is a graphical representations of a phoneme, and that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view), then these would count as "letters". However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught. Therefore it is possible that native speakers consider the previous examples, or the following examples as single characters. Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
+When vowel length (duration) is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to phonologically be a single phoneme in Navajo. If one holds that a "letter" is a graphical representations of a phoneme, and that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view), then these would count as "letters". However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught to users of the Navajo language. Therefore it is possible that native speakers consider the previous examples, or the following examples as single characters. The issue of multi-graphs in Navajo reading is acknowledged in Holme's work (1971).  Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
 
 * ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
 * ⟨ ee, ée, eé, éé, ęę, ę́ę, ęę́, ę́ę́ ⟩
@@ -87,12 +94,15 @@ When length is considered as a factor for creating permutations, the following c
 * ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
 
 
-* Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
+* Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico.
 * Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
+* Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
 
 ###Punctuation
-Punctuation is undiscussed in resources currently available. I assume that an English like practice is also the case in Navajo punctuation.
+Punctuation is discussed briefly by Channessian (1969:7) in a report on the conference on Navajo orthography. An English like practice is reported to be in use in Navajo texts. The exception being the use of quote marks. Navajo opts for French style guillemets ⟨ « , » , ‹ , › ⟩ so as to not confuse quote marks with glottal stop marks which use an apostrophe.
+
+* Channessian, Sirarpi, et al. 1969. Confrence on Navajo Orthography. Washington, D.C., USA: Center for Applied Linguistics, Washington D.C.
 
 ##Keyboard Layout
 
@@ -178,6 +188,13 @@ How many visible orthographic units, counting long vowels as one unit, are in th
 What is the Tonal Marking Density of the text?| _This was determined by counting the total number of potential tone bearing units and dividing that by the total number of high tone marks. Tone bearing units are counted as phonemes. Since long vowels with high tone take two orthographic diacritics to mark tone, two counts are given to long vowels even though they represent a single phoneme. (This is similar to total diacritic marking density, but only looks at tone.)_ | 
 What is the Total Diacritic Density of the text?| _This is the total number of diacritics which are used compared with the total options in the text via the orthography for diacritics._ | 
 
+####Non-visible characters
+
+Character Name|Unicode code point|Symbol|Count
+ ---|---|---|---
+ |U+000A| |23
+ |U+0020| |2046
+
 ####Punctuation
 The following punctuation marks are used in the text.
 
@@ -258,6 +275,10 @@ Character Name|Unicode code point|Symbol|Count
  |U+0079|y|228
  |U+0059|Y|2
  |U+007A|z|185
+
+
+####Counts with -d (decomposed characters)
+
 
 
 ##Wikipedia Text Stats
@@ -629,3 +650,7 @@ SPACE |U+0020| |121085
  |U+8AAC|説|1
  |U+8BED|语|2
  |U+97D3|韓|1
+
+##Combined Stastics
+
+##comparison with Spoken Corpora
