@@ -206,13 +206,13 @@ Question Mark |U+003F|?|19
 Semi-Colon |U+003B|;|6
 Exclamation Point |U+0021|!|6
 
-####Vowels and Nasals
+####Diacritics, Vowels, and Nasals
 
 Character Name|Unicode code point|Symbol|Count
  ---|---|---|---
 Tone Marks|U+0301|́|2,670
 Nasal Marks|U+0328|̨|443
-Total Diacritics||3113
+Total Diacritics|||3,113
 
 Counts via Regression on lower case characters|Glyph|Replacement code
 ---|---|---
