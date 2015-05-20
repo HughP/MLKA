@@ -67,8 +67,7 @@ Based on orthographic marking four kinds of tonal patterns which occur on Navajo
 | High                     |       H      |     HL (Falling)    |
 | Low                      |       L      |     LH (Rising)     |
 
-H, L, LL, HH, LH (Rising), HL (Falling)
-HH, HL and LL, LH sequences only occur on long vowels.
+Orthographically the following occur:H, L, LL, HH, LH (Rising), HL (Falling). HH, HL and LL, LH sequences only occur on long vowels.
 For further considerations of Navajo tone, including lexical vs. grammatical tone, toneless prefixes, and tonal interactions consider:
 
 * Hardy, Frank W. 1985. Pseudo-Suffixes and Optative Stem Shape Prediction in Navajo. International Journal of American Linguistics 51.4: 435-8. http://www.jstor.org/stable/1265293
@@ -77,7 +76,8 @@ For further considerations of Navajo tone, including lexical vs. grammatical ton
 
 #####Classification of tonal orthographic marking
 Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in terminology are well presented and the reader hear is encouraged to read Robert's arguments.
-The relevance of visual crowding to the text input experience is laid out as follows. Often visual crowding is increased by the use of diacritics in the orthography. Efforts to reduce visual crowding often involve revising the orthography of a language. However, Easy-to-read (visual crowding) and easy-to-type can be closely or distally related based on a variety of factors. However, it appears that visual crowding is blamed as a motivator for orthography reform even when user motivations may be more inline with desiring an easier text input method.
+
+The relevance of visual crowding to the text input experience is laid out as follows. Often visual crowding is related to an increased (compared to English) use of diacritics in the orthography. Efforts to reduce visual crowding often involve revising the orthography of a language. However, _easy-to-read_ (visual crowding) and _easy-to-type_ can be closely or distally related based on a variety of factors. However, in academic literature it appears that visual crowding is blamed as a motivator for orthography reform even when user motivations for revising writing technologies may be more inline with desiring an easier text input method.
 
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
@@ -107,7 +107,8 @@ When vowel length (duration) is considered as a factor for creating permutations
 1. one holds that a "letter" is a graphical representations of a phoneme,
 2. one also holds that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view).
 
-However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught to users of the Navajo language. Some resources such as Young and Morgan (1972) do discuss multi-graphs independently. Therefore it is possible that native speakers consider the previous examples, or the following examples as single "letters". The issue of multi-graphs in Navajo reading is acknowledged in Holme's work (1971) where he provides special statistical counts for multi-graphs. Holm's work is couched in a longitudinal study of Navajo literacy and education. The statistics were part of ground work towards creating literacy materials in Navajo. Naturally, these issues spill over into the implementation of writing systems in digital mediums. 
+However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught to users of the Navajo language. Some resources such as Young and Morgan (1972) do discuss multi-graphs independently. Therefore it is possible that native speakers consider the previous examples, or the following examples as single "letters". The issue of multi-graphs in Navajo reading is acknowledged in Holme's work (1971) where he provides special statistical counts for multi-graphs. Holm's work is couched in a longitudinal study of Navajo literacy and education. The statistics were part of ground work towards creating literacy materials in Navajo. Naturally, these issues spill over into the implementation of writing systems in digital mediums.
+
 Therefore the impact of multi-graphs on typing is also important. Part of the typing process is the immediate reading of the typed text. __(expand)__  And the looming question comes to: _Should a text input system be designed to match the functional units in the specified language?_  Some argue that writing and speech are completely unrelated in their products.  Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
 
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico.
