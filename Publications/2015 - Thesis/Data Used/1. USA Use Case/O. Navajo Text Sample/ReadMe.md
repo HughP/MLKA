@@ -18,6 +18,9 @@ This summary is sourced and summarized from the following resources:
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico. http://eric.ed.gov/?id=ED059806
 * McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
 * Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications.
+* Young, Robert W. & William Morgan. 1972. _The Navaho language: the elements of Navaho grammar with a dictionary in two parts containing basic vocabularies of Navaho and English_. Salt Lake City, Utah: United, States Office of Indian Affairs, Education Division & Deseret Book Company. (particularly pages I-VI)
+* Young, Robert W. & William Morgan. 1987. _The Navajo language: a grammar and colloquial dictionary_, 2nd edn. Albuquerque, New Mexico: University of New Mexico Press. (particularly pages xii-xiii)
+
 
 ###Consonants
 In summary the Navajo orthography contains the following "character sequences" and their representative phonemes:
@@ -35,7 +38,7 @@ In the above chart orthography "character sequences" are shown. In the following
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩.
 
 ###Vowels
 
@@ -76,13 +79,13 @@ Following Roberts (2009:143) the Navajo tonal orthography would be a case of "ex
 Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
 
 ####Diphthongs
-Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels.
+Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels. Some editions of resources by Young and Morgan (1972, 1987) suggest that there are long dipthongs. These would be diphthongs where the second vowel would be longer than the first and are indicated in the orthography as trigraphs. The graphemic frequency counts of Holm (1971: 22-25) support the presence of trigraphs in Navajo texts. There are quite a few diphthongs presented across these resources. However, the main Navajo diphthongs are as follows ⟨ ai, ao, ei, oi, io ⟩. For further discussion see Holm (1971:8) and Young and Morgan (1972: I-VI, 1987: xii-xiii)
 
 ###Diacritics
-There are two kinds of diacritics used in the orthography. Diacritics are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated typographcially when they are contrastive for length.
+There are two kinds of diacritics used in the orthography. Diacritics are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated typographically when they are contrastive for length.
 
 
-Since Navajo uses a four vowel system (at least orthographically), the use of diacritics creates the following permutations.  
+Since Navajo uses a four vowel system (at least by orthographic base character), the use of diacritics creates the following permutations.  
 
 * ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩
 
