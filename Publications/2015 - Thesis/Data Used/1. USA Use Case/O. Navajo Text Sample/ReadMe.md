@@ -27,18 +27,23 @@ In summary the Navajo orthography contains the following "character sequences" a
 
 |     Consonants     |   |   |     |     |   |    |    |   |    |     |    |    |    |    |    |    |   |   |   |   |    |    |    |    |    |    |    |    |    |    |    | 
 |:-----------------:|---|---|-----|-----|---|----|----|---|----|-----|----|----|----|----|----|----|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|
-|     Orthography   | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw  | l | ɬ | m | n | s | sh  | t  | t' | tɬ | tɬ' | ts | ts' | w | x |y | z | zh |
+|     Orthography   | ' | b | ch  | ch' | d | dl | dz | g | gh | h   | hw | j  | k  | k' | kw  | l | ɬ | m | n | s | sh  | t  | t' | tɬ | tɬ' | ts | ts' | w | x | y | z | zh |
 | Phonetic Notation | ʔ | p | tʃʰ | tʃʼ | t | tˡ | ts | k | ɣ  | h/x | xʷ | tʃ | kx | k' | kxʷ | l | ɬ | m | n | s | ʃ | tx | t' | tɬʰ | tɬʼ | tsʰ | tsʼ | w |  | j | z | ʒ |
 
-
-In the above chart orthography "character sequences" are shown. In the following chart the typographical characters presented:
+In the above chart orthography "character sequences" or digraphs are shown relative to the phonemes they represent. In the following chart the typographical characters presented:
 
 | Orthography characters |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |:----------:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education system curriculum because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include them because they are in part of the common communication system of Navajo. We can see in the cases of the touch scrren keyboard layouts that infact ⟨ U,u ⟩ is added to the keyboard, but other characters like ⟨ V,v ⟩ are left off the keyboard.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education curriculum in Navajo schools because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include borrowed graphemes because they are in part of the common communication system used by Navajo language users. We can see in the cases of the touch scrren keyboard layouts that infact ⟨ U,u ⟩ is added to the keyboard, but other characters like ⟨ V,v ⟩ are left off the keyboard. There are two posible non-exclusive interpretations for leaving borrowed graphemes on the mobile text entry solution: (1) certain designers prioritize some borrowed graphemes over others, (2) that some graphemes are left on the keyboard as residue based on the QWERTY design template used to create the Navajo text input layout.
+
+####Multi-width typographical characters
+A list of mutligraph consonants is provided to be consistent with the discussion of vowels provided later. 
+
+* ⟨ ch, ch', dl, dz, gh, hw, k', kw, t', tɬ, tɬ', ts, ts', zh ⟩
+
 
 ###Vowels
 
@@ -79,27 +84,35 @@ Following Roberts (2009:143) the Navajo tonal orthography would be a case of "ex
 Vowels may be produced with with nasal resonation. Nasality is indicated with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Typographically this mark appears in the center of the character (as apposed to the European style of having the mark appear to the right edge of the character).
 
 ####Diphthongs
-Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels. Some editions of resources by Young and Morgan (1972, 1987) suggest that there are long diphthongs. These would be diphthongs where the second vowel would be longer than the first and are indicated in the orthography as trigraphs. The graphemic frequency counts of Holm (1971: 22-25) support the presence of trigraphs in Navajo texts. There are quite a few diphthongs presented across these resources. However, the main Navajo diphthongs are as follows ⟨ ai, ao, ei, oi, io ⟩. For further discussion see Holm (1971:8) and Young and Morgan (1972: I-VI, 1987: xii-xiii)
+Diphthongs occur and are indicated as a sequence of contrasting orthographical vowels. Some editions of resources by Young and Morgan (1972, 1987) suggest that there are long diphthongs. These would be diphthongs where the second vowel would be longer than the first and are indicated in the orthography as trigraphs. The graphemic frequency counts of Holm (1971: 22-25) support the presence of trigraphs in Navajo texts. There are quite a few diphthongs presented across these resources. However, the main Navajo diphthongs are as follows ⟨ ai, ao, ei, oi, io ⟩. For further discussion of diphthongs see Holm (1971:8) and Young and Morgan (1972: I-VI, 1987: xii-xiii)
 
 ###Diacritics
-There are two kinds of diacritics used in the orthography. Diacritics are used in combination with vowels and nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may also optionally appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated typographically when they are contrastive for length.
-
+There are two diacritics used in the orthography. Both diacritics are used in combination with vowels. One diacritic may be used with nasals. Vowels are optionally marked for nasality with an [ogonek](https://en.wikipedia.org/wiki/Ogonek) ⟨ ˛ ⟩ mark below the vowel. Vowel and nasal base characters may appear with an [acute accent](https://en.wikipedia.org/wiki/Acute_accent) ⟨ ´ ⟩ indicating high tone on the vowel or nasal. Vowels are also repeated typographically when they are contrastive for length.
 
 Since Navajo uses a four vowel system (at least by orthographic base character), the use of diacritics creates the following permutations.  
 
+####Single width typographical characters
 * ⟨ a, á, ą, ą́, e, é, ę, ę́, i, í, į, į́, o, ó, ǫ, ǫ́, n, ń ⟩
 
-When vowel length (duration) is considered as a factor for creating permutations, the following combinations should also be considered. That is, these permutations represent what is argued to phonologically be a single phoneme in Navajo. If one holds that a "letter" is a graphical representations of a phoneme, and that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view), then these would count as "letters". However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught to users of the Navajo language. Therefore it is possible that native speakers consider the previous examples, or the following examples as single characters. The issue of multi-graphs in Navajo reading is acknowledged in Holme's work (1971).  Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
+####Multi-width typographical characters
 
 * ⟨ aa, áa, aá, áá, ąą, ą́ą, ąą́, ą́ą́ ⟩
 * ⟨ ee, ée, eé, éé, ęę, ę́ę, ęę́, ę́ę́ ⟩
 * ⟨ ii, íi, ií, íí, įį, į́į, įį́, į́į́ ⟩
 * ⟨ oo, óo, oó, óó, ǫǫ, ǫ́ǫ, ǫǫ́, ǫ́ǫ́ ⟩
 
+When vowel length (duration) is considered as a factor for creating permutations, the multi-width combinations should also be considered. That is, these permutations represent what is argued to phonologically be a single phoneme in Navajo. The above permutations could all be considered "letters" if one holds two things to be true:
+
+1. one holds that a "letter" is a graphical representations of a phoneme,
+2. one also holds that tonemes are inherently bound to their co-articulated phoneme (something like a structuralist view on tone rather than an auto-segmental view).
+
+However, as typographical characters these permutations range from digraphs to hexagraphs. The literature consulted on Navajo is unclear as how these sequences are taught to users of the Navajo language. Some resources such as Young and Morgan (1972) do discuss the multigraphs independently. Therefore it is possible that native speakers consider the previous examples, or the following examples as single "letters". The issue of multi-graphs in Navajo reading is acknowledged in Holme's work (1971) where he provides special statsitical counts for multigraphs. Holm's work is couched in a longetuninal study of Navajo literacy and education. The statsitics were part of ground work towards creating literacy materials in Navajo. Naturally, these issues spill over into the implimentation of writting systems in digital mediums. 
+Therefore the impact of multigraphs on typing is also important. Part of the typing process is the imeadiate reading of the typed text. __(expand)__  And the looming question comes to: _Should a text input system be designed to match the functional units in the specified language?_  Some argue that writing and speech are compltely unrelated in thier products.  Roberts (2009: §2.4) discusses in some detail the variation which exists in how readers perceive characters with diacritics - including the possibilities raised by Huckauf et al. (1999) that characters with various components become consolidated in the minds of experience readers.
 
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico.
 Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
+* Young, Robert W. & William Morgan. 1972. The Navaho language: the elements of Navaho grammar with a dictionary in two parts containing basic vocabularies of Navaho and English. Salt Lake City, Utah: United, States Office of Indian Affairs, Education Division & Deseret Book Company.
 
 
 ###Punctuation
@@ -119,7 +132,7 @@ In this pre-Unicode keyboard, layout each of the vowel permutations is treated w
 
 This keyboard also focuses on matching keystrokes to typographical units. For instance one key is designated for each of the following ⟨ a, á, ą, ą́ ⟩. Long vowels still require double taps of the keys. This keyboard layout does not show symmetry between phonemes and keystrokes, but does show symmetry between keystrokes and typographical units.
 
-The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Chris created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimized around characters -- Unicode characters, rather than orthographic typographic characters. A specific description of Chris' keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
+The second keyboard layout as I understand it, [is the work of Chris Harvey](http://www.languagegeek.com/dene/dine/dine_bizaad.html). Harvey created the keyboard to work with and use Unicode characters. In the process optimizing some of the required keys around the Unicode characters. For instance, combining diacritics. This keyboard layout in essence creates a modifier key for tone marks and nasalization marks. This is where a vowel or nasal key is pressed and then immediately following key press would add a modifier diacritic like the acute accent or ogonek. It is important to note that this keyboard is still optimized around characters -- Unicode characters, rather than orthographic typographic characters. A specific description of Harvey's keyboard layout can be found here: Description: http://www.languagegeek.com/dene/keyboards/Keymaps/Navajo.pdf
 
 A visual comparison of the two keyboard layouts is below.
 
@@ -129,7 +142,7 @@ Image of both keyboards is sourced [from Wikipedia](https://sco.wikipedia.org/wi
 
 
 A third set of text input solutions were created to meet demands created by the proliferation of mobile communication devices. Jerome Tsosie, president and founder of Native Innovations Inc. is credited with the design and production of the keyboard apps in the Android Market and the [iTunes Store](https://itunes.apple.com/us/app/navajo-keyboard/id577841547?mt=8) for Navajo language use. These keyboards are interesting and important to mention for several reasons. 
-The first reason is that Android and iOS devices are increasing in popularity globally among minority language using populations. Specifically, Jerome Tsosie, the designer of the keyboards on these touch scrren devices, recognizes the use of mobile devices as particularly popular and important among Navajo language users (Jung 2013). Due to the proliferation of personal communication devices, it is likely that there are more people sending messages in Navajo text than ever before because there are more people with access to text input solutions.
+The first reason is that Android and iOS devices are increasing in popularity globally among minority language using populations. Specifically, Jerome Tsosie, the designer of the keyboards on these touch screen devices, recognizes the use of mobile devices as particularly popular and important among Navajo language users (Jung 2013). Due to the proliferation of personal communication devices, it is likely that there are more people sending messages in Navajo text than ever before because there are more people with access to text input solutions.
 The second reason that these keyboards are important is that if we look at the design philosophy behind these mobile keyboards. The mobile keyboards mimic the design elements of the pre-Unicode keyboard. That is rather than treating tone and nasal diacritics as an "add-on" typographical unit, the single key creates a complete typographical unit inclusive of diacritics. While this arrangement of keys and ease of access to pre-formed typographical character combinations can have an impact on ease of use for typing Navajo, it does not mean that it accurately reflects how the diacritics are taught in the classroom. However, moving forward if access to the characters is combined, so that pre-formed combinations are what device users continually interact with, then it follows that eventually some users will likely see these characters as single units based on access methodology. Note that this is different than the other psychological affect that Huckauf et al. (1999) point to in experienced readers. That is, experienced readers often begin to see complex characters as single units.
 The third reason to look at the keyboards on these devices is because it shows the impact and relationship between the keyboard layout design used in desktop designed the keyboard layout designs which appear on touch screens. If we were to measure just one keyboard for Navajo it would make sense to measure the one which is likely the most popularly used text input solution.  
 
