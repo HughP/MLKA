@@ -77,7 +77,7 @@ For further considerations of Navajo tone, including lexical vs. grammatical ton
 #####Classification of tonal orthographic marking
 Following Roberts (2009:143) the Navajo tonal orthography would be a case of "exhaustive" tone marking because it is less than one tone mark per pitch level in the language. Roberts points out that others have called this "minimal" marking. Reasons for his change in terminology are well presented and the reader hear is encouraged to read Robert's arguments.
 
-The relevance of visual crowding to the text input experience is laid out as follows. Often visual crowding is related to an increased (compared to English) use of diacritics in the orthography. Efforts to reduce visual crowding often involve revising the orthography of a language. However, _easy-to-read_ (visual crowding) and _easy-to-type_ can be closely or distally related based on a variety of factors. However, in academic literature it appears that visual crowding is blamed as a motivator for orthography reform even when user motivations for revising writing technologies may be more inline with desiring an easier text input method. That is, orthography system users conflate the  _easy-to-read_ and _easy-to-type_ (_easy-to-write_) categories into a single category. A category something like "easy to use". orthography users then subconsciously compare this conflated category to how they perceive other orthographies working. Commonly, with the globalization of English, the comparison is with English.
+The relevance of visual crowding to the text input experience is laid out as follows. Often visual crowding is related to an increased (compared to English) use of diacritics in the orthography. Efforts to reduce visual crowding often involve revising the orthography of a language. However, _easy-to-read_ (visual crowding) and _easy-to-type_ can be closely or distally related based on a variety of factors. However, in academic literature it appears that visual crowding is blamed as a motivator for orthography reform even when user motivations for revising writing technologies may be more inline with desiring an easier text input method. That is, orthography system users conflate the  _easy-to-read_ and _easy-to-type_ (_easy-to-write_) categories into a single category. A category something like _easy-to-use_. Orthography users then subconsciously compare this conflated category to how they perceive other orthographies working. Commonly, with the globalization of English, the comparison is with English.
 
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
@@ -157,7 +157,7 @@ Jerome Tsosie | ![Android Keyboard](/Publications/2015%20-%20Thesis/Data%20Used/
 * Jung, Carrie. 2013. New App For Texting In Navajo On Android Phones. KUNM Online. Publish Date: 2:13 PM Thursday September 19, 2013. http://kunm.org/post/new-app-texting-navajo-android-phones <Accessed: 18. May 2015>
 * Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
 
-##New Testament Stats
+##Stats from the book of James
 
 The goal in processing the book of James is to determine how much "work" is conducted in the typing of this particular text segment. In order to make an assessment several things are assumed (1) the text is valid Navajo language, (2) that the text is representative of the Navajo language text input needs, (3) that the text was input correctly when it was typed, and (4) that the text can give some residue of the way it was typed.
 To ensure that the text processed is Navajo language the text of the book of James was copied from the following publication found online:
@@ -188,6 +188,8 @@ All of the above options are used and noted in various parts of this study. By d
  * Percentage of use
  * Combinational use of characters
  * distance traveled
+ 
+* Hallissy, Bob. 16 November 2005. Unicode Character Count utility. Version: 0.3. Computer program. <Accessed: 30 December 2012>. http://scripts.sil.org/UnicodeCharacterCount
 
 ###Text Counts
 The original text capture from the _Navajo Bible_ can be found in the following file: [`/Navajo James Text/Navajo Text.txt`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Navajo%20James%20Text/Navajo%20Text.txt)
