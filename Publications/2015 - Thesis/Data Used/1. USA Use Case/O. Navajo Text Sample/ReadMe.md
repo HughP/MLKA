@@ -38,7 +38,7 @@ In the above chart orthography "character sequences" are shown. In the following
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that because these graphemes are used to spell borrowed words which are in common use, that these graphemes should be a part of the education system. For our purposes, in the analysis of typing, we should be prepared to include them because they are in part of the common communication system of Navajo.
 
 ###Vowels
 
