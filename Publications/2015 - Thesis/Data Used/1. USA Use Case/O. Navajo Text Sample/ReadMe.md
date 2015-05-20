@@ -38,7 +38,7 @@ In the above chart orthography "character sequences" are shown. In the following
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education system curriculum because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include them because they are in part of the common communication system of Navajo.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education system curriculum because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include them because they are in part of the common communication system of Navajo. We can see in the cases of the touch scrren keyboard layouts that infact ⟨ U,u ⟩ is added to the keyboard, but other characters like ⟨ V,v ⟩ are left off the keyboard.
 
 ###Vowels
 
@@ -98,7 +98,7 @@ When vowel length (duration) is considered as a factor for creating permutations
 
 
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico.
-* Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
+Huckauf, Anke, Dieter Heller & Tatjana A Nazir. 1999. Lateral masking: Limitations of the feature interaction account. Perception & Psychophysics 61.1: 177-89. http://dx.doi.org/10.3758/BF03211958
 * Roberts, David. 2009. Visual Crowding and the tone orthography of African languages. Written Language & Literacy 12.1: 140-55. http://dx.doi.org/10.1075/wll.12.1.07rob
 
 
