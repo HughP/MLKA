@@ -75,7 +75,7 @@ For data from both Wikipedia and the various copies of the book of James the fol
 
 4. Each file was inspected visually to determine if it was appropriately cleaned. Any glaring anomalies were removed manually and noted.
 5. The text was counted with UnicodeCCount. A table was formed from the output of UnicodeCCount.
-6. Word counts were considered based on the number of occurances of <U+000A> ''.
+6. Word counts were considered based on the number of occurances of <U+0020> ''.
 7. A mapping (of Unicode characters to ISO 9555 key positions) of the target keyboard was produced.
 8. A mapping of Unicode characters to QWERTY key equivalents was produced.
 9. A manual search and replace was done to create a QWERTY equivalent model.

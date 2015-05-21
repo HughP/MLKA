@@ -1,0 +1,16 @@
+This is some file
+
+Case 1: é --> ;e
+Case 2: éé --> ;e1;e1
+Case 3: - --> --
+Case 4: ! --> !!
+Case 5: ' --> ''
+Case 5: ; --> ;;
+Case 6: ọ --> ;o
+Case 7: ụ --> ;u
+Case 8: Ọ --> ;O
+Case 9: ẹ --> ;e
+Case 10: ị --> ;i
+Case 11: á --> 'a
+Case 12: Ụ --> ;U
+
