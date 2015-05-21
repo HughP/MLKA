@@ -11,12 +11,12 @@
 4. [`/Wikipedia extracted Text`](Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Wikipedia%20extracted%20Text)
  * The text of the Navajo Wikipedia used as a corpus and associated files.
 5. [`TecKit Stuff`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/TecKit%20Stuff)
- * This is the scripts and transform files used to create various kinds of counts for the Navajo texts with TecKit
+ * This is the scripts and transform files used to create various kinds of counts for the Navajo texts with TecKit.
 
 ##Brief on the Phonology and Orthography
 
-This summary is sourced and summarized from the following resources:
-* Channessian, Sirarpi, et al. 1969. _Confrence on Navajo Orthography_. Washington, D.C., USA: Center for Applied Linguistics, Washington D.C. http://eric.ed.gov/?id=ED044668
+This phonology and orthography summary is sourced and summarized from the following resources:
+* Channessian, Sirarpi, et al. 1969. _Conference on Navajo Orthography_. Washington, D.C., USA: Center for Applied Linguistics, Washington D.C. http://eric.ed.gov/?id=ED044668
 * Holm, Wayne. 1971. _Grapheme and Unit Frequencies in Navajo_ (Navajo Reading Study Progress Report 12). Albuquerque, New Mexico: The University of New Mexico. http://eric.ed.gov/?id=ED059806
 * McDonough, Joyce. 2003. _The Navajo sound system_ (Studies in natural language and linguistic theory 55). Dordrecht; Boston: Kluwer Academic Publishers.
 * Wilson, Garth. 1994. _Conversational Navajo dictionary_, 3rd edn. Blanding, Utah: Conversational Navajo Publications.
@@ -39,10 +39,10 @@ In the above chart orthography "character sequences" or digraphs are shown relat
 | Upper Case | ' | B | C | D | G | H | J | K | L | Ł | M | N | S | T | W | X | Y | Z |
 | Lower Case | ' | b | c | d | g | h | j | k | l | ɬ | M | N | s | t | w | x | y | z |
 
-However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education curriculum in Navajo schools because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include borrowed graphemes because they are in part of the common communication system used by Navajo language users. We can see in the cases of the touch scrren keyboard layouts that infact ⟨ U,u ⟩ is added to the keyboard, but other characters like ⟨ V,v ⟩ are left off the keyboard. There are two posible non-exclusive interpretations for leaving borrowed graphemes on the mobile text entry solution: (1) certain designers prioritize some borrowed graphemes over others, (2) that some graphemes are left on the keyboard as residue based on the QWERTY design template used to create the Navajo text input layout.
+However, like many other languages which operate in bilingual contexts other typographical characters are sometimes used. For instance ⟨ V,v ⟩ is used in the term _Navajo_, and ⟨ U,u ⟩ is used in the term _Jesus_. Both of these terms are non-native terms and could be considered borrowings. Holm also notes the presence of borrowed graphemes in Navajo texts (1971:5). Specifically Holm mentions ⟨ F,f; P,p; Q,q; R,r; V,v ⟩. Holm further suggests that these borrowed graphemes should be a included in the education curriculum in Navajo schools because these graphemes are used to spell borrowed words which are in common use. For our purposes, in the analysis of typing, we should be prepared to include borrowed graphemes because they are in part of the common communication system used by Navajo language users. We can see in the cases of the touch screen keyboard layouts that in fact ⟨ U,u ⟩ is added to the keyboard, but other characters like ⟨ V,v ⟩ are left off the keyboard. There are two possible non-exclusive interpretations for leaving borrowed graphemes on the mobile text entry solution: (1) certain designers prioritize some borrowed graphemes over others, (2) that some graphemes are left on the keyboard as residue based on the QWERTY design template used to create the Navajo text input layout.
 
 ####Multi-width functional units (series of typographical characters which represent a single functional unit)
-A list of mutligraph consonants is provided to be consistent with the discussion of vowels provided later. 
+A list of multi-graph consonants is provided to be consistent with the discussion of vowels provided later. 
 
 * ⟨ ch, ch', dl, dz, gh, hw, k', kw, t', tɬ, tɬ', ts, ts', zh ⟩
 
