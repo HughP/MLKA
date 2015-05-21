@@ -10,6 +10,8 @@
  * The text of James used as a corpus and associated files.
 4. [`/Wikipedia extracted Text`](Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/Wikipedia%20extracted%20Text)
  * The text of the Navajo Wikipedia used as a corpus and associated files.
+5. [`TecKit Stuff`](/Publications/2015%20-%20Thesis/Data%20Used/1.%20USA%20Use%20Case/O.%20Navajo%20Text%20Sample/TecKit%20Stuff)
+ * This is the scripts and transform files used to create various kinds of counts for the Navajo texts with TecKit
 
 ##Brief on the Phonology and Orthography
 
