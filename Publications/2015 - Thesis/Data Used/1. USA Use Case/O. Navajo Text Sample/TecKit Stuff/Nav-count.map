@@ -24,7 +24,246 @@ pass( Unicode )
 UniClass  [CTL] = ( U+0000 .. U+001f )
 [CTL]	<>	[CTL]
 
-U+00E9 <> U+002C U+0065
+; test caes U+00E9 U+00E9 <> U+003B U+0065 U+0031 U+003B U+0065 U+0031
+; testcases U+00E9 <> U+002C U+0065
+
+
+; African language tests transforms to dumb quotes for ASCII processing
+
+; Whitespace Characters
+
+; Puntuation
+
+U+201C <> U+0022		; “ --> "
+U+201D <> U+0022		; ” --> "
+U+003E U+003E <> U+0022 ; >> --> "
+U+003C U+003C <> U+0022 ; << --> "
+U+0021 <> U+0021 U+0021 ; ! --> !!
+U+002D <> U+002D U+002D ; - --> --
+U+003B <> U+003B U+003B ; ; --> ;;
+
+U+0027 <> U+0027 U+0027 ; ' --> ''
+
+; Vowels with Diacritics
+
+U+0041 U+0300 <> U+0060 U+0041	; À --> `A
+U+0045 U+0300 <> U+0060 U+0045	; È --> `E
+U+0049 U+0300 <> U+0060 U+0049	; Ì --> `I
+U+004F U+0300 <> U+0060 U+004F	; Ò --> `O
+U+0055 U+0300 <> U+0060 U+0055	; Ù --> `U
+U+0061 U+0300 <> U+0060 U+0061	; à	--> `a
+U+0065 U+0300 <> U+0060 U+0065	; è --> `e
+U+0069 U+0300 <> U+0060 U+0069	; ì --> `i
+U+006F U+0300 <> U+0060 U+006F	; ò --> `o
+U+0075 U+0300 <> U+0060 U+0075	; ù --> `u
+; M
+; m
+; N
+; n
+
+U+0041 U+0301 <> U+0027 U+0041	; Á --> 'A
+U+0045 U+0301 <> U+0027 U+0045	; É --> 'E
+U+0049 U+0301 <> U+0027 U+0049	; Í --> 'I
+U+004F U+0301 <> U+0027 U+004F	; Ó --> 'O
+U+0055 U+0301 <> U+0027 U+0055	; Ú --> 'U
+U+0061 U+0301 <> U+0027 U+0061	; á --> 'a
+U+0065 U+0301 <> U+0027 U+0065	; é --> 'e
+U+0069 U+0301 <> U+0027 U+0069	; í --> 'i
+U+006F U+0301 <> U+0027 U+006F	; ó --> 'o
+U+0075 U+0301 <> U+0027 U+0075	; ú --> 'u
+
+; M
+; m
+; N
+; n
+
+; U+0061+0331	a̱	961
+; U+0041+0331	A̱	17
+
+; M
+; m
+; N
+; n
+
+; U+004F+0323+0300	Ọ̀	4
+
+U+0055 U+0304 <> U+002D U+0055	; Ū --> -U
+U+0061 U+0304 <> U+002D U+0061	; ā --> -a
+U+0069 U+0304 <> U+002D U+0069	; ī --> -i
+U+006F U+0304 <> U+002D U+0006	; ō --> -o
+U+0075 U+0304 <> U+002D U+0075	; ū --> -u
+
+U+0045 U+0323 <> U+003B	U+0045	; Ẹ --> ;E
+U+004F U+0323 <> U+003B	U+004F	; Ọ --> ;O
+U+0055 U+0323 <> U+003B U+0055	; Ụ --> ;U
+U+0065 U+0323 <> U+003B U+0065	; ẹ --> ;e
+U+0069 U+0323 <> U+003B U+0069	; ị --> ;i
+U+006F U+0323 <> U+003B U+006F	; ọ --> ;o
+U+0075+0323	ụ	499 ụ --> ;u
+
+; U+0061+0302	â	1
+
+; U+0065+0304	ē	99
+; U+0065+030C	ě	1
+; U+0065+0323+0300	ẹ̀	1
+; U+0065+0323+0301	ẹ́	1
+
+U+0069 U+0302 <> U+005E U+0069	; î --> ^i
+
+
+
+U+006F+0323+0300	ọ̀	5
+
+
+; Vowels Sans Diacritics
+U+0061 <> U+0061				; a --> a
+U+0065 <> U+0065				; e --> e
+U+0069 <> U+0069				; i --> i
+U+006F <> U+006F				; o --> o
+U+0075 <> U+0075				; u --> u
+
+
+U+0041 <> U+0041				; A --> A
+U+0045 <> U+0045				; E --> E
+U+0049 <> U+0049				; I --> I
+U+004F <> U+004F				; O --> O
+U+0055 <> U+0055 				; U --> U
+
+
+; Nasals
+U+004D <> U+004D	; M --> M
+U+004E <> U+004E	; N	--> N
+U+004E U+0300 <> U+0060 U+004E	; Ǹ --> `N
+U+004D U+0300 <> U+0060 U+004D	; --> `M
+
+ṅ --> !n
+ǹ --> `n
+
+U+006D	m	1961
+U+006D+0300	m̀	1
+U+006E	n	5396
+U+006E+0300	ǹ	1
+U+006E+0307	ṅ	7
+
+;Hooked Consonants
+
+U+018A <> U+003B U+0044	; Ɗ --> ;D
+U+0257 <> U+003B U+0064 ; ɗ --> ;d
+U+0253 <> U+003B U+0062 ; ɓ --> ;b
+U+0181 <> U+003B U+0042 ; Ɓ --> ;B
+U+00A3 <> U+003B U+004C ; £ --> ;L
+U+00B0 <> U+003B U+002A	; ° --> ;*
+U+014A <> U+003B U+004E	; Ŋ --> ;N
+U+014B <> U+003B U+006E	; n --> ;n
+U+018E <> U+003B U+0058 ; Ǝ --> ;X
+U+0198 <> U+003B 
+Ḿ
+M̄ N̄
+M̂ N̂
+M̌ Ň
+Ǹ
+M̋ N̋
+a ̋ e ̋ I ̋ ő ű ɑ ̋ m̋ n ̋ A̋ E̋ I ̋ Ő Ű
+MU+004D
+
+;store(Let2BMod)"chkmyzCGKMXY$?"      
+;store(ModLet)	"çɦƙɲƴʒÇɣƘƝƎƳ₦ʔ"
+
+; U+0198	Ƙ
+; U+0199	ƙ
+; U+019D	Ɲ
+; U+01B3	Ƴ
+; U+01B4	ƴ
+; U+0251	ɑ
+; U+0263	ɣ
+; U+0266	ɦ
+; U+0272	ɲ
+; U+0292	ʒ
+; U+0294	ʔ
+; U+201C	“
+; U+201D	”
+; U+20A6	₦
+
+U+0042	B	5
+U+0043	C	99
+U+0044	D	1
+U+0047	G	22
+U+0048	H	2
+U+004A	J	19
+U+004B	K	158
+U+004C	L	18
+U+0050	P	2
+U+0052	R	6
+U+0053	S	11
+U+0054	T	36
+U+0056	V	28
+U+0057	W	14
+U+0059	Y	24
+U+005A	Z	4
+U+0062	b	1850
+U+0062+0355	b͕	41
+U+0063	c	594
+U+0064	d	841
+U+0066	f	327
+U+0067	g	1838
+U+0068	h	2542
+U+006A	j	314
+U+006B	k	2854
+U+006C	l	1519
+U+0070	p	551
+U+0072	r	1367
+U+0073	s	1089
+U+0074	t	1301
+U+0076	v	224
+U+0077	w	1436
+U+0079	y	1730
+U+007A	z	325
+U+007C	|	6
+U+00A0	 	215
+
+; --> -e
+; --> 'e
+; --> ;u
+; --> `i
+; --> `a
+; --> `A
+; --> 'o
+; --> -a
+; --> &e
+; --> `m
+; --> ;E
+; --> `;O
+; --> Removed text in not on ezza (There was a short footnote from the original text in english which needed to be removed. It looked like a translation note.)
+; --> ;a
+; --> ;A
+; --> 'E
+; --> -u
+; --> -o
+; --> ^a
+; --> `E
+; --> -I
+; --> -O
+; --> gb
+
+
+;the following only need to be accounted for in the dot keyboard
+; c  	alpha receives tone 
+; c 	(This letter is provided for literacy work. A complete set of odd vowels is found in a different keyboard)
+; dk(acute) 	+ 'q'	> 'ɑ' U+0301
+; dk(mid) 	+ 'q'	> 'ɑ' U+0304 
+; dk(grave)	+ 'q'	> 'ɑ' U+0300 
+; dk(circum)	+ 'q'	> 'ɑ' U+0302
+; dk(caron)	+ 'q'	> 'ɑ' U+030C 
+; dk(downstep) + 'q'	> 'ɑ' U+030B 
+;                             
+;  c 	alpha is dotted and receives tone
+; dk(dotAcute)	+ 'q'	> 'ɑ' U+0301 U+0323
+; dk(dotMid)		+ 'q' 	> 'ɑ' U+0304 U+0323
+; dk(dotGrave)	+ 'q' 	> 'ɑ' U+0300 U+0323
+; dk(dotCircum)	+ 'q'	> 'ɑ' U+0302 U+0323
+; dk(dotCaron)	+ 'q'	> 'ɑ' U+030C U+0323
+; dk(dotDownstep) 	+ 'q'	> 'ɑ' U+030B U+0323
+
 
 ; 0x20	<>	U+0020	; space  --  space
 ; 0x21	<>	U+0021	; exclamation_mark  --  exclam = SILID 9016*

@@ -123,7 +123,7 @@ Each text was counted several ways. cleaned texts were first UnicodeCCount a per
 To create finger stroke counts characters with diacritics were treated as digraphs, replacing orthographic characters with the QWERTY keyboard equivalent. This allows for keyboard specific based analysis and visualization. It allows for optimization of location when maintaining the dead key combinations already used. However, this method does not optimize based on single orthographic character.
 
 ###African language data
-The following transformations were done manually on the african data.
+The following transformations were done manually on the african data. `Items in double quotes "" were not marked from paper notes. They need to be checked.`
 ```
 << --> "
 >> --> "
@@ -138,13 +138,13 @@ The following transformations were done manually on the african data.
 ị --> ;i
 á --> 'a
 Ụ --> ;U
- --> 'e
+"é" --> 'e
  --> ;u
- --> `i
+"ì" --> `i
 è --> `e
  --> -e
 ù --> `u
- --> `a
+"à"--> `a
 ī --> -i
 ò --> `o
 ì --> 'i
