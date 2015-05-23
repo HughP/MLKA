@@ -19,10 +19,7 @@ It is further divided up into three sections:
 
 2. Software stashed
 3. Software reviewed or links to other software solutions
-
-###Applications related keyboard analysis
-_This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
-[As a subsection here](/Methodology/applications-and-programs/ReferencesAndLinks.md)
+	* [Applications related keyboard analysis](/Methodology/applications-and-programs/ReferencesAndLinks.md) - the linked list of software includes items with some relevance to text input. For most every item mentioned a description of software is provided, including a list of various items used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 
 ##Images of keyboard layouts
 The folder [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts) contains a collection of images of various keyboard layouts.
