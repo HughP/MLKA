@@ -25,7 +25,7 @@ It is further divided up into three sections:
 The folder [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts) contains a collection of images of various keyboard layouts.
 
 ##Physical keyboard measurements
-The folder [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements) contains a collection of files and images which are part of Hugh Paterson's measurement of Apple keyboard. Those measurements and images are used in his work as a templatic bases for measurements.
+The folder [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements) contains a collection of files and images which are part of Hugh Paterson's measurement of [Apple Keyboard Model: A1314 MC184LL/B Wireless bluetooth keyboard](/Methodology/Physical-Keyboard-Measurements/ANSI-Keyboard-Measurements.md). Those measurements and images are used in his work as a templatic bases for measurements.
 
 ##Research Keyboards
 The folder [`/Research-Keyboards`](/Methodology/Research-Keyboards) contains files and information about the keyboards which have been investigated durring the course of this project.
