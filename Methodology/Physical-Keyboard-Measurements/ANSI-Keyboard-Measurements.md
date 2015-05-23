@@ -13,7 +13,7 @@ _These are x,y coordinates for the centers of the keys. Coordinates are on a mil
 00d = 12.5, 61.5
 00c = 14.0, 43.5
 00b = 
-00a = 25.5, 79.5 
+00a = 25.5, 7?.5 
 
 01e = 25.5, 79.5
 01d = 35.3, 61.5 
