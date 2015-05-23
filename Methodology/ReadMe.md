@@ -3,7 +3,6 @@
 ##Folders
 _This section (or folder) discusses and contains the tools used in this project and other projects in the assessment of the keyboard arrangement problem._
 
-
 1. [`/applications-and-programs`](/Methodology/applications-and-programs)
 2. [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts)
 3. [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements)
@@ -21,14 +20,24 @@ It is further divided up into three sections:
 2. Software stashed
 3. Software reviewed or links to other software solutions
 
-
 ###Applications related keyboard analysis
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 [As a subsection here](/Methodology/applications-and-programs/ReferencesAndLinks.md)
 
+##Images of keyboard layouts
+The folder [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts) contains a collection of images of various keyboard layouts.
 
+##Physical keyboard measurements
+The folder [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements) contains a collection of files and images which are part of Hugh Paterson's measurement of Apple keyboard. Those measurements and images are used in his work as a templatic bases for measurements.
+
+##Research Keyboards
+The folder [`/Research-Keyboards`](/Methodology/Research-Keyboards) contains files and information about the keyboards which have been investigated durring the course of this project.
+
+##Hardware and Software layout specs
+The folder [`/Hardware-and-Software-layout-specs`](/Methodology/Hardware-and-Software-layout-specs/) contains files and information about various hardware and software specs.
 ----
 
+#How and what to measure in the methodology
 ##Metrics and Measurements
 ###Metrics of keyboard analysis
 _This section considers the physical measurement of keyboards and the metrics of analyzing user behavior with those keyboard layouts._
