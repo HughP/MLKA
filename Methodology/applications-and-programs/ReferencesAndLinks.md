@@ -1,39 +1,20 @@
 #References and Links
-_These are refences and links about text input methods and digital writing. Included are links to technical discussions, technical specification, computer utilites for monitoring and evaluating text input, and descriptions about text input methods._
-
-##Buy a custom text input solution
-
-###Physical keyboards
-* a discussion about a custom input solution: http://boards.openpandora.org/topic/15403-pyra-keyboard-layout-requirement-analysis/page-2
-* http://www.wasdkeyboards.com/index.php/wasd-v2-105-key-iso-custom-mechanical-keyboard.html
-
-###Overlays and stikers
-* http://www.datacal.com/international-overlays.htm
-
-##Character and Word Counting
-_When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpra._ 
-###Word Counts
-* Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
-* http://www.javascriptkit.com/script/script2/countwords.shtml
-
-###Character Counts
-* Link to a list of Unicode classified characters listed as Other puntuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
-* Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
+_These are refences and links about text input methods and digital writing. Included are links to technical discussions, technical specification, computer utilities for monitoring and evaluating text input, and descriptions about text input methods._
 
 ##Resources for OSes
-_These links are to discussions and technical descriptions about text handling and text input methods as they are handeled in different operating systems._
+_These links are to discussions and technical descriptions about text handling and text input methods as they are handled in different operating systems._
 ###Android
 Key Character Map Files: https://source.android.com/devices/input/key-character-map-files.html
 http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html
 
 ###iOS
-Keyboard Managment: https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
+Keyboard Management: https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
 
 ###Linux
 Event Codes for Text Input https://www.kernel.org/doc/Documentation/input/event-codes.txt
 Keycodes, Keypress events, and Keyboard encoding: http://tronche.com/gui/x/xlib/input/keyboard-encoding.html
 Keyboard and mouse events: http://tronche.com/gui/x/xlib/events/keyboard-pointer/keyboard-pointer.html
-Keycodes in kernal: https://wiki.archlinux.org/index.php/Extra_keyboard_keys#Keycodes
+Keycodes in kernel: https://wiki.archlinux.org/index.php/Extra_keyboard_keys#Keycodes
 
 ###Twitter
 https://dev.twitter.com/overview/api/counting-characters
@@ -54,13 +35,13 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * https://github.com/deekayen/norman The Norman keyboard layout by David Norman is licensed under CC0 1.0 Universal, no copyright, public domain. http://normanlayout.info
 * https://github.com/district10/neo_keyboard_layout
 * https://github.com/kwhat/jnativehook Keyboard and Mouse listeners in Java
-* Philippines Keybard https://bitbucket.org/paninap/pnkl/
+* Philippines Keyboard https://bitbucket.org/paninap/pnkl/
 * http://www.faculty.virginia.edu/linganth/Program/Linguistics%20Software%20Tools%20Page.htm
  
 ###Android
 * **[Typing-Test](https://github.com/kotlyarovsa/Typing-Test)**: This is a program with several simple customizable tests, which calculate parameters of your typing: words and chars per minute, mistakes, error rate and etc.
 * **[Maxikeys](http://www.maxikeys.com/dead-keys.html)** is a Keyboard App for Android Phones whith a keyboard mapping layer. Commercial product: $3.50 for app and $1.30 for each keyboard.
-* [kasahorow-Keyboard-For-Android](https://github.com/eyedol/kasahorow-Keyboard-For-Android)
+* **[kasahorow-Keyboard-For-Android](https://github.com/eyedol/kasahorow-Keyboard-For-Android)**
 * [AnySoftKeyboard](http://anysoftkeyboard.github.io/):  All kinds of keyboards:
  * supporting lots of languages via external packages. E.g., English (QWERTY, DVORAK, AZERTY and Colemak), Hebrew, Russian, Arabic, Lao, Bulgarian, Swiss, German, Swedish, Spanish, Catalan, Belorussian, Portuguese, Ukrainian and many more
 * [O Keyboard](https://plus.google.com/u/1/108476491967142053511/about)
@@ -75,9 +56,9 @@ _These resources are a wide range of resources about a wide range of topics. Mos
 * **[JACKeyboard](http://jaredcrawford.org/JACKeyboard/Documentation/Classes/JACKeyboard.html)**
 * **[KeyboardLayouts for JACKeyboard](https://github.com/JaredCrawford/KeyboardLayouts)** Keyboard configuration JSON files for use with JACKeyboard.
 
-###UNIX (Meaning Linux or commandline Unix, inclusive of OS X)
+###UNIX (Meaning Linux or command line Unix, inclusive of OS X)
 ####Progressive Evolution of typing layouts
-_This series of software mathmatically looks for the best fit keyboard layout based on a text set._
+_This series of software mathematically looks for the best fit keyboard layout based on a text set._
 * **[Typing](https://github.com/michaeldickens/Typing)**: This is a program designed to efficiently optimize keyboard layouts, inspired by the work done by Peter Klausler. It uses a (relatively) friendly command-line interface to allow the user to customize a keyboard layout. This work is by Michael Dickens.
 * **[Keyboard Battle](https://github.com/bak/keyboard_battle)** compares the performance of keyboard layouts according to reach effort and alternation effort. Current state: code made temporarily hideous for speed benefit. 
 * **[KeyboardEvolve](http://sourceforge.net/projects/keyboardevolve/)**: A framework for evolving better keyboard layouts. This work is by Michael Capewell. **C++**
@@ -115,10 +96,14 @@ _The applications below may not be as refined as the ones above._
 * **[NPKeyboardLayoutGuide](https://github.com/Nodepad/NPKeyboardLayoutGuide)**: NPKeyboardLayoutGuide - iOS maybe?
 * https://github.com/lailsonbm/ABNT2-Layout
 * https://docs.cycling74.com/max7/maxobject/itoa
+
+* **[Ultra Character Map (for OS X)](http://www.x04studios.com/macapps.html)** - Access to Unicode Characters.
  
-**[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
+* **[Keyboard Layout Switcher](https://github.com/porqz/KeyboardLayoutSwitcher)**: Keyboard Layout Switcher (KLS) is plugin for Vim, which frees users from unnecessary actions.
 
 ####Keyboard Layouts
+* **[KeyLayoutMaker](http://scripts.sil.org/keylayoutmaker)**: Perl script to create Mac OS X keyboard layouts.
+* **[Unicode Keyboards for Mac OS](http://wordherd.com/keyboards/) - a collection of OS Keyboard scripts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
 * **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
 * **[LatinAmerican Keyboard Layout](https://github.com/edmz/latam_keyboard)** MacOSX LatinAmerican Keyboard Layout
@@ -178,38 +163,35 @@ _The applications below may not be as refined as the ones above._
 * **[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)**
 * **[Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)**
 
-##Games and other stuff
-* Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
+##Buy a custom text input solution
 
-##Sociology
-* Washington Post: [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/?wprss=rss_homepage)
-* BBC: [Will e-publishing help Africa switch on to reading?](http://www.bbc.com/news/world-africa-25141849)
-* The Language Documentation Crowd: [Digital Technology and Endangered Languages](http://www.thelanguagedocumentationcrowd.org/blog/2013/12/9/digital-technology-and-endangered-languages)
-* The Wall Street Journal: [Smartphones Are Reinventing—And Ditching—the Keyboard](http://www.wsj.com/articles/SB10001424127887324392804578358551800617098)
+###Physical keyboards
+* a discussion about a custom input solution: http://boards.openpandora.org/topic/15403-pyra-keyboard-layout-requirement-analysis/page-2
+* http://www.wasdkeyboards.com/index.php/wasd-v2-105-key-iso-custom-mechanical-keyboard.html
 
-###Digtal content on the web
-* [Digital Language Death](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077056) Academic article - _Of the approximately 7,000 languages spoken today, some 2,500 are generally considered endangered. Here we argue that this consensus figure vastly underestimates the danger of digital language death, in that less than 5% of all languages can still ascend to the digital realm. We present evidence of a massive die-off caused by the digital divide._
+###Overlays and stikers
+* http://www.datacal.com/international-overlays.htm
 
-##Actual Keyboards
+####Keyboard Stickers
+* http://www.4keyboard.com/xcode-keyboard-sticker-p-853.html
+* http://www.4keyboard.com/language-stickers-arabic-c-82_34.html
+* http://www.4keyboard.com/arabic-large-lettering-keyboard-sticker-p-351.html
+
 ###10 Finger keyboards
 * [Truly Ergonomic Mechanical Keyboard](https://www.trulyergonomic.com/store/products) [OpenFirmWare project](https://github.com/yurivkhan/teck/)
 * [Kinesis Keyboard](http://mindprod.com/bgloss/kinesis.html)
 * [Maltron Keyboards](http://mindprod.com/bgloss/maltron.html)
 * http://www.daskeyboard.com/
 * http://www.bestbuy.com/site/datacal-russian-and-english-bilingual-keyboard-black/7031056.p?id=1218824947707&skuId=7031056
-*  Datacal Bilingual - Keyboard - Japanese- http://www.amazon.com/DataCal-Japanese-English-Keyboard-Ergoguys/dp/B008AXH28C
+* Datacal Bilingual - Keyboard - Japanese- http://www.amazon.com/DataCal-Japanese-English-Keyboard-Ergoguys/dp/B008AXH28C
 * [TypeMatrix](http://www.typematrix.com/2030/features.php)
 * OpenHardware keyboard: https://github.com/technomancy/atreus
 
 ###Buy keytops
 * http://www.laptopkey.com/KeyboardKeys.php/Apple/Macbook%20Pro%20Retina%20Display%2015%20Inch/ME664LL~A
 
-###Keyboard Stickers
-* http://www.4keyboard.com/xcode-keyboard-sticker-p-853.html
-* http://www.4keyboard.com/language-stickers-arabic-c-82_34.html
-* http://www.4keyboard.com/arabic-large-lettering-keyboard-sticker-p-351.html
-
 ###Measurements Examples
+_This is an example of what a product description for a keyboard looks like._
 * http://www2.elecom.co.jp.e.gj.hp.transer.com/peripheral/full-keyboard/tk-fcm064whrs/
 
 ###Keypads
@@ -220,20 +202,19 @@ _The applications below may not be as refined as the ones above._
 ##Services
 * http://whatpulse.org/
 
-
-###Just a dump of links
+##Just a dump of links
 
 * Some tools and resources for character input by SIL: http://scripts.sil.org/inputtoollinks
-* KeyLayoutMaker: Perl script to create Mac OS X keyboard layouts: http://scripts.sil.org/keylayoutmaker
-* Unicode Keyboards for Mac OS: http://wordherd.com/keyboards/
 * Comparing Keyman and Microsoft Windows Keyboard Layout Creator: http://scripts.sil.org/KeymanVsMSKLC
 * Apple Developers Technical Note TN2056 Installable Keyboard Layouts: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
-* Ultra Character Map (for OS X): http://www.x04studios.com/macapps.html
 * https://gigaom.com/2004/11/03/text_entry_epip/
-* http://sangaline.com/blog/optimizing_for_swype/FITALY.html]
+* http://sangaline.com/blog/optimizing_for_swype/FITALY.html
 * The hold of the keyboard: The Troublesome Task of Rejiggering the Keyboard: http://web.archive.org/web/20090630115240/http://www.technewsworld.com/story/67444.html - Also as PDF
 
-####Games for typing:
+##Games and other stuff
+* Graph search, algorithmic optimization, and word games: How to program Ruzzle http://www.alexkorn.com/blog/author/admin/
+
+###Games for typing:
 * Type Fu is an app that will teach you how to type fast. The right way. On Mac, Linux, Windows and Chrome OS. http://type-fu.com/
 * Master your Mac’s keyboard: Keyboard & Aliens: http://www.x04studios.com/macapps.html
 * Typing Lessons online: https://typing.io/lessons

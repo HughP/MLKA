@@ -1,8 +1,17 @@
 #Methodology
+
+##Folders
 _This section (or folder) discusses and contains the tools used in this project and other projects in the assessment of the keyboard arrangement problem._
 
-##Software and Applications
-The folder Software and applications used contains software used to obtain the results in this project.
+
+1. [`/applications-and-programs`](/Methodology/applications-and-programs)
+2. [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts)
+3. [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements)
+4. [`/Research-Keyboards`](/Methodology/Research-Keyboards)
+5. [`/Hardware-and-Software-layout-specs`](/Methodology/Hardware-and-Software-layout-specs/)
+
+##Applications and programs
+The folder [`applications-and-programs`](/Methodology/applications-and-programs/) contains software used to obtain the results in this project.
 It is further divided up into three sections:
 
 1. Software used
@@ -16,6 +25,9 @@ It is further divided up into three sections:
 ###Applications related keyboard analysis
 _This section includes mostly a description of software used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located._
 [As a subsection here](/Methodology/applications-and-programs/ReferencesAndLinks.md)
+
+
+----
 
 ##Metrics and Measurements
 ###Metrics of keyboard analysis
@@ -58,7 +70,6 @@ A the keys were taped with scotch tape in the down position, a pice of see-thoug
 * Duncan, Joan & D. Ferguson. 1974. Keyboard Operating Posture and Symptoms in Operating. Ergonomics 17.5: 651-62.  <Accessed: 2013/07/02>. http://dx.doi.org/10.1080/00140137408931404
 * Terzuolo, C. A. & P. Viviani. 1980. Determinants and characteristics of motor patterns used for typing. Neuroscience 5.6: 1085-103. http://www.sciencedirect.com/science/article/pii/0306452280901888
 
-
 ####Measuring finger plunge
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
 * ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
@@ -71,6 +82,16 @@ The plunge (this might sometimes be called the "stroke", "action travel" or just
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
 
+###Character and Word Counting
+_When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpora._ 
+
+####Word Counts
+* Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
+* http://www.javascriptkit.com/script/script2/countwords.shtml
+
+####Character Counts
+* Link to a list of Unicode classified characters listed as Other punctuation: http://www.fileformat.info/info/unicode/category/Po/list.htm
+* Unicode Characters in the General Punctuation Block: http://www.fileformat.info/info/unicode/block/general_punctuation/list.htm
 
 ####Measuring Character Frequency
 _There are several tools for this. The following or some I have found._
@@ -90,6 +111,75 @@ _Several resources about character frequency._
 * http://www.letterfrequency.org/
 * http://norvig.com/mayzner.html
 
+###Digram counting
+
+Character counting and Digraph counting
+
+When looking up my situation on the web, it seems that [others have tried to get to the same solution](http://s13.zetaboards.com/Crypto/topic/6830966/1/). They have called it: _biliteral frequency count, which is a count not of single elements, each composed of two letters, but of pairs of elements, each composed of a single letter._
+
+####Inital inquerry
+_Does anyone have a script or tool for counting trigraphs (trigrams) and bigrams (digraphs)._
+_Here is what I am doing: I have a unicode text: xyz.txt I want to find out how many pairs of which characters are in the text._
+
+* 'aa' happens 15 times
+* 'at' happens 35 times 
+* 'fet' happens 12 times, etc.
+
+_Basically load text, count, return counts._
+
+_**I am working on OS X**, command line tools (perl/python) **with explanation** are also of interest._
+
+####Second Clarification
+_Given some other replies I re qualified my statements with the following._
+
+I don't already know what the matches are. It seems with your solution you are suggesting that I already know what the possibilities are, and can use that regex to search for those possibilities. In my case this is not the situation.
+
+For instance I may have text string 'aaab'. However the actual text being used is arbitrary and in a sense unknown (as I am not making assumptions about the orthography or co-occurrences - I really am looking at digrams not digraphs in the orthography sense). Of course my text is much longer, and I actually have about 6 different texts I am working with. 
+
+Given the 'aaab' string mentioned above that would mean that I have: 
+
+#####Digrams
+* 'aa' three times
+* 'ab' one time
+
+#####Trigrams
+* 'aaa' one time
+* 'aab' one time
+
+Given the text 'aaab bbbc ab' I would expect that there would be the following treatment of the space character:
+
+#####Digrams
+* 'aa' three times
+* 'ab' two times
+* 'bb' three times
+* 'bc' one time
+* ' b' one time
+* 'b ' one time
+* ' a' one time
+* 'c ' one time
+
+#####Trigrams
+* 'aaa' three times
+* 'aab' one time
+* ' bb' one time
+* 'b b' one time
+* 'bbb' one time
+* 'bbc' one time
+* ' ab' one time
+
+####Yet one more clarification
+I should clarify four things:
+
+1. PUA is not an issue in my case.
+2. The attribute is for the character in the digram/trigram is unimportant (it can be alphabetic or numeric or punctuation)
+3. For this case Upper case and Lower case need to be differentiated the use of 'lower()' is not an option.
+4. Alphabetical ordering of results is not necessary.
+
+_Non-viable solutions_: PrimerPro, Synphony, FLEx, Phonology Assistant 
+
+Reason:
+
+I am looking at graphemic relations (neighborhood) not phonological relationships or phonemes being represented by a pair of orthographic characters.
 
 
 ###Notes and formulas from academic papers on text input
