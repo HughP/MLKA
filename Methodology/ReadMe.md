@@ -57,12 +57,12 @@ For the center points in my diagrams and in my numbers these were computed in th
 A the keys were taped with scotch tape in the down position, a pice of see-though graph paper was lain out over the keyboard and the key position was traced over the keys. The center point for the keys on the left side was computed my drawing perpendicular lines though the corner points of the keys. The stencil measurements were replicated in OmniGraffle. OmniGraffle is used to create the spacing lines and various diagrams of keyboard layouts.
 ![Keyboard Centers](/Methodology/Images/Apple-QWERTY-with-crosses.jpg)
 
-####Measureing finger travel distance
+####Measuring finger travel distance
 * http://patorjk.com/blog/2009/07/12/typing-distance/
 * http://colemak.com/Compare
 * See this too: https://github.com/michaeldickens/Typing/issues/18
 
-####Weighted assesments
+####Weighted assessments
 * https://github.com/michaeldickens/Typing/blob/master/doc/Fitness
 * https://github.com/michaeldickens/Typing#adding-your-own-physical-keyboard
 * http://minuum.com/model-your-users-algorithms-behind-the-minuum-keyboard/
@@ -84,7 +84,7 @@ A the keys were taped with scotch tape in the down position, a pice of see-thoug
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
 * ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
 
-####Measuring key seperation spacing (vertical and horizontal)
+####Measuring key separation spacing (vertical and horizontal)
 * Pereira, Anna, et al. 2013. The Effect of Keyboard Key Spacing on Typing Speed, Error, Usability, and Biomechanics: Part 1. Human Factors: The Journal of the Human Factors and Ergonomics Society 55.3: 557-66. http://hfs.sagepub.com/content/55/3/557.abstract
 * Pereira, Anna, Chih-Ming Hsieh, Charles Laroche & David Rempel. 2014. The Effect of Keyboard Key Spacing on Typing Speed, Error, Usability, and Biomechanics, Part 2: Vertical Spacing. Human Factors: The Journal of the Human Factors and Ergonomics Society 56.4: 752-9. http://hfs.sagepub.com/content/56/4/752.abstract
 
@@ -185,11 +185,62 @@ I should clarify four things:
 3. For this case Upper case and Lower case need to be differentiated the use of 'lower()' is not an option.
 4. Alphabetical ordering of results is not necessary.
 
-_Non-viable solutions_: PrimerPro, Synphony, FLEx, Phonology Assistant 
+_Non-viable solutions_: PrimerPro, Symphony, FLEx, Phonology Assistant 
 
 Reason:
 
 I am looking at graphemic relations (neighborhood) not phonological relationships or phonemes being represented by a pair of orthographic characters.
+
+###Metrics of the activity of typing
+
+####Stats to evaluate the typing activity
+This inclueds several of the above mentioned items including travel distance.
+
+Michael Dickens uses the following metrics (See [fitness.txt](https://github.com/michaeldickens/Typing/blob/master/doc/Fitness) for more clarification):
+* Hands: for balance 
+* Fingers: for finger load
+* Fitness: ???
+* Distance: ???
+* Finger work: ???
+* Inward Rolls: Where the first key hit is on the outside of the keyboard but the second key hit is on the inside (These key need not be concurrently located but must occur in the same row.)
+* Outward Rolls: Where the first key hit is on the inside of the keyboard but the second key hit is on the outside (These key need not be concurrently located but must occur in the same row.)
+* Same hand: Is a measurement where the same hand is is used to tap two consecutive keys
+* Same finger: Is a measurement where the same finger is is used to tap two consecutive keys
+* Row Change: ???
+* Home Jump: Is a measurement where the home row is jumped, where the first key is either on the top or the bottom but then the home row is jumped and the top or bottom row is used next. ??? does this assume the same finger is used?
+* Ring jump: ???
+* To center: ???
+* To outside: ???
+
+
+Hands: 42% 41%
+Fingers: 7.0% 8.0% 16% 12% 0.00% 18% 12% 11% 9.0% 7.0%
+
+    `  %  /  +  #   ^  <  >  {  }  Q
+ |  \  P  O  U  [   ]  D  L  C  W  @
+    I  N  E  A  *   M  H  T  S  R  X
+    &  K  =  Y  !   B  F  V  G  $  
+    ~ \t                     J  Z  
+                               \n SP
+
+    1  2  3  4  5   6  7  8  9  0  q
+ ;  .  p  o  u  -   "  d  l  c  w  :
+    i  n  e  a  ,   m  h  t  s  r  x
+    (  k  '  y  _   b  f  v  g  )  
+    ? \t                     j  z  
+                               \n SP
+Fitness: 51887480
+Distance: 77500
+Finger work: 67705
+Inward rolls: 6.56%
+Outward rolls: 1.54%
+Same hand: 42.23%
+Same finger: 1.51%
+Row change: 27.27%
+Home jump: 6.18%
+Ring jump: 1.76%
+To center: 3.42%
+To outside: 0.40%
 
 
 ###Notes and formulas from academic papers on text input
@@ -276,8 +327,6 @@ The following transformations were done manually on the african data. `Items in 
 Ǹ --> `N
 ṅ --> !n
  --> gb
-
-
 
 ```
 
