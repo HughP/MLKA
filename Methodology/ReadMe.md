@@ -89,6 +89,8 @@ The plunge (this might sometimes be called the "stroke", "action travel" or just
 * Nelson, John E., Delia E. Treaster & William S. Marras. 2000. Finger motion, wrist motion and tendon travel as a function of keyboard angles. Clinical Biomechanics 15.7: 489-98.
 * Effect on Operator Performance at Thin Profile Keyboard Slopes of 5°, 10°, 15°, and 25° http://pro.sagepub.com/content/26/5/430.short
 
+---
+
 ###Character and Word Counting
 _When counting characters it is important to count words, punctuation, and "letters" (characters representing segmental sounds). Character counting is important when working with corpora._ 
 
@@ -262,6 +264,7 @@ To outside: 0.40%
 * Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
 
 ##Text Processing
+More on character counts and text processing can be found in the notes on the (**Bash script**](/Publications/2015%20-%20Thesis/Data%20Used/bash%20script outline.txt ).
 Since we are not dealing with live user data, corpus texts were used and counted for generated key strokes.
 
 Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts acquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted. Diagrams of keyboards were created in OminGraffle
