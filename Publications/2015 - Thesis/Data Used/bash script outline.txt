@@ -16,7 +16,7 @@ ls *.txt > text-list.txt
 1. Collect texts from source.
 	a. Create date, time, source, and permissions metadata.
 	b. Create stated copy of text for reference.
-		i. give each text a consnstent first part in the name and a varried middle part and a consistnet last part. (ie. ori-James-NAV-text.txt)
+		i. give each text a consistent first part in the name and a varied middle part and a consistent last part. (i.e. ori-James-NAV-text.txt)
 	
 2. Collect keyboard layout files from source.
 	a. Create date, time, source metadata.
@@ -31,19 +31,19 @@ ls *.txt > text-list.txt
 	a. Run UnicodeCCount with the following flags and output them to a single new folder in the following ways:
 		i. -d
 			(1) as a .txt file (using '> CorpusName_InitialCount-d.txt')
-			(2) as a .md file where 'tab' is replaecd with "|" and "'" is escaped with "\"; at the top of the .md file add "## File name" in good typography (use spaces and sentence case).
+			(2) as a .md file where 'tab' is replaced with "|" and "'" is escaped with "\"; at the top of the .md file add "## File name" in good typography (use spaces and sentence case).
 		ii. -u
 		iii. -d -m
 		iv. -c
-		v. Create an additional concatniated version of the .md files; to top of concatination add "#Initial Corpus Counts"
+		v. Create an additional concatenated version of the .md files; to top of concatenation add "#Initial Corpus Counts"
 	b. List all characters used.
-		i.List all charcters used whch are not enabled via the keyboard layout for the language of the text (compare lists: 2.d.1.(2) with 3.a.iii).	
+		i.List all characters used which are not enabled via the keyboard layout for the language of the text (compare lists: 2.d.1.(2) with 3.a.iii).	
 
 4. Clean texts
 	a. Remove SFM Markers
 		i. Remove Verse #
 		ii. Remove Chapter #
-		iii. Remove Section headdings #
+		iii. Remove Section headings #
 		iv. Create stated copy of text for reference.	
 	b. Remove typesetting characters via TECkit
 		i. List characters to be removed. Example U+00A0 needs to be converted to U+0020.
@@ -58,14 +58,14 @@ ls *.txt > text-list.txt
 	a. Run UnicodeCCount on the stated copy of (4.b.iii) with the following flags and output them to a single new folder in the following ways:
 		i. -d
 			(1) as a .txt file (using '> CorpusName_SecondCount-d.txt')
-			(2) as a .md file where 'tab' is replaecd with "|" and "'" is escaped with "\"; at the top of the .md file add "## File name" in good typography (use spaces and sentence case).
+			(2) as a .md file where 'tab' is replaced with "|" and "'" is escaped with "\"; at the top of the .md file add "## File name" in good typography (use spaces and sentence case).
 		ii. -u
 		iii. -d -m
 		iv. -c
-		v. Create an additional concatniated version of the .md files; to top of concatination add "#Second Corpus Counts"
-		vi. Create an allined data presentation for -u of (3.a.ii) and (5.a.ii). Print this to .md format (per 3.a.ii).
+		v. Create an additional concatenated version of the .md files; to top of concatenation add "#Second Corpus Counts"
+		vi. Create an alined data presentation for -u of (3.a.ii) and (5.a.ii). Print this to .md format (per 3.a.ii).
 	b. List all characters used.
-		i.List all charcters used whch are not enabled via the keyboard layout for the language of the text. __(check this for what it is being compared to)__
+		i.List all characters used which are not enabled via the keyboard layout for the language of the text. __(check this for what it is being compared to)__
 
 6. Convert texts to NFD
 	a. Convert texts to NFD.
