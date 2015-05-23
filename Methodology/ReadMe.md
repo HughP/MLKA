@@ -264,7 +264,7 @@ To outside: 0.40%
 * Number of keys on the keyboard (ISO vs. ANSI vs. JIS)
 
 ##Text Processing
-More on character counts and text processing can be found in the notes on the (**Bash script**](/Publications/2015%20-%20Thesis/Data%20Used/bash%20script outline.txt ).
+More on character counts and text processing can be found in the notes on the [**Bash script**](/Publications/2015%20-%20Thesis/Data%20Used/bash%20script outline.txt ).
 Since we are not dealing with live user data, corpus texts were used and counted for generated key strokes.
 
 Each text was acquired form its source as indicated. Each text was cleaned as indicated. Often this meant removing Scripture format markings (SFM). SFM is a dialect of standard format marking. Chapter and verse numbers, section headings and chapter titles were also removed. This served to equate the texts on the bases of the content of the translated text. Titles were removed because not all texts acquired had titles. Copies of keyboard layouts used to produce the text were collected. An analysis of dead keys on each keyboard was conducted. Diagrams of keyboards were created in OminGraffle
