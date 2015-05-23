@@ -35,6 +35,7 @@ The folder [`/Research-Keyboards`](/Methodology/Research-Keyboards) contains fil
 
 ##Hardware and Software layout specs
 The folder [`/Hardware-and-Software-layout-specs`](/Methodology/Hardware-and-Software-layout-specs/) contains files and information about various hardware and software specs.
+
 ----
 
 #How and what to measure in the methodology
