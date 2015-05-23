@@ -68,26 +68,27 @@ For data from both Wikipedia and the various copies of the book of James the fol
 
 ####For Texts of the book of James
 1. Copies and permissions were obtained from various sources as indicated in the texts.
-2. Manual text clean up was conducted as indicated per text.
+2. Manual text clean up was conducted as indicated per text. This generally included removing SFM markers, chapter and verse numbers, and section headdings.
 3. A day of rest was had. Proceeded directly to step #4.
 
 ####For all texts
 
 4. Each file was inspected visually to determine if it was appropriately cleaned. Any glaring anomalies were removed manually and noted.
-5. The text was counted with UnicodeCCount. A table was formed from the output of UnicodeCCount.
+5. The text was counted with UnicodeCCount. Counting includes an NFC, an NFD, and a UnicodeCCount -d-m count. A table was formed from the output of each UnicodeCCount.
 6. Word counts were considered based on the number of occurances of <U+0020> ''.
-7. A mapping (of Unicode characters to ISO 9555 key positions) of the target keyboard was produced.
-8. A mapping of Unicode characters to QWERTY key equivalents was produced.
-9. A manual search and replace was done to create a QWERTY equivalent model.
-10. The text was processed with the xyz script from Matt Stave.
-11. The output from step #9 was fed to Michael Dickens' application to produce an example optimized keyboard layout.
-12. The output from step #9 was fed to Michael Dickens' application to evaluate the existing model keyboard layout.
-13. The output from step #9 was fed to heatmap.js script and an image was created of the whole text, and of the sample text.
-14. Total character count for the text was produced based on the counts of UnicodeCCount.
-15. Percentages were produced based on counts in step # 14.
-16. Distance traveled was computed based on Patrick's script.
-17. Cognitive disruption was computed.
-18. Average distance per word was computed for each text.
+7. Texts were converted to NFD for procssing with TecKit.
+8. A mapping (of Unicode characters to ISO 9555 key positions) of the target keyboard was produced.
+9. A mapping of Unicode characters to QWERTY key equivalents was produced.
+10. A TecKit search and replace was done to create a QWERTY equivalent model.
+11. The text was processed with the xyz script from Matt Stave.
+12. The output from step #9 was fed to Michael Dickens' application to produce an example optimized keyboard layout.
+13. The output from step #9 was fed to Michael Dickens' application to evaluate the existing model keyboard layout.
+14. The output from step #9 was fed to heatmap.js script and an image was created of the whole text, and of the sample text.
+15. Total character count for the text was produced based on the counts of UnicodeCCount.
+16. Percentages were produced based on counts in step # 14.
+17. Distance traveled was computed based on Patrick's script.
+18. Cognitive disruption was computed.
+19. Average distance per word was computed for each text.
 
 
 ##Various wikipedia stats
