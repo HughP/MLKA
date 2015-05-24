@@ -1,0 +1,23 @@
+metadata file for text.
+ not touch copy of text.
+ working copy of text.
+global Unicode to nfd mapping .map file.
+global unicode to nfd compiled mapping .tec file.
+
+Each text has intial count: -d, -u, -c, -d -m,-m (6 files)
+metadata file for keyboard.
+image of keyboard layout for layout..
+image of keyboard for heatmap.
+
+list of all characters supported by keyboard.
+.kmn file for keyboard
+.kmx file for keyboard
+.keylayout file for keyboard.
+ text description for keyboard.
+list of characters to be removed from text.
+.map file to support the removal of characters.
+
+.map file for each keyboard layout to transform the text to ASCII.
+.tec file for each keyboard layout to transform the text to ASCII.
+
+.map file 

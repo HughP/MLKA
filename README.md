@@ -32,7 +32,8 @@ _This repository contains the following folders with the resons they exists._
 2. [`/Academic-Papers`](/Academic-Papers)
 3. [`/Methodology`](/Methodology)
 4. [`/Theory`](/Theory)
-
+5. [`/Data-Processing`](/Data-Processing)
+6. [`/Wikipedia`](/Wikipedia) - Not currently synced due to size constraints imposed by github.
 
 ##Publications
 _The_ [`/Publications`](/Publications) _folder contains a list of publications created in the research process. Each subfold contains the data sets used to create those publications in addition to the text based materials for the publication (.pdf/.docx/Keynote slides, etc.)_
