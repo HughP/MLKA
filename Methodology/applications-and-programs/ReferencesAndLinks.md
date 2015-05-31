@@ -163,6 +163,7 @@ _The applications below may not be as refined as the ones above._
 * **[DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)**
 * **[Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)**
 * **[d3](http://stackoverflow.com/questions/15261447/how-do-i-capture-keystroke-events-in-d3-force-layout)** - Adding keyboard events to D3.
+ * Here is an example: https://gist.github.com/tmcw/4444952
 
 ##Buy a custom text input solution
 
