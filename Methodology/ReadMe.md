@@ -80,6 +80,7 @@ A the keys were taped with scotch tape in the down position, a pice of see-thoug
 ####Measuring finger plunge
 The plunge (this might sometimes be called the "stroke", "action travel" or just "action") that a key takes is supposed to be between 2mm and 4mm 
 * ISO 9241-4 says "The key displacement shall be between 1,5mm and 6,0mm. The preferred key displacement should be between 2,0mm and 4,0mm." The ISO key travel recommendations seem to be derived from a 1969 paper that recommended travel between 0.05 inches (1.3mm) and 0.25 inches (6.4mm): Kinkead, R. and B. Gonzales, Human Factors Design Recommendations for Touch-operated Keyboards. Final Report (Document 12091-FR), Minneapolis Honeywell, Inc., 1969. [Quoted from here](http://deskthority.net/posting.php?mode=quote&f=2&p=8936&sid=e2ced327e711e57474d617268e9d5600)
+* Apple filed for an interesting patent which discussed the plunge depth of a keyboard's keys: http://forums.appleinsider.com/t/186415/apples-multitouch-fusion-keyboard-invention-with-multitouch-keys-could-replace-touchpads
 
 ####Measuring key separation spacing (vertical and horizontal)
 * Pereira, Anna, et al. 2013. The Effect of Keyboard Key Spacing on Typing Speed, Error, Usability, and Biomechanics: Part 1. Human Factors: The Journal of the Human Factors and Ergonomics Society 55.3: 557-66. http://hfs.sagepub.com/content/55/3/557.abstract
