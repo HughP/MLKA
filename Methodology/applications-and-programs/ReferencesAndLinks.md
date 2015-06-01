@@ -21,6 +21,8 @@ https://dev.twitter.com/overview/api/counting-characters
 
 ###OS X
 * Key events: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/EventOverview/HandlingKeyEvents/HandlingKeyEvents.html
+  * http://web.archive.org/web/20100501161453/http://www.classicteck.com/rbarticles/mackeyboard.php
+  * $ `vi /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/Headers/Events.h` per http://stackoverflow.com/questions/3202629/where-can-i-find-a-list-of-mac-virtual-key-codes
 * .keylayout files: https://developer.apple.com/library/mac/technotes/tn2056/_index.html
 * Text Input Source Services Reference: https://developer.apple.com/library/mac/documentation/TextFonts/Reference/TextInputSourcesReference/
 
@@ -119,6 +121,11 @@ _The applications below may not be as refined as the ones above._
 * **[Keyboard Layout for German Accents on US Keyboards](https://github.com/janv/usgerman)**: OS X Keyboard Layout for German Accents on US Keyboards
 * **[Armenian Phonetic Keyboard Layout](https://github.com/vahe-evoyan/armenian-phonetic)**: Armenian phonetic keyboard layout for Mac OSX
 * **[osx-keyboard-layout-german-no-deadkeys](https://github.com/sebroeder/osx-keyboard-layout-german-no-deadkeys)**: A German OS X keyboard layout that eliminates deadkeys
+* **[Ukrainian-Russian](https://github.com/palmerc/Ukrainian-Russian)**
+* **[MathUnicode](https://johnwickerson.wordpress.com/2010/01/07/mathunicode-keyboard-layout/)**
+* **[Lebanese Keyboards](http://studylebanese.com/category/downloads/)**
+* **[colemak-qwerty](http://code.instructorium.com/colemak-qwerty/)** Needs moved to github.
+* **[Bepo - customized](https://github.com/mnapoli/bepo/)** French optimized keyboard
 
 ###Chrome
 * **[Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger)**: A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
@@ -136,6 +143,8 @@ _The applications below may not be as refined as the ones above._
 * **[keyboardLayoutOptimizer](https://github.com/keyboardDrummer/keyboardlayoutoptimizer)**: This application can search for optimal keyboard layouts. It combines two pieces of information to evaluate a given keyboard layout:
  * The first is a 'corpus', a body of text. This is the text that you want the keyboard layout to be optimal for.
  * The second input of the algorithm is your 'typing style', which is the time it takes you to press two particular keyboard positions in sequence.
+
+* **[A collection of MSKLC keyboards for Dinka, Neur, Ewe, Chollo](https://github.com/andjc/msklc)** - These are South Sudan languages.
 
 ###Firefox OS
 * https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia/Customizing_the_keyboard

@@ -6,10 +6,10 @@ _This is a list of applications and programs used accross the history of this te
 _Many of the texts received needed for one reason or another to be cleaned up or to have the values of the texts transposed into other values._
 This list of software contains the software I used to do this.
 
-Within this section there are several home-made or custom scripts these are outlined in the readme.md of the [`Text processing and counting`](/Methodology/applications-and-programs/Text-processing-and-counting)folder.
+Within this section there are several home-made or custom scripts these are outlined in the readme.md of the [`Text processing and counting`](/Methodology/Applications-and-programs/Text-processing-and-counting)folder.
 
 ##Fonts and diagram creating tools
-More details in the ReadMe.md of the [`Fonts and diagram creating tools`](/Methodology/applications-and-programs/Fonts-and-diagram-creating-tools) folder
+More details in the ReadMe.md of the [`Fonts and diagram creating tools`](/Methodology/Applications-and-programs/Fonts-and-diagram-creating-tools) folder
 
 ##Keyboard layout analysis
 _These are tools which take keyboard layouts in some manner and then do some sort of analysis on them._
@@ -23,7 +23,7 @@ The Keyboard layout analysis software is divided up into two basic parts:
 ###Software used and developed
  
 ####Software used
-Folder [`Used`](/Methodology/applications-and-programs/Used)
+Folder [`Used`](/Methodology/Applications-and-programs/Used)
  
 _Short explanation about each software piece stashed here and how it is used._
 

@@ -3,14 +3,14 @@
 ##Folders
 _This section (or folder) discusses and contains the tools used in this project and other projects in the assessment of the keyboard arrangement problem._
 
-1. [`/applications-and-programs`](/Methodology/applications-and-programs)
+1. [`/Applications-and-programs`](/Methodology/Applications-and-programs)
 2. [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts)
 3. [`/Physical-Keyboard-Measurements`](/Methodology/Physical-Keyboard-Measurements)
 4. [`/Research-Keyboards`](/Methodology/Research-Keyboards)
 5. [`/Hardware-and-Software-layout-specs`](/Methodology/Hardware-and-Software-layout-specs/)
 
 ##Applications and programs
-The folder [`/applications-and-programs`](/Methodology/applications-and-programs/) contains software used to obtain the results in this project.
+The folder [`/Applications-and-programs`](/Methodology/Applications-and-programs/) contains software used to obtain the results in this project.
 It is further divided up into three sections:
 
 1. Software used
@@ -19,7 +19,7 @@ It is further divided up into three sections:
 
 2. Software stashed
 3. Software reviewed or links to other software solutions
-	* [Applications related keyboard analysis](/Methodology/applications-and-programs/ReferencesAndLinks.md) - the linked list of software includes items with some relevance to text input. For most every item mentioned a description of software is provided, including a list of various items used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located.
+	* [Applications related keyboard analysis](/Methodology/Applications-and-programs/ReferencesAndLinks.md) - the linked list of software includes items with some relevance to text input. For most every item mentioned a description of software is provided, including a list of various items used in various keyboard layout experiments. It also includes where possible a copy of the software and a link to where it was originally located.
 
 ##Images of keyboard layouts
 The folder [`/Images-of-keyboard-layouts`](/Methodology/Images-of-keyboard-layouts) contains a collection of images of various keyboard layouts.
