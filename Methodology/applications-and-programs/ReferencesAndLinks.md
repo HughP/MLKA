@@ -105,7 +105,7 @@ _The applications below may not be as refined as the ones above._
 
 ####Keyboard Layouts
 * **[KeyLayoutMaker](http://scripts.sil.org/keylayoutmaker)**: Perl script to create Mac OS X keyboard layouts.
-* **[Unicode Keyboards for Mac OS](http://wordherd.com/keyboards/) - a collection of OS Keyboard scripts
+* **[Unicode Keyboards for Mac OS](http://wordherd.com/keyboards/)** - a collection of OS Keyboard scripts
 * **[Mongolian Keyboard layout](https://github.com/buyaka/MonKeyboard)**: Mongolian Keyboard layout for the Mac OSX
 * **[COLEMAK Layout](https://github.com/sergio/KeyboardLayouts)** for OS X
 * **[LatinAmerican Keyboard Layout](https://github.com/edmz/latam_keyboard)** MacOSX LatinAmerican Keyboard Layout
@@ -126,6 +126,7 @@ _The applications below may not be as refined as the ones above._
 * **[Lebanese Keyboards](http://studylebanese.com/category/downloads/)**
 * **[colemak-qwerty](http://code.instructorium.com/colemak-qwerty/)** Needs moved to github.
 * **[Bepo - customized](https://github.com/mnapoli/bepo/)** French optimized keyboard
+* **[Ethiopic Keyboards](http://keyboards.ethiopic.org/)** - Mostly in Keyman files.
 
 ###Chrome
 * **[Personal Keystroke Archival System For Pandas (Not A Keylogger)](https://github.com/aslaugsollilja/PersonalKeystrokeArchivalSystemForPandasNotAKeylogger)**: A Chromium extension that sends all keystrokes to an online service, where they are logged and can later be accessed by the user. 
