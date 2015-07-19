@@ -1,0 +1,46 @@
+Front Matter
+	Toc
+	Abstract
+
+I. Introduction (3-7 pgs)
+
+---- Sketch of domain + subdomain
+--- Lit and previous work
+WHAT I WANT TO CONTRIBUTE TO THE DISCUSSION
+
+I.I
+???
+
+II. Things I am taking for granted and not dealing with
+1. Phonology
+2. Orthography
+3. Unicode writing system and character model
+4. Functional Load
+-- Measuring distance/effort
+-- Shannons Theorem / Fitts law
+-- Functional load
+-- Disruption factor
+
+5. Complexity 
+-- Defining complexity
+-- Measuring Complexity
+6. Social pressure - LWC
+
+
+III.
+
+Thesis contribution: what I am bringing to the table and revising in previous work
+Accounting for:
+	* Dead Keys
+	* Diacritics
+	* Capitals
+This will create a fitness score for keyboards which account or orthographic and phonological knowledge
+
+IV. Applications
+	* Make examples from Navajo
+
+V. Conclusion
+
+Appendix
+Bibliography
+
