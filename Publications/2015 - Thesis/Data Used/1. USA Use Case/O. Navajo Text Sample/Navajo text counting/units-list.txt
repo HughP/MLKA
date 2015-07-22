@@ -1,0 +1,144 @@
+# Navaho list of functional units and their phonetic values.
+# From wikipedia: https://en.wikipedia.org/wiki/Navajo_language#Orthography :: An apostrophe (ʼ) is used to mark ejective consonants (e.g. chʼ, tłʼ)[94] as well as mid-word or final glottal stops. However, initial glottal stops are usually not marked.[42] The voiceless glottal fricative (/h/) is normally written as h, but appears as x after the consonants s, z, and digraphs ending in h to avoid phonological ambiguity.[94][95] The voiced velar fricative is written as y before i and e (where it is palatalized /ʝ/), as w before o (where it is labialized /ɣʷ/), and as gh before a.[96]
+# the phonome // = wo, yi, ye, gha
+# the phoneme /h/ = h, sx, zx, hx
+
+ch', tʃʼ
+ch, tʃʰ
+zh, ʒ
+sh, ʃ
+gh, ɣ
+g, k
+hw, xʷ
+m, m
+ń, ń
+n, n
+y, j
+j, tʃ
+b, p
+dz, ts
+dl, tˡ
+k', k'
+kw, kxʷ
+t', t'
+tɬ', tɬʼ
+tɬ, tɬʰ
+ts', tsʼ
+ts, tsʰ
+d, t
+k, kx
+t, tx
+s, s
+w, w
+ɬ, ɬ
+l, l
+', ʔ
+z, z
+ą́ą́h,
+ą́ąh,
+ąą́h,
+ąąh,
+ááh,
+áah,
+aáh,
+aah,
+ę́ę́h,
+ę́ęh,
+ęę́h,
+ęęh,
+ééh,
+éeh,
+eéh,
+eeh,
+į́į́h,
+į́įh,
+įį́h,
+įįh,
+ííh,
+íih,
+iíh,
+iih,
+ǫ́ǫ́h,
+ǫ́ǫh,
+ǫǫ́h,
+ǫǫh,
+óóh,
+óoh,
+oóh,
+ooh,
+aih,
+aoh,
+eih,
+oih,
+ioh,
+ą́h,
+áh,
+ąh,
+ah,
+ę́h,
+éh,
+ęh,
+ęh,
+į́h,
+įh,
+íh,
+ih,
+ǫ́h,
+ǫh,
+óh,
+oh,
+x, h
+h, h/x
+ą́ą́,
+ą́ą,
+ąą́,
+ąą,
+áá,
+áa,
+aá,
+aa,
+ę́ę́,
+ę́ę,
+ęę́,
+ęę,
+éé,
+ée,
+eé,
+ee,
+į́į́,
+į́į,
+įį́,
+įį,
+íí,
+íi,
+ií,
+ii,
+ǫ́ǫ́,
+ǫ́ǫ,
+ǫǫ́,
+ǫǫ,
+óó,
+óo,
+oó,
+oo,
+ai,
+ao,
+ei,
+oi,
+io,
+ą́,
+á,
+ą,
+a,
+ę́,
+é,
+ę,
+ę,
+į́,
+į,
+í,
+i,
+ǫ́,
+ǫ,
+ó,
+o,
