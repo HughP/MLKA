@@ -1,5 +1,5 @@
-# MLKA
-##Multi-Lingual Keyboard Assessment
+ # MLKA
+ ## Multi-Lingual Keyboard Assessment
 _This repo contains some code and some theory for the assessment and comparison of keyboards in multiple languages. The multi lingual nature of the perspective in this repo sets it apart from many other projects._
 
 ####Project goals
